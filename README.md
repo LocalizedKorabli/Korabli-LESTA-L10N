@@ -14,7 +14,7 @@
 2. 下载该发布版本下的global.mo文件。
 3. 打开战舰世界安装目录下的bin文件夹，找到该文件夹下以数字命名且数值最大的一个或两个（若存在）文件夹：
 4. 分别打开这些文件夹下的res\locale_config.xml，将“<lang acceptLang="ru" egs="ru" fonts="RU" full="russian" languageBar="false" localeRfcName="ru" short="ru"/>”这一行改成“<lang acceptLang="ru" egs="ru" fonts="CN" full="russian" languageBar="false" localeRfcName="ru" short="ru"/>”
-5. 若您不方便操作第4步，可以下载本仓库提供的快捷程序到第3步的数字文件夹下的res文件夹，运行即可完成操作。
+5. 若您不方便操作第4步，可以下载本仓库提供的[快捷程序](https://github.com/Nova-Committee/Korabli-LESTA-L10N/releases/download/modify_locale_config/modify_locale_cfg.exe)到第3步的数字文件夹下的res文件夹，运行即可完成操作。
 6. 分别打开这些文件夹下的res\texts\ru\LC_MESSAGES文件夹，将其中的global.mo文件备份后，用第2步下载的新global.mo文件覆盖。
 7. 启动游戏。
 
