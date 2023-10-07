@@ -1,1 +1,0 @@
-# Korabli-LESTA-L10N
