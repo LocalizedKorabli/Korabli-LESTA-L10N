@@ -1,0 +1,913 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_PRORYV"
+msgstr "Победить в турнире «Прорыв»."
+
+msgid "IDS_ACHIEVEMENT_PRORYV"
+msgstr "Прорыв"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "Можно получить японских жетонов"
+
+msgid "IDS_CHERNOMOR"
+msgstr "Черномор"
+
+msgid "IDS_DESCRIPTION_PCZA034_SCARLET_BIRTHDAY"
+msgstr ""
+"После окончания Второй мировой войны все страны мира объединили усилия для развития технологий. Человечество в короткие сроки добилось невероятного прогресса в робототехнике, освоении космоса и разработке искусственного интеллекта.\n"
+"\n"
+"Благодаря созданию ИИ «Мудрость» в 1962 г. был сгенерирован «Протокол дружбы» — свод мировых законов, который позволил человечеству процветать в мире и согласии.\n"
+"\n"
+"К 1970 г. было построено восемь международных морских комплексов, самым продвинутым и высокотехнологичным из которых стал МК-8.\n"
+"\n"
+"Прогресс, как известно, не стоит на месте, поэтому ведущие инженеры занялись разработкой следующего крайне амбициозного проекта — Интернациональной космической эстакады (ИКЭ).\n"
+"\n"
+"Ввод в эксплуатацию ИКЭ был намечен на 1983 г., но неожиданные события прервали строительство."
+
+msgid "IDS_DESCRIPTION_PCZA035_JAP_BB_DRAGONS"
+msgstr ""
+"Конец октября. Благословенный жемчуг, спрятанный в морской пучине, хранят "
+"три стража. Во власти бури, моряки сражаются со стихией — словно тигр, "
+"столкнувшийся в схватке с драконом. Их непременно ждёт победа."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTERACCURACY"
+msgstr ""
+"Увеличивает дальность и точность стрельбы главного калибра.\n"
+"\n"
+"Короткое время работы."
+
+msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTERACCURACY"
+msgstr "Корректировщик огня с высокоточной оптикой"
+
+msgid "IDS_DOGTAGS_EMBLEM_GROUP_TOURNAMENTS"
+msgstr "Турниры"
+
+msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_PRORUV"
+msgstr "Прорыв"
+
+msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_TSAR_MOREY"
+msgstr "Царь морей"
+
+msgid "IDS_DOGTAG_PCNB406_DESCRIPTION"
+msgstr ""
+"Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа "
+"соперничества и настоящего боевого товарищества."
+
+msgid "IDS_DOGTAG_PCNB406_NAME"
+msgstr "Прорыв"
+
+msgid "IDS_DOGTAG_PCNB407_DESCRIPTION"
+msgstr ""
+"И той стражи нет надёжней,\n"
+"Ни храбрее, ни прилежней.\n"
+"\n"
+"В честь турнира «Царь морей»."
+
+msgid "IDS_DOGTAG_PCNB407_NAME"
+msgstr "Черномор"
+
+msgid "IDS_DOGTAG_PCNB413_DESCRIPTION"
+msgstr ""
+"Сборник рассказов Эдуарда Овечкина посвящён учёбе в военно-морском училище "
+"и службе на подводной лодке ТК-20 (тип «Акула»). Рассказы описывают быт "
+"подводников на глубине и на суше."
+
+msgid "IDS_DOGTAG_PCNB413_NAME"
+msgstr "Акулы из стали"
+
+msgid "IDS_DOGTAG_PCNB414_DESCRIPTION"
+msgstr ""
+"На территории России проживает более 190 народов. Согласно переписи, "
+"о принадлежности к самым малочисленным из них заявили не более десяти "
+"человек, представители же других народов исчисляются миллионами."
+
+msgid "IDS_DOGTAG_PCNB414_NAME"
+msgstr "День народного единства"
+
+msgid "IDS_DOGTAG_PCNB415_DESCRIPTION"
+msgstr "Создаём миры, объединяем людей."
+
+msgid "IDS_DOGTAG_PCNB416_DESCRIPTION"
+msgstr "Легендарная танковая онлайн-игра."
+
+msgid "IDS_DOGTAG_PCNB416_NAME"
+msgstr "Мир танков"
+
+msgid "IDS_DOGTAG_PCNU106_DESCRIPTION"
+msgstr ""
+"Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа "
+"соперничества и настоящего боевого товарищества."
+
+msgid "IDS_DOGTAG_PCNU106_NAME"
+msgstr "Прорыв. Новичок"
+
+msgid "IDS_DOGTAG_PCNU107_DESCRIPTION"
+msgstr ""
+"Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа "
+"соперничества и настоящего боевого товарищества."
+
+msgid "IDS_DOGTAG_PCNU107_NAME"
+msgstr "Прорыв. Ветеран"
+
+msgid "IDS_DOGTAG_PCNU108_DESCRIPTION"
+msgstr ""
+"Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа "
+"соперничества и настоящего боевого товарищества."
+
+msgid "IDS_DOGTAG_PCNU108_NAME"
+msgstr "Прорыв. Элита"
+
+msgid "IDS_DOGTAG_PCNU109_DESCRIPTION"
+msgstr ""
+"Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа "
+"соперничества и настоящего боевого товарищества."
+
+msgid "IDS_DOGTAG_PCNU109_NAME"
+msgstr "Прорыв. Победитель"
+
+msgid "IDS_DOGTAG_PCNU110_DESCRIPTION"
+msgstr ""
+"Это самые престижные и захватывающие соревнования в «Мире кораблей». "
+"Масштабный турнир, организованный по инициативе самих игроков, в котором "
+"команды соревнуются в искусстве ведения боя и сражаются за звание лучших!"
+
+msgid "IDS_DOGTAG_PCNU110_NAME"
+msgstr "Царь морей. Новичок"
+
+msgid "IDS_DOGTAG_PCNU111_DESCRIPTION"
+msgstr ""
+"Это самые престижные и захватывающие соревнования в «Мире кораблей». "
+"Масштабный турнир, организованный по инициативе самих игроков, в котором "
+"команды соревнуются в искусстве ведения боя и сражаются за звание лучших!"
+
+msgid "IDS_DOGTAG_PCNU111_NAME"
+msgstr "Царь морей. Ветеран"
+
+msgid "IDS_DOGTAG_PCNU112_DESCRIPTION"
+msgstr ""
+"Это самые престижные и захватывающие соревнования в «Мире кораблей». "
+"Масштабный турнир, организованный по инициативе самих игроков, в котором "
+"команды соревнуются в искусстве ведения боя и сражаются за звание лучших!"
+
+msgid "IDS_DOGTAG_PCNU112_NAME"
+msgstr "Царь морей. Элита"
+
+msgid "IDS_DOGTAG_PCNU113_DESCRIPTION"
+msgstr ""
+"Это самые престижные и захватывающие соревнования в «Мире кораблей». "
+"Масштабный турнир, организованный по инициативе самих игроков, в котором "
+"команды соревнуются в искусстве ведения боя и сражаются за звание лучших!"
+
+msgid "IDS_DOGTAG_PCNU113_NAME"
+msgstr "Царь морей. Победитель"
+
+msgid "IDS_FEAT_BAD_ACOUSTICTORP_DAMAGE"
+msgstr "Торпеды с акустическим наведением наносят низкий урон"
+
+msgid "IDS_FEAT_BAD_ACOUSTICTORP_SPEED"
+msgstr "Низкая скорость хода торпед с акустическим наведением"
+
+msgid "IDS_FEAT_BAD_MOVE_SPEED_UNDERWATER"
+msgstr "Низкая скорость хода под водой"
+
+msgid "IDS_FEAT_BAD_SURFACESPEED"
+msgstr "Низкая скорость хода в надводном положении"
+
+msgid "IDS_FEAT_BAD_TORP_MANYFORETUBES"
+msgstr "Малое количество торпедных аппаратов в носовой группе"
+
+msgid "IDS_FEAT_CONSUMABLE_SPOTTERACCURACY"
+msgstr "Доступно снаряжение «Корректировщик огня с высокоточной оптикой»"
+
+msgid "IDS_FEAT_DEEPWATERTORP"
+msgstr "Глубоководные торпеды"
+
+msgid "IDS_FEAT_DEEPWATERTORP_BB_CV_DESC"
+msgstr ""
+"Имеют низкую заметность, наносят большой урон, поражают только линкоры "
+"и авианосцы."
+
+msgid "IDS_FEAT_GOOD_ALTTORPS_6"
+msgstr "Альтернативные торпеды доступны с VI уровня"
+
+msgid "IDS_FEAT_GOOD_ALTTORP_SPEED"
+msgstr "Высокая скорость хода альтернативных торпед"
+
+msgid "IDS_FEAT_GOOD_ALTTORP_VISIBILITY"
+msgstr "Низкая заметность альтернативных торпед"
+
+msgid "IDS_FEAT_GOOD_HAS_MAIN_GUNS"
+msgstr "Есть орудия главного калибра"
+
+msgid "IDS_FEAT_GOOD_MANYLOADERS"
+msgstr "Большое количество заряжающих"
+
+msgid "IDS_FEAT_GOOD_MOVE_SPEED_SURFACE"
+msgstr "Высокая скорость хода в надводном положении"
+
+msgid "IDS_FEAT_SUBMARINELOCATOR_GOODRANGE_PREPARATION_DESC"
+msgstr "Увеличена дальность действия, уменьшено время подготовки снаряжения."
+
+msgid "IDS_FIRST_SCARLET_BIRTHDAY_NAME"
+msgstr "«Мудростью» славна робототехника"
+
+msgid "IDS_FOURTH_SCARLET_BIRTHDAY_NAME"
+msgstr "Слава мировой науке!"
+
+msgid "IDS_KOSHEJ"
+msgstr "Кощей Бессмертный"
+
+msgid "IDS_MAIN_BONUSREPAIR_SUB_DESC"
+msgstr ""
+"Использование возможно только в надводном положении. При погружении "
+"оставшееся время работы снаряжения теряется."
+
+msgid "IDS_MAIN_CONSUMABLE_SPOTTERACCURACY"
+msgstr "Доступно снаряжение «Корректировщик огня с высокоточной оптикой»"
+
+msgid "IDS_MAIN_MOVE_SPEED_SURFACE_GOOD"
+msgstr "Высокая скорость хода в надводном положении"
+
+msgid "IDS_MAIN_TORPEDO_ACOUSTIC_RANGE_DAMAGE_BAD"
+msgstr "Малый урон и дальность хода торпед с акустическим наведением"
+
+msgid "IDS_MAIN_TORPEDO_ALT_RANGE_SPEED_GOOD"
+msgstr "Высокая скорость и большая дальность хода альтернативных торпед"
+
+msgid "IDS_PASA208_DESCR"
+msgstr ""
+"Первая серия авианосцев ВМС США специальной постройки. При ограниченных "
+"размерах отличались большой ударной мощью, высокой скоростью хода и хорошей "
+"для своего времени ПВО."
+
+msgid "IDS_PASA208_YEAR"
+msgstr "1937 г."
+
+msgid "IDS_PCEE632_USSR_SS_EA_FLAG"
+msgstr "Подводные лодки СССР"
+
+msgid "IDS_PCEE632_USSR_SS_EA_FLAG_DESCRIPTION"
+msgstr ""
+"В честь выхода подводных лодок СССР в ранний доступ в обновлении 12.8."
+
+msgid "IDS_PCEE633_PRORYV_FLAG"
+msgstr "Прорыв"
+
+msgid "IDS_PCEE633_PRORYV_FLAG_DESCRIPTION"
+msgstr ""
+"Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа "
+"соперничества и настоящего боевого товарищества."
+
+msgid "IDS_PCEE645_TSARMOREY2023_FLAG"
+msgstr "Черномор"
+
+msgid "IDS_PCEE645_TSARMOREY2023_FLAG_DESCRIPTION"
+msgstr ""
+"И той стражи нет надёжней,\n"
+"Ни храбрее, ни прилежней."
+
+msgid "IDS_PCEE645_TSARMOREY2023_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь турнира «Царь морей»."
+
+msgid "IDS_PCEE646_SHARK_OF_STEEL_FLAG"
+msgstr "Акулы из стали"
+
+msgid "IDS_PCEE646_SHARK_OF_STEEL_FLAG_DESCRIPTION"
+msgstr ""
+"Сборник рассказов Эдуарда Овечкина посвящён учёбе в военно-морском училище "
+"и службе на подводной лодке ТК-20 (тип «Акула»). Рассказы описывают быт "
+"подводников на глубине и на суше."
+
+msgid "IDS_PCZA034_SCARLET_BIRTHDAY"
+msgstr "Во имя прогресса!"
+
+msgid "IDS_PCZA034_SCARLET_BIRTHDAY_QUOTES"
+msgstr "«Во имя прогресса!»"
+
+msgid "IDS_PCZA035_JAP_BB_EA_DRAGONS"
+msgstr "Героическая схватка"
+
+msgid "IDS_PCZA035_JAP_BB_EA_DRAGONS_QUOTES"
+msgstr "«Героическая схватка»"
+
+msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1"
+msgstr "Робот САН-9I (Система автоматического наведения порядка, 9 поколение)"
+
+msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1_DESCRIPTION"
+msgstr ""
+"Робот САН-1 был разработан в интересах безопасности, но в ходе испытаний была установлена ошибка искусственного интеллекта. Она заставляла робота воспринимать выражение «обеспечение порядка» слишком буквально. Проект был заморожен.\n"
+"\n"
+"После принятия «Протокола дружбы» инженеры возобновили работу над проектом и решили обратить недостаток ИИ в преимущество.\n"
+"\n"
+"Спустя восемь обновлений свет увидел робот-уборщик САН-9I, который занял свое почётное место в каждом доме.\n"
+"\n"
+"Внимание! Не нажимайте на красную кнопку!"
+
+msgid "IDS_PCZC800_SCARLET_BIRTHDAY_1_2"
+msgstr "ПАЛ-4"
+
+msgid "IDS_PCZC800_SCARLET_BIRTHDAY_1_2_DESCRIPTION"
+msgstr ""
+"ПАЛ-4 — робот-курьер, который может доставлять грузы весом до 400 т. Кстати, на почти неограниченные расстояния.\n"
+"\n"
+"Благодаря его массовому и повсеместному использованию в кратчайшие сроки были построены все ныне существующие морские комплексы: от МК-1 до МК-8.\n"
+"\n"
+"Каждый из нас хотя бы раз пользовался услугами робота-курьера: будь то доставка цветов для дамы сердца или груз обогащённого урана для докторской диссертации."
+
+msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3"
+msgstr "Инженерный пиктограф"
+
+msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3_DESCRIPTION"
+msgstr ""
+"Передовые технологии позволили разработать уникальный прибор для хранения изображений. Будь то семейный архив, макросъёмка для исследований или снимок звёздного неба — благодаря нейросетевым интерфейсам изображения переносятся в устройство автоматически.\n"
+"\n"
+"Достаточно лишь слегка прищурить глаз с встроенным микрочипом, и вуаля — снимок сделан и загружен."
+
+msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4"
+msgstr "Опытный образец №3"
+
+msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4_DESCRIPTION"
+msgstr ""
+"Высокотехнологичное устройство, над созданием которого втайне трудился некий инженер НИИ МК-8. Информация о работе устройства, его назначение, а также имя создателя — засекречены.\n"
+"\n"
+"Поговаривают, что в последнее время устройство активировалось и отправляет закодированный сигнал неизвестному адресату."
+
+msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5"
+msgstr "Мобильный коммуникатор «Вестник»"
+
+msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5_DESCRIPTION"
+msgstr ""
+"Мобильный коммуникатор «Вестник» — современное и удобное средство оповещения граждан и поиска информации. Отличается не только умом и сообразительностью, но и большой встроенной базой данных. Теперь отправить весточку из Министерства прогресса стало ещё проще.\n"
+"\n"
+"«Вестник» — выбор современной молодёжи!"
+
+msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6"
+msgstr "Шлем «Подвиги первых»"
+
+msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6_DESCRIPTION"
+msgstr ""
+"Легендарный шлем, принадлежавший одному из героев, которые первыми ступили "
+"на красные равнины Марса. Оригинал в данный момент находится в музее "
+"Министерства прогресса и является предметом научного паломничества будущих "
+"космонавтов и астрофизиков. А вот копия — лучший подарок для юных дарований "
+"в честь окончания учёбы."
+
+msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1"
+msgstr "Михаил Орлов"
+
+msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1_DESCRIPTION"
+msgstr ""
+"Отважный, харизматичный и проницательный инспектор Министерства прогресса. Михаил Орлов стал всеобщим героем после событий на Интернациональной космической эстакаде.\n"
+"\n"
+"С детства зачитывался правильными книгами. Именно желание походить на любимых персонажей сделало инспектора любителем авантюр, который с азартом бросается в самое пекло событий, часто забывая о собственной безопасности.\n"
+"\n"
+"Для Михаила нет слова «невозможно». Его девиз: «Вижу цель, не вижу препятствий». Хотя, по правде говоря, есть то, чего инспектор никогда не сможет себе позволить — подвергнуть опасности других людей. «Сам погибай, а товарища выручай» — ещё одно его жизненное кредо."
+
+msgid "IDS_PCZC806_SCARLET_BIRTHDAY_2_2"
+msgstr "Антон Грант"
+
+msgid "IDS_PCZC806_SCARLET_BIRTHDAY_2_2_DESCRIPTION"
+msgstr ""
+"С виду этот чопорный и педантичный джентльмен может показаться не очень-то и дружелюбным. Подозрительный взгляд, сталь в голосе — всё это заставляет любого, кто не знаком с адмиралом, чувствовать себя не в своей тарелке.\n"
+"\n"
+"Прошедший не один конфликт адмирал Грант не раз вдохновлял людей на подвиги. Все, кто когда-либо участвовал в кампаниях с Грантом, с уверенностью могут сказать, что это не только превосходный командир, но и настоящий друг.\n"
+"\n"
+"«Манеры — лицо мужчины». Знаменитый адмирал помнит об этом даже на поле боя или после удара молотком по пальцу.\n"
+"\n"
+"Впрочем, за суровой внешностью скрывается весьма интересная личность. Оказывается, Антон Грант довольно неплохо играет на скрипке, а его воистину английские шутки покорили не одно девичье сердце."
+
+msgid "IDS_PCZC807_SCARLET_BIRTHDAY_2_3"
+msgstr "Робот ГМ-22Д"
+
+msgid "IDS_PCZC807_SCARLET_BIRTHDAY_2_3_DESCRIPTION"
+msgstr ""
+"Робот-инженер ГМ-22Д — одна из лучших разработок Министерства прогресса. Его продвинутый ИИ позволил реализовать сложнейшие морские комплексы.\n"
+"\n"
+"Благодаря своей обучаемости робот-инженер прекрасно осознаёт, что его способности значительно превосходят изначально заложенные программой, но за их рамки он не выходит. Во всяком случае, до тех пор, пока человечеству не будет грозить серьёзная опасность.\n"
+"\n"
+"Если убрать в сторону технические моменты, робот-инженер — это отличный собеседник, который иногда шутит настолько искромётно, что все вокруг падают со смеху. Или не со смеху, кто знает... Так или иначе, ГМ-22Д искренне желает всем только добра и всячески старается сделать мир лучше."
+
+msgid "IDS_PCZC808_SCARLET_BIRTHDAY_2_4"
+msgstr "Вэй Сонг"
+
+msgid "IDS_PCZC808_SCARLET_BIRTHDAY_2_4_DESCRIPTION"
+msgstr ""
+"Талантливая школьница, девочка-вундеркинд и победительница мировой олимпиады по робототехнике.\n"
+"\n"
+"Несмотря на юный возраст, получила приглашение на работу в Министерство прогресса, ввиду своих неординарных интеллектуальных способностей.\n"
+"\n"
+"Главная цель Вэй Сонг — усовершенствовать морские комплексы настолько, чтобы даже самый неподготовленный инженер мог управлять ими буквально одним рубильником. А пока талантливая школьница специализируется на роботах серии ГМ."
+
+msgid "IDS_PCZC809_SCARLET_BIRTHDAY_2_5"
+msgstr "Астра"
+
+msgid "IDS_PCZC809_SCARLET_BIRTHDAY_2_5_DESCRIPTION"
+msgstr ""
+"Собака-космонавт, сопровождавшая первых покорителей космоса в их походе к звёздам. За время, проведённое на орбите, стала для экипажа корабля верным другом и символом домашнего уюта. Астра обладает отличным чутьём, холодным носом, и, самое главное, — она очень умна. С первого раза поняла, что такое тангенциальный вращатель, а также кому и когда его нужно принести.\n"
+"\n"
+"Хорошая девочка."
+
+msgid "IDS_PCZC810_SCARLET_BIRTHDAY_2_6"
+msgstr "Аркадий Кулибин"
+
+msgid "IDS_PCZC810_SCARLET_BIRTHDAY_2_6_DESCRIPTION"
+msgstr ""
+"Гений, работяга, дамский угодник, филантроп... Аркадий Кулибин — фанат модных очков и стильной одежды. Но не обманывайтесь, с виду несерьёзный мужчина и любитель дискотек на деле — один из величайших умов современного человечества.\n"
+"\n"
+"Трудолюбивый и преданный науке, он вместе со своим другом и коллегой Борисом Веннером участвовал в создании искусственного интеллекта, который впоследствии получил название «Мудрость».\n"
+"\n"
+"В настоящее время Аркадий Кулибин возглавляет объединение НИИ МК. Под его руководством трудятся тысячи научных сотрудников, в числе которых робототехники, инженеры, молекулярные биологи, специалисты космической отрасли.\n"
+"\n"
+"Именно Кулибин разглядел талантливую девочку Вэй Сонг и дал ей билет в мир науки."
+
+msgid "IDS_PCZC811_SCARLET_BIRTHDAY_3_1"
+msgstr "Интернациональная космическая эстакада"
+
+msgid "IDS_PCZC811_SCARLET_BIRTHDAY_3_1_DESCRIPTION"
+msgstr ""
+"11 лет назад началась работа над грандиозным проектом — Интернациональной космической эстакадой.\n"
+"\n"
+"Величайшее сооружение в истории прогрессивного человечества стало результатом соединения смелой инженерной мысли человека и безграничных возможностей робототехники."
+
+msgid "IDS_PCZC812_SCARLET_BIRTHDAY_3_2"
+msgstr "Научно-исследовательский институт МК-8"
+
+msgid "IDS_PCZC812_SCARLET_BIRTHDAY_3_2_DESCRIPTION"
+msgstr ""
+"Самый совершенный и высокотехнологичный из всех ныне существующих НИИ, "
+"соединённый с искусственным островом. Именно здесь ведутся передовые "
+"исследования робототехники. Последний работоспособный НИИ во время вторжения"
+" флота роботокораблей. Благодаря его исследованиям был установлен источник "
+"радиопомех, исходящих от вражеского флота."
+
+msgid "IDS_PCZC813_SCARLET_BIRTHDAY_3_3"
+msgstr "Памятник «Навстречу Вселенной»"
+
+msgid "IDS_PCZC813_SCARLET_BIRTHDAY_3_3_DESCRIPTION"
+msgstr ""
+"Колоссальный шедевр, созданный усилиями и талантом десятков скульпторов со всех уголков Земли. Он увековечил в камне научные достижения человечества.\n"
+"\n"
+"Символизирует неутомимое стремление человечества к новым горизонтам!"
+
+msgid "IDS_PCZC814_SCARLET_BIRTHDAY_3_4"
+msgstr "Министерствo прогресса"
+
+msgid "IDS_PCZC814_SCARLET_BIRTHDAY_3_4_DESCRIPTION"
+msgstr ""
+"На территории Министерства не только определяются дальнейшие проекты человечества и вершатся судьбы инженерных проектов.\n"
+"\n"
+"Именно здесь в первые минуты после отключения всей инфраструктуры и отказа систем было созвано экстренное совещание для урегулирования кризиса.\n"
+"\n"
+"А ещё на территории Министерства прогресса есть музей робототехники, где достижения науки предстают перед посетителями во всей красе."
+
+msgid "IDS_PCZC815_SCARLET_BIRTHDAY_3_5"
+msgstr "Порт «Дружба»"
+
+msgid "IDS_PCZC815_SCARLET_BIRTHDAY_3_5_DESCRIPTION"
+msgstr ""
+"Морской порт, расположенный вблизи Интернациональной космической эстакады. "
+"Служит пристанищем для грузовых и торговых кораблей. Порт охраняется "
+"несколькими боевыми кораблями и по факту является неприступной крепостью. "
+"Гордость порта — великолепный «Алый гром», линкор, после переоснащения "
+"воплотивший в себе последние достижения робототехники."
+
+msgid "IDS_PCZC816_SCARLET_BIRTHDAY_3_6"
+msgstr "Мэймон"
+
+msgid "IDS_PCZC816_SCARLET_BIRTHDAY_3_6_DESCRIPTION"
+msgstr ""
+"Первый город, построенный на Марсе в рамках освоения планеты. Назван в честь колониста, который открыл способ выращивания картофеля в почве Красной планеты.\n"
+"\n"
+"Теперь, благодаря развитию современных технологий, каждый житель города обеспечен всем необходимым: свежей водой, едой и воздухом. В городе проживают учёные, которые покинули отчий дом и посвятили жизнь изучению пока что чуждой им планеты."
+
+msgid "IDS_PCZC817_SCARLET_BIRTHDAY_4_1"
+msgstr "Шлюп БАРС"
+
+msgid "IDS_PCZC817_SCARLET_BIRTHDAY_4_1_DESCRIPTION"
+msgstr ""
+"Шлюп БАРС (беспилотный автономный разведывательно-спасательный) был "
+"специально разработан для использования на линкоре «Алый гром». Управляемый "
+"ИИ шлюп выполняет задачи по спасению личного состава в случае различных "
+"аварий, а также используется для разведки и поиска потенциального "
+"противника."
+
+msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2"
+msgstr "Система ПВО «Закат»"
+
+msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2_DESCRIPTION"
+msgstr ""
+"Специально для «Алого грома» была разработана новейшая роботизированная система ПВО «Закат». Такое романтичное название выбрано неспроста: оно как бы намекает условному противнику, что этот «Закат» может стать для него последним.\n"
+"\n"
+"Система автоматического наведения на цель и использование плазменных зарядов в качестве боеприпасов позволяют линкору справиться с большинством противников."
+
+msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3"
+msgstr "В.А.Н.Ш.О.Т."
+
+msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3_DESCRIPTION"
+msgstr ""
+"Высокоэффективное автоматического наведения штатное орудие трёхпушечное — орудие главного калибра «Алого грома». Залп одной башни способен нанести урон, по силе сопоставимый с залпом всей батареи орудий линкоров времён Второй мировой войны.\n"
+"\n"
+"Орудия В.А.Н.Ш.О.Т. отлично показали себя при подавлении кризиса близ МК-8."
+
+msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4"
+msgstr "Система обнаружения противника ОКО"
+
+msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4_DESCRIPTION"
+msgstr ""
+"Не имеющее аналогов устройство обнаружения было разработано специально "
+"для модификации линкора «Алый гром». Проводя радиолокационный поиск "
+"с применением ИИ-анализатора, ОКО способно обнаружить противника "
+"на расстоянии до 400 км, а также на глубине до 10 км. Экипаж «Алого грома» "
+"по праву прозвал ОКО всевидящим."
+
+msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5"
+msgstr "Турбинный двигатель «Мощь»"
+
+msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5_DESCRIPTION"
+msgstr ""
+"Модернизация «Алого грома» затронула и его двигатели. Так, паровые машины и котлы были заменены на турбинные двигатели нового поколения «Мощь». Данный тип двигателя обеспечивает быстрый набор хода, а также увеличивает максимальную скорость корабля.\n"
+"\n"
+"Никто до конца не знает, насколько быстро может двигаться корабль, оборудованный «Мощью»."
+
+msgid "IDS_PCZC822_SCARLET_BIRTHDAY_4_6"
+msgstr "Детектор П.И.У."
+
+msgid "IDS_PCZC822_SCARLET_BIRTHDAY_4_6_DESCRIPTION"
+msgstr ""
+"Детектор попадания и уничтожения — новейшая система «Алого грома». Это "
+"оснащение фиксирует попадания по противнику и его полное уничтожение, после "
+"чего выдаёт специальную цветовую индикацию. Практической пользы не несёт, "
+"просто красивое."
+
+msgid "IDS_PCZC823_JAP_BB_EA_DRAGONS_PUZZLE_01"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC824_JAP_BB_EA_DRAGONS_PUZZLE_02"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC825_JAP_BB_EA_DRAGONS_PUZZLE_03"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC826_JAP_BB_EA_DRAGONS_PUZZLE_04"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC827_JAP_BB_EA_DRAGONS_PUZZLE_05"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC828_JAP_BB_EA_DRAGONS_PUZZLE_06"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC829_JAP_BB_EA_DRAGONS_PUZZLE_07"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC830_JAP_BB_EA_DRAGONS_PUZZLE_08"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC831_JAP_BB_EA_DRAGONS_PUZZLE_09"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC832_JAP_BB_EA_DRAGONS_PUZZLE_10"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC833_JAP_BB_EA_DRAGONS_PUZZLE_11"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC834_JAP_BB_EA_DRAGONS_PUZZLE_12"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC835_JAP_BB_EA_DRAGONS_PUZZLE_13"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC836_JAP_BB_EA_DRAGONS_PUZZLE_14"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC837_JAP_BB_EA_DRAGONS_PUZZLE_15"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC838_JAP_BB_EA_DRAGONS_PUZZLE_16"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC839_JAP_BB_EA_DRAGONS_PUZZLE_17"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC840_JAP_BB_EA_DRAGONS_PUZZLE_18"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC841_JAP_BB_EA_DRAGONS_PUZZLE_19"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC842_JAP_BB_EA_DRAGONS_PUZZLE_20"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC843_JAP_BB_EA_DRAGONS_PUZZLE_21"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC844_JAP_BB_EA_DRAGONS_PUZZLE_22"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC845_JAP_BB_EA_DRAGONS_PUZZLE_23"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC846_JAP_BB_EA_DRAGONS_PUZZLE_24"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC847_JAP_BB_EA_DRAGONS_PUZZLE_25"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC848_JAP_BB_EA_DRAGONS_PUZZLE_26"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC849_JAP_BB_EA_DRAGONS_PUZZLE_27"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC850_JAP_BB_EA_DRAGONS_PUZZLE_28"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC851_JAP_BB_EA_DRAGONS_PUZZLE_29"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC852_JAP_BB_EA_DRAGONS_PUZZLE_30"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC853_JAP_BB_EA_DRAGONS_PUZZLE_31"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC854_JAP_BB_EA_DRAGONS_PUZZLE_32"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC855_JAP_BB_EA_DRAGONS_PUZZLE_33"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC856_JAP_BB_EA_DRAGONS_PUZZLE_34"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC857_JAP_BB_EA_DRAGONS_PUZZLE_35"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC858_JAP_BB_EA_DRAGONS_PUZZLE_36"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC859_JAP_BB_EA_DRAGONS_PUZZLE_37"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC860_JAP_BB_EA_DRAGONS_PUZZLE_38"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC861_JAP_BB_EA_DRAGONS_PUZZLE_39"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC862_JAP_BB_EA_DRAGONS_PUZZLE_40"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC863_JAP_BB_EA_DRAGONS_PUZZLE_41"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC864_JAP_BB_EA_DRAGONS_PUZZLE_42"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC865_JAP_BB_EA_DRAGONS_PUZZLE_43"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC866_JAP_BB_EA_DRAGONS_PUZZLE_44"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC867_JAP_BB_EA_DRAGONS_PUZZLE_45"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC868_JAP_BB_EA_DRAGONS_PUZZLE_46"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC869_JAP_BB_EA_DRAGONS_PUZZLE_47"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC870_JAP_BB_EA_DRAGONS_PUZZLE_48"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC871_JAP_BB_EA_DRAGONS_PUZZLE_49"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC872_JAP_BB_EA_DRAGONS_PUZZLE_50"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC873_JAP_BB_EA_DRAGONS_PUZZLE_51"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC874_JAP_BB_EA_DRAGONS_PUZZLE_52"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC875_JAP_BB_EA_DRAGONS_PUZZLE_53"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC876_JAP_BB_EA_DRAGONS_PUZZLE_54"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC877_JAP_BB_EA_DRAGONS_PUZZLE_55"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC878_JAP_BB_EA_DRAGONS_PUZZLE_56"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC879_JAP_BB_EA_DRAGONS_PUZZLE_57"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC880_JAP_BB_EA_DRAGONS_PUZZLE_58"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC881_JAP_BB_EA_DRAGONS_PUZZLE_59"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PCZC882_JAP_BB_EA_DRAGONS_PUZZLE_60"
+msgstr "Фрагмент мозаики"
+
+msgid "IDS_PFAD901_ASW_T6"
+msgstr "Вr.521 Bizerte"
+
+msgid "IDS_PFAD904_ASW_T5"
+msgstr "Вr.521 Bizerte"
+
+msgid "IDS_PFAD907_ASW_T6_CV"
+msgstr "Вr.521 Bizerte"
+
+msgid "IDS_PGEP416_LEIPZIG"
+msgstr "Боевой трофей"
+
+msgid "IDS_PIES420_TSARMOREY2023"
+msgstr "Варяжская ладья"
+
+msgid "IDS_PIPA085_152MM_55_CS_FR_FERRUCCIO"
+msgstr "152-мм proiettili CS"
+
+msgid "IDS_PIPA086_152MM_55_AP_FR_FERRUCCIO"
+msgstr "152-мм proiettili AP"
+
+msgid "IDS_PIPT023_533_SI270_FR_FERRUCCIO"
+msgstr "533-мм Si 270"
+
+msgid "IDS_PIUA607_ART_FR_FERRUCCIO"
+msgstr "152-мм/55 Model 1934 в установке Model 1935"
+
+msgid "IDS_PIUE607_ENG_FR_FERRUCCIO"
+msgstr "ЭУ 110 000 л.с."
+
+msgid "IDS_PIUT606_TORP_FR_FERRUCCIO"
+msgstr "533-мм Si 270 M"
+
+msgid "IDS_PORT_TABLERUBY"
+msgstr "Наукоград"
+
+msgid "IDS_PORT_TABLERUBY_TOOLTIP"
+msgstr "Порт Наукоград"
+
+msgid "IDS_PREFERENCES_KEYBINDINGS_SUBTAB_ORPHANED_TOOLTIP"
+msgstr "Есть неназначенные клавиши."
+
+msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_AVIATION"
+msgstr "Авиация"
+
+msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_CHAT"
+msgstr "Общение"
+
+msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_SHIPS"
+msgstr "Корабли"
+
+msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_SPECTATOR"
+msgstr "Наблюдение за боем"
+
+msgid "IDS_PREFS_TAB_TOOLTIP_IS_ANY_COMMAND_UNASSIGNED"
+msgstr "В конфигурации команд присутствуют неназначенные клавиши."
+
+msgid "IDS_PRES700_K1_EA"
+msgstr "Образец отваги"
+
+msgid "IDS_PRES708_L20_EA"
+msgstr "Северный охотник"
+
+msgid "IDS_PRES718_S189_EA"
+msgstr "Триумфатор"
+
+msgid "IDS_PRGA089_25MM_4M120"
+msgstr "25 mm 110-PM（4М-120炮座）"
+
+msgid "IDS_PRGS182_120MM50_BARRELS_2_M1933"
+msgstr "120 mm/50 ОТО Model 1933（炮塔）"
+
+msgid "IDS_PRGS183_120MM50_BARRELS_2_M1933_RM2"
+msgstr "120 mm/50 ОТО Model 1933（炮塔）"
+
+msgid "IDS_PWGA069_25MM_4M120"
+msgstr "25 mm 110-PM（4М-120炮座）"
+
+msgid "IDS_PWPA8001_120_HE_1916"
+msgstr "Обр.1916"
+
+msgid "IDS_PWPT8001_550_MARK_100_1915"
+msgstr "ПЛ-100 обр.1915"
+
+msgid "IDS_PZGA091_25MM_4M120"
+msgstr "25 mm 110-PM（4М-120炮座）"
+
+msgid "IDS_QUEST_PRORUV_CHAMPION"
+msgstr "Станьте победителем турнира «Прорыв» со своей командой."
+
+msgid "IDS_QUEST_TSARMOREY_CHAMPION"
+msgstr "Станьте победителем состязания «Царь морей» со своей командой."
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль X уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль VIII–IX уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Корабль V–VII уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_TITLE"
+msgstr "Премиум контейнер Lesta Games"
+
+msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_TITLE"
+msgstr "Контейнер «Во имя прогресса!»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_TITLE_SHORT"
+msgstr "Во имя прогресса!"
+
+msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_TITLE"
+msgstr "Контейнер «Сундук»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_TITLE_SHORT"
+msgstr "Сундук"
+
+msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_TITLE"
+msgstr "Контейнер «Заяц»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_TITLE_SHORT"
+msgstr "Заяц"
+
+msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_TITLE"
+msgstr "Контейнер «Утка»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_TITLE_SHORT"
+msgstr "Утка"
+
+msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_TITLE"
+msgstr "Контейнер «Яйцо»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_TITLE_SHORT"
+msgstr "Яйцо"
+
+msgid "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_TITLE"
+msgstr "Контейнер «Игла»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_TITLE_SHORT"
+msgstr "Игла"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Смоленск Ч"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Смоленск Ч"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Смоленск Ч"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Смоленск Ч"
+
+msgid "IDS_SECOND_SCARLET_BIRTHDAY_NAME"
+msgstr "Ударный труд — залог прогресса"
+
+msgid ""
+"IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_BASE_DEFENSE_BASE_CAPTURE_BASE_CAPTURE_ASSIST_FULL"
+msgstr ""
+"Получите как можно больше лент «Защитил», «Захватил» или «Помог захватить»"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_SECONDARY_CALIBER_FULL"
+msgstr "Получите как можно больше лент «Попал из ПМК»"
+
+msgid "IDS_SSE_DETAILED_INFO_LINK"
+msgstr "Подробнее"
+
+msgid "IDS_SSE_DETAILED_INFO_LINK_TOOLTIP"
+msgstr "Узнать больше на портале"
+
+msgid "IDS_THIRD_SCARLET_BIRTHDAY_NAME"
+msgstr "Учёные всех стран, соединяйтесь!"
+
+msgid "IDS_WOT_KATUKOV"
+msgstr "Михаил Катуков"
