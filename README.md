@@ -12,6 +12,13 @@
 
 1. 在本仓库[Releases](https://github.com/Nova-Committee/Korabli-LESTA-L10N/releases)中，寻找“客户端版本号”数值最大、“发布时间”最晚的发布版本。这些发布版本的命名格式是“客户端版本号-发布时间”，如“7703463-20231007.1953”。
 2. 下载该发布版本下的global.mo文件。
+
+### 自动安装
+
+3. 下载本仓库提供的[汉化安装器](https://github.com/Nova-Committee/Korabli-LESTA-L10N/releases/download/L10nInstaller-v2023.10.12.1910/L10nInstaller-v2023.10.12.1910.exe)，放入战舰世界安装目录后运行，按程序指示操作。
+4. 启动游戏。
+
+### 手动安装
 3. 打开战舰世界安装目录下的bin文件夹，找到该文件夹下以数字命名且数值最大的一个或两个（若存在）文件夹：
 4. 
 - 方法一*：将这些文件夹下的res\locale_config.xml复制到res_mods\locale_config.xml，将复制后的文件中的“fonts="RU"”改成“fonts="CN"”；
