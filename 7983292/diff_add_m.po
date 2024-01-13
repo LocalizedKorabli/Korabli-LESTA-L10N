@@ -1,0 +1,430 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RUSSO_JAPANESE_WAR"
+msgstr "在非对称战斗中击败日本海军。"
+
+msgid "IDS_ACHIEVEMENT_RUSSO_JAPANESE_WAR"
+msgstr "非对称战斗：日俄战争"
+
+msgid "IDS_AI_LEVEL_10"
+msgstr "高级"
+
+msgid "IDS_AI_LEVEL_2"
+msgstr "低级"
+
+msgid "IDS_ASYMM_COOP_SPECIAL"
+msgstr "非对称战斗 — 卓越"
+
+msgid "IDS_BUFF_IMPROVEMENT"
+msgstr "增益"
+
+msgid "IDS_COMPENDIUM_UNIFIED_STATUS_PRIMARY"
+msgstr "主要战舰"
+
+msgid "IDS_COMPENDIUM_UNIFIED_STATUS_WITHOUT_COMMANDER"
+msgstr "无指挥官"
+
+msgid "IDS_DEBUFF"
+msgstr "减益"
+
+msgid "IDS_DESC_PCM099_SPECIAL_MOD_I_ELBING"
+msgstr "强化战舰的战术作用，短时间内提高其机动性，使战舰能快速切换目标。"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE"
+msgstr "维修小组操作准备"
+
+msgid "IDS_DOGTAG_PCNB429_DESCRIPTION"
+msgstr "这枚勋章见证着日本和俄罗斯在旅顺口的暴行。"
+
+msgid "IDS_DOGTAG_PCNB429_NAME"
+msgstr "十字架勋章"
+
+msgid "IDS_FEAT_BAD_LOW_DAMAGE_PER_BOMB"
+msgstr "每颗炸弹造成的伤害较低"
+
+msgid "IDS_FEAT_BAD_NO_T_BOMBERS"
+msgstr "无鱼雷轰炸机"
+
+msgid "IDS_FEAT_FIGHTERS_UPGRADE"
+msgstr "可使用截击机"
+
+msgid "IDS_FEAT_FIGHTERS_UPGRADE_DESC"
+msgstr "截击机不会发现敌舰，巡逻半径更长，攻击敌方飞机所需时间减少。"
+
+msgid "IDS_FEAT_GOOD_AIRSMOKES"
+msgstr "可使用机载发烟器消耗品"
+
+msgid "IDS_FEAT_GOOD_AIRSMOKES_DESC"
+msgstr "在海面上形成烟幕，降低敌军发现友军舰艇的可能性。"
+
+msgid "IDS_FEAT_GOOD_MANY_PLANES"
+msgstr "甲板上停放大量飞机"
+
+msgid "IDS_FEAT_GOOD_PLANE_REGEN"
+msgstr "飞机整备时间较短"
+
+msgid "IDS_FEAT_IS_TACTICAL"
+msgstr "战术中队"
+
+msgid "IDS_FEAT_IS_TACTICAL_DESC"
+msgstr "由一个中队组成。攻击结束后，已经起飞的中队不返回甲板，另一个中队立即在战舰上开始整备飞机。"
+
+msgid "IDS_FEAT_MINEFIELD"
+msgstr "雷区"
+
+msgid "IDS_FEAT_MINEFIELD_DESC"
+msgstr "水雷分布在被标记的区域中。水雷可在与敌方战舰接触时爆炸，造成显著伤害和进水。"
+
+msgid "IDS_FORM_DIVISION"
+msgstr "组建一支小队"
+
+msgid "IDS_IN_PCVE020"
+msgstr "在非对称战斗中"
+
+msgid "IDS_KARMA_COLON"
+msgstr "业力："
+
+msgid "IDS_MAIN_AIRSMOKES"
+msgstr "可使用机载发烟器消耗品"
+
+msgid "IDS_MAIN_MINEBOMBERS"
+msgstr "可使用水雷轰炸机"
+
+msgid "IDS_MAIN_NO_T_BOMBERS"
+msgstr "无鱼雷轰炸机"
+
+msgid "IDS_MINIMAP_OPTIONS_MINIMAPVISIBILITYSHIPENABLED"
+msgstr "显示友军战舰"
+
+msgid "IDS_OPTIONS_ALWAYS_SHOW_LAMP_VISIBILITY"
+msgstr "显示被发现指示器"
+
+msgid "IDS_OPTIONS_ALWAYS_SHOW_LAMP_VISIBILITY_DESCRIPTION"
+msgstr "显示敌方发现友军战舰的指示器。"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_MINE_BOMBERS"
+msgstr "水雷轰炸机"
+
+msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSISINTERCEPTOR"
+msgstr "[HIDDEN]截击机不会发现敌方战舰，不受敌方战斗机伤害"
+
+msgid "IDS_PARAMS_MODIFIER_POTENTIALDAMAGESHIFT_RAGEMODE"
+msgstr "提高作战指令完成进度所需的潜在伤害量"
+
+msgid "IDS_PARAMS_MODIFIER_SPEEDBOOSTERSADDITIONALCONSUMABLES"
+msgstr "引擎增压消耗品数量"
+
+msgid "IDS_PCEE657_FAREAST_FLAG"
+msgstr "远东总督府旗帜"
+
+msgid "IDS_PCEE657_FAREAST_FLAG_DESCRIPTION"
+msgstr ""
+"沙俄帝国远东总督一职从 1903 年至 1905 年一直存在，E. I. Alekseev 海军上将是唯一的总督。他掌握着远东地区陆军和舰队的指挥权，包括在 1904-1905 年日俄战争期间。旗帜中央是俄罗斯帝"
+"国的小盾形徽章。"
+
+msgid "IDS_PCEE662_JAP_AIRCRAFT_FLAG"
+msgstr "日本航母"
+
+msgid "IDS_PCEE662_JAP_AIRCRAFT_FLAG_DESCRIPTION"
+msgstr "纪念日本航母在13.0版本开放抢先体验。"
+
+msgid "IDS_PGPT059_G7E_T11_SUB"
+msgstr "G7es/T5"
+
+msgid "IDS_PGPT060_G7E_T11_SUB_MAGN"
+msgstr "G7e/T5 MZ"
+
+msgid "IDS_PGSS111"
+msgstr "U-796"
+
+msgid "IDS_PGSS111_DESCR"
+msgstr ""
+"这是为一艘装有瓦尔特发动机的大型远洋船设计的。该艇的艇身呈流线型，坚固的艇身内部装有用于瓦尔特涡轮机的过氧化氢罐。两艘潜艇 U-796 和 U-797 于 1943 年 12 月在基尔建造，但由于燃"
+"料短缺，1944 年 3 月取消了建造计划。由于用大容量电池取代了燃料箱，用电动马达取代了瓦尔特涡轮机，XXI 型潜艇应运而生。"
+
+msgid "IDS_PGSS111_FULL"
+msgstr "U-796"
+
+msgid "IDS_PGSS111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSS111_YEAR"
+msgstr "1943"
+
+msgid "IDS_PGUE914_S11_ENG_STOCK"
+msgstr "推进系统：15000马力"
+
+msgid "IDS_PGUH914_S11_HULL_STOCK"
+msgstr "U-796"
+
+msgid "IDS_PGUQ904_S11_SONAR_STOCK"
+msgstr "Typ 11 Mod. A"
+
+msgid "IDS_PGUT911_S11_TORP_STOCK"
+msgstr "G7a T1"
+
+msgid "IDS_PIAF529_DELAWARE_TEST"
+msgstr "TB2D Skypirate"
+
+msgid "IDS_PIPA087_406MM_HE_TEST"
+msgstr "406-мм HE/HC Mk13"
+
+msgid "IDS_PIPA088_406MM_AP_TEST"
+msgstr "406-мм AP Mk8"
+
+msgid "IDS_PIPA090_127MM_CS_MK_32"
+msgstr "127-мм SC Mk38"
+
+msgid "IDS_PIPR529_DELAWARE_TEST"
+msgstr "127-мм HVAR"
+
+msgid "IDS_PISB529"
+msgstr "特拉华 Test"
+
+msgid "IDS_PISB529_DESCR"
+msgstr "测试战舰"
+
+msgid "IDS_PISB529_FULL"
+msgstr "特拉华 Test"
+
+msgid "IDS_PISB529_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISB529_YEAR"
+msgstr "1942"
+
+msgid "IDS_PIUA808_DELAWARE_TEST"
+msgstr "406-мм/50 Mk.7 в башенной установке"
+
+msgid "IDS_PIUE808_ENG_DELAWARE_TEST"
+msgstr "推进系统：212000马力"
+
+msgid "IDS_PIUF801_FC_DELAWARE_TEST"
+msgstr "Mk9 mod. 1"
+
+msgid "IDS_PIUH811_HULL_DELAWARE_TEST"
+msgstr "特拉华 Test"
+
+msgid "IDS_PIUI801_F_DELAWARE_TEST"
+msgstr "TB2D Skypirate"
+
+msgid "IDS_PIUS811_SUO_DELAWARE_TEST"
+msgstr "SDT 9"
+
+msgid "IDS_PJES201_HIRYU_AMATERASU"
+msgstr "腾龙"
+
+msgid "IDS_PJES202_TAIHO_AMATERASU"
+msgstr "腾龙"
+
+msgid "IDS_PRAD704_SEVEROMORSK_TOP"
+msgstr "Сухой Су-2"
+
+msgid "IDS_PRES436_DMITRY_DONSKOY"
+msgstr "对马岛海战"
+
+msgid "IDS_PRPT066_533MM_SUB_T11"
+msgstr "53-38У"
+
+msgid "IDS_PRPT067_533MM_SUB_MAG_T11"
+msgstr "53-38У MZ"
+
+msgid "IDS_PRSS111"
+msgstr "B-4"
+
+msgid "IDS_PRSS111_DESCR"
+msgstr ""
+"641 号柴电潜艇是为敌方通信、侦察和布雷行动而设计的。它们是最后几种采用经典而非水滴形艇体的潜艇之一。B-4 号潜艇在列宁格勒建造下水，然后转运到塞维罗温斯克服役。在加勒比海危机期"
+"间，B-4 参与打破了对古巴的封锁，成为唯一一艘美军无法迫使其浮出水面的潜艇。1963 年，B-4 号获得了 \"车里雅宾斯克共青团员 \"的光荣称号。"
+
+msgid "IDS_PRSS111_FULL"
+msgstr "B-4"
+
+msgid "IDS_PRSS111_NUMBER"
+msgstr "75"
+
+msgid "IDS_PRSS111_YEAR"
+msgstr "1961"
+
+msgid "IDS_PRUD920_DB_SEVEROMORSK"
+msgstr "Сухой Су-2"
+
+msgid "IDS_PRUE921_S11_ENG_STOCK"
+msgstr "推进系统：6000马力"
+
+msgid "IDS_PRUH921_S11_HULL_STOCK"
+msgstr "B-4"
+
+msgid "IDS_PRUQ900_S11_SONAR_STOCK"
+msgstr "ГАП 11"
+
+msgid "IDS_PRUT916_S11_TORP_STOCK"
+msgstr "533-мм"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_PLANE_RELOADING_BOOST"
+msgstr ""
+"完成进度会随着您受到潜在伤害而提高。\n"
+"如果您不活跃，将开始损失进度。当您的进度达到100%时，就不会损失。按下[CMD_ACTIVATE_RAGE_MODE]以启用作战指令。"
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "巴塔哥尼亚"
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "巴塔哥尼亚"
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_TITLE"
+msgstr "“泛美中队”高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_TITLE_SHORT"
+msgstr "泛美中队"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_EFFECTIVE_SMOKES"
+msgstr "用烟幕掩护友军战舰"
+
+msgid "IDS_RIBBON_RIBBON_EFFECTIVE_SMOKES"
+msgstr "掩护"
+
+msgid "IDS_SCENARIO_ASYMM_COOP_SPECIAL"
+msgstr "非对称战斗 — 卓越"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM071_ASYMMCOOP_BATTLESHIP_DAMAGE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM072_ASYMMCOOP_CRUISER_DAMAGE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM073_ASYMMCOOP_DESTROYER_DAMAGE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM074_ASYMMCOOP_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM075_ASYMMCOOP_BATTLESHIP_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM076_ASYMMCOOP_VULNERABILITYALL"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM071_ASYMMCOOP_BATTLESHIP_DAMAGE"
+msgstr "伤害提高"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM072_ASYMMCOOP_CRUISER_DAMAGE"
+msgstr "伤害提高"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM073_ASYMMCOOP_DESTROYER_DAMAGE"
+msgstr "伤害提高"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM074_ASYMMCOOP_REGENERATION"
+msgstr "生命值恢复"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM075_ASYMMCOOP_BATTLESHIP_REGENERATION"
+msgstr "生命值恢复"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM076_ASYMMCOOP_VULNERABILITYALL"
+msgstr "伤害抵御能力"
+
+msgid "IDS_SHIP_MODIFIER_PXOM071_ASYMMCOOP_BATTLESHIP_DAMAGE_APPLIED"
+msgstr "伤害提高"
+
+msgid "IDS_SHIP_MODIFIER_PXOM072_ASYMMCOOP_CRUISER_DAMAGE_APPLIED"
+msgstr "伤害提高"
+
+msgid "IDS_SHIP_MODIFIER_PXOM073_ASYMMCOOP_DESTROYER_DAMAGE_APPLIED"
+msgstr "伤害提高"
+
+msgid "IDS_SHIP_MODIFIER_PXOM074_ASYMMCOOP_REGENERATION_APPLIED"
+msgstr "生命值恢复"
+
+msgid "IDS_SHIP_MODIFIER_PXOM075_ASYMMCOOP_BATTLESHIP_REGENERATION_APPLIED"
+msgstr "生命值恢复"
+
+msgid "IDS_SHIP_MODIFIER_PXOM076_ASYMMCOOP_VULNERABILITYALL_APPLIED"
+msgstr "伤害抵御能力"
+
+msgid "IDS_SUBMARINES_LEGENDARY"
+msgstr "超级潜艇"
+
+msgid "IDS_SUBMARINE_LEGENDARY"
+msgstr "超级潜艇"
+
+msgid "IDS_TITLE_PCM099_SPECIAL_MOD_I_ELBING"
+msgstr "自动火炮和燃料系统"
+
+msgid "IDS_TOOLTIP_BATTLE_BONUS_TAG_DESCRIPTION"
+msgstr "赢得任何类型的战斗都可获得奖励。"
+
+msgid "IDS_UNLOCKS_24"
+msgstr "在与电脑对战的同时，与团队一起完成行动任务。"
+
+msgid "IDS_UNLOCKS_3103"
+msgstr "与真实玩家对战。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
+msgstr "在 \"行动 \"中，您的团队必须在与电脑战斗的同时完成各种任务。每个行动都有独特的故事元素。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
+msgstr "完成主要目标即可获得胜利。完成次要目标将增加战斗中获得的资源数量。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
+msgstr "行动的难度取决于队伍中战舰的种类和等级。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
+msgstr "与真实玩家对战。随机组成队伍。"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_24"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>行动</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3103"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>随机战斗</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_24"
+msgstr "在战斗类型选择屏幕上可用。"
+
+msgid "IDS_UNLOCKS_LOCATION_3103"
+msgstr "战斗类型选择按钮位于 \"加入战斗\"按钮旁边。"
+
+msgid "IDS_UNLOCKS_TITLE_24"
+msgstr "行动"
+
+msgid "IDS_UNLOCKS_TITLE_3103"
+msgstr "随机战"
