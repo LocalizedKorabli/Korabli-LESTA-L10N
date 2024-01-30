@@ -15,30 +15,16 @@
 #### GitHub
 
 1. 汉化包：在本仓库[Releases](https://github.com/Nova-Committee/Korabli-LESTA-L10N/releases)中，寻找“客户端版本号”数值最大、“发布时间”最晚的发布版本（发布版本的命名格式是“客户端版本号-发布时间”，如“7703463-20231007.1953”），下载该发布版本下的global.mo文件；
-2. 汉化安装器（若需要）：[下载](https://github.com/Nova-Committee/Korabli-LESTA-L10N/releases/download/L10nInstaller-v2023.11.10.1919/L10nInstaller-v2023.11.10.1919.exe)。
+2. 汉化安装器：[下载](https://github.com/Nova-Committee/Korabli-LESTA-L10N/releases/download/L10nInstaller-v2023.11.10.1919/L10nInstaller-v2023.11.10.1919.exe)。
 
 #### 国内网盘
 
 1. 汉化包：在[蓝奏云分享](https://tapio.lanzouw.com/b01lit85i)（密码：256r）中，寻找“客户端版本号”数值最大、“发布时间”最晚的发布版本压缩包（压缩包的命名格式是“客户端版本号-v发布时间”，如“7703463-v20231007.1953.zip”），下载压缩包并解压出global.mo文件；
-2. 汉化安装器（若需要）：[蓝奏云分享](https://tapio.lanzouw.com/b01lje69g)（密码：9jnd）
+2. 汉化安装器：[蓝奏云分享](https://tapio.lanzouw.com/b01lje69g)（密码：9jnd）
 
-### 自动安装（推荐）
+### 安装
 
-3. 下载汉化安装器，放入战舰世界安装目录后运行，按程序指示操作。
-4. 启动游戏。
-
-### 手动安装
-3. 打开战舰世界安装目录下的bin文件夹，找到该文件夹下以数字命名且数值最大的一个或两个（若存在）文件夹：
-4. 
-- 方法一*：将这些文件夹下的res\locale_config.xml复制到res_mods\locale_config.xml，将复制后的文件中的“fonts="RU"”改成“fonts="CN"”；
-- 方法二：分别打开这些文件夹下的res\locale_config.xml，将文件中的“fonts="RU"”改成“fonts="CN"”。
-5. 若您不方便操作第4步，可以下载本仓库提供的[快捷程序](https://github.com/Nova-Committee/Korabli-LESTA-L10N/releases/download/modify_locale_config/modify_locale_cfg.exe)到第3步的数字文件夹下的res文件夹，运行即可完成操作（若使用方法一，再将软件运行后的res\locale_config.xml复制到res_mods\locale_config.xml）。
-6.
-- 方法一*：分别打开这些文件夹下的res_mods\texts\ru\LC_MESSAGES文件夹（若无则按名称自行创建），将第2步下载的global.mo文件放入；
-- 方法二：分别打开这些文件夹下的res\texts\ru\LC_MESSAGES文件夹，将其中的global.mo文件备份后，用第2步下载的新global.mo文件覆盖。
-7. 启动游戏。
-
-*：推荐，非版本更新时不会被重置
+下载汉化包和汉化安装器，后者放入战舰世界安装目录后运行，按程序指示操作。
 
 ## 常见问题
 
@@ -50,8 +36,8 @@ Q：游戏目录下的最新客户端版本号A和Releases中的最新客户端�
 
 A：
 - A > B：本仓库本地化文件仍未更新，请耐心等待，或在确保原文件已备份的情况下尝试用仓库内最新的文件覆盖；
-- A < B：在游戏强制更新前，Lesta会提前几天放出预更新，此时已能提取新版本的本地化文件进行翻译。若您未进行预更新，bin文件夹中则不会出现以未来版本号命名的文件夹。这也是“如何使用”第3步要求同时对两个文件夹操作的原因。
+- A < B：在游戏强制更新前，Lesta会提前几天放出预更新，此时已能提取新版本的本地化文件进行翻译。若您未进行预更新，bin文件夹中则不会出现以未来版本号命名的文件夹。
 
-Q：游戏内不显示文字或只显示一些空心方块？又变回俄语了？
+Q：又变回俄语了？
 
-A：请检查你的所有步骤是否执行完毕。另外，每次客户端更新（包括小型更新）都有可能重置global.mo和locale_config.xml，你可能需要重新执行“如何使用”第3~6步或考虑在第4&6步使用方法一。
+A：每次大版本更新时都会更换bin目录下的文件夹，重新安装汉化包即可。
