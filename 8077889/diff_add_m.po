@@ -1,0 +1,630 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_THREE_KINGDOMS"
+msgstr "积极参与三国演义活动。"
+
+msgid "IDS_ACHIEVEMENT_RVR_THREE_KINGDOMS"
+msgstr "三国演义"
+
+msgid "IDS_BOT_WARNING"
+msgstr "这艘战舰由电脑控制"
+
+msgid "IDS_CAOCAO"
+msgstr "曹操"
+
+msgid "IDS_CHAT_PLAYER_PRAISED_CHAT"
+msgstr "您的礼貌受到了称赞"
+
+msgid "IDS_CHAT_PLAYER_PRAISED_PLAY"
+msgstr "您的出色发挥受到了称赞"
+
+msgid "IDS_CONTEXT_TUTORIAL_MOVEMENT"
+msgstr " "
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_ATBA_HITS"
+msgstr "即时维修战舰"
+
+msgid "IDS_DOGTAG_PCNB433_DESCRIPTION"
+msgstr ""
+"魏国是公元 3 世纪争霸古中国的三国之一。在中国神话中，玄武历来被视为北方的守护"
+"神兽。"
+
+msgid "IDS_DOGTAG_PCNB433_NAME"
+msgstr "魏"
+
+msgid "IDS_DOGTAG_PCNB434_DESCRIPTION"
+msgstr ""
+"蜀国是公元 3 世纪争霸古中国的三国之一，位于中国西部。在中国神话中，白虎历来被"
+"视为西方的守护神。"
+
+msgid "IDS_DOGTAG_PCNB434_NAME"
+msgstr "蜀"
+
+msgid "IDS_DOGTAG_PCNB435_DESCRIPTION"
+msgstr ""
+"吴国是公元 3 世纪争霸古中国的三国之一，位于中国东南。在中国神话中，青龙历来被"
+"认为是东方的守护神。"
+
+msgid "IDS_DOGTAG_PCNB435_NAME"
+msgstr "吴"
+
+msgid "IDS_DOGTAG_PCNB436_DESCRIPTION"
+msgstr ""
+"公元前 221 年，秦朝的建立者秦始皇统一中国后，出现了这一皇权的象征。传国玉玺与"
+"中国的政治文化以及统治王朝与上天之间的特殊联系密切相关。玉玺的持有者被认为拥有"
+"统治全中国的 \"天命\"。在长达千年的时间里，玉玺一直是皇权的象征，直到公元 10 "
+"世纪才失传。"
+
+msgid "IDS_DOGTAG_PCNB436_NAME"
+msgstr "传国玉玺"
+
+msgid "IDS_DOGTAG_PCNB438_DESCRIPTION"
+msgstr ""
+"现代俄罗斯有在 3 月 1 日庆祝 \"国际猫咪日\"的传统。按照惯例，在春天的第一天，"
+"全国不同城市都会举办以猫为主题的展览、比赛和慈善活动。"
+
+msgid "IDS_DOGTAG_PCNB438_NAME"
+msgstr "国际猫咪日"
+
+msgid "IDS_FEAT_DEEPWATERTORP_BB_CRUISER_CV_DESC"
+msgstr "深水鱼雷被侦察性较低，只能击中战列舰、巡洋舰和航空母舰。"
+
+msgid "IDS_FEAT_GOOD_MC_AP_SUPER_OVERMATCH"
+msgstr "穿甲弹不会在厚度较低的装甲处跳弹"
+
+msgid "IDS_LIUBEI"
+msgstr "刘备"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_3"
+msgstr "蜀国位于中国西方，其建立者刘备自称与汉朝皇室有血缘关系，是合法继承人。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_4"
+msgstr ""
+"吴国位于中国东南。吴国君主孙权据说是著名的《孙子兵法》作者孙武的后代。孙权从兄"
+"长那里继承土地后自立为帝，成为三国时期著名的三位领袖中最年轻的一位。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_1"
+msgstr ""
+"曹操死后，魏国由其子曹丕继承，曹丕逼迫汉献帝退位，自己登上了皇位。刘备和孙权不"
+"承认曹丕称帝，三国斗争进入新阶段。在此期间，魏国的实权逐渐转移到军事家和政治家"
+"司马懿手中，他的家族拿到了实权。他的儿子攻灭蜀国，他的孙子司马炎废黜了末代君"
+"主，成为新晋朝的第一位皇帝。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_2"
+msgstr "公元 280 年，晋灭吴，三国时代结束。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_3"
+msgstr ""
+"三国是中国历史上战争最多的时期之一。中国和其他东亚国家的许多文化作品都反映了这"
+"一时代。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_4"
+msgstr "新王朝"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_8"
+msgstr "任何未转换为全局经验的经验将转移到I级战舰。"
+
+msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_5"
+msgstr "任何未转换为全局经验的经验将转移到I级战舰。"
+
+msgid "IDS_PARAMS_MODIFIER_PROGRESS_ATBA_HITS"
+msgstr "每8次副炮炮弹命中取得的进度"
+
+msgid "IDS_PARAMS_MODIFIER_VULNERABILITYMINE"
+msgstr "水雷伤害"
+
+msgid "IDS_PCEC137_MASLENNICA_CAMO"
+msgstr "阳光明媚"
+
+msgid "IDS_PCEE641_THREEKINGDOMS_FLAG"
+msgstr "蜀"
+
+msgid "IDS_PCEE641_THREEKINGDOMS_FLAG_DESCRIPTION"
+msgstr ""
+"蜀国是公元 3 世纪争霸古中国的三国之一。蜀国的国名指的是同名的周国，其领土与周"
+"国大致相同。蜀国的建立者刘备自称与汉朝王室有血缘关系，是汉朝的合法继承人。"
+
+msgid "IDS_PCEE642_THREEKINGDOMS_FLAG"
+msgstr "吴"
+
+msgid "IDS_PCEE642_THREEKINGDOMS_FLAG_DESCRIPTION"
+msgstr ""
+"吴国是公元 3 世纪争霸古中国的三国之一。吴国的统治者孙权据说是著名的《孙子兵"
+"法》作者孙武的后代。孙权在继承了兄长的土地后自立为帝，成为三国时期著名的三位领"
+"袖中最年轻的一位。"
+
+msgid "IDS_PCEE643_THREEKINGDOMS_FLAG"
+msgstr "魏"
+
+msgid "IDS_PCEE643_THREEKINGDOMS_FLAG_DESCRIPTION"
+msgstr ""
+"魏国是公元 3 世纪争霸古中国的三国之一。魏国的建立者是曹操，他是一位政治家，在"
+"汉王朝衰落时曾实际统治过汉王朝。皇帝赐给曹操十城之地，这就是后来的魏国。"
+
+msgid "IDS_PCEE667_23FEBRUARY_FLAG"
+msgstr "保卫祖国"
+
+msgid "IDS_PCEE667_23FEBRUARY_FLAG_DESCRIPTION"
+msgstr ""
+"一些苏联加盟国将 2 月 23 日定为 \"祖国保卫者日\"。这个节日是 1922 年作为红军成"
+"立纪念日设立的：据说正是在 1918 年的这一天，红军开始组建，以击退在前俄罗斯帝国"
+"恢复进攻的德国和奥匈帝国军队。"
+
+msgid "IDS_PCEE668_KERCH_FLAG"
+msgstr "刻赤"
+
+msgid "IDS_PCEE668_KERCH_FLAG_DESCRIPTION"
+msgstr ""
+"刻赤的传统徽章标志是持有亚速海和黑海钥匙的狮鹫。这种有鹰头狮身的神兽首次出现在"
+"博斯普鲁斯王国的金银币上，博斯普鲁斯王国是位于刻赤海峡地区的一个古老国家。"
+
+msgid "IDS_PCEE669_CALLENBURGH_FLAG"
+msgstr "HNLMS卡伦堡"
+
+msgid "IDS_PCEE669_CALLENBURGH_FLAG_DESCRIPTION"
+msgstr ""
+"杰拉德-卡伦比奥格（Gerard Kallenbyurg）——十七世纪荷兰舰队的海军上将。 卡伦比奥"
+"格曾在维哥湾海战和马拉加海战中取得过最辉煌、最著名的胜利，并被任命为西弗里斯兰"
+"海军中将。"
+
+msgid "IDS_PCEE670_CHANGZHENG_FLAG"
+msgstr "长征"
+
+msgid "IDS_PCEE670_CHANGZHENG_FLAG_DESCRIPTION"
+msgstr ""
+"中国工农红军的军旗，从 1934 年开始使用，直至解散。在这面旗帜下，红军进行了伟大"
+"的战役（长征），即向陕北的战略大撤退。毛泽东领导的中国共产党人跋涉数千公里，以"
+"沉重的代价击退了国民党军队。在中国，\"长征精神 \"象征着坚韧不拔和不畏艰险的精"
+"神。"
+
+msgid "IDS_PHAD015_CALLENBURGH_AS"
+msgstr "福克T.V"
+
+msgid "IDS_PHPA025_240MM_HE_CALLENBURGH"
+msgstr "240-мм HE Brisantgranaat"
+
+msgid "IDS_PHPA026_240MM_AP_CALLENBURGH"
+msgstr "240-мм AP Pantsergranaat"
+
+msgid "IDS_PHPB025_CALLENBURGH_AS_HE"
+msgstr "P.u.W. 160 kg"
+
+msgid "IDS_PHSC710"
+msgstr "卡伦堡"
+
+msgid "IDS_PHSC710_DESCR"
+msgstr ""
+"20 世纪 30 年代末，在国际形势不断恶化的背景下，荷兰海军决定建造大型战舰。新项"
+"目的变型之一是增加排水量，装备 9 门 240 毫米火炮和三轴推进系统。由于速度快，该"
+"舰可以避免与巡洋舰相撞，而且由于加强了武器装备和装甲，它不怕与一对重巡洋舰直接"
+"相撞。"
+
+msgid "IDS_PHSC710_FULL"
+msgstr "卡伦堡"
+
+msgid "IDS_PHSC710_NUMBER"
+msgstr "1"
+
+msgid "IDS_PHSC710_YEAR"
+msgstr "1939"
+
+msgid "IDS_PHUA904_ART_CALLENBURGH"
+msgstr "240-мм/55 QF в башенной установке"
+
+msgid "IDS_PHUE904_ENG_CALLENBURGH"
+msgstr "推进系统：126000马力"
+
+msgid "IDS_PHUH904_HULL_CALLENBURGH"
+msgstr "卡伦堡"
+
+msgid "IDS_PHUS904_SUO_CALLENBURGH"
+msgstr "SUO Mk 10 Mod. 1"
+
+msgid "IDS_PJES341_IZUMO_MASLENNICA"
+msgstr "忏悔节"
+
+msgid "IDS_PRES320_23FEBRUARY"
+msgstr "保卫祖国"
+
+msgid "IDS_PRGA187_37MM_66K"
+msgstr "37-мм установка 66-К"
+
+msgid "IDS_PRGM204_152MM_53_M1929"
+msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+
+msgid "IDS_PRGM205_152MM_53_M1929_RF_ITL"
+msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+
+msgid "IDS_PRGM207_406MM_52_MK_5_16_QUADRUPLE"
+msgstr "406-мм/52 в установке МК-5-16"
+
+msgid "IDS_PRGM209_406_45_MK_2_16_TWIN"
+msgstr "406-мм/45 в установке МК-2-16"
+
+msgid "IDS_PRGM210_406_52_MK_3_16_TRIPLE"
+msgstr "406-мм/52 в установке МК-3-16"
+
+msgid "IDS_PRGT206_533MM_3_TUBE_ITL"
+msgstr "533-мм tubo lanciasiluri"
+
+msgid "IDS_PRPA210_152MM_HE_KERCH"
+msgstr "152-мм proiettili HE"
+
+msgid "IDS_PRPA211_152MM_AP_KERCH"
+msgstr "152-мм proiettili AP"
+
+msgid "IDS_PRPA212_406MM_HE_MOD1928"
+msgstr "406-мм ОФ обр. 1928 г."
+
+msgid "IDS_PRPA213_406MM_AP_MOD1928"
+msgstr "406-мм ББ обр. 1928 г."
+
+msgid "IDS_PRPA214_152MM_CS_KERCH"
+msgstr "152-мм proiettili CS 1926 mod.1"
+
+msgid "IDS_PRPT068_KERCH"
+msgstr "533-мм Si 270"
+
+msgid "IDS_PRSB207"
+msgstr "谢尼亚文"
+
+msgid "IDS_PRSB207_DESCR"
+msgstr ""
+"1921-22 年间，对未完工的 \"伊兹梅尔 \"型巡洋舰 \"金伯恩 \"号（Kinburn）进行现"
+"代化改造的项目开发了多个变体。根据世界大战的经验，这艘巡洋舰的设计应该有所改"
+"进。与原计划的主要区别在于安装了两座装有 406 毫米火炮的炮塔，一些改型还包括加"
+"强装甲。"
+
+msgid "IDS_PRSB207_FULL"
+msgstr "谢尼亚文海军上将"
+
+msgid "IDS_PRSB207_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB207_YEAR"
+msgstr "1922"
+
+msgid "IDS_PRSB208"
+msgstr "伊斯托明"
+
+msgid "IDS_PRSB208_DESCR"
+msgstr ""
+"为了迎接新的大型战列舰建造计划，俄罗斯和德国工程师于 1914 年共同开发了一系列设"
+"计方案。这些战舰与当时德国正在研制的 \"拜仁 \"号战列舰具有相同的特点。第 4 号"
+"项目有 12 门口径为 406 毫米的火炮，分三个炮塔纵向布置。"
+
+msgid "IDS_PRSB208_FULL"
+msgstr "伊斯托明海军上将"
+
+msgid "IDS_PRSB208_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB208_YEAR"
+msgstr "1914"
+
+msgid "IDS_PRSB209"
+msgstr "科尔尼洛夫"
+
+msgid "IDS_PRSB209_DESCR"
+msgstr ""
+"1914 年 2 月，普蒂洛夫造船厂设计局与德国 Blohm & Voss 公司的工程师合作，按照德"
+"国设计学派的精神，开发了一系列线型舰艇项目。这些舰艇具有德国开发的巴伐利亚型战"
+"列舰的特点。第 9 号项目有三个四联装炮塔，配备 406 毫米火炮，纵向布置。"
+
+msgid "IDS_PRSB209_FULL"
+msgstr "科尔尼洛夫海军上将"
+
+msgid "IDS_PRSB209_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB209_YEAR"
+msgstr "1914"
+
+msgid "IDS_PRSB210"
+msgstr "拉扎列夫"
+
+msgid "IDS_PRSB210_DESCR"
+msgstr ""
+"1914 年。海事部根据造船总局的研发成果，提出了建造新型战列舰的建议。普蒂洛夫"
+"（Putilov）造船厂的工程师们为该项目开发了几种变体。从结构上看，这艘战列舰是 "
+"\"伊兹梅尔 \"号的放大版。VIII 型战列舰装备有 12 门 406 毫米火炮，分三个炮塔，"
+"呈线状高架排列。"
+
+msgid "IDS_PRSB210_FULL"
+msgstr "拉扎列夫海军上将"
+
+msgid "IDS_PRSB210_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB210_YEAR"
+msgstr "1915"
+
+msgid "IDS_PRSC516"
+msgstr "刻赤"
+
+msgid "IDS_PRSC516_DESCR"
+msgstr ""
+"1949 年，作为赔款的一部分，意大利巡洋舰 \"埃马努埃莱-菲利贝托-奥斯塔公爵 \"号"
+"（Emanuele Filiberto Duca d'Aosta）以 Z-11 的传统名称移交给苏联。在苏联海军"
+"中，该舰先被改名为 \"斯大林格勒 \"号，后又改名为 \"刻赤 \"号。该巡洋舰在塞瓦斯"
+"托波尔的 S. Ordzhonikidze 海军工厂进行了现代化改造，并接收了苏联设备。该舰主要"
+"用于训练目的。"
+
+msgid "IDS_PRSC516_FULL"
+msgstr "刻赤"
+
+msgid "IDS_PRSC516_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSC516_YEAR"
+msgstr "1935"
+
+msgid "IDS_PRUA505_ART_KERCH"
+msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+
+msgid "IDS_PRUA604_B7_ART_STOCK"
+msgstr "406-мм/45 в установке МК-2-16"
+
+msgid "IDS_PRUA713_B8_ART_STOCK"
+msgstr "406-мм/52 в установке МК-3-16"
+
+msgid "IDS_PRUA809_B9_ART_STOCK"
+msgstr "406-мм/52 в установке МК-5-16"
+
+msgid "IDS_PRUA920_B10_ART_STOCK"
+msgstr "406-мм/52 в установке МК-5-16"
+
+msgid "IDS_PRUE506_ENG_KERCH"
+msgstr "推进系统：128000马力"
+
+msgid "IDS_PRUE605_B7_ENG_STOCK"
+msgstr "推进系统：86000马力"
+
+msgid "IDS_PRUE719_B8_ENG_STOCK"
+msgstr "推进系统：140000马力"
+
+msgid "IDS_PRUE810_B9_ENG_STOCK"
+msgstr "推进系统：144000马力"
+
+msgid "IDS_PRUE922_B10_ENG_STOCK"
+msgstr "推进系统：200000马力"
+
+msgid "IDS_PRUH510_HULL_KERCH"
+msgstr "刻赤"
+
+msgid "IDS_PRUH608_B7_HULL_A"
+msgstr "Адмирал Сенявин (A)"
+
+msgid "IDS_PRUH609_B7_HULL_B"
+msgstr "Адмирал Сенявин (B)"
+
+msgid "IDS_PRUH728_B8_HULL_STOCK"
+msgstr "Адмирал Истомин (A)"
+
+msgid "IDS_PRUH729_B8_HULL_TOP"
+msgstr "Адмирал Истомин (B)"
+
+msgid "IDS_PRUH821_B9_HULL_A"
+msgstr "Адмирал Корнилов (A)"
+
+msgid "IDS_PRUH822_B9_HULL_B"
+msgstr "Адмирал Корнилов (B)"
+
+msgid "IDS_PRUH922_B10_HULL_STOCK"
+msgstr "Адмирал Лазарев"
+
+msgid "IDS_PRUS506_SUO_KERCH"
+msgstr "СУО VI мод. 1"
+
+msgid "IDS_PRUS606_B7_SUO_STOCK"
+msgstr "СУО VII мод. 1"
+
+msgid "IDS_PRUS607_B7_SUO_TOP"
+msgstr "СУО VII мод. 2"
+
+msgid "IDS_PRUS708_B8_SUO_STOCK"
+msgstr "СУО VIII мод. 1"
+
+msgid "IDS_PRUS709_B8_SUO_TOP"
+msgstr "СУО VII мод. 2"
+
+msgid "IDS_PRUS808_B9_SUO_STOCK"
+msgstr "СУО IX мод. 1"
+
+msgid "IDS_PRUS809_B9_SUO_TOP"
+msgstr "СУО IX мод. 2"
+
+msgid "IDS_PRUS918_B10_SUO_STOCK"
+msgstr "СУО X мод. 1"
+
+msgid "IDS_PRUT502_TORP_KERCH"
+msgstr "533-мм Si 270"
+
+msgid "IDS_PZAD910_ASW_T10"
+msgstr "Бериев Бе-6"
+
+msgid "IDS_PZES719_3KINGS_BENMA"
+msgstr "雄雄勇龟"
+
+msgid "IDS_PZGM136_457MM_48"
+msgstr "457-мм/48 Б-45 в установке СМ-8"
+
+msgid "IDS_PZGS159_152MM_57_MK_5"
+msgstr "152-мм/57 Б-38 в установке МK-5"
+
+msgid "IDS_PZGS160_130MM_BL_109A"
+msgstr "130-мм/60 в установке БЛ-109А"
+
+msgid "IDS_PZPA073_457MM_HE_CHANGZHENG"
+msgstr "457-мм ОФ обр. 1946 г."
+
+msgid "IDS_PZPA074_457MM_AP_CHANGZHENG"
+msgstr "457-мм ББ обр. 1946 г."
+
+msgid "IDS_PZPA075_130MM_HE_OF42_SG"
+msgstr "130-мм ОФ-42"
+
+msgid "IDS_PZSB610"
+msgstr "长征"
+
+msgid "IDS_PZSB610_DESCR"
+msgstr ""
+"战后向中国海军赔偿的一艘大和型战列舰的现代化改造假想项目。根据苏联和中华人民共"
+"和国之间的科技援助计划，苏联专家将参与该项目。这艘战舰将配备苏联的武器装备和电"
+"子设备。"
+
+msgid "IDS_PZSB610_FULL"
+msgstr "长征"
+
+msgid "IDS_PZSB610_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB610_YEAR"
+msgstr "1949"
+
+msgid "IDS_PZUA904_ART_CHANGZHENG"
+msgstr "457-мм/48 Б-45 в установке СМ-8"
+
+msgid "IDS_PZUE904_ENG_CHANGZHENG"
+msgstr "推进系统：158200马力"
+
+msgid "IDS_PZUH904_CHANGZHENG"
+msgstr "长征"
+
+msgid "IDS_PZUS904_SUO_CHANGZHENG"
+msgstr "СУО X мод. 1"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS"
+msgstr ""
+"以副炮炮弹命中敌方战舰，每次命中可提高完成进度。\n"
+"如果您不活跃，将开始损失进度。当您的进度达到100%时，就不会损失。要启用作战指"
+"令，请按[CMD_ACTIVATE_RAGE_MODE]。"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "IX级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "X级特种战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "X级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "VII–VIII级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "VII–VIII级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE"
+msgstr "保卫祖国补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE_SHORT"
+msgstr "保卫祖国"
+
+msgid "IDS_RIBBON_SSE_EFFECTIVE_SMOKES"
+msgstr "掩护"
+
+msgid "IDS_RIBBON_SSE_MINE"
+msgstr "水雷命中"
+
+msgid "IDS_SHIP_MAIN_MC_AP_SUPER_OVERMATCH_GOOD"
+msgstr "大口径可以防止穿甲弹在击中厚度较低的装甲时跳弹"
+
+msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_CAOCAO"
+msgstr "曹操"
+
+msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_LIUBEI"
+msgstr "刘备"
+
+msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_SUNQUAN"
+msgstr "孙权"
+
+msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_TERRITORY"
+msgstr "进入领土"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TOOLTIP"
+msgstr "领土奖励"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SCORE"
+msgstr "领土点数"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SELECTED"
+msgstr "选定的领土"
+
+msgid "IDS_SUNQUAN"
+msgstr "孙权"
+
+msgid "IDS_UNLOCKS_3"
+msgstr "与真实玩家对战"
+
+msgid "IDS_UNLOCKS_3124"
+msgstr "在与电脑对战的同时，与团队一起完成剧情任务。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
+msgstr ""
+"在 \"行动 \"中，您的团队必须在与电脑战斗的同时完成各种任务。每个行动都有独特的"
+"故事元素。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
+msgstr "完成主要目标即可获得胜利。完成附加目标将获得更多资源。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
+msgstr "行动的难度取决于队伍中战舰的类型和等级。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgstr "与真实玩家对战。随机组成队伍。"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>随机战</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>行动</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_3"
+msgstr "战斗类型选择按钮位于 \"加入战斗\"按钮旁边。"
+
+msgid "IDS_UNLOCKS_LOCATION_3124"
+msgstr "在战斗类型选择屏幕上可用。"
+
+msgid "IDS_UNLOCKS_TITLE_3"
+msgstr "随机战"
+
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "行动"

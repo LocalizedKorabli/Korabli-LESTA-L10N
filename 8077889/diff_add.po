@@ -1,0 +1,684 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_THREE_KINGDOMS"
+msgstr "Принять активное участие в соревновании «Троецарствие»."
+
+msgid "IDS_ACHIEVEMENT_RVR_THREE_KINGDOMS"
+msgstr "Троецарствие"
+
+msgid "IDS_BOT_WARNING"
+msgstr "Корабль управляется ИИ"
+
+msgid "IDS_CAOCAO"
+msgstr "Cao Cao"
+
+msgid "IDS_CHAT_PLAYER_PRAISED_CHAT"
+msgstr "Вас похвалили за хорошие манеры"
+
+msgid "IDS_CHAT_PLAYER_PRAISED_PLAY"
+msgstr "Вас похвалили за хорошую игру"
+
+msgid "IDS_CONTEXT_TUTORIAL_MOVEMENT"
+msgstr " "
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_ATBA_HITS"
+msgstr "Оперативные ремонтные мероприятия"
+
+msgid "IDS_DOGTAG_PCNB433_DESCRIPTION"
+msgstr ""
+"Царство Вэй было одним из государств эпохи Троецарствия, боровшихся "
+"за контроль над Китаем в III в. Располагалось на севере. Чёрная черепаха, "
+"обвитая змеёй, традиционно считается животным-покровителем севера "
+"в китайской мифологии."
+
+msgid "IDS_DOGTAG_PCNB433_NAME"
+msgstr "Царство Вэй"
+
+msgid "IDS_DOGTAG_PCNB434_DESCRIPTION"
+msgstr ""
+"Царство Шу было одним из государств эпохи Троецарствия, боровшихся "
+"за контроль над Китаем в III в. Располагалось на западе. Белый тигр "
+"традиционно считается животным-покровителем запада в китайской мифологии."
+
+msgid "IDS_DOGTAG_PCNB434_NAME"
+msgstr "Царство Шу"
+
+msgid "IDS_DOGTAG_PCNB435_DESCRIPTION"
+msgstr ""
+"Царство У было одним из государств эпохи Троецарствия, боровшихся "
+"за контроль над Китаем в III в. Располагалось на востоке и юге. Лазурный "
+"дракон традиционно считается животным-покровителем востока в китайской "
+"мифологии."
+
+msgid "IDS_DOGTAG_PCNB435_NAME"
+msgstr "Царство У"
+
+msgid "IDS_DOGTAG_PCNB436_DESCRIPTION"
+msgstr ""
+"Этот символ императорской власти появился в 221 г. до н. э., после "
+"объединения Китая под началом Цинь Шихуанди, основателя династии Цинь. "
+"Императорская печать тесно связана с китайской политической культурой "
+"и представлением об особой связи между правящей династией и небом. "
+"Считалось, что обладающий этой печатью имеет «небесный мандат» "
+"на царствование над всем Китаем. Печать оставалась символом императорской "
+"власти на протяжении тысячелетия, пока не была утрачена в X в. н. э."
+
+msgid "IDS_DOGTAG_PCNB436_NAME"
+msgstr "Императорская печать"
+
+msgid "IDS_DOGTAG_PCNB438_DESCRIPTION"
+msgstr ""
+"В современной России сложилась традиция отмечать День кошек 1 марта. Как "
+"правило, в разных городах страны в первый день весны проходят выставки, "
+"соревнования и благотворительные акции, посвящённые кошкам."
+
+msgid "IDS_DOGTAG_PCNB438_NAME"
+msgstr "День кошек"
+
+msgid "IDS_FEAT_DEEPWATERTORP_BB_CRUISER_CV_DESC"
+msgstr ""
+"Имеют низкую заметность, поражают только линкоры, крейсеры и авианосцы."
+
+msgid "IDS_FEAT_GOOD_MC_AP_SUPER_OVERMATCH"
+msgstr "Бронебойные снаряды не рикошетят об обшивку кораблей"
+
+msgid "IDS_LIUBEI"
+msgstr "Liu Bei"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_3"
+msgstr ""
+"Царство Шу располагалось на западе Китая. Лю Бэй, основатель царства, "
+"претендовал на родство с императорской династией Хань, называя себя законным"
+" наследником."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_4"
+msgstr ""
+"Царство У располагалось на востоке и юге Китая. Считается, что Сунь Цюань, "
+"правитель царства, был потомком Сунь-цзы — знаменитого автора «Искусства "
+"войны». Сунь Цюань провозгласил себя императором, унаследовав земли "
+"от старшего брата, и стал самым молодым из трёх знаменитых лидеров эпохи "
+"Троецарствия."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_1"
+msgstr ""
+"После смерти Цао Цао царство У унаследовал его сын Цао Пи, который заставил "
+"императора Сянь-ди отречься от престола и сам взошёл на трон. Лю Бэй и Сунь "
+"Цюянь не признали Цао Пи императором — наступил новый этап борьбы между "
+"тремя царствами. В этот период реальная власть в царстве Вэй постепенно "
+"переходила к военачальнику и государственному деятелю Сыма И, семья которого"
+" стала фактически правящей династией. Его сын завоевал царство Шу, а его "
+"внук Сыма Янь сместил последнего правителя Цао и стал первым императором "
+"новой династии Цзинь."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_2"
+msgstr ""
+"В 280 г. империя Цзинь завоевала царство У и эпоха Троецарствия подошла "
+"к концу."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_3"
+msgstr ""
+"Троецарствие стало одним из самых кровопролитных периодов китайской истории."
+" Эпоха нашла отражение во множестве произведений культуры Китая и других "
+"стран Восточной Азии."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_4"
+msgstr "Новая династия"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_8"
+msgstr "опыт кораблей ветки будет переведён на корабль I уровня."
+
+msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_5"
+msgstr "Опыт кораблей ветки будет переведён на корабль I уровня."
+
+msgid "IDS_PARAMS_MODIFIER_PROGRESS_ATBA_HITS"
+msgstr "Прогресс за 8 попаданий снарядом ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_VULNERABILITYMINE"
+msgstr "Урон, получаемый от морских мин"
+
+msgid "IDS_PCEC137_MASLENNICA_CAMO"
+msgstr "Солнечный"
+
+msgid "IDS_PCEE641_THREEKINGDOMS_FLAG"
+msgstr "Царство Шу"
+
+msgid "IDS_PCEE641_THREEKINGDOMS_FLAG_DESCRIPTION"
+msgstr ""
+"Царство Шу было одним из государств эпохи Троецарствия, боровшихся "
+"за контроль над Китаем в III в. Располагалось на западе. Название "
+"Шу отсылает к одноимённому царству эпохи Чжоу, занимавшему приблизительно "
+"ту же территорию. Лю Бэй, основатель царства Шу, претендовал на родство "
+"с императорской династией Хань, называя себя законным наследником."
+
+msgid "IDS_PCEE642_THREEKINGDOMS_FLAG"
+msgstr "Царство У"
+
+msgid "IDS_PCEE642_THREEKINGDOMS_FLAG_DESCRIPTION"
+msgstr ""
+"Царство У было одним из государств эпохи Троецарствия, боровшихся "
+"за контроль над Китаем в III в. Располагалось на востоке и юге. Считается "
+"что Сунь Цюань, правитель царства, был потомком Сунь-цзы — знаменитого "
+"автора «Искусства войны». Сунь Цюань провозгласил себя императором, "
+"унаследовав земли от старшего брата, и стал самым молодым из трёх знаменитых"
+" лидеров эпохи Троецарствия."
+
+msgid "IDS_PCEE643_THREEKINGDOMS_FLAG"
+msgstr "Царство Вэй"
+
+msgid "IDS_PCEE643_THREEKINGDOMS_FLAG_DESCRIPTION"
+msgstr ""
+"Царство Вэй было одним из государств эпохи Троецарствия, боровшихся "
+"за контроль над Китаем в III в. Располагалось на севере. Основателем царства"
+" был Цао Цао, государственный деятель, фактически правивший империей Хань "
+"на её закате. Император пожаловал Цао Цао земли с десятью городами, которые "
+"и стали царством Вэй."
+
+msgid "IDS_PCEE667_23FEBRUARY_FLAG"
+msgstr "На страже Отечества"
+
+msgid "IDS_PCEE667_23FEBRUARY_FLAG_DESCRIPTION"
+msgstr ""
+"В ряде постсоветских стран 23 февраля отмечается День защитника Отечества. "
+"Праздник был учреждён в 1922 г. как годовщина образования Красной армии: "
+"считается, что именно в этот день в 1918 г. начали формироваться силы, "
+"давшие отпор немецким и австро-венгерским войскам, возобновившим наступление"
+" на территории бывшей Российской империи."
+
+msgid "IDS_PCEE668_KERCH_FLAG"
+msgstr "Керчь"
+
+msgid "IDS_PCEE668_KERCH_FLAG_DESCRIPTION"
+msgstr ""
+"Традиционным геральдическим символом Керчи является грифон, держащий ключ "
+"от Азовского и Чёрного морей. Мифическое крылатое существо с головой орла "
+"и телом льва впервые появляется ещё на золотых и серебряных монетах "
+"Боспорского царства — античного государства, располагавшегося в области "
+"Керченского пролива."
+
+msgid "IDS_PCEE669_CALLENBURGH_FLAG"
+msgstr "HNLMS Callenburgh"
+
+msgid "IDS_PCEE669_CALLENBURGH_FLAG_DESCRIPTION"
+msgstr ""
+"Герард Калленбюрг — адмирал нидерландского флота XVII в. Свои самые "
+"блистательные и знаменитые победы — в сражении у залива Виго и в бою "
+"при Малаге — Калленбюрг одержал, будучи адмирал-лейтенантом в Адмиралтействе"
+" Западной Фрисландии."
+
+msgid "IDS_PCEE670_CHANGZHENG_FLAG"
+msgstr "Changzheng"
+
+msgid "IDS_PCEE670_CHANGZHENG_FLAG_DESCRIPTION"
+msgstr ""
+"Флаг Рабоче-крестьянской Красной армии Китая, использовавшийся с 1934 г. "
+"до её расформирования. Под этим флагом армия совершила Великий поход "
+"(кит. «Чанчжэн») — стратегическое отступление в провинцию Шэньси. Китайские "
+"коммунисты во главе с Мао Цзэдуном преодолели тысячи километров, отбиваясь "
+"от сил Гоминьдана и теряя бойцов. В Китае Великий поход символизирует "
+"стойкость духа и возможность достичь всего, невзирая на любые трудности."
+
+msgid "IDS_PHAD015_CALLENBURGH_AS"
+msgstr "Fokker T.V"
+
+msgid "IDS_PHPA025_240MM_HE_CALLENBURGH"
+msgstr "240-мм HE Brisantgranaat"
+
+msgid "IDS_PHPA026_240MM_AP_CALLENBURGH"
+msgstr "240-мм AP Pantsergranaat"
+
+msgid "IDS_PHPB025_CALLENBURGH_AS_HE"
+msgstr "P.u.W. 160 kg"
+
+msgid "IDS_PHSC710"
+msgstr "Callenburgh"
+
+msgid "IDS_PHSC710_DESCR"
+msgstr ""
+"На фоне ухудшающейся международной обстановки в конце 1930-х гг. руководство"
+" флота Нидерландов решило строить крупные боевые корабли. Один из вариантов "
+"нового проекта предполагал увеличенное водоизмещение, вооружение из девяти "
+"240-мм орудий и трёхвальную силовую установку. Скорость позволяла бы кораблю"
+" уйти от столкновения с линейными крейсерами, а за счёт усиленных вооружения"
+" и бронирования он мог не бояться прямого столкновения с парой тяжёлых "
+"крейсеров."
+
+msgid "IDS_PHSC710_FULL"
+msgstr "Callenburgh"
+
+msgid "IDS_PHSC710_NUMBER"
+msgstr "1"
+
+msgid "IDS_PHSC710_YEAR"
+msgstr "1939 г."
+
+msgid "IDS_PHUA904_ART_CALLENBURGH"
+msgstr "240-мм/55 QF в башенной установке"
+
+msgid "IDS_PHUE904_ENG_CALLENBURGH"
+msgstr "ЭУ 126 000 л.с."
+
+msgid "IDS_PHUH904_HULL_CALLENBURGH"
+msgstr "Callenburgh"
+
+msgid "IDS_PHUS904_SUO_CALLENBURGH"
+msgstr "SUO Mk 10 Mod. 1"
+
+msgid "IDS_PJES341_IZUMO_MASLENNICA"
+msgstr "Масленица"
+
+msgid "IDS_PRES320_23FEBRUARY"
+msgstr "На страже Отечества"
+
+msgid "IDS_PRGA187_37MM_66K"
+msgstr "37-мм установка 66-К"
+
+msgid "IDS_PRGM204_152MM_53_M1929"
+msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+
+msgid "IDS_PRGM205_152MM_53_M1929_RF_ITL"
+msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+
+msgid "IDS_PRGM207_406MM_52_MK_5_16_QUADRUPLE"
+msgstr "406-мм/52 в установке МК-5-16"
+
+msgid "IDS_PRGM209_406_45_MK_2_16_TWIN"
+msgstr "406-мм/45 в установке МК-2-16"
+
+msgid "IDS_PRGM210_406_52_MK_3_16_TRIPLE"
+msgstr "406-мм/52 в установке МК-3-16"
+
+msgid "IDS_PRGT206_533MM_3_TUBE_ITL"
+msgstr "533-мм tubo lanciasiluri"
+
+msgid "IDS_PRPA210_152MM_HE_KERCH"
+msgstr "152-мм proiettili HE"
+
+msgid "IDS_PRPA211_152MM_AP_KERCH"
+msgstr "152-мм proiettili AP"
+
+msgid "IDS_PRPA212_406MM_HE_MOD1928"
+msgstr "406-мм ОФ обр. 1928 г."
+
+msgid "IDS_PRPA213_406MM_AP_MOD1928"
+msgstr "406-мм ББ обр. 1928 г."
+
+msgid "IDS_PRPA214_152MM_CS_KERCH"
+msgstr "152-мм proiettili CS 1926 mod.1"
+
+msgid "IDS_PRPT068_KERCH"
+msgstr "533-мм Si 270"
+
+msgid "IDS_PRSB207"
+msgstr "Сенявин"
+
+msgid "IDS_PRSB207_DESCR"
+msgstr ""
+"В 1921–22 гг. было разработано несколько вариантов проекта модернизации "
+"недостроенного линейного крейсера «Кинбурн» типа «Измаил». В конструкцию "
+"корабля предполагалось внести усовершенствования, учитывая опыт мировой "
+"войны. Главным отличием от исходного проекта была бы установка двухорудийных"
+" башен с 406-мм орудиями, некоторые варианты также предполагали усиленное "
+"бронирование."
+
+msgid "IDS_PRSB207_FULL"
+msgstr "Адмирал Сенявин"
+
+msgid "IDS_PRSB207_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB207_YEAR"
+msgstr "1922 г."
+
+msgid "IDS_PRSB208"
+msgstr "Истомин"
+
+msgid "IDS_PRSB208_DESCR"
+msgstr ""
+"В ожидании новых крупных программ строительства линкоров в 1914 г. была "
+"разработана серия проектов, над которыми совместно работали российские "
+"и немецкие инженеры. Корабли имели общие характеристики с типом Bayern, "
+"который в то время разрабатывался в Германии. Проект № 4 имел 12 орудий "
+"калибра 406 мм в трёхорудийных башнях, которые располагались продольно."
+
+msgid "IDS_PRSB208_FULL"
+msgstr "Адмирал Истомин"
+
+msgid "IDS_PRSB208_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB208_YEAR"
+msgstr "1914 г."
+
+msgid "IDS_PRSB209"
+msgstr "Корнилов"
+
+msgid "IDS_PRSB209_DESCR"
+msgstr ""
+"В феврале 1914 г. проектным бюро Путиловской верфи в кооперации с инженерами"
+" германской фирмы Blohm & Voss была разработана серия проектов линейных "
+"кораблей в духе германской конструкторской школы. Корабли несли в себе черты"
+" разрабатывавшихся в Германии линкоров типа Bayern. Проект № 9 имел три "
+"четырёхорудийные башни с 406-мм орудиями, которые располагались продольно."
+
+msgid "IDS_PRSB209_FULL"
+msgstr "Адмирал Корнилов"
+
+msgid "IDS_PRSB209_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB209_YEAR"
+msgstr "1914 г."
+
+msgid "IDS_PRSB210"
+msgstr "Лазарев"
+
+msgid "IDS_PRSB210_DESCR"
+msgstr ""
+"В 1914 г. Морское министерство создало рекомендации для нового линкора, "
+"которые базировались на разработках Главного управления кораблестроения. "
+"Инженерами Путиловской верфи было разработано несколько вариантов этого "
+"проекта. В конструктивном отношении линкор представлял бы собой увеличенный "
+"корпус «Измаила». Вариант за номером VIII был вооружён двенадцатью 406-мм "
+"орудиями в трёх башнях, расположенных по линейно-возвышенной схеме."
+
+msgid "IDS_PRSB210_FULL"
+msgstr "Адмирал Лазарев"
+
+msgid "IDS_PRSB210_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB210_YEAR"
+msgstr "1915 г."
+
+msgid "IDS_PRSC516"
+msgstr "Керчь"
+
+msgid "IDS_PRSC516_DESCR"
+msgstr ""
+"Итальянский крейсер Emanuele Filiberto Duca d’Aosta в 1949 г. был передан "
+"СССР под условным названием Z-11 в рамках репараций. В советском флоте "
+"корабль был переименован сначала в «Сталинград», а затем в «Керчь». Крейсер "
+"был модернизирован на Севастопольском морском заводе имени С. Орджоникидзе, "
+"получив советское оборудование. В основном корабль использовался для учебных"
+" целей."
+
+msgid "IDS_PRSC516_FULL"
+msgstr "Керчь"
+
+msgid "IDS_PRSC516_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSC516_YEAR"
+msgstr "1935 г."
+
+msgid "IDS_PRUA505_ART_KERCH"
+msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+
+msgid "IDS_PRUA604_B7_ART_STOCK"
+msgstr "406-мм/45 в установке МК-2-16"
+
+msgid "IDS_PRUA713_B8_ART_STOCK"
+msgstr "406-мм/52 в установке МК-3-16"
+
+msgid "IDS_PRUA809_B9_ART_STOCK"
+msgstr "406-мм/52 в установке МК-5-16"
+
+msgid "IDS_PRUA920_B10_ART_STOCK"
+msgstr "406-мм/52 в установке МК-5-16"
+
+msgid "IDS_PRUE506_ENG_KERCH"
+msgstr "ЭУ 128 000 л.с."
+
+msgid "IDS_PRUE605_B7_ENG_STOCK"
+msgstr "ЭУ 86 000 л.с."
+
+msgid "IDS_PRUE719_B8_ENG_STOCK"
+msgstr "ЭУ 140 000 л.с."
+
+msgid "IDS_PRUE810_B9_ENG_STOCK"
+msgstr "ЭУ 144 000 л.с."
+
+msgid "IDS_PRUE922_B10_ENG_STOCK"
+msgstr "ЭУ 200 000 л.с."
+
+msgid "IDS_PRUH510_HULL_KERCH"
+msgstr "Керчь"
+
+msgid "IDS_PRUH608_B7_HULL_A"
+msgstr "Адмирал Сенявин (A)"
+
+msgid "IDS_PRUH609_B7_HULL_B"
+msgstr "Адмирал Сенявин (B)"
+
+msgid "IDS_PRUH728_B8_HULL_STOCK"
+msgstr "Адмирал Истомин (A)"
+
+msgid "IDS_PRUH729_B8_HULL_TOP"
+msgstr "Адмирал Истомин (B)"
+
+msgid "IDS_PRUH821_B9_HULL_A"
+msgstr "Адмирал Корнилов (A)"
+
+msgid "IDS_PRUH822_B9_HULL_B"
+msgstr "Адмирал Корнилов (B)"
+
+msgid "IDS_PRUH922_B10_HULL_STOCK"
+msgstr "Адмирал Лазарев"
+
+msgid "IDS_PRUS506_SUO_KERCH"
+msgstr "СУО VI мод. 1"
+
+msgid "IDS_PRUS606_B7_SUO_STOCK"
+msgstr "СУО VII мод. 1"
+
+msgid "IDS_PRUS607_B7_SUO_TOP"
+msgstr "СУО VII мод. 2"
+
+msgid "IDS_PRUS708_B8_SUO_STOCK"
+msgstr "СУО VIII мод. 1"
+
+msgid "IDS_PRUS709_B8_SUO_TOP"
+msgstr "СУО VII мод. 2"
+
+msgid "IDS_PRUS808_B9_SUO_STOCK"
+msgstr "СУО IX мод. 1"
+
+msgid "IDS_PRUS809_B9_SUO_TOP"
+msgstr "СУО IX мод. 2"
+
+msgid "IDS_PRUS918_B10_SUO_STOCK"
+msgstr "СУО X мод. 1"
+
+msgid "IDS_PRUT502_TORP_KERCH"
+msgstr "533-мм Si 270"
+
+msgid "IDS_PZAD910_ASW_T10"
+msgstr "Бериев Бе-6"
+
+msgid "IDS_PZES719_3KINGS_BENMA"
+msgstr "Воинственная черепаха"
+
+msgid "IDS_PZGM136_457MM_48"
+msgstr "457-мм/48 Б-45 в установке СМ-8"
+
+msgid "IDS_PZGS159_152MM_57_MK_5"
+msgstr "152-мм/57 Б-38 в установке МK-5"
+
+msgid "IDS_PZGS160_130MM_BL_109A"
+msgstr "130-мм/60 в установке БЛ-109А"
+
+msgid "IDS_PZPA073_457MM_HE_CHANGZHENG"
+msgstr "457-мм ОФ обр. 1946 г."
+
+msgid "IDS_PZPA074_457MM_AP_CHANGZHENG"
+msgstr "457-мм ББ обр. 1946 г."
+
+msgid "IDS_PZPA075_130MM_HE_OF42_SG"
+msgstr "130-мм ОФ-42"
+
+msgid "IDS_PZSB610"
+msgstr "Changzheng"
+
+msgid "IDS_PZSB610_DESCR"
+msgstr ""
+"Гипотетический проект модернизации линейного корабля типа Yamato, поднятого "
+"и переданного после войны в состав китайского флота. В рамках программы "
+"научно-технической помощи, существовавшей между СССР и КНР, в работе "
+"над проектом приняли бы участие советские специалисты. Линейный корабль "
+"получил бы советские вооружение и электронику."
+
+msgid "IDS_PZSB610_FULL"
+msgstr "Changzheng"
+
+msgid "IDS_PZSB610_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB610_YEAR"
+msgstr "1949 г."
+
+msgid "IDS_PZUA904_ART_CHANGZHENG"
+msgstr "457-мм/48 Б-45 в установке СМ-8"
+
+msgid "IDS_PZUE904_ENG_CHANGZHENG"
+msgstr "ЭУ 158 200 л.с."
+
+msgid "IDS_PZUH904_CHANGZHENG"
+msgstr "Changzheng"
+
+msgid "IDS_PZUS904_SUO_CHANGZHENG"
+msgstr "СУО X мод. 1"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS"
+msgstr ""
+"Попадайте снарядами ПМК по кораблям противника, увеличивая прогресс выполнения условия.\n"
+"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян. Для активации боевых инструкций нажмите [CMD_ACTIVATE_RAGE_MODE]."
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL"
+msgstr "Корабль"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль IX уровня"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX уровень"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Особый корабль X уровня"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "X уровень"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Премиум корабль VII–VIII уровня"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "VII–VIII уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE"
+msgstr "Премиум контейнер «На страже Отечества»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE_SHORT"
+msgstr "На страже Отечества"
+
+msgid "IDS_RIBBON_SSE_EFFECTIVE_SMOKES"
+msgstr "Прикрыл"
+
+msgid "IDS_RIBBON_SSE_MINE"
+msgstr "Повредил корабль противника миной"
+
+msgid "IDS_SHIP_MAIN_MC_AP_SUPER_OVERMATCH_GOOD"
+msgstr "ББ-снаряды не рикошетят об обшивку кораблей"
+
+msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_CAOCAO"
+msgstr "Cao Cao"
+
+msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_LIUBEI"
+msgstr "Liu Bei"
+
+msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_SUNQUAN"
+msgstr "Sun Quan"
+
+msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_TERRITORY"
+msgstr "Перейти к территории"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TOOLTIP"
+msgstr "Награды территории"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SCORE"
+msgstr "Очки территории"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SELECTED"
+msgstr "Выбранная территория"
+
+msgid "IDS_SUNQUAN"
+msgstr "Sun Quan"
+
+msgid "IDS_UNLOCKS_3"
+msgstr "Сражайтесь против реальных игроков."
+
+msgid "IDS_UNLOCKS_3124"
+msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
+msgstr ""
+"В Операциях вашей команде необходимо выполнять различные задания, сражаясь "
+"с ботами. Каждая Операция обладает уникальными сюжетными элементами."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
+msgstr ""
+"Достигните основной цели, чтобы одержать победу. Выполнение дополнительных "
+"задач увеличит количество заработанных за бой ресурсов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
+msgstr ""
+"Сложность Операции зависит от уровней и классов кораблей в вашей команде."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgstr ""
+"Сражайтесь против реальных игроков. Составы команд подбираются случайным "
+"образом."
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Случайные бои</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Операции</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_3"
+msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
+
+msgid "IDS_UNLOCKS_LOCATION_3124"
+msgstr "Доступно на экране выбора типа боя."
+
+msgid "IDS_UNLOCKS_TITLE_3"
+msgstr "Случайные бои"
+
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "Операции"
