@@ -48,8 +48,8 @@ A：每次大版本更新时都会更换bin目录下的文件夹，重新安装�
 
 ### 提交 Pull Request
 
-请修改global_<版本>-latest.po，并与 Localizations 分支比较。
+请修改指定版本的global.po，并与Localizations分支比较。
 
 ### 参加讨论
 
-进入本仓库 Discussions 版块参加讨论，请保持友善交流~
+进入本仓库Discussions版块参加讨论，请保持友善交流~
