@@ -14,19 +14,21 @@
 
 #### GitHub
 
-1. 汉化包：在本仓库[Releases](https://github.com/Nova-Committee/Korabli-LESTA-L10N/releases)中，寻找“客户端版本号”数值最大、“发布时间”最晚的发布版本（发布版本的命名格式是“客户端版本号-发布时间”，如“7703463-20231007.1953”），下载该发布版本下的global.mo文件；
-2. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.01.02.1716/L10nInstaller-v2024.01.02.1716.exe)。
+1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.03.24.2339/L10nInstaller-v2024.03.24.2339.exe)。
+2. 汉化包（汉化安装器已内置汉化包下载功能，按需下载）：在本仓库[Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases)中，寻找“客户端版本号”数值最大、“发布时间”最晚的发布版本（发布版本的命名格式是“客户端版本号-发布时间”，如“7703463-20231007.1953”），下载该发布版本下的global.mo文件；
 
 #### 国内网盘
 
 [蓝奏云分享](https://tapio.lanzouw.com/b01lit85i)（密码：256r）
 
-1. 汉化包：根据游戏版本选择正确的文件夹，下载最新压缩包并解压出global.mo文件；
-2. 汉化安装器：选择“汉化安装器”文件夹，下载最新exe文件。
+1. 汉化安装器：选择“汉化安装器”文件夹，下载最新exe文件。
+2. 汉化包（汉化安装器已内置汉化包下载功能，按需下载）：根据游戏版本选择正确的文件夹，下载最新压缩包并解压出global.mo文件；
+
 
 ### 安装
 
-下载汉化包和汉化安装器，后者放入战舰世界安装目录后运行，按程序指示操作。
+下载汉化安装器，放入战舰世界安装目录后运行，按程序指示操作。
+若汉化安装器内置下载失败，请手动下载汉化包并选择“使用本地文件”。
 
 ## 常见问题
 
