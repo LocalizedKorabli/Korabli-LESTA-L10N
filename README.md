@@ -69,3 +69,11 @@ A：部分意译船名可能存在敏感内容，会给想要直播莱服游玩�
 ### 参加讨论
 
 进入本仓库Discussions版块参加讨论，请保持友善交流~
+
+## 相关链接
+
+[Gitee](https://gitee.com/nova-committee/korabli-LESTA-L10N)
+
+[Bilibili专栏](https://www.bilibili.com/opus/918285182086152224)
+
+[Patreon](https://www.patreon.com/LocalizedKorabli)
