@@ -62,13 +62,7 @@ A：部分意译船名可能存在敏感内容，会给想要直播莱服游玩�
 
 ## 贡献
 
-### 提交 Pull Request
-
-请修改指定版本的global.po，并与Localizations分支比较。
-
-### 参加讨论
-
-进入本仓库Discussions版块参加讨论，请保持友善交流~
+见[贡献指南](CONTRIBUTING.md)。
 
 ## 相关链接
 
