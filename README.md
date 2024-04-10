@@ -74,6 +74,8 @@ A：部分意译船名可能存在敏感内容，会给想要直播莱服游玩�
 
 [Gitee](https://gitee.com/nova-committee/korabli-LESTA-L10N)
 
+[Korabli Forum发布页](https://forum.korabli.su/topic/161848-133-%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%E4%B8%AD%E6%96%87%E6%9C%AC%E5%9C%B0%E5%8C%96/)
+
 [Bilibili专栏](https://www.bilibili.com/opus/918285182086152224)
 
 [Patreon](https://www.patreon.com/LocalizedKorabli)
