@@ -1,7 +1,7 @@
 ---
 name: 文本脱键（显示IDS_XXXX）
 about: 报告脱键的文本
-title: 翻译脱键
+title: 文本脱键
 labels: bug
 assignees: MikhailTapio
 
