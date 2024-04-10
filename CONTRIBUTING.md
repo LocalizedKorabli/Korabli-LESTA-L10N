@@ -4,7 +4,7 @@
 
 请尽量使用议题模板（Issue Templates）。
 
-## 拉取请求（Pull Request）
+## 拉取请求（Pull Requests）
 
 ### 文件更改与提交
 请在新的分支修改global.po文件，修改完毕后使用[POEdit](https://poedit.net/)保存以生成global.mo文件。与Localizations分支比较并提交Pull Request。
