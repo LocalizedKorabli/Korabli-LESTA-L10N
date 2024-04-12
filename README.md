@@ -17,7 +17,7 @@
 
 #### GitHub
 
-1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.04.07.1440/L10nInstaller-v2024.04.07.1440.exe)；
+1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.04.12.1100/L10nInstaller-v2024.04.12.1100.exe)；
 2. 汉化包（汉化安装器已内置汉化包下载功能，按需下载）：在本仓库[Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases)中，寻找“客户端版本号”数值最大、“发布时间”最晚的发布版本（发布版本的命名格式是“客户端版本号-发布时间”，如“7703463-20231007.1953”），下载该发布版本下的global.mo文件；
 
 #### 国内网盘
