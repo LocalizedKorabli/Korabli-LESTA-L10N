@@ -1,6 +1,4 @@
-# Korabli-LESTA-L10N（战舰世界LESTA服非官方本地化）
-
-## 背景
+# 背景
 
 自2022年9月20日起，战舰世界独联体区玩家开始转移，一部分选择并入Wargaming直营欧服，另一部分则被分流到Lesta Games管理的新俄服（LESTA服）。
 
@@ -11,42 +9,42 @@
 
 于是，本项目应运而生。
 
-## 如何使用
+# 如何使用？
 
-### 下载
+## 下载
 
-#### GitHub
+### GitHub
 
 1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.04.12.1100/L10nInstaller-v2024.04.12.1100.exe)；
 2. 汉化包（汉化安装器已内置汉化包下载功能，按需下载）：在本仓库[Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases)中，寻找“客户端版本号”数值最大、“发布时间”最晚的发布版本（发布版本的命名格式是“客户端版本号-发布时间”，如“7703463-20231007.1953”），下载该发布版本下的global.mo文件；
 
-#### 国内网盘
+### 国内网盘
 
-[蓝奏云分享](https://tapio.lanzouw.com/b01lit85i)（密码：256r）
+[蓝奏云](https://tapio.lanzouw.com/b01lit85i)（密码：256r）
 
 1. 汉化安装器：选择“汉化安装器”文件夹，下载最新exe文件；
 2. （汉化安装器已内置汉化包下载功能，按需下载）汉化包：根据游戏版本选择正确的文件夹，下载最新压缩包并解压出global.mo文件。
 
 
-### 安装
+## 安装
 
 1. 下载汉化安装器，放入战舰世界安装目录后运行，按程序指示操作；
 2. 若汉化安装器内置下载失败，请手动下载汉化包并选择“使用本地文件”。
 
-### 使用“模组（汉化修改包）”
+## 使用“模组（汉化修改包）”
 
 自v2024.03.30.1528版本开始，汉化安装器可以自动将放置于l10n_installer/mods/目录的po或mo文件应用到即将被安装的汉化包。
 
-#### 下载模组
+### 下载模组
 
-[蓝奏云分享](https://tapio.lanzn.com/b0nxzso2b) | [GitHub](https://github.com/LocalizedKorabli/L10nModifications)
+[蓝奏云](https://tapio.lanzn.com/b0nxzso2b) | [GitHub](https://github.com/LocalizedKorabli/L10nModifications)
 
-#### 安装模组
+### 安装模组
 
 1. 将相应模组的po或mo文件（从蓝奏云下载的模组需要先解压）放入游戏目录下l10n_installer文件夹下的mods文件夹（这些文件夹会在第一次运行汉化安装器时被创建）；
 2. 运行汉化安装器，在提示“是否将l10n_installer/mods/下的模组应用到汉化文件？”时输入Y后按回车键，等待安装器将汉化修改包应用到即将被安装的汉化包。
 
-## 常见问题
+# 常见问题
 
 Q：为什么兵工厂、造船厂没有被翻译？
 
@@ -60,11 +58,11 @@ Q：为什么一些本该意译的船名被音译了？
 
 A：部分意译船名可能存在敏感内容，会给想要直播莱服游玩的汉化用户带来不便。若您需要意译版本的船名，请考虑使用汉化修改包（使用方法见本文-如何使用-使用“模组（汉化修改包）”）。
 
-## 贡献
+# 贡献
 
-见[贡献指南](CONTRIBUTING.md)。
+[贡献指南](CONTRIBUTING.md)
 
-## 相关链接
+# 相关链接
 
 [Gitee](https://gitee.com/nova-committee/korabli-LESTA-L10N)
 
