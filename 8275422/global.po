@@ -1037,7 +1037,7 @@ msgid "IDS_ACHIEVEMENT_BD2_ARP"
 msgstr "看看我们逮到谁了！"
 
 msgid "IDS_ACHIEVEMENT_BD2_BISMARCK"
-msgstr "德国人还没来之前快点！"
+msgstr "在德国人还没来之前快点！"
 
 msgid "IDS_ACHIEVEMENT_BD2_CAMO"
 msgstr "金灿灿！"
@@ -1061,7 +1061,7 @@ msgid "IDS_ACHIEVEMENT_BD2_GB"
 msgstr "传说中的引信"
 
 msgid "IDS_ACHIEVEMENT_BD2_GE"
-msgstr "找到你，击沉你！"
+msgstr "找到你，然后击沉你！"
 
 msgid "IDS_ACHIEVEMENT_BD2_HW2016"
 msgstr "敌人大势已去"
@@ -1079,7 +1079,7 @@ msgid "IDS_ACHIEVEMENT_BD2_RANKS"
 msgstr "像职业的一样"
 
 msgid "IDS_ACHIEVEMENT_BD2_USSR"
-msgstr "冲C点！"
+msgstr "冲击C点！"
 
 msgid "IDS_ACHIEVEMENT_BD6_AIRCARRIERS"
 msgstr "好事之徒"
