@@ -41733,7 +41733,7 @@ msgid "IDS_PAAD010_DOUGLAS_BTD_1"
 msgstr "Douglas BTD-1"
 
 msgid "IDS_PAAD011_KAISER_FLEETWINGS_XBTK"
-msgstr "凯撒 XBTK-1"
+msgstr "Kaiser XBTK-1"
 
 msgid "IDS_PAAD012_DOUGLAS_SBD3"
 msgstr "Douglas SBD-3"
@@ -41766,7 +41766,7 @@ msgid "IDS_PAAD110_MIDWAY_STOCK"
 msgstr "AD-1 Skyraider"
 
 msgid "IDS_PAAD111_KAISER_FLEETWINGS_XBTK_AP"
-msgstr "凯撒 XBTK-1"
+msgstr "Kaiser XBTK-1"
 
 msgid "IDS_PAAD118_YORKTOWN_STOCK"
 msgstr "SB2C-4 Helldiver"
@@ -41991,7 +41991,7 @@ msgid "IDS_PAAF310_MIDWAY_TOP"
 msgstr "F8F Bearcat"
 
 msgid "IDS_PAAF311_HALFORD_TOP"
-msgstr "F8F Bearcat float"
+msgstr "F8F Bearcat float"
 
 msgid "IDS_PAAF318_YORKTOWN_TOP"
 msgstr "F4U-1D Corsair"
@@ -42510,13 +42510,13 @@ msgid "IDS_PAGA104_3IN50_MK10"
 msgstr "76.2 mm/50 Mk.10（Mk.11炮座）"
 
 msgid "IDS_PAGA112_HOTCHKISS_MG_MK1"
-msgstr "7.62 mm Hotchkiss"
+msgstr "7.62 mm Hotchkiss"
 
 msgid "IDS_PAGA116_1PDR_AA_MAXIM"
 msgstr "37 mm/40 Maxim（单装炮座）"
 
 msgid "IDS_PAGA128_3IN70_MARK37"
-msgstr "76.2 mm/70 Mk.23（Mk.37 mod. 0炮座）"
+msgstr "76.2 mm/70 Mk.23（Mk.37 mod.0炮座）"
 
 msgid "IDS_PAGA173_3IN50_TWIN_MARK_33"
 msgstr "76.2 mm/50 Mk.22（Mk.33炮座）"
@@ -42564,7 +42564,7 @@ msgid "IDS_PAGM020_8IN55_MK14_MOD1"
 msgstr "203 mm/55 Mk.14（三联装炮座）"
 
 msgid "IDS_PAGM021_8IN55_MK14_MOD2"
-msgstr "203 mm/55 Mk.14 （双联装炮座）"
+msgstr "203 mm/55 Mk.14（双联装炮座）"
 
 msgid "IDS_PAGM022_5IN38_MK24"
 msgstr "127 mm/38 Mk.12（Mk.24炮座）"
@@ -42633,7 +42633,7 @@ msgid "IDS_PAGM077_6IN47_MK16"
 msgstr "152 mm/47 DP Mk.16（炮塔）"
 
 msgid "IDS_PAGM079_3IN50_MK22_MOD2"
-msgstr "76.2 mm/50 Mk22 mod. 2"
+msgstr "76.2 mm/50 Mk22 mod.2"
 
 msgid "IDS_PAGM080_16IN50_MK7"
 msgstr "406 mm/45 Mk.7（炮塔）"
@@ -42705,10 +42705,10 @@ msgid "IDS_PAGM121_5IN51_MK_7_MOD2"
 msgstr "127 mm/51 Mk.7（护盾式炮座）"
 
 msgid "IDS_PAGM122_8IN55_MK14_MOD1"
-msgstr "203 mm/55 Mk14 mod. 1"
+msgstr "203 mm/55 Mk14 mod.1"
 
 msgid "IDS_PAGM123_8IN55_MK14_MOD2"
-msgstr "203 mm/55 Mk14 mod. 2"
+msgstr "203 mm/55 Mk14 mod.2"
 
 msgid "IDS_PAGM124_12IN50_MK7"
 msgstr "305 mm/50 Mk.7（炮塔）"
@@ -42750,7 +42750,7 @@ msgid "IDS_PAGM150_5IN38_MK24_MOD6"
 msgstr "127 mm/38 Mk.12（Mk.30炮座）"
 
 msgid "IDS_PAGM151_8IN55_MK14_MOD1"
-msgstr "203 mm/55 Mk14 mod. 1"
+msgstr "203 mm/55 Mk14 mod.1"
 
 msgid "IDS_PAGM152_6IN50_MK6"
 msgstr "152 mm/50 Mk.6（单装炮座）"
@@ -42912,7 +42912,7 @@ msgid "IDS_PAGS061_5IN50_MK5"
 msgstr "127 mm/50 Mk5"
 
 msgid "IDS_PAGS062_5IN38_MK21"
-msgstr "127 mm/38 Mk21 mod. 1"
+msgstr "127 mm/38 Mk21 mod.1"
 
 msgid "IDS_PAGS063_3IN50_MK5"
 msgstr "76.2 mm/50 Mk5"
@@ -42924,10 +42924,10 @@ msgid "IDS_PAGS068_4_7IN_MK3"
 msgstr "120 mm/50 Mk.3（单装炮座）"
 
 msgid "IDS_PAGS085_5IN51_MK_7_MOD2"
-msgstr "127 mm/51 Mk7 mod. 2"
+msgstr "127 mm/51 Mk7 mod.2"
 
 msgid "IDS_PAGS086_5IN51_MK_7_MOD2"
-msgstr "127 mm/51 Mk7 mod. 2"
+msgstr "127 mm/51 Mk7 mod.2"
 
 msgid "IDS_PAGS092_5IN38_MK38_MOD0"
 msgstr "127 mm/38 Mk.12（Mk.38炮座）"
@@ -43143,10 +43143,10 @@ msgid "IDS_PAPA028_SHELL_152MM_HE_C_105LBS"
 msgstr "152 mm HE 105 lb"
 
 msgid "IDS_PAPA029_SHELL_152MM_AP_SC_MK_27_MOD_2"
-msgstr "152 mm AP/SC Mk27 mod. 2"
+msgstr "152 mm AP/SC Mk27 mod.2"
 
 msgid "IDS_PAPA030_SHELL_152MM_HE_HC_MARK_34_MOD_1"
-msgstr "152 mm HE/HC Mk34 mod. 1"
+msgstr "152 mm HE/HC Mk34 mod.1"
 
 msgid "IDS_PAPA031_SHELL_152MM_AP_AP_105LBS"
 msgstr "152 mm AP 105 lb"
@@ -43218,7 +43218,7 @@ msgid "IDS_PAPA053_356MM_AP_EARLY_AP_1400LBS"
 msgstr "356 mm AP Early 1400 lb"
 
 msgid "IDS_PAPA054_SHELL_305MM_AP_AP_MK15"
-msgstr "305 mm AP Mk15 mod. 1"
+msgstr "305 mm AP Mk15 mod.1"
 
 msgid "IDS_PAPA055_305MM_AP_AP_870LBS"
 msgstr "305 mm AP 870 lb"
@@ -43239,7 +43239,7 @@ msgid "IDS_PAPA060_406MM_HE_HE_MK_2"
 msgstr "406 mm HE Mk2"
 
 msgid "IDS_PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5"
-msgstr "152 mm AP/SC Mk27 mod. 5"
+msgstr "152 mm AP/SC Mk27 mod.5"
 
 msgid "IDS_PAPA062_SHELL_356MM_AP_MK_16_ARIZONA"
 msgstr "356 mm AP Mk16"
@@ -43317,10 +43317,10 @@ msgid "IDS_PAPA086_127MM_AP_MONAGHAN"
 msgstr "127 mm AP/SC Mk38"
 
 msgid "IDS_PAPA087_305MM_HE_ALASKA_MK17M1"
-msgstr "305 mm HE Mk17 mod. 1"
+msgstr "305 mm HE Mk17 mod.1"
 
 msgid "IDS_PAPA088_305MM_AP_ALASKA_MK18M1"
-msgstr "305 mm AP Mk18 mod. 1"
+msgstr "305 mm AP Mk18 mod.1"
 
 msgid "IDS_PAPA089_127MM_HE_BOISE"
 msgstr "127 mm HE/HC Mk36"
@@ -43398,10 +43398,10 @@ msgid "IDS_PAPA115_457MM_AP_OHIO_SH"
 msgstr "457 mm AP Type B"
 
 msgid "IDS_PAPA116_305MM_HE_P_RICO_MK17M1"
-msgstr "305 mm HE Mk17 mod. 1"
+msgstr "305 mm HE Mk17 mod.1"
 
 msgid "IDS_PAPA117_305MM_AP_P_RICO_MK18M1"
-msgstr "305 mm AP Mk18 mod. 1"
+msgstr "305 mm AP Mk18 mod.1"
 
 msgid "IDS_PAPA118_356MM_HE_MK22_CALIFORNIA"
 msgstr "356 mm HE/HC Mk22"
@@ -43422,10 +43422,10 @@ msgid "IDS_PAPA123_457MM_AP_18_47_B1"
 msgstr "457 mm AP Type B"
 
 msgid "IDS_PAPA124_356MM_HE_FLORIDA"
-msgstr "356 mm HE/HC Mk22 mod. 1"
+msgstr "356 mm HE/HC Mk22 mod.1"
 
 msgid "IDS_PAPA125_356MM_AP_FLORIDA"
-msgstr "356 mm AP Mk16 mod. 1"
+msgstr "356 mm AP Mk16 mod.1"
 
 msgid "IDS_PAPA126_356MM_HE_OKLAHOMA"
 msgstr "356 mm HE 1400 lb"
@@ -43434,10 +43434,10 @@ msgid "IDS_PAPA127_356MM_AP_OKLAHOMA"
 msgstr "356 mm AP Early 1400 lb"
 
 msgid "IDS_PAPA128_SHELL_406MM_AP_AP_MK_8_MOD1"
-msgstr "406 mm AP Mk8 mod. 1"
+msgstr "406 mm AP Mk8 mod.1"
 
 msgid "IDS_PAPA129_SHELL_406MM_AP_AP_MK_5_MOD1"
-msgstr "406 mm AP Mk5 mod. 1"
+msgstr "406 mm AP Mk5 mod.1"
 
 msgid "IDS_PAPA130_127MM_HE_MK41_AUSTIN"
 msgstr "127 mm HE Mk.41"
@@ -43455,13 +43455,13 @@ msgid "IDS_PAPA134_406MM_HE_CONSTELLATION"
 msgstr "406 mm HE/HC Mk13"
 
 msgid "IDS_PAPA135_406MM_AP_CONSTELLATION"
-msgstr "406 mm AP Mk5 mod. 1"
+msgstr "406 mm AP Mk5 mod.1"
 
 msgid "IDS_PAPA136_305MM_HE_CONGRESS"
-msgstr "305 mm HE Mk17 mod. 1"
+msgstr "305 mm HE Mk17 mod.1"
 
 msgid "IDS_PAPA137_305MM_AP_CONGRESS"
-msgstr "305 mm AP Mk18 mod. 1"
+msgstr "305 mm AP Mk18 mod.1"
 
 msgid "IDS_PAPA138_203MM_HE_ROCHESTER"
 msgstr "203 mm HE/HC Mk25"
@@ -43725,7 +43725,7 @@ msgid "IDS_PAPR120_UNITED_STATES_STOCK"
 msgstr "HVAR 127 mm"
 
 msgid "IDS_PAPR121_UNITED_STATES_JET"
-msgstr "11.75-inch AR Rocket mod. 1"
+msgstr "11.75-inch AR Rocket mod.1"
 
 msgid "IDS_PAPR206_RANGER_TOP"
 msgstr "5-inch FFAR"
@@ -43770,19 +43770,19 @@ msgid "IDS_PAPR998_CONCORD_BRIDGE"
 msgstr "Tiny Tim"
 
 msgid "IDS_PAPT001_TORPEDO_533MM_MK_15"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod.0"
 
 msgid "IDS_PAPT002_HALFORD_MK15"
-msgstr "Mk29 mod. 1"
+msgstr "Mk29 mod.1"
 
 msgid "IDS_PAPT005_BLISS_LEAVITT_MK6"
 msgstr "Bliss Leavitt Mk6"
 
 msgid "IDS_PAPT006_BLISS_LEAVITT_MK7_MOD_5A"
-msgstr "Bliss Leavitt Mk7 mod. 5A"
+msgstr "Bliss Leavitt Mk7 mod.5A"
 
 msgid "IDS_PAPT007_BLISS_LEAVITT_MK7_MOD_2A"
-msgstr "Bliss Leavitt Mk7 mod. 2A"
+msgstr "Bliss Leavitt Mk7 mod.2A"
 
 msgid "IDS_PAPT008_MK_17"
 msgstr "Mk17"
@@ -43791,79 +43791,79 @@ msgid "IDS_PAPT009_MK_11"
 msgstr "Mk11"
 
 msgid "IDS_PAPT010_MK_13_MOD0A"
-msgstr "Mk13 mod. 0A"
+msgstr "Mk13 mod.0A"
 
 msgid "IDS_PAPT012_BLISS_LEAVITT_MK7_TYPE_DA"
 msgstr "Bliss Leavitt Mk7 Type DA"
 
 msgid "IDS_PAPT013_MK_25_MOD3A"
-msgstr "Mk25 mod. 3A"
+msgstr "Mk25 mod.3A"
 
 msgid "IDS_PAPT014_BLISS_LEAVITT_MK3"
 msgstr "Bliss Leavitt Mk3"
 
 msgid "IDS_PAPT015_MK8_MOD2B"
-msgstr "Mk8 mod. 2B"
+msgstr "Mk8 mod.2B"
 
 msgid "IDS_PAPT016_MK_8_MOD3B"
-msgstr "Mk8 mod. 3B"
+msgstr "Mk8 mod.3B"
 
 msgid "IDS_PAPT017_MK8_MOD8"
-msgstr "Mk8 mod. 8"
+msgstr "Mk8 mod.8"
 
 msgid "IDS_PAPT018_MK_15_MOD_3"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAPT019_WHITEHEAD_MK5"
 msgstr "Whitehead Mk5"
 
 msgid "IDS_PAPT020_BLISS_LEAVITT_MK7_MOD_0"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod.0"
 
 msgid "IDS_PAPT021_BLISS_LEAVITT_MARK_9_MOD_1B"
-msgstr "Bliss Leavitt Mk9 mod. 1b"
+msgstr "Bliss Leavitt Mk9 mod.1b"
 
 msgid "IDS_PAPT022_BLISS_LEAVITT_MARK_9_MOD_1"
-msgstr "Bliss Leavitt Mk9 mod. 1"
+msgstr "Bliss Leavitt Mk9 mod.1"
 
 msgid "IDS_PAPT023_MK_12"
 msgstr "Mk12"
 
 msgid "IDS_PAPT024_MK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod.3"
 
 msgid "IDS_PAPT025_MK_14_MOD_0"
-msgstr "Mk14 mod. 0"
+msgstr "Mk14 mod.0"
 
 msgid "IDS_PAPT026_MK_16_MOD_0"
-msgstr "Mk16 mod. 0"
+msgstr "Mk16 mod.0"
 
 msgid "IDS_PAPT027_MK_16_MOD_1"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PAPT028_TORPEDO_533MM_MK_15_SIMS"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod.0"
 
 msgid "IDS_PAPT029_MK_15_MOD_ATLANTA"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAPT030_BLACK"
 msgstr "Mk29"
 
 msgid "IDS_PAPT031_KIDD"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAPT032_MONAGHAN"
 msgstr "Mark 12"
 
 msgid "IDS_PAPT033_MONAGHAN_MK15"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAPT034_SMITH"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod.0"
 
 msgid "IDS_PAPT035_TST_GEARING_1"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PAPT036_TST_GEARING_2"
 msgstr "Mk17"
@@ -43878,7 +43878,7 @@ msgid "IDS_PAPT039_SOMERS"
 msgstr "Mk17"
 
 msgid "IDS_PAPT041_MK22_SUB"
-msgstr "Mk22 mod. 1"
+msgstr "Mk22 mod.1"
 
 msgid "IDS_PAPT042_MK28_SUB_MAGNETIC"
 msgstr "Mk28 MIE"
@@ -43890,13 +43890,13 @@ msgid "IDS_PAPT044_MK29_SUB_MAGNETIC"
 msgstr "Mk29 MIE"
 
 msgid "IDS_PAPT045_533MM_ANCHORAGE"
-msgstr "533 mm Mk16 mod. 1"
+msgstr "533 mm Mk16 mod.1"
 
 msgid "IDS_PAPT046_MK17_AUSTIN"
-msgstr "533 mm Mk16 mod. 1"
+msgstr "533 mm Mk16 mod.1"
 
 msgid "IDS_PAPT047_MK_11_CONSTELLATION"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAPT048_MK28_SUB"
 msgstr "Mk28"
@@ -43905,22 +43905,22 @@ msgid "IDS_PAPT050_533_SHERMAN"
 msgstr "Mk17"
 
 msgid "IDS_PAPT051_533MM_MK15_S_DIEGO"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAPT052_GATO_SUB"
-msgstr "Mark 29 mod 1"
+msgstr "Mark 29 mod.1"
 
 msgid "IDS_PAPT053_MK22_MOD0_SUB"
-msgstr "Mk22 mod. 0"
+msgstr "Mk22 mod.0"
 
 msgid "IDS_PAPT054_MK28_MOD0_SUB"
-msgstr "Mk28 mod. 0"
+msgstr "Mk28 mod.0"
 
 msgid "IDS_PAPT055_MK28_MOD0_SUB_MAGNETIC"
-msgstr "Mk28 mod. 0 MIE"
+msgstr "Mk28 mod.0 MIE"
 
 msgid "IDS_PAPT056_MK29_MOD0_SUB"
-msgstr "Mk29 mod. 0"
+msgstr "Mk29 mod.0"
 
 msgid "IDS_PAPT057_533MM_BLISS_L_MK2"
 msgstr "Bliss Leavitt Mk2"
@@ -43935,7 +43935,7 @@ msgid "IDS_PAPT060_GATO_MZ"
 msgstr "Mark 29 Mag 2"
 
 msgid "IDS_PAPT061_MAYO"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAPT104_LANGLEY_STOCK"
 msgstr "Torpedo Mk.7D"
@@ -43947,7 +43947,7 @@ msgid "IDS_PAPT108_LEXINGTON_STOCK"
 msgstr "Torpedo Mk.13-2"
 
 msgid "IDS_PAPT110_MIDWAY_STOCK"
-msgstr "Torpedo Mk.7 mod. 1"
+msgstr "Torpedo Mk.7 mod.1"
 
 msgid "IDS_PAPT118_YORKTOWN_STOCK"
 msgstr "Torpedo Mk.13-2 Mod 1"
@@ -43962,7 +43962,7 @@ msgid "IDS_PAPT208_LEXINGTON_TOP"
 msgstr "Torpedo Mk.13-2"
 
 msgid "IDS_PAPT210_MIDWAY_TOP"
-msgstr "Torpedo Mk.7 mod. 1"
+msgstr "Torpedo Mk.7 mod.1"
 
 msgid "IDS_PAPT218_YORKTOWN_TOP"
 msgstr "Torpedo Mk.13-2 Mod 1"
@@ -43983,7 +43983,7 @@ msgid "IDS_PAPT777_TORPEDO_457_PROTOTYPE"
 msgstr "鱼雷 457 原型"
 
 msgid "IDS_PAPT910_MK_13_MOD0A_INDEPENDENCE"
-msgstr "Mk13 mod. 0A"
+msgstr "Mk13 mod.0A"
 
 msgid "IDS_PAPT911_BALAO_TEST"
 msgstr "Mk29"
@@ -43992,7 +43992,7 @@ msgid "IDS_PAPT912_BALAO_TEST_MZ"
 msgstr "Mk29 MIE"
 
 msgid "IDS_PAPT920_ESSEX_TOP"
-msgstr "Torpedo Mk.7 mod. 1"
+msgstr "Torpedo Mk.7 mod.1"
 
 msgid "IDS_PAPT998_CONCORD_BRIDGE"
 msgstr "Torpedo Mk.13-2"
@@ -44960,7 +44960,7 @@ msgid "IDS_PARAMS_MODIFIER_NEWWATERLINE"
 msgstr "最大深度"
 
 msgid "IDS_PARAMS_MODIFIER_NORMALTORPEDOSPEEDMULTIPLIER"
-msgstr "鱼雷航速"
+msgstr "舰载鱼雷航速"
 
 msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_DEPTHSTATE"
 msgstr "在最大深度时无法使用"
@@ -45362,7 +45362,7 @@ msgid "IDS_PARAMS_MODIFIER_SQUADRONSPEEDCOEFFFORRIBBONS"
 msgstr "中队速度"
 
 msgid "IDS_PARAMS_MODIFIER_STEERINGGEARJAMMEDWITHOUTSOFTCRIT"
-msgstr "方向舵卡住。"
+msgstr "方向舵卡住"
 
 msgid "IDS_PARAMS_MODIFIER_SWITCHAMMORELOADCOEF"
 msgstr "主炮炮弹类型切换时间"
@@ -45503,7 +45503,7 @@ msgid "IDS_PARAMS_MODIFIER_VULNERABILITYACID"
 msgstr "强酸伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYALL"
-msgstr "各种武器的伤害"
+msgstr "所有类型伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYAP"
 msgstr "穿甲弹伤害"
@@ -45515,7 +45515,7 @@ msgid "IDS_PARAMS_MODIFIER_VULNERABILITYCS"
 msgstr "半穿甲弹伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYFEL"
-msgstr "受到的特殊伤害"
+msgstr "特殊伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYFLOOD"
 msgstr "进水伤害"
@@ -48526,7 +48526,7 @@ msgid "IDS_PAUD010_DOUGLAS_BTD_1"
 msgstr "Douglas BTD-1"
 
 msgid "IDS_PAUD011_KAISER_FLEETWINGS_XBTK"
-msgstr "凯撒 XBTK-1"
+msgstr "Kaiser XBTK-1"
 
 msgid "IDS_PAUD012_DOUGLAS_SBD3"
 msgstr "Douglas SBD-3"
@@ -48649,7 +48649,7 @@ msgid "IDS_PAUD902_BH10_DB_STOCK"
 msgstr "BTD Destroyer"
 
 msgid "IDS_PAUD903_CV10_DB_TOP"
-msgstr "凯撒 XBTK-1"
+msgstr "Kaiser XBTK-1"
 
 msgid "IDS_PAUD904_CV10_DB_STOCK"
 msgstr "Douglas BTD-1"
@@ -48673,10 +48673,10 @@ msgid "IDS_PAUD910_DB_ESSEX"
 msgstr "BTD Destroyer"
 
 msgid "IDS_PAUD913_CV10_DB_AP_TOP"
-msgstr "凯撒 XBTK-1"
+msgstr "Kaiser XBTK-1"
 
 msgid "IDS_PAUD973_CV10_DB_AP_TOP"
-msgstr "凯撒 XBTK-1"
+msgstr "Kaiser XBTK-1"
 
 msgid "IDS_PAUD974_DB_MIDWAY"
 msgstr "AD-1 Skyraider"
@@ -49168,202 +49168,202 @@ msgid "IDS_PAUE990_ENG_CONNECTICUT"
 msgstr "推进系统：65000马力"
 
 msgid "IDS_PAUF301_FLIGHTCONTROL_1"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PAUF302_FLIGHTCONTROL_2"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod.2"
 
 msgid "IDS_PAUF303_FLIGHTCONTROL_3"
-msgstr "Mk4 mod. 3"
+msgstr "Mk4 mod.3"
 
 msgid "IDS_PAUF311_FLIGHTCONTROL_1"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PAUF312_FLIGHTCONTROL_2_A"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod.2"
 
 msgid "IDS_PAUF391_FC1_LANGLEY"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PAUF401_FLIGHTCONTROL_1"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUF402_FLIGHTCONTROL_2"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod.2"
 
 msgid "IDS_PAUF403_FLIGHTCONTROL_3"
-msgstr "Mk5 mod. 3"
+msgstr "Mk5 mod.3"
 
 msgid "IDS_PAUF411_FLIGHTCONTROL_1"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUF412_FLIGHTCONTROL_2_A"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod.2"
 
 msgid "IDS_PAUF413_FLIGHTCONTROL_2_F"
-msgstr "Mk5 mod. 3"
+msgstr "Mk5 mod.3"
 
 msgid "IDS_PAUF501_FLIGHTCONTROL_1"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUF502_FLIGHTCONTROL_2"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod.2"
 
 msgid "IDS_PAUF503_FLIGHTCONTROL_3"
-msgstr "Mk6 mod. 3"
+msgstr "Mk6 mod.3"
 
 msgid "IDS_PAUF511_FLIGHTCONTROL_1"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUF512_FLIGHTCONTROL_2_A"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod.2"
 
 msgid "IDS_PAUF513_FLIGHTCONTROL_2_F"
-msgstr "Mk6 mod. 3"
+msgstr "Mk6 mod.3"
 
 msgid "IDS_PAUF591_FC1_RANGER"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUF601_FLIGHTCONTROL_1"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUF602_FLIGHTCONTROL_2"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod.2"
 
 msgid "IDS_PAUF603_FLIGHTCONTROL_3"
-msgstr "Mk7 mod. 3"
+msgstr "Mk7 mod.3"
 
 msgid "IDS_PAUF604_FLIGHTCONTROL_4"
-msgstr "Mk7 mod. 4"
+msgstr "Mk7 mod.4"
 
 msgid "IDS_PAUF611_FLIGHTCONTROL_1"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUF612_FLIGHTCONTROL_2_A"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod.2"
 
 msgid "IDS_PAUF613_FLIGHTCONTROL_2_F"
-msgstr "Mk7 mod. 3"
+msgstr "Mk7 mod.3"
 
 msgid "IDS_PAUF621_SAIPAN"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUF700_CV8_FC_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF701_FLIGHTCONTROL_1"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF702_FLIGHTCONTROL_2"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUF703_FLIGHTCONTROL_3"
-msgstr "Mk8 mod. 3"
+msgstr "Mk8 mod.3"
 
 msgid "IDS_PAUF704_FLIGHTCONTROL_4"
-msgstr "Mk8 mod. 4"
+msgstr "Mk8 mod.4"
 
 msgid "IDS_PAUF705_FC1_ENTEPRISE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF706_FC_HORNET"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF707_BH8_FC_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF708_FC_CONCORD_BRIDGE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF711_FLIGHTCONTROL_1"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF712_FLIGHTCONTROL_2_A"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUF713_FLIGHTCONTROL_2_F"
-msgstr "Mk8 mod. 3"
+msgstr "Mk8 mod.3"
 
 msgid "IDS_PAUF714_FC_BLACK_SAIPAN"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF721_SAIPAN"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF791_FC1_LEXINGTON"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF792_FC1_ENTEPRISE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF793_FC1_SAIPAN"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUF800_FC_BLACK_KEARSARGE"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUF801_FLIGHTCONTROL_1"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUF802_FLIGHTCONTROL_2"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUF803_FLIGHTCONTROL_3"
-msgstr "Mk9 mod. 3"
+msgstr "Mk9 mod.3"
 
 msgid "IDS_PAUF804_FLIGHTCONTROL_4"
-msgstr "Mk9 mod. 4"
+msgstr "Mk9 mod.4"
 
 msgid "IDS_PAUF805_FC_KEARSARGE"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUF806_BH9_FC_STOCK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUF807_FC_HALFORD"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUF811_FLIGHTCONTROL_1"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUF812_FLIGHTCONTROL_2_A"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUF813_FLIGHTCONTROL_2_F"
-msgstr "Mk9 mod. 3"
+msgstr "Mk9 mod.3"
 
 msgid "IDS_PAUF901_FC_ROOSEVELT"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUF902_CV11_FC_STOCK"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod.1"
 
 msgid "IDS_PAUF903_BH10_FC_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUF904_FC_ESSEX"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUF911_FLIGHTCONTROL_1"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUF912_FLIGHTCONTROL_2_A"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod.2"
 
 msgid "IDS_PAUF913_FLIGHTCONTROL_2_F"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod.3"
 
 msgid "IDS_PAUF974_FC_1_MIDWAY"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUF975_FC_2A_MIDWAY"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod.2"
 
 msgid "IDS_PAUF976_FC_2B_MIDWAY"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod.3"
 
 msgid "IDS_PAUF991_FC1_MIDWAY"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUH000_HULL_DEFAULT"
 msgstr "舰体（预设）"
@@ -50251,493 +50251,493 @@ msgid "IDS_PAUQ501_S6_SONAR_STOCK"
 msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUQ502_S6_SONAR_TOP"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod.2"
 
 msgid "IDS_PAUQ700_S8_SONAR_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUQ701_S8_SONAR_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUQ702_S8_SONAR_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUQ900_S10_SONAR_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUQ901_S10_SONAR_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUQ902_S10_SONAR_TOP"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod.2"
 
 msgid "IDS_PAUQ903_SONAR_GATO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUQ904_SONAR_BALAO_TEST"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS000_SUO_DEFAULT"
 msgstr "Mk (预设)"
 
 msgid "IDS_PAUS001_SUO"
-msgstr "Mk1 mod. 1"
+msgstr "Mk1 mod.1"
 
 msgid "IDS_PAUS002_SUO"
-msgstr "Mk1 mod. 2"
+msgstr "Mk1 mod.2"
 
 msgid "IDS_PAUS011_SUO"
-msgstr "Mk1 mod. 1"
+msgstr "Mk1 mod.1"
 
 msgid "IDS_PAUS101_SUO"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod.1"
 
 msgid "IDS_PAUS102_SUO"
-msgstr "Mk2 mod. 2"
+msgstr "Mk2 mod.2"
 
 msgid "IDS_PAUS121_SUO"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod.1"
 
 msgid "IDS_PAUS131_SUO_SMITH"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod.1"
 
 msgid "IDS_PAUS201_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PAUS202_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PAUS203_SUO_CHARLSTON"
-msgstr "Mk3 mod. 1"
+msgstr "Mk3 mod.1"
 
 msgid "IDS_PAUS211_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PAUS212_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PAUS213_SUO_CS"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PAUS221_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PAUS222_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PAUS231_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PAUS232_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PAUS233_SUO_CS"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PAUS301_SUO"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PAUS302_SUO"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod.2"
 
 msgid "IDS_PAUS311_SUO"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PAUS312_SUO"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod.2"
 
 msgid "IDS_PAUS321_SUO"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PAUS322_SUO"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod.2"
 
 msgid "IDS_PAUS331_SUO_ARK_PREM"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PAUS400_SUO_RATTLEHEAD"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUS401_SUO"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUS402_SUO"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod.2"
 
 msgid "IDS_PAUS403_SUO_HILL"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUS404_SUO_OKLAHOMA"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUS411_SUO"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUS412_SUO"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod.2"
 
 msgid "IDS_PAUS419_SUO_MB"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUS421_SUO"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUS422_SUO"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod.2"
 
 msgid "IDS_PAUS431_SUO_CINCINNATI"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUS441_SUO_TEXAS"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod.1"
 
 msgid "IDS_PAUS501_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS502_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod.2"
 
 msgid "IDS_PAUS503_CL6_STOCK_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS504_CL6_TOP_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod.2"
 
 msgid "IDS_PAUS506_MONAGHAN"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS507_CA6_STOCK_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS508_CA6_TOP_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod.2"
 
 msgid "IDS_PAUS509_SUO_WVIRGINIA"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS511_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS512_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod.2"
 
 msgid "IDS_PAUS521_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS531_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS532_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod.2"
 
 msgid "IDS_PAUS541_SUO_ARIZONA"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS601_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS602_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod.2"
 
 msgid "IDS_PAUS603_CL7_STOCK_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS604_CL7_TOP_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod.2"
 
 msgid "IDS_PAUS605_CA7_STOCK_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS606_CA7_TOP_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod.2"
 
 msgid "IDS_PAUS607_SUO_CALIFORNIA"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS608_SUO_FLORIDA"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS609_SUO_BLACK_ATLANTA"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS610_SUO_WVIRGINIA_44"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS611_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS612_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod.2"
 
 msgid "IDS_PAUS613_SUO_MAYO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS621_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS631_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS632_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod.2"
 
 msgid "IDS_PAUS641_SUO_INDIANAPOLIS"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS651_SUO_FLINT"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS680_SUO_BLACK_SIMS"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PAUS691_C7_SUO_JULIO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS700_SUO_COLORFUL_N_CAROLINA"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUS701_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS702_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUS703_SUO_KIDD"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS704_CL8_STOCK_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS705_CL8_TOP_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUS706_CA8_STOCK_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS707_CA8_TOP_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUS708_SUO_WICHITA"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS709_SUO_MONTPELIER"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS710_SUO_ANCHORAGE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS711_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS712_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUS713_BB8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS714_BB8_SUO_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUS715_SUO_ALABAMA_VL"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS716_SUO_CONSTELLATION"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS717_SUO_CONGRESS"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS718_SUO_ROCHESTER"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS719_SUO_S_DIEGO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS720_BH8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS721_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PAUS722_BH8_SUO_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUS731_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS732_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PAUS733_SUO_ALABAMA"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS734_SUO_ALABAMA"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS735_SUO_MASS"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS736_SUO_BLACK_MASS"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PAUS800_SUO_BLACK_KEARSARGE"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS801_SUO"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS802_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUS803_CL9_STOCK_SUO"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS804_CL9_TOP_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUS805_CA9_STOCK_SUO"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS806_CA9_TOP_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUS807_SUO_GEORGIA"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS808_SUO_BENHAM"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS809_BB9_SUO_STOCK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS810_BB9_SUO_TOP"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUS811_SUO"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS812_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUS813_SUO_TULSA"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS814_SUO_VALLEJO"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS815_BH9_SUO_STOCK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS816_BH9_SUO_TOP"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUS817_SUO_ILLINOIS"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS818_SUO_HALFORD"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS819_SUO_BLACK_BLACK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS821_SUO"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS822_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUS831_SUO_BLACK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS832_SUO_MISSOURI"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS833_SUO_KEARSARGE"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS900_B10_SUO_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS901_SUO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS902_SUO"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod.2"
 
 msgid "IDS_PAUS903_SUO_SALEM"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS904_CL10_TOP_SUO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS906_SUO_TST_GEARING"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS907_SUO_TST_MONTANA"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS908_SUO_SOMERS"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS909_SUO_P_RICO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS910_BB10_SUO_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS911_SUO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS912_SUO_AUSTIN"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS913_SUO_F_SHERMAN"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS914_BH10_SUO_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS915_SUO_A_HUMP"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod.1"
 
 msgid "IDS_PAUS916_SUO_N_HAMPSHIRE"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS917_SUO_CHESAPEAKE"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS921_SUO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS931_SUO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS932_SUO_ANNAPOLIS"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod.1"
 
 msgid "IDS_PAUS933_B11_SUO_STOCK"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod.1"
 
 msgid "IDS_PAUS941_SUO_BUFFALO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS972_SUO_ALASKA"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS973_SUO_BLACK_ALASKA"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS974_SUO_GEARING"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS975_SUO_MONTANA"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS976_SUO_OHIO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUS990_SUO_CONNECTICUT"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PAUT000_TORPEDOES_DEFAULT"
 msgstr "鱼雷发射管(预设)"
@@ -50785,7 +50785,7 @@ msgid "IDS_PAUT313_533_3_APT017"
 msgstr "533 mm (3x Mk8)"
 
 msgid "IDS_PAUT400_TORP_RATTLEHEAD"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUT401_C5_TORP_STOCK"
 msgstr "Mark 11"
@@ -50797,31 +50797,31 @@ msgid "IDS_PAUT404_TORP_HILL"
 msgstr "Mark 11"
 
 msgid "IDS_PAUT500_S6_TORP_STOCK"
-msgstr "Mk22 mod. 0"
+msgstr "Mk22 mod.0"
 
 msgid "IDS_PAUT501_D6_TORP_STOCK"
 msgstr "Mark 11"
 
 msgid "IDS_PAUT502_533_MARK_15_MOD_3"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT503_533_MARK_15_MOD_3_ATLANTA"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT504_FLINT"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT505_S6_TORP_STOCK"
-msgstr "Mk22 mod. 1"
+msgstr "Mk22 mod.1"
 
 msgid "IDS_PAUT506_MONAGHAN"
-msgstr "Mark 12 (Mk15 mod. 3)"
+msgstr "Mark 12 (Mk15 mod.3)"
 
 msgid "IDS_PAUT507_MONAGHAN2"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT508_S6_TORP_TOP"
-msgstr "Mk22 mod. 1"
+msgstr "Mk22 mod.1"
 
 msgid "IDS_PAUT511_D6_TORP_TOP"
 msgstr "Mark 12"
@@ -50830,25 +50830,25 @@ msgid "IDS_PAUT521_533_4_APT017"
 msgstr "533 mm (4x Mk14)"
 
 msgid "IDS_PAUT531_533_4_PAPT001"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod.0"
 
 msgid "IDS_PAUT541_533_3_PAPT017_MB"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUT551_533_3_PAPT017_CINCINNATI"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUT601_D7_TORP_STOCK"
 msgstr "Mk12"
 
 msgid "IDS_PAUT602_D7_TORP_TOP"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod.0"
 
 msgid "IDS_PAUT603_TORP_BLACK_ATLANTA"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT604_TORP_MAYO"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod.0"
 
 msgid "IDS_PAUT611_533_4_APT001"
 msgstr "533 mm (4x Mk14)"
@@ -50860,40 +50860,40 @@ msgid "IDS_PAUT621_533_4_PAPT001"
 msgstr "Mark 11"
 
 msgid "IDS_PAUT631_533_PAPT015_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod.2B"
 
 msgid "IDS_PAUT680_TORP_STOCK_BLACK_SIMS"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod.0"
 
 msgid "IDS_PAUT681_TORP_TOP_BLACK_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod.2B"
 
 msgid "IDS_PAUT700_S8_TORP_STOCK"
-msgstr "Mk28 mod. 0和Mk28 mod. 0 MIE"
+msgstr "Mk28 mod.0 & Mk28 mod.0 MIE"
 
 msgid "IDS_PAUT701_D8_TORP_STOCK"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod.0"
 
 msgid "IDS_PAUT702_D8_TORP_TOP"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT703_533_MARK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod.3"
 
 msgid "IDS_PAUT704_TORP_KIDD"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT705_S8_TORP_STOCK"
-msgstr "Mk28和Mk28 MIE"
+msgstr "Mk28 & Mk28 MIE"
 
 msgid "IDS_PAUT706_TORP_ANCHORAGE"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PAUT707_TORP_S_DIEGO"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT708_S8_TORP_TOP"
-msgstr "Mk28和Mk28 MIE"
+msgstr "Mk28 & Mk28 MIE"
 
 msgid "IDS_PAUT711_533_5_APT001"
 msgstr "533 mm (5x Mk15)"
@@ -50902,7 +50902,7 @@ msgid "IDS_PAUT712_533_5_APT018"
 msgstr "533 mm (5x Mk15)"
 
 msgid "IDS_PAUT713_TORP_CONSTELLATION"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT731_533_4_PAPT001"
 msgstr "533 mm (4x Mk14)"
@@ -50911,7 +50911,7 @@ msgid "IDS_PAUT800_TORP_BLACK_BLACK"
 msgstr "Mk29"
 
 msgid "IDS_PAUT801_D9_TORP_STOCK"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PAUT802_533_5_APT009"
 msgstr "533 mm (5x Mk11)"
@@ -50920,7 +50920,7 @@ msgid "IDS_PAUT803_533_5_APT018"
 msgstr "533 mm (5x Mk15)"
 
 msgid "IDS_PAUT804_D9_TORP_TOP"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PAUT805_BLACK"
 msgstr "Mk29"
@@ -50929,19 +50929,19 @@ msgid "IDS_PAUT806_BENHAM"
 msgstr "533 mm Mk15"
 
 msgid "IDS_PAUT807_TORP_HALFORD"
-msgstr "533 mm (5x Mk29 mod. 1)"
+msgstr "533 mm (5x Mk29 mod.1)"
 
 msgid "IDS_PAUT900_S10_TORP_STOCK"
-msgstr "Mk29 mod. 0和Mk28 MIE"
+msgstr "Mk29 mod.0 & Mk28 MIE"
 
 msgid "IDS_PAUT901_D10_TORP_STOCK"
 msgstr "Mark 17"
 
 msgid "IDS_PAUT902_D10_NEW_STOCK"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PAUT903_TORP_TST_GEARING"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PAUT904_TORP_TST_GEARING_2"
 msgstr "Mark 17"
@@ -50950,19 +50950,19 @@ msgid "IDS_PAUT905_TORP_SOMERS"
 msgstr "Mark 17"
 
 msgid "IDS_PAUT906_S10_TORP_STOCK"
-msgstr "Mk29和Mk29 MIE"
+msgstr "Mk29 & Mk29 MIE"
 
 msgid "IDS_PAUT907_TORP_GATO"
 msgstr " "
 
 msgid "IDS_PAUT908_TORP_AUSTIN"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PAUT909_TORP_F_SHERMAN"
-msgstr "Mk25 mod. 1"
+msgstr "Mk25 mod.1"
 
 msgid "IDS_PAUT910_S10_TORP_TOP"
-msgstr "Mk29和Mk29 MIE"
+msgstr "Mk29 & Mk29 MIE"
 
 msgid "IDS_PAUT911_533_4_PAPT023_BUFF"
 msgstr "Mk12"
@@ -50971,13 +50971,13 @@ msgid "IDS_PAUT912_TORP_A_HUMP"
 msgstr "Mk17"
 
 msgid "IDS_PAUT913_TORP_BALAO_TEST"
-msgstr "Mk29和Mk29 MIE"
+msgstr "Mk29 & Mk29 MIE"
 
 msgid "IDS_PAUT974_TORP_GEARING"
 msgstr "Mark 17"
 
 msgid "IDS_PAUT975_TORP_GEARING"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PAYLOAD_HALF_HEALTH_TASK_END_F"
 msgstr "特兰西瓦尼亚号已受到伤害！"
@@ -54944,34 +54944,34 @@ msgid "IDS_PBUE990_ENG_CYCLOPS"
 msgstr "推进系统：120000马力"
 
 msgid "IDS_PBUF301_CV4_FC"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PBUF501_CV6_FC"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PBUF502_FC_ARKROYAL"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod.1"
 
 msgid "IDS_PBUF701_CV8_FC"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PBUF702_FC_INDOMITABLE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PBUF703_FC_COLOSSUS"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PBUF901_CV10_FC"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PBUF902_FC_AUD"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PBUF903_FC_EAGLE"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod.1"
 
 msgid "IDS_PBUF904_FC_MALTA"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PBUH001_C1_HULL_A"
 msgstr "黑天鹅(A)"
@@ -55457,373 +55457,373 @@ msgid "IDS_PBUQ902_S10_SONAR_TOP"
 msgstr "ASDIC 10 Mod. B"
 
 msgid "IDS_PBUS001_C1_SUO_STOCK"
-msgstr "Mk I mod. 1"
+msgstr "Mk I mod.1"
 
 msgid "IDS_PBUS002_C1_SUO_TOP"
-msgstr "Mk I mod. 2"
+msgstr "Mk I mod.2"
 
 msgid "IDS_PBUS101_C2_SUO_STOCK"
-msgstr "Mk II mod. 1"
+msgstr "Mk II mod.1"
 
 msgid "IDS_PBUS102_C2_SUO_TOP"
-msgstr "Mk II mod. 2"
+msgstr "Mk II mod.2"
 
 msgid "IDS_PBUS103_D2_SUO_STOCK"
-msgstr "Mk II mod. 1"
+msgstr "Mk II mod.1"
 
 msgid "IDS_PBUS104_D2_SUO_TOP"
-msgstr "Mk II mod. 2"
+msgstr "Mk II mod.2"
 
 msgid "IDS_PBUS201_SUO_CAMPBELTOWN"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PBUS202_D3_SUO_STOCK"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PBUS203_D3_SUO_TOP"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PBUS204_SUO_DRED"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PBUS205_B3_SUO_STOCK"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PBUS206_B3_SUO_TOP"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PBUS211_C3_SUO_STOCK"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PBUS212_C3_SUO_TOP"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PBUS221_B3_SUO_STOCK"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PBUS222_B3_SUO_TOP"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PBUS301_C4_SUO_STOCK"
-msgstr "Mk IV mod. 1"
+msgstr "Mk IV mod.1"
 
 msgid "IDS_PBUS302_C4_SUO_TOP"
-msgstr "Mk IV mod. 2"
+msgstr "Mk IV mod.2"
 
 msgid "IDS_PBUS303_D4_SUO_STOCK"
-msgstr "Mk IV mod. 1"
+msgstr "Mk IV mod.1"
 
 msgid "IDS_PBUS304_D4_SUO_TOP"
-msgstr "Mk IV mod. 2"
+msgstr "Mk IV mod.2"
 
 msgid "IDS_PBUS305_B4_SUO_STOCK"
-msgstr "Mk IV mod. 1"
+msgstr "Mk IV mod.1"
 
 msgid "IDS_PBUS306_B4_SUO_TOP"
-msgstr "Mk IV mod. 2"
+msgstr "Mk IV mod.2"
 
 msgid "IDS_PBUS311_B4_SUO_STOCK"
-msgstr "Mk IV mod. 1"
+msgstr "Mk IV mod.1"
 
 msgid "IDS_PBUS312_B4_SUO_TOP"
-msgstr "Mk IV mod. 2"
+msgstr "Mk IV mod.2"
 
 msgid "IDS_PBUS401_C5_SUO_STOCK"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PBUS402_C5_SUO_TOP"
-msgstr "Mk V mod. 2"
+msgstr "Mk V mod.2"
 
 msgid "IDS_PBUS403_SUO_ANT"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PBUS404_D5_SUO_STOCK"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PBUS405_D5_SUO_TOP"
-msgstr "Mk V mod. 2"
+msgstr "Mk V mod.2"
 
 msgid "IDS_PBUS406_SUO_EXETER"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PBUS407_CA5_SUO_STOCK"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PBUS408_CA5_SUO_TOP"
-msgstr "Mk V mod. 2"
+msgstr "Mk V mod.2"
 
 msgid "IDS_PBUS409_SUO_AGINCOURT"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PBUS411_B5_SUO_STOCK"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PBUS412_B5_SUO_TOP"
-msgstr "Mk V mod. 2"
+msgstr "Mk V mod.2"
 
 msgid "IDS_PBUS413_B5_SUO_STOCK"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PBUS414_B5_SUO_TOP"
-msgstr "Mk V mod. 2"
+msgstr "Mk V mod.2"
 
 msgid "IDS_PBUS500_SUO_BLACK_REPULSE"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS501_SUO"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS502_SUO_GAL"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS503_D6_SUO_STOCK"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS504_D6_SUO_TOP"
-msgstr "Mk VI mod. 2"
+msgstr "Mk VI mod.2"
 
 msgid "IDS_PBUS505_CA6_SUO_STOCK"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS506_CA6_SUO_TOP"
-msgstr "Mk VI mod. 2"
+msgstr "Mk VI mod.2"
 
 msgid "IDS_PBUS507_SUO_LONDON"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS508_SUO_REPULSE"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS509_SUO_DIDO"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS510_B6_SUO_STOCK"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS511_C6_SUO_STOCK"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS512_C6_SUO_TOP"
-msgstr "Mk VI mod. 2"
+msgstr "Mk VI mod.2"
 
 msgid "IDS_PBUS513_B6_SUO_TOP"
-msgstr "Mk VI mod. 2"
+msgstr "Mk VI mod.2"
 
 msgid "IDS_PBUS521_B6_SUO_STOCK"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PBUS522_B6_SUO_TOP"
-msgstr "Mk VI mod. 2"
+msgstr "Mk VI mod.2"
 
 msgid "IDS_PBUS601_C7_SUO_STOCK"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS602_C7_SUO_TOP"
-msgstr "Mk VII mod. 2"
+msgstr "Mk VII mod.2"
 
 msgid "IDS_PBUS603_SUO_HOOD"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS604_D7_SUO_STOCK"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS605_D7_SUO_TOP"
-msgstr "Mk VII mod. 2"
+msgstr "Mk VII mod.2"
 
 msgid "IDS_PBUS606_CA7_SUO_STOCK"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS607_CA7_SUO_TOP"
-msgstr "Mk VII mod. 2"
+msgstr "Mk VII mod.2"
 
 msgid "IDS_PBUS608_B7_SUO_STOCK"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS609_B7_SUO_TOP"
-msgstr "Mk VII mod. 2"
+msgstr "Mk VII mod.2"
 
 msgid "IDS_PBUS610_SUO_COLLINGWOOD"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS611_SUO_BEL"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS612_B7_SUO_RENOWN"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS621_B7_SUO_STOCK"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS622_B7_SUO_TOP"
-msgstr "Mk VII mod. 2"
+msgstr "Mk VII mod.2"
 
 msgid "IDS_PBUS625_SUO_NELSON"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS626_SUO_DUKE"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PBUS628_SUO_COSSACK"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS700_SUO_EDINBURGH_PR"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS701_C8_SUO_STOCK"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS702_C8_SUO_TOP"
-msgstr "Mk VIII mod. 2"
+msgstr "Mk VIII mod.2"
 
 msgid "IDS_PBUS703_D8_SUO_STOCK"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS704_D8_SUO_TOP"
-msgstr "Mk VIII mod. 2"
+msgstr "Mk VIII mod.2"
 
 msgid "IDS_PBUS705_SUO_VANGUARD"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS706_CA8_SUO_STOCK"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS707_CA8_SUO_TOP"
-msgstr "Mk VIII mod. 2"
+msgstr "Mk VIII mod.2"
 
 msgid "IDS_PBUS708_SUO_BELFAST2"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS709_SUO_TIGER59"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS710_SUO_HAMPSHIRE"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS711_B8_SUO_STOCK"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS712_B8_SUO_TOP"
-msgstr "Mk VIII mod. 2"
+msgstr "Mk VIII mod.2"
 
 msgid "IDS_PBUS713_CA8_SUO_CHESHIRE"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS714_SUO_BLACK_COSSACK"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS715_B8_SUO_STOCK"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS716_B8_SUO_TOP"
-msgstr "Mk VIII mod. 2"
+msgstr "Mk VIII mod.2"
 
 msgid "IDS_PBUS717_SUO_NOTTINGHAM"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS718_SUO_AZUR_CHESHIRE"
-msgstr "Mk VIII mod. 1"
+msgstr "Mk VIII mod.1"
 
 msgid "IDS_PBUS800_B9_SUO_STOCK"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PBUS801_C9_SUO_STOCK"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PBUS802_C9_SUO_TOP"
-msgstr "Mk IX mod. 2"
+msgstr "Mk IX mod.2"
 
 msgid "IDS_PBUS803_D9_SUO_STOCK"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PBUS804_D9_SUO_TOP"
-msgstr "Mk IX mod. 2"
+msgstr "Mk IX mod.2"
 
 msgid "IDS_PBUS805_CA9_SUO_STOCK"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PBUS806_CA9_SUO_TOP"
-msgstr "Mk IX mod. 2"
+msgstr "Mk IX mod.2"
 
 msgid "IDS_PBUS807_SUO_MARLBOROUGH"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PBUS808_B9_SUO_TOP"
-msgstr "Mk IX mod. 2"
+msgstr "Mk IX mod.2"
 
 msgid "IDS_PBUS809_SUO_SCARLET"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PBUS810_SUO_SOMME"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PBUS811_B9_SUO_STOCK"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PBUS812_B9_SUO_TOP"
-msgstr "Mk IX mod. 2"
+msgstr "Mk IX mod.2"
 
 msgid "IDS_PBUS900_B10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS901_C10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS902_SUO_CONQUEROR"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS903_D10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS904_SUO_CONQUEROR"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS904_SUO_PLYMOUTH"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS905_SUO_THUNDERER"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS906_CA10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS907_SUO_DRUID"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS908_SUO_INCOMPARABLE"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS909_SUO_GIBRALTAR"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS910_B10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS911_SUO_MONMOUTH"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS912_SUO_T10"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS913_B11_SUO_STOCK"
-msgstr "Mk XI mod. 1"
+msgstr "Mk XI mod.1"
 
 msgid "IDS_PBUS914_SUO_DEFENCE"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS930_C11_SUO_STOCK"
-msgstr "Mk XI mod. 1"
+msgstr "Mk XI mod.1"
 
 msgid "IDS_PBUS974_SUO_CONQ"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUS990_SUO_CYCLOPS"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PBUT101_D2_TORP_STOCK"
 msgstr "533 mm Mk II"
 
 msgid "IDS_PBUT201_CAMPBELTOWN"
-msgstr "Bliss Leavitt Mk8 mod. 2"
+msgstr "Bliss Leavitt Mk8 mod.2"
 
 msgid "IDS_PBUT201_D3_TORP_STOCK"
 msgstr "533 mm Mk II"
@@ -68515,7 +68515,7 @@ msgstr ""
 "改进后的20 mm/65 C/38火炮拥有40发装弹匣，降低了装填时间。火炮安装在单装、双联装、四联装以及固定炮座上。"
 
 msgid "IDS_PCZC546_GERDD_1004_37CM"
-msgstr "37 mm LC/30 （双联装防空炮座）"
+msgstr "37 mm LC/30（双联装防空炮座）"
 
 msgid "IDS_PCZC546_GERDD_1004_37CM_DESCRIPTION"
 msgstr ""
@@ -68524,7 +68524,7 @@ msgstr ""
 "德国人摒弃了用1943年研发的自动装填机对SK C/30进行现代化改装的设想。不久后这种火炮就被新型自动高射炮M/42和M/43取代。"
 
 msgid "IDS_PCZC547_GERDD_1004_3CM"
-msgstr "30 mm Flak 103/38 （双联装防空炮座）"
+msgstr "30 mm Flak 103/38（双联装防空炮座）"
 
 msgid "IDS_PCZC547_GERDD_1004_3CM_DESCRIPTION"
 msgstr ""
@@ -69302,7 +69302,7 @@ msgid "IDS_PCZC680_ITDD_2_2_DESCRIPTION"
 msgstr ""
 "自1921年起，新的意大利驱逐舰和驱逐领舰都装备了120毫米主炮，以取代之前的102毫米主炮。最初建造了3艘狮子级驱逐领舰和2艘塞拉级驱逐舰，后者是在库尔塔托内级战舰的基础上设计的。随后的4艘萨乌罗级驱逐舰于1924年铺设龙骨，一年后又有8艘图尔比内级驱逐舰铺设龙骨。\n"
 "\n"
-"萨乌罗级战舰装备了2座双联装Vickers Terni Mod. 1924炮座。图尔比内级战舰也装备了相同数量的OTO Mod. 1926炮座，差别仅在于制造商不同。倍径为45的120毫米火炮能以每秒850米的速度发射一枚22公斤的高爆弹，射程为15.5公里。"
+"萨乌罗级战舰装备了2座双联装Vickers Terni Mod.1924炮座。图尔比内级战舰也装备了相同数量的OTO Mod.1926炮座，差别仅在于制造商不同。倍径为45的120毫米火炮能以每秒850米的速度发射一枚22公斤的高爆弹，射程为15.5公里。"
 
 msgid "IDS_PCZC681_ITDD_2_3"
 msgstr "120 mm/50 Ansaldo Model 1926（1926式炮座）"
@@ -69320,7 +69320,7 @@ msgid "IDS_PCZC682_ITDD_2_4_DESCRIPTION"
 msgstr ""
 "箭级和闪电级驱逐舰是为与扎拉级巡洋舰联合行动而建造的，因此对航速和巡航距离方面的要求更高。但是这些项目并不是特别成功，尤其是在适航性方面。\n"
 "\n"
-"于1931年铺设龙骨的4艘西北风级驱逐舰改正了所有主要缺点。这些战舰的主炮组包括2座OTO生产的双联装炮座，由其前代舰所安装的120 mm/50 Ansaldo Mod. 1926炮座改造而来，重量轻了2.5吨。"
+"于1931年铺设龙骨的4艘西北风级驱逐舰改正了所有主要缺点。这些战舰的主炮组包括2座OTO生产的双联装炮座，由其前代舰所安装的120 mm/50 Ansaldo Mod.1926炮座改造而来，重量轻了2.5吨。"
 
 msgid "IDS_PCZC683_ITDD_2_5"
 msgstr "120 mm/50 Ansaldo Model 1937（1940式炮座）"
@@ -74681,7 +74681,7 @@ msgid "IDS_PGPA041_283MM_AP_PZ_GR_L4_4"
 msgstr "283 mm P.Spr.Gr. L/4.4"
 
 msgid "IDS_PGPA041_406MM_AP_PZ_GR_L4_4_AUSF_B"
-msgstr "406 mm P.Spr.Gr. L/4.4 Ausf. B"
+msgstr "406 mm P.Spr.Gr. L/4.4 Ausf.B"
 
 msgid "IDS_PGPA042_203MM_HE_SPR_GR_L4_7_KZ"
 msgstr "203 mm Spr.Gr. L/4.7 Kz."
@@ -74873,19 +74873,19 @@ msgid "IDS_PGPA106_128MM_AP_ZF6"
 msgstr "128 mm P.Spr.Gr."
 
 msgid "IDS_PGPA108_150MM_AP_PSGR_L3_7_C25_AUSF_B"
-msgstr "150 mm P.Spr.Gr. L/3.7 Ausf. B"
+msgstr "150 mm P.Spr.Gr. L/3.7 Ausf.B"
 
 msgid "IDS_PGPA109_150MM_AP_PSGR_L3_7_C25_AUSF_C"
-msgstr "150 mm P.Spr.Gr. L/3.7 Ausf. C"
+msgstr "150 mm P.Spr.Gr. L/3.7 Ausf.C"
 
 msgid "IDS_PGPA110_150MM_HE_SPR_GR_L4_6_AUSF_B"
-msgstr "150 mm Spr.Gr. Ausf. B"
+msgstr "150 mm Spr.Gr. Ausf.B"
 
 msgid "IDS_PGPA111_150MM_HE_SPGR_L4_4_KZ_AUSF_B"
-msgstr "150 mm Spr.Gr. L/4.4 Kz. Ausf. B"
+msgstr "150 mm Spr.Gr. L/4.4 Kz. Ausf.B"
 
 msgid "IDS_PGPA112_150MM_AP_PSGR_L4_5_AUSF_B"
-msgstr "150 mm P.Spr.Gr. Ausf. B"
+msgstr "150 mm P.Spr.Gr. Ausf.B"
 
 msgid "IDS_PGPA113_150MM_HE_WEIMAR"
 msgstr "150 mm Spr.Gr. L/4.4 Kz."
@@ -75257,10 +75257,10 @@ msgid "IDS_PGPT035_BRAND"
 msgstr "G7a T1"
 
 msgid "IDS_PGPT036_G7A_T1_Z44"
-msgstr "G7a T1 Ausf. C"
+msgstr "G7a T1 Ausf.C"
 
 msgid "IDS_PGPT037_G7A_T1_ZF6"
-msgstr "G7a T1 Ausf. B"
+msgstr "G7a T1 Ausf.B"
 
 msgid "IDS_PGPT038_G7A_WEIMAR"
 msgstr "G7a T1"
@@ -75305,16 +75305,16 @@ msgid "IDS_PGPT050_533MM_4501_SUB_MAGNETIC"
 msgstr "G7e/T4 MZ"
 
 msgid "IDS_PGPT051_G7E_T1_MOD0_SUB"
-msgstr "G7e T1 mod. 0"
+msgstr "G7e T1 mod.0"
 
 msgid "IDS_PGPT052_G7E_T3_MOD0_SUB"
-msgstr "G7e T3 mod. 0"
+msgstr "G7e T3 mod.0"
 
 msgid "IDS_PGPT053_G7E_T3_MOD0_SUB_MAGNETIC"
-msgstr "G7e T3 mod. 0 MZ"
+msgstr "G7e T3 mod.0 MZ"
 
 msgid "IDS_PGPT054_G7E_T4_MOD0_SUB"
-msgstr "G7e T4 mod. 0"
+msgstr "G7e T4 mod.0"
 
 msgid "IDS_PGPT055_J9_ANHALT"
 msgstr "J9"
@@ -77746,13 +77746,13 @@ msgid "IDS_PGUE975_ENG_HIND"
 msgstr "推进系统：155000马力"
 
 msgid "IDS_PGUF301_FC1_CV4_STOCK"
-msgstr "FID Typ 4 Mod. 1"
+msgstr "FID Typ 4 Mod.1"
 
 msgid "IDS_PGUF501_FC1_CV6_STOCK"
-msgstr "FID Typ 6 Mod. 1"
+msgstr "FID Typ 6 Mod.1"
 
 msgid "IDS_PGUF502_FC1_LOEWENHARDT"
-msgstr "FID Typ 6 Mod. 1"
+msgstr "FID Typ 6 Mod.1"
 
 msgid "IDS_PGUF701_FC1_GRAF_Z"
 msgstr "FID Typ 8 Mod. 1"
@@ -77773,16 +77773,16 @@ msgid "IDS_PGUF791_FC1_GRAF_Z"
 msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF900_CV10_FC_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod.1"
 
 msgid "IDS_PGUF901_FC1_CV10_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod.1"
 
 msgid "IDS_PGUF950_FC1_CV10_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod.1"
 
 msgid "IDS_PGUF951_FC1_CV10_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod.1"
 
 msgid "IDS_PGUH001_HERMELIN_A"
 msgstr "鼬(A)"
@@ -78301,7 +78301,7 @@ msgid "IDS_PGUQ903_SONAR_U4501"
 msgstr "Typ 10 Mod. A"
 
 msgid "IDS_PGUQ904_S11_SONAR_STOCK"
-msgstr "Typ 11 Mod. A"
+msgstr "Typ 11 Mod.A"
 
 msgid "IDS_PGUS001_SUO"
 msgstr "FKS Typ 1 Mod. 1"
@@ -78517,10 +78517,10 @@ msgid "IDS_PGUS708_SUO_ODIN"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS709_SUO_ANHALT"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod.1"
 
 msgid "IDS_PGUS710_SUO_SCHILL"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod.1"
 
 msgid "IDS_PGUS711_SUO_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
@@ -78529,10 +78529,10 @@ msgid "IDS_PGUS712_SUO_BLACK_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS713_SUO_Z35"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod.1"
 
 msgid "IDS_PGUS714_DD8_SUO_STOCK"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod.1"
 
 msgid "IDS_PGUS715_DD8_SUO_TOP"
 msgstr "FKS Typ 8 Mod. 2"
@@ -78700,7 +78700,7 @@ msgid "IDS_PGUT403_D5_TORP_TOP"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT500_S6_TORP_STOCK"
-msgstr "G7e T1 mod. 0"
+msgstr "G7e T1 mod.0"
 
 msgid "IDS_PGUT501_C6_TORP_STOCK"
 msgstr "G7a T1"
@@ -78751,7 +78751,7 @@ msgid "IDS_PGUT607_TORP_MUNCHEN"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT608_D7_2_TORP_STOCK"
-msgstr "G7 T1 Ausf. A"
+msgstr "G7 T1 Ausf.A"
 
 msgid "IDS_PGUT609_TORP_WEIMAR"
 msgstr "G7a T1"
@@ -78769,7 +78769,7 @@ msgid "IDS_PGUT613_TORP_PFALZ"
 msgstr "J9"
 
 msgid "IDS_PGUT700_S8_TORP_STOCK"
-msgstr "G7e T3 mod. 0和G7e T3 mod. 0 MZ"
+msgstr "G7e T3 mod.0 & G7e T3 mod.0 MZ"
 
 msgid "IDS_PGUT701_533_TIRPITZ"
 msgstr "G7a T1"
@@ -78796,7 +78796,7 @@ msgid "IDS_PGUT708_TORP_ODIN"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT709_S8_TORP_STOCK"
-msgstr "G7e T3和G7e T3 MZ"
+msgstr "G7e T3 & G7e T3 MZ"
 
 msgid "IDS_PGUT710_TORP_BRAND"
 msgstr "G7a T1"
@@ -78808,7 +78808,7 @@ msgid "IDS_PGUT712_TORP_Z35"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT713_DD8_TORP_STOCK"
-msgstr "G7 T1 Ausf. B"
+msgstr "G7 T1 Ausf.B"
 
 msgid "IDS_PGUT714_BB8_TORP_STOCK"
 msgstr "G7 T1 Ausf.B"
@@ -78817,7 +78817,7 @@ msgid "IDS_PGUT715_TORP_WH_BLACKTEMPLAR"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT716_S8_TORP_TOP"
-msgstr "G7e T3和G7e T3 MZ"
+msgstr "G7e T3 & G7e T3 MZ"
 
 msgid "IDS_PGUT718_TORP_ANHALT"
 msgstr "J9"
@@ -78853,22 +78853,22 @@ msgid "IDS_PGUT806_TORP_POMMERN"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT807_TORP_Z44"
-msgstr "G7a T1 Ausf. C"
+msgstr "G7a T1 Ausf.C"
 
 msgid "IDS_PGUT808_DD9_TORP_STOCK"
-msgstr "G7 T1 Ausf. B"
+msgstr "G7 T1 Ausf.B"
 
 msgid "IDS_PGUT809_TORP_ZF6"
-msgstr "G7a T1 Ausf. B"
+msgstr "G7a T1 Ausf.B"
 
 msgid "IDS_PGUT810_BB9_TORP_STOCK"
-msgstr "G7a T1 Ausf. B"
+msgstr "G7a T1 Ausf.B"
 
 msgid "IDS_PGUT811_TORP_BLACK_POMMERN"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT900_S10_TORP_STOCK"
-msgstr "G7e T4 mod. 0和G7e T3 MZ"
+msgstr "G7e T4 mod.0 & G7e T3 MZ"
 
 msgid "IDS_PGUT901_C10_TORP_STOCK"
 msgstr "G7a T1"
@@ -78880,7 +78880,7 @@ msgid "IDS_PGUT903_D10_TORP_TOP"
 msgstr "G7 Steinwal"
 
 msgid "IDS_PGUT904_D10_2_TORP_TOP"
-msgstr "G7 T1 Ausf. C"
+msgstr "G7 T1 Ausf.C"
 
 msgid "IDS_PGUT905_BB10_TORP_STOCK"
 msgstr "G7a T1"
@@ -78892,10 +78892,10 @@ msgid "IDS_PGUT907_C11_TORP_STOCK"
 msgstr "G7 T1 Ausf.C"
 
 msgid "IDS_PGUT908_S10_TORP_TOP"
-msgstr "G7e T4和G7e T4 MZ"
+msgstr "G7e T4 & G7e T4 MZ"
 
 msgid "IDS_PGUT909_D10_TORP_TOP"
-msgstr "G7 T1 Ausf. C"
+msgstr "G7 T1 Ausf.C"
 
 msgid "IDS_PGUT910_TORP_Z42"
 msgstr "G7a T1"
@@ -78904,10 +78904,10 @@ msgid "IDS_PGUT911_S11_TORP_STOCK"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT921_S10_TORP_STOCK"
-msgstr "G7e T4和G7e T4 MZ"
+msgstr "G7e T4 & G7e T4 MZ"
 
 msgid "IDS_PGUT922_TORP_U4501"
-msgstr "G7e T4和G7e T4 MZ"
+msgstr "G7e T4 & G7e T4 MZ"
 
 msgid "IDS_PGUT974_TORP_HIND"
 msgstr "G7a T1"
@@ -78937,7 +78937,7 @@ msgid "IDS_PHAD014_VAN_SPEIJK_AS"
 msgstr "Fokker T.V."
 
 msgid "IDS_PHAD015_CALLENBURGH_AS"
-msgstr "福克T.V"
+msgstr "Fokker T.V."
 
 msgid "IDS_PHAF001_FOKKER_D_XI"
 msgstr "Fokker D.XI"
@@ -79611,76 +79611,76 @@ msgid "IDS_PHUH904_HULL_CALLENBURGH"
 msgstr "卡伦堡"
 
 msgid "IDS_PHUS001_C1_SUO_STOCK"
-msgstr "SUO Mk 1 Mod. 1"
+msgstr "SUO Mk 1 Mod.1"
 
 msgid "IDS_PHUS101_C2_SUO_STOCK"
-msgstr "SUO Mk 2 Mod. 1"
+msgstr "SUO Mk 2 Mod.1"
 
 msgid "IDS_PHUS102_C2_SUO_TOP"
-msgstr "SUO Mk 2 Mod. 2"
+msgstr "SUO Mk 2 Mod.2"
 
 msgid "IDS_PHUS201_C3_SUO_STOCK"
-msgstr "SUO Mk 3 Mod. 1"
+msgstr "SUO Mk 3 Mod.1"
 
 msgid "IDS_PHUS202_C3_SUO_TOP"
-msgstr "SUO Mk 3 Mod. 2"
+msgstr "SUO Mk 3 Mod.2"
 
 msgid "IDS_PHUS301_C4_SUO_STOCK"
-msgstr "SUO Mk 4 Mod. 1"
+msgstr "SUO Mk 4 Mod.1"
 
 msgid "IDS_PHUS302_C4_SUO_TOP"
-msgstr "SUO Mk 4 Mod. 2"
+msgstr "SUO Mk 4 Mod.2"
 
 msgid "IDS_PHUS401_C5_SUO_STOCK"
-msgstr "SUO Mk 5 Mod. 1"
+msgstr "SUO Mk 5 Mod.1"
 
 msgid "IDS_PHUS402_C5_SUO_TOP"
-msgstr "SUO Mk 5 Mod. 2"
+msgstr "SUO Mk 5 Mod.2"
 
 msgid "IDS_PHUS501_C6_SUO_STOCK"
-msgstr "SUO Mk 6 Mod. 1"
+msgstr "SUO Mk 6 Mod.1"
 
 msgid "IDS_PHUS502_C6_SUO_TOP"
-msgstr "SUO Mk 6 Mod. 2"
+msgstr "SUO Mk 6 Mod.2"
 
 msgid "IDS_PHUS601_C7_SUO_STOCK"
-msgstr "SUO Mk 7 Mod. 1"
+msgstr "SUO Mk 7 Mod.1"
 
 msgid "IDS_PHUS602_C7_SUO_TOP"
-msgstr "SUO Mk 7 Mod. 2"
+msgstr "SUO Mk 7 Mod.2"
 
 msgid "IDS_PHUS701_C8_SUO_STOCK"
-msgstr "SUO Mk 8 Mod. 1"
+msgstr "SUO Mk 8 Mod.1"
 
 msgid "IDS_PHUS702_C8_SUO_TOP"
-msgstr "SUO Mk 8 Mod. 2"
+msgstr "SUO Mk 8 Mod.2"
 
 msgid "IDS_PHUS703_SUO_DE_ZEVEN_PRO"
-msgstr "SUO Mk 8 Mod. 1"
+msgstr "SUO Mk 8 Mod.1"
 
 msgid "IDS_PHUS801_C9_SUO_STOCK"
-msgstr "SUO Mk 9 Mod. 1"
+msgstr "SUO Mk 9 Mod.1"
 
 msgid "IDS_PHUS802_C9_SUO_TOP"
-msgstr "SUO Mk 9 Mod. 2"
+msgstr "SUO Mk 9 Mod.2"
 
 msgid "IDS_PHUS803_SUO_GRONINGEN"
-msgstr "Vuurleiding Mk 9 Mod. 1"
+msgstr "Vuurleiding Mk 9 Mod.1"
 
 msgid "IDS_PHUS804_SUO_SPEIJK"
-msgstr "SUO Mk 9 Mod. 1"
+msgstr "SUO Mk 9 Mod.1"
 
 msgid "IDS_PHUS901_C10_SUO_STOCK"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PHUS902_SUO_TROMP"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PHUS903_C10_SUO_STOCK"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PHUS904_SUO_CALLENBURGH"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PHUT901_TORP_TROMP"
 msgstr "53.3-cm torpedo"
@@ -79839,7 +79839,7 @@ msgid "IDS_PIGA004_BREDA_37MM_DOUBLE"
 msgstr "37 mm/54 Model 1938（1938式炮座）"
 
 msgid "IDS_PIGA005_BREDA_20MM_65"
-msgstr "20 mm/65 Model 1939 （1939式炮座）"
+msgstr "20 mm/65 Model 1939（1939式炮座）"
 
 msgid "IDS_PIGA007_13_2MM_2BARRELS_BREDA_MG"
 msgstr "13.2 mm/76 Breda Model 1931（双联装枪座）"
@@ -81538,10 +81538,10 @@ msgid "IDS_PIUE908_C11_ENG_STOCK"
 msgstr "推进系统：240000马力"
 
 msgid "IDS_PIUF700_FC_AQUILA"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PIUF801_FC_TRANCLUCATOR"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PIUH001_C1_HULL_A"
 msgstr "厄立特里亚"
@@ -83830,16 +83830,16 @@ msgid "IDS_PJPA999_USELESS_AP_SPECIAL"
 msgstr "Useless AP"
 
 msgid "IDS_PJPB001_TYPE99_N6_MOD1"
-msgstr "HE Type99 N6 mod. 1"
+msgstr "HE Type99 N6 mod.1"
 
 msgid "IDS_PJPB002_TYPE99_N25_MOD1"
-msgstr "HE Type99 N25 mod. 1"
+msgstr "HE Type99 N25 mod.1"
 
 msgid "IDS_PJPB104_HOSHO_STOCK"
-msgstr "Type 99 No. 25 mod. 2"
+msgstr "Type 99 No. 25 mod.2"
 
 msgid "IDS_PJPB106_RYUJO_STOCK"
-msgstr "Type 99 No. 25 mod. 1"
+msgstr "Type 99 No. 25 mod.1"
 
 msgid "IDS_PJPB108_SHOKAKU_STOCK"
 msgstr "Type 3 No. 25 Mk. 4"
@@ -83857,13 +83857,13 @@ msgid "IDS_PJPB208_SHOKAKU_TOP"
 msgstr "Type 2 No. 50 Mk. 1"
 
 msgid "IDS_PJPB209_HIRYU_TOP"
-msgstr "No. 25 Mod. 2"
+msgstr "No. 25 Mod.2"
 
 msgid "IDS_PJPB210_HAKURYU_TOP"
 msgstr "Type 99 No. 80 Mk. 5"
 
 msgid "IDS_PJPB211_TAIHO_TOP"
-msgstr "No. 50 Mod. 2"
+msgstr "No. 50 Mod.2"
 
 msgid "IDS_PJPB213_ZUIHO_TOP"
 msgstr "Type 99 No. 25"
@@ -83872,7 +83872,7 @@ msgid "IDS_PJPB508_KAGA_STOCK"
 msgstr "Type 90 No. 50 Mk. 2"
 
 msgid "IDS_PJPB528_I54_STOCK"
-msgstr "Type 99 No. 3 Mod. 2 32kg"
+msgstr "Type 99 No. 3 Mod.2 32kg"
 
 msgid "IDS_PJPB606_ISE_STOCK"
 msgstr "Type 99 No. 25"
@@ -83932,10 +83932,10 @@ msgid "IDS_PJPD108_DEPTH_CV_10"
 msgstr "Type 1 No.25 Mk 2 model 1"
 
 msgid "IDS_PJPM206_ZUIHO_TOP"
-msgstr "Type JI Mod. 1"
+msgstr "Type JI Mod.1"
 
 msgid "IDS_PJPM208_HIRYU_TOP"
-msgstr "Type JI Mod. 2"
+msgstr "Type JI Mod.2"
 
 msgid "IDS_PJPM210_TAIHO_TOP"
 msgstr "Type JJ"
@@ -83965,16 +83965,16 @@ msgid "IDS_PJPR208_SHOKAKU_TOP"
 msgstr "Type 3 No. 6 Mk. 27"
 
 msgid "IDS_PJPR209_HIRYU_TOP"
-msgstr "Type 3 No. 5 Mod. 27 Mk. 2"
+msgstr "Type 3 No. 5 Mod.27 Mk. 2"
 
 msgid "IDS_PJPR210_HAKURYU_TOP"
 msgstr "Type 5 No. 6 Mk. 9"
 
 msgid "IDS_PJPR211_TAIHO_TOP"
-msgstr "Type 3 No. 5 Mod. 27 Mk. 3"
+msgstr "Type 3 No. 5 Mod.27 Mk. 3"
 
 msgid "IDS_PJPR214_ZUIHO_TOP"
-msgstr "Type 3 No. 5 Mod. 27 Mk. 1"
+msgstr "Type 3 No. 5 Mod.27 Mk. 1"
 
 msgid "IDS_PJPR508_KAGA_STOCK"
 msgstr "Type 3 No. 6 Mk. 27"
@@ -84013,7 +84013,7 @@ msgid "IDS_PJPT004_SEA_TORPEDO_533MM_TYPE6"
 msgstr "533 mm Type6"
 
 msgid "IDS_PJPT005_TYPE_91_MOD_1"
-msgstr "Type91 mod. 1"
+msgstr "Type91 mod.1"
 
 msgid "IDS_PJPT006_450MM_TYPE_44"
 msgstr "450 mm Type44"
@@ -84022,7 +84022,7 @@ msgid "IDS_PJPT007_533MM_TYPE_43"
 msgstr "533 mm Type43"
 
 msgid "IDS_PJPT008_533MM_TYPE_44_MOD_2"
-msgstr "533 mm Type44 mod. 2"
+msgstr "533 mm Type44 mod.2"
 
 msgid "IDS_PJPT010_TYPE_8"
 msgstr "Type8"
@@ -84034,10 +84034,10 @@ msgid "IDS_PJPT012_450MM_TYPE_43"
 msgstr "450 mm Type43"
 
 msgid "IDS_PJPT013_450MM_TYPE_42_MOD_1"
-msgstr "Type42 mod. 1"
+msgstr "Type42 mod.1"
 
 msgid "IDS_PJPT014_450MM_TYPE_44_MOD_2"
-msgstr "450 mm Type44 mod. 2"
+msgstr "450 mm Type44 mod.2"
 
 msgid "IDS_PJPT015_533MM_TYPE_92"
 msgstr "Type 92"
@@ -84046,28 +84046,28 @@ msgid "IDS_PJPT016_533MM_TYPE_89"
 msgstr "Type 89"
 
 msgid "IDS_PJPT017_610MM_TYPE_8_MOD_2"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJPT018_610MM_TYPE90_MOD_1"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJPT019_610MM_TYPE90_MOD_2"
-msgstr "Type90 mod. 2"
+msgstr "Type90 mod.2"
 
 msgid "IDS_PJPT020_610_TYPE93_MODEL_3"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJPT021_610_TYPE93_MODEL_2"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJPT022_TYPE_91_MOD_1A"
-msgstr "Type91 mod. 1A"
+msgstr "Type91 mod.1A"
 
 msgid "IDS_PJPT023_TYPE_94_MOD_2A"
-msgstr "Type94 mod. 2A"
+msgstr "Type94 mod.2A"
 
 msgid "IDS_PJPT024_TYPE_91_MOD_2A"
-msgstr "Type91 mod. 2A"
+msgstr "Type91 mod.2A"
 
 msgid "IDS_PJPT025_533MM_KAMIKAZE"
 msgstr "Type 92"
@@ -84076,22 +84076,22 @@ msgid "IDS_PJPT026_610MM_SHINO"
 msgstr "Type8"
 
 msgid "IDS_PJPT027_TYPE_8_M3"
-msgstr "Type8 mod. 3"
+msgstr "Type8 mod.3"
 
 msgid "IDS_PJPT028_533MM_MUTSU"
 msgstr "533 mm Type6"
 
 msgid "IDS_PJPT029_610MM_HAREKAZE"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJPT030_610MM_KII"
-msgstr "Type93 mod. 1"
+msgstr "Type93 mod.1"
 
 msgid "IDS_PJPT031_SEA_TORPEDO_TYPE93_DW"
 msgstr "Type93 DW"
 
 msgid "IDS_PJPT032_610_ASASHIO"
-msgstr "Type93 mod. 2 dw"
+msgstr "Type93 mod.2 dw"
 
 msgid "IDS_PJPT033_TYPE8_YAHAGI"
 msgstr "Type8"
@@ -84100,7 +84100,7 @@ msgid "IDS_PJPT034_610_YUKIKAZE"
 msgstr "Type F3"
 
 msgid "IDS_PJPT035_TST_ZAO_2"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJPT036_TST_ZAO_1"
 msgstr "Type F3"
@@ -84109,22 +84109,22 @@ msgid "IDS_PJPT037_610MM_YUDACHI"
 msgstr "Type90"
 
 msgid "IDS_PJPT038_YOSHINO"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJPT039_YOSHINO"
 msgstr "Type93"
 
 msgid "IDS_PJPT040_TYPE93_HAYATE"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJPT041_610MM_HAREKAZE_2"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJPT045_533MM_I58"
 msgstr "533 mm"
 
 msgid "IDS_PJPT046_610MM_T11"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJPT047_610MM_TYPE93_ALT_T11"
 msgstr "Type93"
@@ -84136,16 +84136,16 @@ msgid "IDS_PJPT049_610MM_TYPE93_ALT_T11_2"
 msgstr "Type93 Improved"
 
 msgid "IDS_PJPT050_610MM_MAYA2"
-msgstr "Type90 mod. 3"
+msgstr "Type90 mod.3"
 
 msgid "IDS_PJPT051_IWAMI"
 msgstr "Type93"
 
 msgid "IDS_PJPT052_533MM_I56"
-msgstr "Type95 mod. 3"
+msgstr "Type95 mod.3"
 
 msgid "IDS_PJPT053_533MM_I56_MZ"
-msgstr "Type95 mod. 3 MZ"
+msgstr "Type95 mod.3 MZ"
 
 msgid "IDS_PJPT054_610MM_TOKACHI"
 msgstr "Type90 1930"
@@ -84169,55 +84169,55 @@ msgid "IDS_PJPT060_610MM_CL"
 msgstr "Type93"
 
 msgid "IDS_PJPT061_610MM_DAISEN"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJPT062_TSURUGI_TYPE93"
 msgstr "Type93"
 
 msgid "IDS_PJPT063_533MM_I54"
-msgstr "Type95 mod. 3"
+msgstr "Type95 mod.3"
 
 msgid "IDS_PJPT064_533MM_I54_MZ"
-msgstr "Type95 mod. 3 MZ"
+msgstr "Type95 mod.3 MZ"
 
 msgid "IDS_PJPT065_610MM_T11"
 msgstr "Type93"
 
 msgid "IDS_PJPT104_HOSHO_STOCK"
-msgstr "Type 91 mod. 0"
+msgstr "Type 91 mod.0"
 
 msgid "IDS_PJPT106_RYUJO_STOCK"
-msgstr "Type 91 mod. 1"
+msgstr "Type 91 mod.1"
 
 msgid "IDS_PJPT108_SHOKAKU_STOCK"
-msgstr "Type 91 mod. 3"
+msgstr "Type 91 mod.3"
 
 msgid "IDS_PJPT110_HAKURYU_STOCK"
-msgstr "Type 91 mod. 7"
+msgstr "Type 91 mod.7"
 
 msgid "IDS_PJPT120_610_KITAKAMI"
-msgstr "Type90 mod. 5"
+msgstr "Type90 mod.5"
 
 msgid "IDS_PJPT121_SEKIRYU_STOCK"
-msgstr "Type 91 mod. 7"
+msgstr "Type 91 mod.7"
 
 msgid "IDS_PJPT122_SEKIRYU_JET"
-msgstr "Type 91 mod. 7"
+msgstr "Type 91 mod.7"
 
 msgid "IDS_PJPT206_RYUJO_TOP"
-msgstr "Type 91 mod. 2"
+msgstr "Type 91 mod.2"
 
 msgid "IDS_PJPT208_SHOKAKU_TOP"
-msgstr "Type 91 mod. 3"
+msgstr "Type 91 mod.3"
 
 msgid "IDS_PJPT210_HAKURYU_TOP"
-msgstr "Type 91 mod. 7"
+msgstr "Type 91 mod.7"
 
 msgid "IDS_PJPT310_HAKURYU_TOP"
-msgstr "Type 91 mod. 8"
+msgstr "Type 91 mod.8"
 
 msgid "IDS_PJPT508_KAGA_STOCK"
-msgstr "Type 91 mod. 1"
+msgstr "Type 91 mod.1"
 
 msgid "IDS_PJPT606_ISE_STOCK"
 msgstr "Type 5"
@@ -84238,22 +84238,22 @@ msgid "IDS_PJPT628_TONE3_STOCK"
 msgstr "Type 5"
 
 msgid "IDS_PJPT718_610MM_TYPE90_MOD_1"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJPT917_610MM_TYPE90_MOD_1"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJPT918_610MM_TYPE90_MOD_1"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJPT919_610MM_TYPE90_MOD_1"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJPT920_TAIHO_TOP"
-msgstr "Type 91 mod. 7"
+msgstr "Type 91 mod.7"
 
 msgid "IDS_PJPT998_KIKAKU"
-msgstr "Type 91 mod. 3"
+msgstr "Type 91 mod.3"
 
 msgid "IDS_PJPT999_USELESS_SPECIAL"
 msgstr "Useless"
@@ -87091,12 +87091,12 @@ msgstr "C6N Saiun"
 msgid "IDS_PJUB904_CV10_TB_TOP"
 msgstr ""
 "J5N Tenrai\n"
-"Type 91 mod. 7"
+"Type 91 mod.7"
 
 msgid "IDS_PJUB905_CV10_TB_TOP"
 msgstr ""
 "J5N Tenrai\n"
-"Type 91 mod. 8"
+"Type 91 mod.8"
 
 msgid "IDS_PJUB906_TB_TAIHO"
 msgstr "C6N Saiun"
@@ -87107,7 +87107,7 @@ msgstr "C6N Saiun"
 msgid "IDS_PJUB975_TB2_HAKU"
 msgstr ""
 "J5N Tenrai\n"
-"Type 91 mod. 7"
+"Type 91 mod.7"
 
 msgid "IDS_PJUD001_D1A2"
 msgstr "Aichi D3A1"
@@ -87746,130 +87746,130 @@ msgid "IDS_PJUE980_ENG_SATSUMA"
 msgstr "推进系统：166000马力"
 
 msgid "IDS_PJUF018_TONE_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF301_FLIGHTCONTROL_1"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUF391_FC1_HOSHO"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUF401_FLIGHTCONTROL_1"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUF402_FLIGHTCONTROL_2_A"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUF501_FLIGHTCONTROL_1"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUF502_FLIGHTCONTROL_2_A"
-msgstr "Type6 mod. 2"
+msgstr "Type6 mod.2"
 
 msgid "IDS_PJUF503_FLIGHTCONTROL_2_U"
-msgstr "Type6 mod. 3"
+msgstr "Type6 mod.3"
 
 msgid "IDS_PJUF504_FC_A1_KAGA"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUF505_FC_A2_KAGA"
-msgstr "Type7 mod. 2"
+msgstr "Type7 mod.2"
 
 msgid "IDS_PJUF506_CV6_FC_STOCK"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUF550_FC_ISE"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUF551_FC_ISE_SECOND"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUF552_FC_ISE_THIRD"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUF591_FC1_RYUJO"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUF601_FLIGHTCONTROL_1"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUF602_FLIGHTCONTROL_2_A"
-msgstr "Type7 mod. 2"
+msgstr "Type7 mod.2"
 
 msgid "IDS_PJUF603_FLIGHTCONTROL_2_U"
-msgstr "Type7 mod. 3"
+msgstr "Type7 mod.3"
 
 msgid "IDS_PJUF700_FC_KIKAKU"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF701_FLIGHTCONTROL_1"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF702_FLIGHTCONTROL_2_A"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUF703_FLIGHTCONTROL_2_U"
-msgstr "Type8 mod. 3"
+msgstr "Type8 mod.3"
 
 msgid "IDS_PJUF704_FLCONTROL_BLACK_KAGA"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF705_FC_I54"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF706_CV8_FC_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF772_TONE_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF773_TONE_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF791_FC1_SHOKAKU"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF792_FC1_KAGA"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUF801_FLIGHTCONTROL_1"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUF802_FLIGHTCONTROL_2_A"
-msgstr "Type9 mod. 2"
+msgstr "Type9 mod.2"
 
 msgid "IDS_PJUF803_FLIGHTCONTROL_2_U"
-msgstr "Type9 mod. 3"
+msgstr "Type9 mod.3"
 
 msgid "IDS_PJUF900_CV11_FC_STOCK"
-msgstr "Type11 mod. 1"
+msgstr "Type11 mod.1"
 
 msgid "IDS_PJUF901_FLIGHTCONTROL_1"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUF902_FLIGHTCONTROL_2_A"
-msgstr "Type10 mod. 2"
+msgstr "Type10 mod.2"
 
 msgid "IDS_PJUF903_FLIGHTCONTROL_2_U"
-msgstr "Type10 mod. 3"
+msgstr "Type10 mod.3"
 
 msgid "IDS_PJUF904_FC_TAIHO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUF905_CV10_FC_STOCK"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUF974_FC_1_HAKU"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUF975_FC_2A_HAKU"
-msgstr "Type10 mod. 2"
+msgstr "Type10 mod.2"
 
 msgid "IDS_PJUF976_FC_2B_HAKU"
-msgstr "Type10 mod. 3"
+msgstr "Type10 mod.3"
 
 msgid "IDS_PJUF991_FC1_HAKURYU"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUH003_UJI_A"
 msgstr "桥立(A)"
@@ -88709,538 +88709,538 @@ msgid "IDS_PJUO906_CV10_MB_TOP"
 msgstr "Yokosuka P1Y1"
 
 msgid "IDS_PJUQ701_SONAR_I56"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUQ702_SONAR_I54"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS002_SUO"
-msgstr "Type1 mod. 2"
+msgstr "Type1 mod.2"
 
 msgid "IDS_PJUS003_SUO"
-msgstr "Type1 mod. 1"
+msgstr "Type1 mod.1"
 
 msgid "IDS_PJUS103_SUO_TACHIBANA"
-msgstr "Type2 mod. 1"
+msgstr "Type2 mod.1"
 
 msgid "IDS_PJUS104_SUO_SAKURA"
-msgstr "Type2 mod. 1"
+msgstr "Type2 mod.1"
 
 msgid "IDS_PJUS113_SUO_MIKASA"
-msgstr "Type2 mod. 1"
+msgstr "Type2 mod.1"
 
 msgid "IDS_PJUS121_SUO"
-msgstr "Type2 mod. 1"
+msgstr "Type2 mod.1"
 
 msgid "IDS_PJUS122_SUO"
-msgstr "Type2 mod. 2"
+msgstr "Type2 mod.2"
 
 msgid "IDS_PJUS201_SUO"
-msgstr "Type3 mod. 1"
+msgstr "Type3 mod.1"
 
 msgid "IDS_PJUS211_SUO"
-msgstr "Type3 mod. 1"
+msgstr "Type3 mod.1"
 
 msgid "IDS_PJUS212_SUO"
-msgstr "Type3 mod. 2"
+msgstr "Type3 mod.2"
 
 msgid "IDS_PJUS213_SUO_CS"
-msgstr "Type3 mod. 1"
+msgstr "Type3 mod.1"
 
 msgid "IDS_PJUS214_SUO_CS"
-msgstr "Type3 mod. 2"
+msgstr "Type3 mod.2"
 
 msgid "IDS_PJUS221_SUO"
-msgstr "Type3 mod. 1"
+msgstr "Type3 mod.1"
 
 msgid "IDS_PJUS222_SUO"
-msgstr "Type3 mod. 2"
+msgstr "Type3 mod.2"
 
 msgid "IDS_PJUS231_SUO"
-msgstr "Type3 mod. 1"
+msgstr "Type3 mod.1"
 
 msgid "IDS_PJUS241_SUO_KATORI"
-msgstr "Type3 mod. 1"
+msgstr "Type3 mod.1"
 
 msgid "IDS_PJUS301_SUO"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUS302_SUO"
-msgstr "Type4 mod. 2"
+msgstr "Type4 mod.2"
 
 msgid "IDS_PJUS303_SUO_CS"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUS304_SUO_CS"
-msgstr "Type4 mod. 2"
+msgstr "Type4 mod.2"
 
 msgid "IDS_PJUS305_SUO"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUS306_SUO"
-msgstr "Type4 mod. 2"
+msgstr "Type4 mod.2"
 
 msgid "IDS_PJUS311_SUO"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUS312_SUO"
-msgstr "Type4 mod. 2"
+msgstr "Type4 mod.2"
 
 msgid "IDS_PJUS321_SUO"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUS322_SUO"
-msgstr "Type4 mod. 2"
+msgstr "Type4 mod.2"
 
 msgid "IDS_PJUS331_SUO"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUS332_SUO_CS"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUS332_SUO_TEST"
 msgstr "测试舰炮射控系统"
 
 msgid "IDS_PJUS341_SUO_ISHIZUCHI"
-msgstr "Type4 mod. 1"
+msgstr "Type4 mod.1"
 
 msgid "IDS_PJUS401_SUO"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS402_SUO"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS403_D5_SUO_STOCK_2"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS404_D5_SUO_TOP_2"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS405_SUO"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS406_SUO"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS407_D5_SUO_STOCK_2"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS408_D5_SUO_TOP_2"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS409_SUO_YAHAGI"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS411_SUO"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS412_SUO"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS413_SUO_HIEI"
 msgstr "Type5"
 
 msgid "IDS_PJUS414_C5_SUO_STOCK"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS415_C5_SUO_TOP"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS421_SUO"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS431_SUO"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS432_SUO"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS441_SUO_KAMIKAZE"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS451_SUO_TRUE_KAMIKAZE"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS452_SUO_CAMO_KAMIKAZE"
-msgstr "Type5 mod. 1"
+msgstr "Type5 mod.1"
 
 msgid "IDS_PJUS495_SUO_KONGOU"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS496_SUO_KIRISHIMA"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS497_SUO_HARUNA"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS498_SUO_HIEI"
-msgstr "Type5 mod. 2"
+msgstr "Type5 mod.2"
 
 msgid "IDS_PJUS500_SUO_BLACK_SHINONOME"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS501_SUO"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS502_SUO"
-msgstr "Type6 mod. 2"
+msgstr "Type6 mod.2"
 
 msgid "IDS_PJUS503_D6_SUO_STOCK_2"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS504_D6_SUO_TOP_2"
-msgstr "Type6 mod. 2"
+msgstr "Type6 mod.2"
 
 msgid "IDS_PJUS505_D6_SUO_STOCK"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS506_D6_SUO_TOP"
-msgstr "Type6 mod. 2"
+msgstr "Type6 mod.2"
 
 msgid "IDS_PJUS507_D6_SUO_STOCK_2"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS508_D6_SUO_TOP_2"
-msgstr "Type6 mod. 2"
+msgstr "Type6 mod.2"
 
 msgid "IDS_PJUS509_D6_SUO_STOCK"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS510_D6_SUO_TOP"
-msgstr "Type6 mod. 2"
+msgstr "Type6 mod.2"
 
 msgid "IDS_PJUS511_SUO"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS512_SUO"
-msgstr "Type6 mod. 2"
+msgstr "Type6 mod.2"
 
 msgid "IDS_PJUS513_SUO_SHINO"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS514_SUO_MUTSU"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS515_C6_SUO_STOCK"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS516_C6_SUO_TOP"
-msgstr "Type6 mod. 2"
+msgstr "Type6 mod.2"
 
 msgid "IDS_PJUS521_SUO"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS522_SUO"
-msgstr "Type6 mod. 2"
+msgstr "Type6 mod.2"
 
 msgid "IDS_PJUS550_SUO_ISE"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS551_SUO_ISE_SECOND"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS552_SUO_ISE_THIRD"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS601_SUO"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS602_SUO"
-msgstr "Type7 mod. 2"
+msgstr "Type7 mod.2"
 
 msgid "IDS_PJUS603_SUO_ASHITAKA"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS604_SUO_YUDACHI"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS605_SUO_HYUGA"
-msgstr "Type6 mod. 1"
+msgstr "Type6 mod.1"
 
 msgid "IDS_PJUS606_SUO_MAYA2"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS607_SUO_TOKACHI"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS608_C7_SUO_STOCK"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS609_C7_SUO_TOP"
-msgstr "Type7 mod. 2"
+msgstr "Type7 mod.2"
 
 msgid "IDS_PJUS611_SUO"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS621_SUO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS622_SUO"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUS631_D7_SUO_STOCK_2"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS632_D7_SUO_TOP_2"
-msgstr "Type7 mod. 2"
+msgstr "Type7 mod.2"
 
 msgid "IDS_PJUS633_D7_SUO_STOCK"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS634_D7_SUO_TOP"
-msgstr "Type7 mod. 2"
+msgstr "Type7 mod.2"
 
 msgid "IDS_PJUS661_SUO"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS701_SUO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS702_SUO"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUS703_SUO_YUKIKAZE"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS704_SUO_HAREKAZE_2"
 msgstr "Type8"
 
 msgid "IDS_PJUS705_C8_SUO_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS706_C8_SUO_TOP"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUS707_B8_SUO_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS708_B8_SUO_TOP"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUS711_SUO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS712_SUO"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUS713_SUO_RAGNAROK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS714_SUO_IGNIS_PURGATIO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS715_SUO_MAYA"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS721_SUO"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS741_SUO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS761_SUO_ATAGO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS762_SUO_ASASHIO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS763_SUO_BLACK_ATAGO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS764_SUO_BLACK_ASASHIO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS770_SUO_TONE"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS772_SUO_TONE"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS773_SUO_TONE"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS781_SUO_HAREKAZE"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS791_SUO_MYOKO"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS792_SUO_HAGURO"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS793_SUO_ASHIGARA"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS794_SUO_YELLOW_DRAGON"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS795_SUO_BLUE_DRAGON"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS796_SUO_NACHI"
-msgstr "Type7 mod. 1"
+msgstr "Type7 mod.1"
 
 msgid "IDS_PJUS797_SUO_TAKAO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS798_SUO_KII"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS800_SUO_IWAMI"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS801_SUO"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS802_SUO"
-msgstr "Type9 mod. 2"
+msgstr "Type9 mod.2"
 
 msgid "IDS_PJUS803_D8_SUO_STOCK_2"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS804_D8_SUO_TOP_2"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUS805_D8_SUO_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS806_D8_SUO_TOP"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUS807_D8_SUO_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS808_D8_SUO_TOP"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUS809_SUO_HIZEN"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUS810_SUO_AZUR_AZUMA"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS812_SUO"
-msgstr "Type9 mod. 2"
+msgstr "Type9 mod.2"
 
 msgid "IDS_PJUS813_C9_SUO_STOCK"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS814_C9_SUO_TOP"
-msgstr "Type9 mod. 2"
+msgstr "Type9 mod.2"
 
 msgid "IDS_PJUS815_SUO_DAISEN"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS816_SUO_KITAKAZE_PR"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS817_SUO_TSURUGI"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS818_B9_SUO_STOCK"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS819_B9_SUO_TOP"
-msgstr "Type9 mod. 2"
+msgstr "Type9 mod.2"
 
 msgid "IDS_PJUS820_SUO_BLACK_IWAMI"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS821_SUO"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS822_SUO"
-msgstr "Type9 mod. 2"
+msgstr "Type9 mod.2"
 
 msgid "IDS_PJUS831_SUO"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS841_D9_SUO_STOCK_2"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS842_D9_SUO_TOP_2"
-msgstr "Type9 mod. 2"
+msgstr "Type9 mod.2"
 
 msgid "IDS_PJUS843_D9_SUO_STOCK_3"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PJUS844_D9_SUO_TOP_3"
-msgstr "Type9 mod. 2"
+msgstr "Type9 mod.2"
 
 msgid "IDS_PJUS901_SUO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS903_D10_SUO_STOCK_2"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS904_SUO_TST_ZAO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS905_SUO_YOSHINO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS906_SUO_HAYATE"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS907_SUO_KITAKAMI"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS908_SUO_ARP_YAMATO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS909_SUO_BLACK_YOSHINO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS910_C10_SUO_STOCK"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS911_SUO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS913_SUO_MUSASHI"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS914_B10_SUO_STOCK"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS921_SUO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS930_D11_SUO_STOCK"
-msgstr "Type11 mod. 1"
+msgstr "Type11 mod.1"
 
 msgid "IDS_PJUS931_C11_SUO_STOCK"
-msgstr "Type11 mod. 1"
+msgstr "Type11 mod.1"
 
 msgid "IDS_PJUS933_SUO_SATSUMA"
-msgstr "Type11 mod. 1"
+msgstr "Type11 mod.1"
 
 msgid "IDS_PJUS971_SUO_AZUMAYA"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS974_SUO_ZAO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS975_SUO_SHIM"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS976_SUO_YAM"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS978_BB10_SUO_SHIKISHIMA"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PJUS980_SUO_SATSUMA"
-msgstr "Type11 mod. 1"
+msgstr "Type11 mod.1"
 
 msgid "IDS_PJUT103_D2_TORP_STOCK"
 msgstr "Type 42"
 
 msgid "IDS_PJUT104_D2_TORP_TOP"
-msgstr "Type44 mod. 2"
+msgstr "Type44 mod.2"
 
 msgid "IDS_PJUT105_450_TACHIBANA"
-msgstr "Ho Type44 mod. 2"
+msgstr "Ho Type44 mod.2"
 
 msgid "IDS_PJUT106_450_TACHIBANA"
 msgstr "Ho Type42"
@@ -89249,19 +89249,19 @@ msgid "IDS_PJUT107_450_SAKURA"
 msgstr "Ho Type42"
 
 msgid "IDS_PJUT202_C3_TORP_STOCK"
-msgstr "Type44 mod. 2"
+msgstr "Type44 mod.2"
 
 msgid "IDS_PJUT203_D3_TORP_TOP"
 msgstr "Type6"
 
 msgid "IDS_PJUT204_D3_TORP_STOCK"
-msgstr "Type44 mod. 2"
+msgstr "Type44 mod.2"
 
 msgid "IDS_PJUT205_533_TYPE_6_CS"
 msgstr "Type6"
 
 msgid "IDS_PJUT231_533_KATORI"
-msgstr "Type44 mod. 2"
+msgstr "Type44 mod.2"
 
 msgid "IDS_PJUT301_C4_TORP_STOCK"
 msgstr "Type6"
@@ -89270,7 +89270,7 @@ msgid "IDS_PJUT302_D4_TORP_TOP"
 msgstr "Type6"
 
 msgid "IDS_PJUT303_D4_TORP_STOCK"
-msgstr "Type44 mod. 2"
+msgstr "Type44 mod.2"
 
 msgid "IDS_PJUT304_D4_TORP_TOP_FALSE"
 msgstr "Type 92"
@@ -89297,7 +89297,7 @@ msgid "IDS_PJUT401_C5_TORP_STOCK"
 msgstr "Type8"
 
 msgid "IDS_PJUT402_C5_TORP_TOP"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT403_D5_TORP_STOCK"
 msgstr "Type6"
@@ -89306,7 +89306,7 @@ msgid "IDS_PJUT404_533_TYPE_89"
 msgstr "Type 89"
 
 msgid "IDS_PJUT405_D5_TORP_STOCK_2"
-msgstr "Type8 mod. 3"
+msgstr "Type8 mod.3"
 
 msgid "IDS_PJUT406_457_TYPE_43"
 msgstr "457 mm Type43"
@@ -89321,7 +89321,7 @@ msgid "IDS_PJUT408_D5_TORP_STOCK"
 msgstr "Type 92"
 
 msgid "IDS_PJUT409_D5_TORP_STOCK_2"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUT410_C5_TORP_STOCK"
 msgstr "Type 93"
@@ -89339,40 +89339,40 @@ msgid "IDS_PJUT442_533_JPT015_CAMO_KAMIKAZE"
 msgstr "Type 92"
 
 msgid "IDS_PJUT500_TORP_BLACK_SHINONOME"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUT501_D6_TORP_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUT502_D6_TORP_TOP"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT503_C6_TORP_STOCK"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT504_610_TYPE_8_MOD_2_IWAKI"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT505_D6_TORP_STOCK_2"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUT506_D6_TORP_TOP_2"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT507_TORP_SHINO"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUT508_D6_TORP_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUT509_D6_TORP_TOP"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT510_D6_TORP_STOCK_2"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PJUT512_D6_TORP_TOP_2"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT513_TORP_MUTSU"
 msgstr "Type6"
@@ -89381,157 +89381,157 @@ msgid "IDS_PJUT514_C6_TORP_STOCK"
 msgstr "Type 93"
 
 msgid "IDS_PJUT601_C7_TORP_STOCK"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT602_C7_TORP_TOP"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT603_D7_TORP_STOCK"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT604_D7_TORP_TOP"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT605_610_TYPE_90_MOD_1_0"
-msgstr "Type90 mod. 3"
+msgstr "Type90 mod.3"
 
 msgid "IDS_PJUT605_D7_TORP_STOCK_1"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT606_610_TYPE_90_MOD_1_CR"
-msgstr "Type90 mod. 4"
+msgstr "Type90 mod.4"
 
 msgid "IDS_PJUT606_D7_TORP_TOP_1"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT607_610_TYPE_90_MOD_1_CR_0"
-msgstr "Type90 mod. 6"
+msgstr "Type90 mod.6"
 
 msgid "IDS_PJUT607_TORP_YUDACHI"
 msgstr "Type90"
 
 msgid "IDS_PJUT608_TORP_MAYA2"
-msgstr "Type93 mod. 1"
+msgstr "Type93 mod.1"
 
 msgid "IDS_PJUT609_TORP_TOKACHI"
-msgstr "Type93 mod. 1"
+msgstr "Type93 mod.1"
 
 msgid "IDS_PJUT612_C7_TORP_STOCK"
 msgstr "Type 93"
 
 msgid "IDS_PJUT621_D7_TORP_STOCK_2"
-msgstr "Type8 mod. 2"
+msgstr "Type8 mod.2"
 
 msgid "IDS_PJUT622_D7_TORP_TOP_2"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT694_610_TYPE_90_MOD_1_MYOKO"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT695_610_TYPE_90_MOD_1_HAGURO"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT696_610_TYPE_90_MOD_1_ASHIGARA"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT697_610_YELLOW_DRAGON"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT698_610_BLUE_DRAGON"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT699_610_NACHI"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT701_C8_TORP_STOCK"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT702_TORP_I56"
-msgstr "Type95 mod. 3"
+msgstr "Type95 mod.3"
 
 msgid "IDS_PJUT703_D8_TORP_STOCK"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT704_D8_TORP_MED"
-msgstr "Type90 mod. 2"
+msgstr "Type90 mod.2"
 
 msgid "IDS_PJUT705_D8_TORP_TOP"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJUT706_D8_TORP_STOCK_2"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT707_D8_TORP_TOP_2"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJUT708_D8_TORP_STOCK"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT709_D8_TORP_TOP"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJUT710_TORP_BLACK_ATAGO"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT711_TORP_YUKIKAZE"
 msgstr "Type F3"
 
 msgid "IDS_PJUT712_TORP_HAREKAZE_2"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJUT713_TORP_MAYA"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT714_C8_TORP_STOCK"
 msgstr "Type 93"
 
 msgid "IDS_PJUT715_TORP_I54"
-msgstr "Type95 mod. 3"
+msgstr "Type95 mod.3"
 
 msgid "IDS_PJUT740_TORP_I58"
 msgstr "533 mm"
 
 msgid "IDS_PJUT771_TORP_TONE"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT772_TORP_TONE"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT773_TORP_TONE"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT781_TORP_HAREKAZE"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT782_TORP_ASASHIO"
-msgstr "Type93 mod. 2 dw"
+msgstr "Type93 mod.2 dw"
 
 msgid "IDS_PJUT783_TORP_BLACK_ASASHIO"
-msgstr "Type93 mod. 2 dw"
+msgstr "Type93 mod.2 dw"
 
 msgid "IDS_PJUT791_TORP_TAKAO"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT792_TORP_KII"
-msgstr "Type93 mod. 1"
+msgstr "Type93 mod.1"
 
 msgid "IDS_PJUT800_TORP_IWAMI"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT801_C9_TORP_STOCK"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT802_C9_TORP_TOP"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJUT803_D9_TORP_STOCK"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJUT804_610_ATAGO"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT805_TORP_DAISEN"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT806_D9_TORP_MED"
 msgstr "Type93"
@@ -89549,25 +89549,25 @@ msgid "IDS_PJUT810_TORP_TSURUGI"
 msgstr "Type F3"
 
 msgid "IDS_PJUT811_D9_TORP_STOCK_2"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJUT812_D9_TORP_TOP_2"
 msgstr "Type F3"
 
 msgid "IDS_PJUT813_D9_TORP_TOP_3"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT814_D9_TORP_STOCK_4"
-msgstr "Type93 mod. 2"
+msgstr "Type93 mod.2"
 
 msgid "IDS_PJUT815_D9_TORP_MED_4"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT816_D9_TORP_TOP_4"
 msgstr "Type93"
 
 msgid "IDS_PJUT817_TORP_BLACK_IWAMI"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PJUT901_D10_TORP_STOCK"
 msgstr "Type93"
@@ -89579,49 +89579,49 @@ msgid "IDS_PJUT903_610_TYPE_90_KITAKAMI"
 msgstr "Type90"
 
 msgid "IDS_PJUT904_D10_TORP_MED"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT905_D10_TORP_TOP"
 msgstr "Type F3"
 
 msgid "IDS_PJUT906_D10_TORP_STOCK_2"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT908_D10_TORP_TOP_2"
 msgstr "Type F3"
 
 msgid "IDS_PJUT909_C10_TORP_TOP"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT910_TORP_TST_ZAO_1"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT911_TORP_TST_ZAO_2"
 msgstr "Type F3"
 
 msgid "IDS_PJUT912_TORP_YOSHINO"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT913_TORP_YOSHINO"
 msgstr "Type93"
 
 msgid "IDS_PJUT914_TORP_HAYATE"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT915_TORP_KITAKAMI"
 msgstr "Type90"
 
 msgid "IDS_PJUT916_TORP_BLACK_YOSHINO"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT917_TORP_BLACK_YOSHINO"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT918_C10_TORP_STOCK"
 msgstr "Type 93"
 
 msgid "IDS_PJUT930_D11_TORPEDOES_STOCK"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT931_D11_TORPEDOES_TOP"
 msgstr "Type F3"
@@ -89636,13 +89636,13 @@ msgid "IDS_PJUT975_TORP1_SHIM"
 msgstr "Type93"
 
 msgid "IDS_PJUT976_TORP2_SHIM"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJUT977_TORP3_SHIM"
 msgstr "Type F3"
 
 msgid "IDS_PJUT978_TORP_ZAO_TOP"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod.3"
 
 msgid "IDS_PJW018_YAMAMOTO"
 msgstr "山本五十六指挥官经验"
@@ -91389,7 +91389,7 @@ msgid "IDS_PRGA012_20MM_OERLIKON_MK4"
 msgstr "20 mm Oerlikon（Mk4炮座）"
 
 msgid "IDS_PRGA013_3IN50_MK22_MOD2"
-msgstr "76 mm Mk.21（Mk22 mod. 2炮座）"
+msgstr "76 mm Mk.21（Mk22 mod.2炮座）"
 
 msgid "IDS_PRGA014_BROWNING_M2_MOD1"
 msgstr "12.7 mm Browning M2"
@@ -92262,10 +92262,10 @@ msgid "IDS_PRPA005_75MM_HE"
 msgstr "75 mm HE"
 
 msgid "IDS_PRPA006_SHELL_152MM_AP_SC_MK_27_MOD_2"
-msgstr "152 mm AP/SC Mk27 mod. 8"
+msgstr "152 mm AP/SC Mk27 mod.8"
 
 msgid "IDS_PRPA007_SHELL_152MM_HE_HC_MARK_34_MOD_1"
-msgstr "152 mm HE/HC Mk34 mod. 1"
+msgstr "152 mm HE/HC Mk34 mod.1"
 
 msgid "IDS_PRPA008_102MM_HE_1915"
 msgstr "102 mm HE Model 1915"
@@ -92901,16 +92901,16 @@ msgid "IDS_PRPT012_533MM_D4"
 msgstr "533 mm D4"
 
 msgid "IDS_PRPT013_53_36_KIROV"
-msgstr "53-36 mod. 1"
+msgstr "53-36 mod.1"
 
 msgid "IDS_PRPT014_53_36"
-msgstr "53-36 mod. 1"
+msgstr "53-36 mod.1"
 
 msgid "IDS_PRPT015_53_38"
 msgstr "53-38"
 
 msgid "IDS_PRPT016_53_39_MOD1"
-msgstr "53-39 mod. 1"
+msgstr "53-39 mod.1"
 
 msgid "IDS_PRPT017_ET_80"
 msgstr "ET-80"
@@ -92922,13 +92922,13 @@ msgid "IDS_PRPT019_KHABAROVSK"
 msgstr "ET-46"
 
 msgid "IDS_PRPT020_53_36_MOD2"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRPT021_53_39_MOD2"
-msgstr "53-39 mod. 2"
+msgstr "53-39 mod.2"
 
 msgid "IDS_PRPT022_53_39_MOD3"
-msgstr "53-39 mod. 3"
+msgstr "53-39 mod.3"
 
 msgid "IDS_PRPT023_53_51"
 msgstr "53-51"
@@ -92940,10 +92940,10 @@ msgid "IDS_PRPT024_MOLOTOV"
 msgstr "53-38"
 
 msgid "IDS_PRPT025_53_36_BAGRATION"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRPT026_LGD_V2"
-msgstr "53-39 mod. 2"
+msgstr "53-39 mod.2"
 
 msgid "IDS_PRPT027_OHOTNIK"
 msgstr "45-36NU"
@@ -92958,7 +92958,7 @@ msgid "IDS_PRPT030_53_49MI"
 msgstr "53-50"
 
 msgid "IDS_PRPT031_53_39_TASH41"
-msgstr "53-39 mod. 4"
+msgstr "53-39 mod.4"
 
 msgid "IDS_PRPT032_533MM_MAKAROV"
 msgstr "G7a T1"
@@ -92976,16 +92976,16 @@ msgid "IDS_PRPT035_SAET_80"
 msgstr "SAET-80"
 
 msgid "IDS_PRPT037_OCHAKOV"
-msgstr "53-39 mod. 3"
+msgstr "53-39 mod.3"
 
 msgid "IDS_PRPT038_53_36_MIKOYAN"
-msgstr "53-36 mod. 1"
+msgstr "53-36 mod.1"
 
 msgid "IDS_PRPT039_53_39_MOD4"
-msgstr "53-39 mod. 4"
+msgstr "53-39 mod.4"
 
 msgid "IDS_PRPT040_53_36_P_BAGRATION"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRPT041_POBEDA_STOCK"
 msgstr "TAN-12"
@@ -93057,7 +93057,7 @@ msgid "IDS_PRPT064_POZHARSKY"
 msgstr "53-38"
 
 msgid "IDS_PRPT065_533_KOMISSAR"
-msgstr "53-39 mod. 4"
+msgstr "53-39 mod.4"
 
 msgid "IDS_PRPT066_533MM_SUB_T11"
 msgstr "53-38U"
@@ -96073,442 +96073,442 @@ msgid "IDS_PRUP501_S6_HYDR_STOCK"
 msgstr " "
 
 msgid "IDS_PRUQ501_S6_SONAR_STOCK"
-msgstr "对海搜索6 mod. 1"
+msgstr "对海搜索6 mod.1"
 
 msgid "IDS_PRUQ502_S6_SONAR_TOP"
-msgstr "对海搜索6 mod. 2"
+msgstr "对海搜索6 mod.2"
 
 msgid "IDS_PRUQ701_SONAR_S189"
 msgstr "对海搜索8"
 
 msgid "IDS_PRUQ702_S8_SONAR_STOCK"
-msgstr "对海搜索8 mod. 1"
+msgstr "对海搜索8 mod.1"
 
 msgid "IDS_PRUQ703_S8_SONAR_TOP"
-msgstr "对海搜索8 mod. 2"
+msgstr "对海搜索8 mod.2"
 
 msgid "IDS_PRUQ900_S11_SONAR_STOCK"
 msgstr "对海搜索11"
 
 msgid "IDS_PRUQ901_S10_SONAR_STOCK"
-msgstr "对海搜索10 mod. 1"
+msgstr "对海搜索10 mod.1"
 
 msgid "IDS_PRUQ902_S10_SONAR_TOP"
-msgstr "对海搜索10 mod. 2"
+msgstr "对海搜索10 mod.2"
 
 msgid "IDS_PRUQ999_SONAR_TST_SUB"
 msgstr "对海搜索10"
 
 msgid "IDS_PRUS001_SUO"
-msgstr "GFCS I mod. 1"
+msgstr "GFCS I mod.1"
 
 msgid "IDS_PRUS002_SUO"
-msgstr "GFCS I mod. 2"
+msgstr "GFCS I mod.2"
 
 msgid "IDS_PRUS101_SUO_DIANA"
-msgstr "GFCS II mod. 1"
+msgstr "GFCS II mod.1"
 
 msgid "IDS_PRUS111_SUO_PALLADA"
-msgstr "GFCS II mod. 1"
+msgstr "GFCS II mod.1"
 
 msgid "IDS_PRUS121_SUO"
-msgstr "GFCS II mod. 1"
+msgstr "GFCS II mod.1"
 
 msgid "IDS_PRUS131_SUO"
-msgstr "GFCS II mod. 1"
+msgstr "GFCS II mod.1"
 
 msgid "IDS_PRUS132_SUO"
-msgstr "GFCS II mod. 2"
+msgstr "GFCS II mod.2"
 
 msgid "IDS_PRUS200_SUO_AVRORA_AZUR"
-msgstr "GFCS III mod. 1"
+msgstr "GFCS III mod.1"
 
 msgid "IDS_PRUS201_SUO"
-msgstr "GFCS III mod. 1"
+msgstr "GFCS III mod.1"
 
 msgid "IDS_PRUS202_B3_SUO_STOCK"
-msgstr "GFCS III mod. 1"
+msgstr "GFCS III mod.1"
 
 msgid "IDS_PRUS203_B3_SUO_TOP"
-msgstr "GFCS III mod. 2"
+msgstr "GFCS III mod.2"
 
 msgid "IDS_PRUS211_SUO"
-msgstr "GFCS III mod. 1"
+msgstr "GFCS III mod.1"
 
 msgid "IDS_PRUS212_SUO"
-msgstr "GFCS III mod. 2"
+msgstr "GFCS III mod.2"
 
 msgid "IDS_PRUS221_SUO"
-msgstr "GFCS III mod. 1"
+msgstr "GFCS III mod.1"
 
 msgid "IDS_PRUS222_SUO"
-msgstr "GFCS III mod. 2"
+msgstr "GFCS III mod.2"
 
 msgid "IDS_PRUS223_SUO_OLEG"
-msgstr "GFCS III mod. 1"
+msgstr "GFCS III mod.1"
 
 msgid "IDS_PRUS224_SUO_VARYAG"
-msgstr "GFCS III mod. 1"
+msgstr "GFCS III mod.1"
 
 msgid "IDS_PRUS301_SUO"
-msgstr "GFCS IV mod. 1"
+msgstr "GFCS IV mod.1"
 
 msgid "IDS_PRUS302_SUO"
-msgstr "GFCS IV mod. 2"
+msgstr "GFCS IV mod.2"
 
 msgid "IDS_PRUS303_B4_SUO_STOCK"
-msgstr "GFCS IV mod. 1"
+msgstr "GFCS IV mod.1"
 
 msgid "IDS_PRUS304_B4_SUO_TOP"
-msgstr "GFCS IV mod. 2"
+msgstr "GFCS IV mod.2"
 
 msgid "IDS_PRUS311_SUO"
-msgstr "GFCS IV mod. 1"
+msgstr "GFCS IV mod.1"
 
 msgid "IDS_PRUS312_SUO"
-msgstr "GFCS IV mod. 2"
+msgstr "GFCS IV mod.2"
 
 msgid "IDS_PRUS401_SUO"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS402_B5_SUO_STOCK"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS403_B5_SUO_TOP"
-msgstr "GFCS V mod. 2"
+msgstr "GFCS V mod.2"
 
 msgid "IDS_PRUS405_SUO_KIROV"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS411_SUO"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS412_SUO_OHOTNIK"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS413_D5_SUO_STOCK_2"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS414_D5_SUO_TOP_2"
-msgstr "GFCS V mod. 2"
+msgstr "GFCS V mod.2"
 
 msgid "IDS_PRUS415_CA5_SUO_STOCK"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS416_CA5_SUO_TOP"
-msgstr "GFCS V mod. 2"
+msgstr "GFCS V mod.2"
 
 msgid "IDS_PRUS417_SUO_MIKOYAN"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS421_SUO"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS422_SUO"
-msgstr "GFCS V mod. 2"
+msgstr "GFCS V mod.2"
 
 msgid "IDS_PRUS431_SUO_NIKOLAY"
-msgstr "GFCS IV mod. 1"
+msgstr "GFCS IV mod.1"
 
 msgid "IDS_PRUS432_SUO_REV"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS441_SUO"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS442_SUO"
-msgstr "GFCS V mod. 2"
+msgstr "GFCS V mod.2"
 
 msgid "IDS_PRUS451_SUO_KK"
-msgstr "GFCS V mod. 1"
+msgstr "GFCS V mod.1"
 
 msgid "IDS_PRUS501_SUO"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PRUS502_SUO"
-msgstr "GFCS VI mod. 2"
+msgstr "GFCS VI mod.2"
 
 msgid "IDS_PRUS503_B6_SUO_STOCK"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PRUS504_B6_SUO_TOP"
-msgstr "GFCS VI mod. 2"
+msgstr "GFCS VI mod.2"
 
 msgid "IDS_PRUS505_SUO_NOVOR"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PRUS506_SUO_KERCH"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PRUS511_SUO"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PRUS512_SUO"
-msgstr "GFCS VI mod. 2"
+msgstr "GFCS VI mod.2"
 
 msgid "IDS_PRUS513_D6_SUO_STOCK_2"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PRUS514_D6_SUO_TOP_2"
-msgstr "GFCS VI mod. 2"
+msgstr "GFCS VI mod.2"
 
 msgid "IDS_PRUS521_SUO_MOLOTOV"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PRUS531_SUO_LGD"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS532_SUO_MAKAROV"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PRUS600_SUO_BLACK_LAZO"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS601_SUO"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS602_SUO"
-msgstr "GFCS VII mod. 2"
+msgstr "GFCS VII mod.2"
 
 msgid "IDS_PRUS603_B7_SUO_STOCK"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS604_B7_SUO_TOP"
-msgstr "GFCS VII mod. 2"
+msgstr "GFCS VII mod.2"
 
 msgid "IDS_PRUS605_SUO_TASHKENT39"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS606_B7_SUO_STOCK"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS607_B7_SUO_TOP"
-msgstr "GFCS VII mod. 2"
+msgstr "GFCS VII mod.2"
 
 msgid "IDS_PRUS611_SUO"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS612_SUO"
-msgstr "GFCS VII mod. 2"
+msgstr "GFCS VII mod.2"
 
 msgid "IDS_PRUS613_D7_SUO_STOCK_2"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS614_D7_SUO_TOP_2"
-msgstr "GFCS VII mod. 2"
+msgstr "GFCS VII mod.2"
 
 msgid "IDS_PRUS700_SUO_DMITRY_POZHARSKY"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS701_SUO"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS702_SUO"
-msgstr "GFCS VIII mod. 2"
+msgstr "GFCS VIII mod.2"
 
 msgid "IDS_PRUS703_SUO_LAZO"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS704_B8_SUO_STOCK"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS705_B8_SUO_TOP"
-msgstr "GFCS VIII mod. 2"
+msgstr "GFCS VIII mod.2"
 
 msgid "IDS_PRUS706_SUO_LENIN"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS707_SUO_POLTAVA"
-msgstr "GFCS VII mod. 1"
+msgstr "GFCS VII mod.1"
 
 msgid "IDS_PRUS708_B8_SUO_STOCK"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS709_B8_SUO_TOP"
-msgstr "GFCS VII mod. 2"
+msgstr "GFCS VII mod.2"
 
 msgid "IDS_PRUS711_SUO_KUTUZOV"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS712_D8_SUO_STOCK_2"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS713_D8_SUO_TOP_2"
-msgstr "GFCS VIII mod. 2"
+msgstr "GFCS VIII mod.2"
 
 msgid "IDS_PRUS714_D8_SUO_STOCK_3"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS715_D8_SUO_TOP_3"
-msgstr "GFCS VIII mod. 2"
+msgstr "GFCS VIII mod.2"
 
 msgid "IDS_PRUS716_CA8_SUO_STOCK"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS717_CA8_SUO_TOP"
-msgstr "GFCS VIII mod. 2"
+msgstr "GFCS VIII mod.2"
 
 msgid "IDS_PRUS718_SUO_OCHAKOV"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS719_SUO_BAGRATION"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS720_SUO_V_I_LENIN"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS721_SUO"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS722_SUO"
-msgstr "GFCS VIII mod. 2"
+msgstr "GFCS VIII mod.2"
 
 msgid "IDS_PRUS723_SUO_P_BAGRATION"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS801_SUO"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS802_SUO"
-msgstr "GFCS IX mod. 2"
+msgstr "GFCS IX mod.2"
 
 msgid "IDS_PRUS803_B9_SUO_STOCK"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS804_B9_SUO_TOP"
-msgstr "GFCS IX mod. 2"
+msgstr "GFCS IX mod.2"
 
 msgid "IDS_PRUS805_SUO_AZUR_SOV_RUSSIA"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS806_SUO_NAVARIN"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS807_SUO_RTC_SOV_RUSSIA"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS808_B9_SUO_STOCK"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS809_B9_SUO_TOP"
-msgstr "GFCS IX mod. 2"
+msgstr "GFCS IX mod.2"
 
 msgid "IDS_PRUS810_SUO_TOGLIATTI"
 msgstr "GFCS IX"
 
 msgid "IDS_PRUS811_SUO"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS812_SUO"
-msgstr "GFCS IX mod. 2"
+msgstr "GFCS IX mod.2"
 
 msgid "IDS_PRUS813_D9_SUO_STOCK_2"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS814_D9_SUO_TOP_2"
-msgstr "GFCS IX mod. 2"
+msgstr "GFCS IX mod.2"
 
 msgid "IDS_PRUS815_D9_SUO_STOCK_3"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS816_D9_SUO_TOP_3"
-msgstr "GFCS IX mod. 2"
+msgstr "GFCS IX mod.2"
 
 msgid "IDS_PRUS817_D9_SUO_STOCK_4"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS818_D9_SUO_TOP_4"
-msgstr "GFCS IX mod. 2"
+msgstr "GFCS IX mod.2"
 
 msgid "IDS_PRUS819_SUO_KRON"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS820_SUO_NEUSTR"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS821_CA9_SUO_STOCK"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PRUS822_CA9_SUO_TOP"
-msgstr "GFCS IX mod. 2"
+msgstr "GFCS IX mod.2"
 
 msgid "IDS_PRUS830_BB8_SUO_BORODINO"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PRUS900_C10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS901_SUO"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS902_B10_SUO_TOP"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS903_B10_SUO_TOP"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS904_SUO_VLADIMIR_MONOMAKH"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS905_C11_SUO_STOCK"
-msgstr "GFCS XI mod. 1"
+msgstr "GFCS XI mod.1"
 
 msgid "IDS_PRUS906_SUO_SMOLENSK"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS907_SUO_R10"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS908_D10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS909_SUO_KOMISSAR"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS910_SUO_BLACK_SMOLENSK"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS911_SUO"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS912_D10_SUO_STOCK_2"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS913_D10_SUO_STOCK_3"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS914_CA10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS915_CA10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS916_SEVASTOPOL"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS917_SUO_SEVEROMORSK"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS918_B10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS930_D11_SUO_STOCK"
-msgstr "GFCS XI mod. 1"
+msgstr "GFCS XI mod.1"
 
 msgid "IDS_PRUS931_B11_SUO_STOCK"
-msgstr "GFCS XI mod. 1"
+msgstr "GFCS XI mod.1"
 
 msgid "IDS_PRUS974_SUO_MOSK"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS975_SUO_GROZ"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS976_STALINGRAD"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS977_STALINGRAD"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PRUS990_SUO_TEST"
 msgstr "Iamassist"
@@ -96559,13 +96559,13 @@ msgid "IDS_PRUT401_533_3_APT009"
 msgstr "Mark 11"
 
 msgid "IDS_PRUT402_TORP_MIKOYAN"
-msgstr "53-36 mod. 1"
+msgstr "53-36 mod.1"
 
 msgid "IDS_PRUT403_CA5_TORP_STOCK"
-msgstr "53-36 mod. 1"
+msgstr "53-36 mod.1"
 
 msgid "IDS_PRUT405_TORP_KIROV"
-msgstr "53-36 mod. 1"
+msgstr "53-36 mod.1"
 
 msgid "IDS_PRUT411_533_3_39U"
 msgstr "53-39"
@@ -96577,13 +96577,13 @@ msgid "IDS_PRUT413_533_MURMANSK"
 msgstr "53-39"
 
 msgid "IDS_PRUT421_D5_TORP_STOCK"
-msgstr "53-36 mod. 1"
+msgstr "53-36 mod.1"
 
 msgid "IDS_PRUT422_D5_TORP_TOP"
 msgstr "53-38"
 
 msgid "IDS_PRUT423_D5_TORP_STOCK_2"
-msgstr "53-36 mod. 1"
+msgstr "53-36 mod.1"
 
 msgid "IDS_PRUT424_D5_TORP_TOP_2"
 msgstr "53-38"
@@ -96592,7 +96592,7 @@ msgid "IDS_PRUT431_KK"
 msgstr "53-27"
 
 msgid "IDS_PRUT441_C5_TORP_STOCK"
-msgstr "53-36 mod. 1"
+msgstr "53-36 mod.1"
 
 msgid "IDS_PRUT501_MOLOTOV"
 msgstr "53-38"
@@ -96604,13 +96604,13 @@ msgid "IDS_PRUT511_D6_TORP_STOCK"
 msgstr "53-38"
 
 msgid "IDS_PRUT512_D6_TORP_TOP"
-msgstr "53-39 mod. 1"
+msgstr "53-39 mod.1"
 
 msgid "IDS_PRUT513_D6_TORP_STOCK_2"
 msgstr "53-38"
 
 msgid "IDS_PRUT514_D6_TORP_TOP_2"
-msgstr "53-39 mod. 1"
+msgstr "53-39 mod.1"
 
 msgid "IDS_PRUT515_S6_TORP_STOCK"
 msgstr "533 mm"
@@ -96622,10 +96622,10 @@ msgid "IDS_PRUT521_C6_TORP_STOCK"
 msgstr "53-38"
 
 msgid "IDS_PRUT531_TORP_LGD_V1"
-msgstr "53-39 mod. 1"
+msgstr "53-39 mod.1"
 
 msgid "IDS_PRUT532_TORP_LGD_V2"
-msgstr "53-39 mod. 2"
+msgstr "53-39 mod.2"
 
 msgid "IDS_PRUT533_TORP_MAKAROV"
 msgstr "G7a T1"
@@ -96634,13 +96634,13 @@ msgid "IDS_PRUT600_TORP_BLACK_LAZO"
 msgstr "53-38U"
 
 msgid "IDS_PRUT601_D7_TORP_STOCK"
-msgstr "53-39 mod. 1"
+msgstr "53-39 mod.1"
 
 msgid "IDS_PRUT602_D7_TORP_TOP"
 msgstr "53-38U"
 
 msgid "IDS_PRUT603_D7_TORP_STOCK_2"
-msgstr "53-39 mod. 1"
+msgstr "53-39 mod.1"
 
 msgid "IDS_PRUT604_D7_TORP_TOP_2"
 msgstr "53-38U"
@@ -96649,7 +96649,7 @@ msgid "IDS_PRUT605_TORP_TASHKENT39"
 msgstr "53-38U"
 
 msgid "IDS_PRUT611_C7_TORP_STOCK"
-msgstr "53-39 mod. 1"
+msgstr "53-39 mod.1"
 
 msgid "IDS_PRUT700_TORP_DMITRY_POZHARSKY"
 msgstr "53-38"
@@ -96670,10 +96670,10 @@ msgid "IDS_PRUT705_CA8_TORP_STOCK"
 msgstr "53-38U"
 
 msgid "IDS_PRUT706_TORP_BAGRATION"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRUT707_TORP_P_BAGRATION"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRUT708_S8_TORP_TOP"
 msgstr "533 mm"
@@ -96682,22 +96682,22 @@ msgid "IDS_PRUT711_53_51"
 msgstr "53-51"
 
 msgid "IDS_PRUT712_TORP_OCHAKOV"
-msgstr "53-39 mod. 3"
+msgstr "53-39 mod.3"
 
 msgid "IDS_PRUT721_D8_TORP_STOCK"
 msgstr "53-38U"
 
 msgid "IDS_PRUT722_D8_TORP_TOP"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRUT723_D8_TORP_STOCK_2"
-msgstr "53-39 mod. 3"
+msgstr "53-39 mod.3"
 
 msgid "IDS_PRUT725_D8_TORP_STOCK_3"
 msgstr "53-38U"
 
 msgid "IDS_PRUT726_D8_TORP_TOP_3"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRUT731_C8_TORP_STOCK"
 msgstr "53-38U"
@@ -96706,7 +96706,7 @@ msgid "IDS_PRUT801_D9_TORP_STOCK"
 msgstr "53-49M"
 
 msgid "IDS_PRUT802_D9_TORP_TOP"
-msgstr "53-39 mod. 4"
+msgstr "53-39 mod.4"
 
 msgid "IDS_PRUT803_D9_TORP_STOCK_2"
 msgstr "53-49"
@@ -96715,10 +96715,10 @@ msgid "IDS_PRUT804_D9_TORP_TOP_2"
 msgstr "53-49M"
 
 msgid "IDS_PRUT805_D9_TORP_STOCK_3"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRUT806_D9_TORP_TOP_3"
-msgstr "53-39 mod. 2"
+msgstr "53-39 mod.2"
 
 msgid "IDS_PRUT807_D9_TORP_STOCK_4"
 msgstr "53-36 mod.2"
@@ -96730,7 +96730,7 @@ msgid "IDS_PRUT809_TORP_NEUSTR"
 msgstr "53-51"
 
 msgid "IDS_PRUT811_C9_TORP_STOCK"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRUT812_TORP_TOGLIATTI"
 msgstr "53-38"
@@ -96739,7 +96739,7 @@ msgid "IDS_PRUT900_TORP_VLADIMIR_MONOMAKH"
 msgstr "53-51"
 
 msgid "IDS_PRUT901_D10_TORP_STOCK"
-msgstr "53-39 mod. 3"
+msgstr "53-39 mod.3"
 
 msgid "IDS_PRUT902_D10_TORP_TOP"
 msgstr "ET-46"
@@ -96751,7 +96751,7 @@ msgid "IDS_PRUT904_D10_TORP_TOP_2"
 msgstr "53-50"
 
 msgid "IDS_PRUT905_D10_TORP_STOCK_3"
-msgstr "53-39 mod. 3"
+msgstr "53-39 mod.3"
 
 msgid "IDS_PRUT906_D10_TORP_TOP_3"
 msgstr "ET-46"
@@ -96766,7 +96766,7 @@ msgid "IDS_PRUT909_CA10_TORP_STOCK"
 msgstr "53-51"
 
 msgid "IDS_PRUT911_TORP_R10"
-msgstr "53-39 mod. 4"
+msgstr "53-39 mod.4"
 
 msgid "IDS_PRUT912_D10_TORP_STOCK"
 msgstr "53-51"
@@ -96784,7 +96784,7 @@ msgid "IDS_PRUT916_S11_TORP_STOCK"
 msgstr "533 mm"
 
 msgid "IDS_PRUT930_D11_TORP_STOCK"
-msgstr "53-36 mod. 2"
+msgstr "53-36 mod.2"
 
 msgid "IDS_PRUT974_TORP1_GROZ"
 msgstr "53-49M"
@@ -97429,67 +97429,67 @@ msgid "IDS_PSUH902_CA10_HULL_A"
 msgstr "卡斯蒂利亚"
 
 msgid "IDS_PSUS001_C1_SUO_STOCK"
-msgstr "SCI Mk I Mod. 1"
+msgstr "SCI Mk I Mod.1"
 
 msgid "IDS_PSUS101_C2_SUO_STOCK"
-msgstr "SCI Mk II Mod. 1"
+msgstr "SCI Mk II Mod.1"
 
 msgid "IDS_PSUS102_C2_SUO_TOP"
-msgstr "SCI Mk II Mod. 2"
+msgstr "SCI Mk II Mod.2"
 
 msgid "IDS_PSUS201_C3_SUO_STOCK"
-msgstr "SCI Mk III Mod. 1"
+msgstr "SCI Mk III Mod.1"
 
 msgid "IDS_PSUS202_C3_SUO_TOP"
-msgstr "SCI Mk III Mod. 2"
+msgstr "SCI Mk III Mod.2"
 
 msgid "IDS_PSUS301_C4_SUO_STOCK"
-msgstr "SCI Mk IV Mod. 1"
+msgstr "SCI Mk IV Mod.1"
 
 msgid "IDS_PSUS302_C4_SUO_TOP"
-msgstr "SCI Mk IV Mod. 2"
+msgstr "SCI Mk IV Mod.2"
 
 msgid "IDS_PSUS401_C5_SUO_STOCK"
-msgstr "SCI Mk V Mod. 1"
+msgstr "SCI Mk V Mod.1"
 
 msgid "IDS_PSUS402_C5_SUO_TOP"
-msgstr "SCI Mk V Mod. 2"
+msgstr "SCI Mk V Mod.2"
 
 msgid "IDS_PSUS501_SUO_CANARIAS"
-msgstr "SCI Mk VI Mod. 1"
+msgstr "SCI Mk VI Mod.1"
 
 msgid "IDS_PSUS502_C6_SUO_STOCK"
-msgstr "SCI Mk VI Mod. 1"
+msgstr "SCI Mk VI Mod.1"
 
 msgid "IDS_PSUS503_C6_SUO_TOP"
-msgstr "SCI Mk VI Mod. 2"
+msgstr "SCI Mk VI Mod.2"
 
 msgid "IDS_PSUS601_C7_SUO_STOCK"
-msgstr "SCI Mk VII Mod. 1"
+msgstr "SCI Mk VII Mod.1"
 
 msgid "IDS_PSUS602_C7_SUO_TOP"
-msgstr "SCI Mk VII Mod. 2"
+msgstr "SCI Mk VII Mod.2"
 
 msgid "IDS_PSUS701_C8_SUO_STOCK"
-msgstr "SCI Mk VIII Mod. 1"
+msgstr "SCI Mk VIII Mod.1"
 
 msgid "IDS_PSUS702_C8_SUO_TOP"
-msgstr "SCI Mk VIII Mod. 2"
+msgstr "SCI Mk VIII Mod.2"
 
 msgid "IDS_PSUS703_SUO_NUMANCIA"
-msgstr "SCI Mk VIII Mod. 1"
+msgstr "SCI Mk VIII Mod.1"
 
 msgid "IDS_PSUS801_C9_SUO_STOCK"
-msgstr "SCI Mk IX Mod. 1"
+msgstr "SCI Mk IX Mod.1"
 
 msgid "IDS_PSUS802_C9_SUO_TOP"
-msgstr "SCI Mk IX Mod. 2"
+msgstr "SCI Mk IX Mod.2"
 
 msgid "IDS_PSUS901_SUO_BAZAN"
-msgstr "SCI Mk X Mod. 1"
+msgstr "SCI Mk X Mod.1"
 
 msgid "IDS_PSUS902_CA10_SUO_STOCK"
-msgstr "SCI Mk X Mod. 1"
+msgstr "SCI Mk X Mod.1"
 
 msgid "IDS_PSUT301_C4_TORP_STOCK"
 msgstr "533 mm Mk VII ES"
@@ -97618,7 +97618,7 @@ msgid "IDS_PUPT003_533_HAIDA"
 msgstr "533 mm Mk IXM"
 
 msgid "IDS_PUPT004_533_VAMPIRE_2"
-msgstr "533 mm Mk IXM mod. 1"
+msgstr "533 mm Mk IXM mod.1"
 
 msgid "IDS_PUPT005_533_HURON"
 msgstr "533 mm Mk IXM"
@@ -97930,10 +97930,10 @@ msgid "IDS_PUUH902_HULL_BRISBANE"
 msgstr "布里斯班"
 
 msgid "IDS_PUUS501_SUO_PERTH"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PUUS502_SUO_MYSORE"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PUUS503_SUO_VAMPIRE"
 msgstr "Mk III"
@@ -97942,19 +97942,19 @@ msgid "IDS_PUUS601_SUO_YUKON"
 msgstr "Mk VII"
 
 msgid "IDS_PUUS627_SUO_HAIDA"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PUUS628_SUO_HURON"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PUUS801_SUO_HECTOR"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PUUS901_SUO_VAMPIRE_2"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PUUS902_SUO_BRISBANE"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod.1"
 
 msgid "IDS_PUUT501_PERTH"
 msgstr "533 mm Mk IX"
@@ -97972,7 +97972,7 @@ msgid "IDS_PUUT801_TORP_HECTOR"
 msgstr "533 mm Mk V"
 
 msgid "IDS_PUUT901_TORP_VAMPIRE_2"
-msgstr "533 mm Mk IXM mod. 1"
+msgstr "533 mm Mk IXM mod.1"
 
 msgid "IDS_PUUT902_TORP_BRISBANE"
 msgstr "533 mm Mk VII"
@@ -98216,7 +98216,7 @@ msgid "IDS_PVGA048_BREDA_37MM_DOUBLE"
 msgstr "37 mm/54 Model 1938（1938式炮座）"
 
 msgid "IDS_PVGA049_BREDA_20MM_65"
-msgstr "20 mm/65 Model 1939 （1939式炮座）"
+msgstr "20 mm/65 Model 1939（1939式炮座）"
 
 msgid "IDS_PVGA052_20MM65_BREDA_M1935_DOUBLE"
 msgstr "20 mm/65 Breda Model 1935（1935式炮座）"
@@ -98926,79 +98926,79 @@ msgid "IDS_PVUH901_C10_HULL_STOCK"
 msgstr "圣马丁"
 
 msgid "IDS_PVUS001_C1_SUO_STOCK"
-msgstr "Mk1 mod. 1"
+msgstr "Mk1 mod.1"
 
 msgid "IDS_PVUS101_SUO_ALMIRANTE_ABREU"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod.1"
 
 msgid "IDS_PVUS102_C2_SUO_STOCK"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod.1"
 
 msgid "IDS_PVUS103_C2_SUO_TOP"
-msgstr "Mk2 mod. 2"
+msgstr "Mk2 mod.2"
 
 msgid "IDS_PVUS201_C3_SUO_STOCK"
-msgstr "Mk3 mod. 1"
+msgstr "Mk3 mod.1"
 
 msgid "IDS_PVUS202_C3_SUO_TOP"
-msgstr "Mk3 mod. 2"
+msgstr "Mk3 mod.2"
 
 msgid "IDS_PVUS301_C4_SUO_STOCK"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PVUS302_C4_SUO_TOP"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod.2"
 
 msgid "IDS_PVUS401_SUO_RD_JANEIRO"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PVUS402_C5_SUO_STOCK"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PVUS403_C5_SUO_TOP"
-msgstr "Mk V mod. 2"
+msgstr "Mk V mod.2"
 
 msgid "IDS_PVUS501_SUO_JURUA"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PVUS502_C6_SUO_STOCK"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PVUS503_C6_SUO_TOP"
-msgstr "Mk VI mod. 2"
+msgstr "Mk VI mod.2"
 
 msgid "IDS_PVUS601_C7_SUO_JULIO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PVUS602_C7_SUO_STOCK"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod.1"
 
 msgid "IDS_PVUS603_C7_SUO_TOP"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod.2"
 
 msgid "IDS_PVUS701_SUO_ATLANTICO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PVUS702_C8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PVUS703_C8_SUO_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PVUS704_SUO_ALMIRANTE_GRAU"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PVUS801_C9_SUO_STOCK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PVUS802_C9_SUO_TOP"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PVUS803_SUO_PATAGONIA"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PVUS901_C10_SUO_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PVUT301_C4_TORP_STOCK"
 msgstr "533 mm Mk II"
@@ -99499,64 +99499,64 @@ msgid "IDS_PWPT003_TORPED_M1929"
 msgstr "Torped M1929"
 
 msgid "IDS_PWPT004_TORPED_M1929_MOD1"
-msgstr "Torped M1924 mod 1"
+msgstr "Torped M1924 mod.1"
 
 msgid "IDS_PWPT005_TORPED_M1943"
 msgstr "Torped M1943"
 
 msgid "IDS_PWPT006_TORPED_M1943_MOD1"
-msgstr "Torped M1943 mod 1"
+msgstr "Torped M1943 mod.1"
 
 msgid "IDS_PWPT007_TORPED_M1947"
 msgstr "Torped M1947"
 
 msgid "IDS_PWPT008_SMALAND"
-msgstr "Torped M1943 mod 1"
+msgstr "Torped M1943 mod.1"
 
 msgid "IDS_PWPT009_TORPED_ORKAN"
-msgstr "Torped M1943 mod 1"
+msgstr "Torped M1943 mod.1"
 
 msgid "IDS_PWPT010_TORPED_M1947_MOD1"
-msgstr "Torped M1947 mod 1"
+msgstr "Torped M1947 mod.1"
 
 msgid "IDS_PWPT011_TORPED_M1913_MOD1"
-msgstr "Torped M1913 mod 1"
+msgstr "Torped M1913 mod.1"
 
 msgid "IDS_PWPT012_533MM_VELOS"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PWPT013_533MM_51"
-msgstr "Torped M1947 mod 0"
+msgstr "Torped M1947 mod.0"
 
 msgid "IDS_PWPT014_533MM"
-msgstr "Torped M1924 mod 0"
+msgstr "Torped M1924 mod.0"
 
 msgid "IDS_PWPT015_533MM"
-msgstr "Torped M1943 mod 0"
+msgstr "Torped M1943 mod.0"
 
 msgid "IDS_PWPT016_533MM"
 msgstr "Mark 10"
 
 msgid "IDS_PWPT017_533MM_MKVII"
-msgstr "Torped M1924 mod 2"
+msgstr "Torped M1924 mod.2"
 
 msgid "IDS_PWPT018_533MM_ELLI"
-msgstr "Torped M1924 mod 2"
+msgstr "Torped M1924 mod.2"
 
 msgid "IDS_PWPT019_533MM"
-msgstr "Torped M1947 mod 0"
+msgstr "Torped M1947 mod.0"
 
 msgid "IDS_PWPT020_533MM_JAGER"
 msgstr "Torped M1947"
 
 msgid "IDS_PWPT021_533MM_KARL"
-msgstr "Torped M1943 mod 1"
+msgstr "Torped M1943 mod.1"
 
 msgid "IDS_PWPT026_TORPED_M1947_MOD2"
-msgstr "Torped M1947 mod 2"
+msgstr "Torped M1947 mod.2"
 
 msgid "IDS_PWPT027_TORPED_M1927_MOD1_ALT_T11"
-msgstr "Torped M1927 mod 1"
+msgstr "Torped M1927 mod.1"
 
 msgid "IDS_PWPT8001_550_MARK_100_1915"
 msgstr "Mark 100 Model 1915"
@@ -100306,127 +100306,127 @@ msgid "IDS_PWUS001_CA1_SUO_STOCK"
 msgstr "SKO Mod. 1"
 
 msgid "IDS_PWUS101_DD2_SUO_STOCK"
-msgstr "SUO Mk 2 Mod. 1"
+msgstr "SUO Mk 2 Mod.1"
 
 msgid "IDS_PWUS102_DD2_SUO_TOP"
-msgstr "SUO Mk 2 Mod. 2"
+msgstr "SUO Mk 2 Mod.2"
 
 msgid "IDS_PWUS201_DD3_SUO_STOCK"
-msgstr "SUO Mk 3 Mod. 1"
+msgstr "SUO Mk 3 Mod.1"
 
 msgid "IDS_PWUS202_DD3_SUO_TOP"
-msgstr "SUO Mk 3 Mod. 2"
+msgstr "SUO Mk 3 Mod.2"
 
 msgid "IDS_PWUS302_DD4_SUO_STOCK"
-msgstr "SUO Mk 4 Mod. 1"
+msgstr "SUO Mk 4 Mod.1"
 
 msgid "IDS_PWUS303_DD4_SUO_TOP"
-msgstr "SUO Mk 4 Mod. 2"
+msgstr "SUO Mk 4 Mod.2"
 
 msgid "IDS_PWUS305_SUO_VIRIBUS"
 msgstr "FKS Typ 5 Mod. 1"
 
 msgid "IDS_PWUS401_DD5_SUO_STOCK"
-msgstr "SUO Mk 5 Mod. 1"
+msgstr "SUO Mk 5 Mod.1"
 
 msgid "IDS_PWUS402_DD5_SUO_TOP"
-msgstr "SUO Mk 5 Mod. 2"
+msgstr "SUO Mk 5 Mod.2"
 
 msgid "IDS_PWUS403_D5_SUO_STOCK"
-msgstr "SUO Mk 5 Mod. 1"
+msgstr "SUO Mk 5 Mod.1"
 
 msgid "IDS_PWUS404_D5_SUO_TOP"
-msgstr "SUO Mk 5 Mod. 2"
+msgstr "SUO Mk 5 Mod.2"
 
 msgid "IDS_PWUS501_DD6_SUO_STOCK"
-msgstr "SUO Mk 6 Mod. 1"
+msgstr "SUO Mk 6 Mod.1"
 
 msgid "IDS_PWUS502_DD6_SUO_TOP"
-msgstr "SUO Mk 6 Mod. 2"
+msgstr "SUO Mk 6 Mod.2"
 
 msgid "IDS_PWUS503_D6_SUO_STOCK"
-msgstr "SUO Mk 6 Mod. 1"
+msgstr "SUO Mk 6 Mod.1"
 
 msgid "IDS_PWUS504_D6_SUO_TOP"
-msgstr "SUO Mk 6 Mod. 2"
+msgstr "SUO Mk 6 Mod.2"
 
 msgid "IDS_PWUS505_SUO_ELLI"
-msgstr "SUO Mk 6 Mod. 1"
+msgstr "SUO Mk 6 Mod.1"
 
 msgid "IDS_PWUS601_SUO"
 msgstr "SKO Mod. 7"
 
 msgid "IDS_PWUS602_DD7_SUO_STOCK"
-msgstr "SUO Mk 7 Mod. 1"
+msgstr "SUO Mk 7 Mod.1"
 
 msgid "IDS_PWUS603_DD7_SUO_TOP"
-msgstr "SUO Mk 7 Mod. 2"
+msgstr "SUO Mk 7 Mod.2"
 
 msgid "IDS_PWUS604_D7_SUO_STOCK"
-msgstr "SUO Mk 7 Mod. 1"
+msgstr "SUO Mk 7 Mod.1"
 
 msgid "IDS_PWUS605_D7_SUO_TOP"
-msgstr "SUO Mk 7 Mod. 2"
+msgstr "SUO Mk 7 Mod.2"
 
 msgid "IDS_PWUS701_DD8_SUO_STOCK"
-msgstr "SUO Mk 8 Mod. 1"
+msgstr "SUO Mk 8 Mod.1"
 
 msgid "IDS_PWUS702_DD8_SUO_TOP"
-msgstr "SUO Mk 8 Mod. 2"
+msgstr "SUO Mk 8 Mod.2"
 
 msgid "IDS_PWUS703_DD8_SUO_ORKAN"
-msgstr "SUO Mk 8 Mod. 1"
+msgstr "SUO Mk 8 Mod.1"
 
 msgid "IDS_PWUS704_D8_SUO_STOCK"
-msgstr "SUO Mk 8 Mod. 1"
+msgstr "SUO Mk 8 Mod.1"
 
 msgid "IDS_PWUS705_D8_SUO_TOP"
-msgstr "SUO Mk 8 Mod. 2"
+msgstr "SUO Mk 8 Mod.2"
 
 msgid "IDS_PWUS801_DD9_SUO_STOCK"
-msgstr "SUO Mk 9 Mod. 1"
+msgstr "SUO Mk 9 Mod.1"
 
 msgid "IDS_PWUS802_DD9_SUO_TOP"
-msgstr "SUO Mk 9 Mod. 2"
+msgstr "SUO Mk 9 Mod.2"
 
 msgid "IDS_PWUS803_SUO_VELOS"
-msgstr "SUO Mk 9 Mod. 1"
+msgstr "SUO Mk 9 Mod.1"
 
 msgid "IDS_PWUS804_D9_SUO_STOCK"
-msgstr "SUO Mk 9 Mod. 1"
+msgstr "SUO Mk 9 Mod.1"
 
 msgid "IDS_PWUS805_D9_SUO_TOP"
-msgstr "SUO Mk 9 Mod. 2"
+msgstr "SUO Mk 9 Mod.2"
 
 msgid "IDS_PWUS806_SUO_JAGER"
-msgstr "SUO Mk 9 Mod. 1"
+msgstr "SUO Mk 9 Mod.1"
 
 msgid "IDS_PWUS807_SUO_KARL_XIV"
-msgstr "SUO Mk 9 Mod. 1"
+msgstr "SUO Mk 9 Mod.1"
 
 msgid "IDS_PWUS900_D10_SUO_TOP"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PWUS901_SUO_FRIESLAND"
-msgstr "Vuurleiding Mk 9 Mod. 1"
+msgstr "Vuurleiding Mk 9 Mod.1"
 
 msgid "IDS_PWUS903_DD10_SUO_TOP"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PWUS904_DD10_SMALAND"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PWUS905_DD10_SUO_TST_LAPPLAND"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PWUS906_SUO_RAGNAR"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PWUS907_D10_SUO_STOCK"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod.1"
 
 msgid "IDS_PWUS941_DD11_SUO_STOCK"
-msgstr "SUO Mk 11 Mod. 1"
+msgstr "SUO Mk 11 Mod.1"
 
 msgid "IDS_PWUT101_DD2_TORP_STOCK"
 msgstr "Torped M1913"
@@ -100435,10 +100435,10 @@ msgid "IDS_PWUT201_DD3_TORP_STOCK"
 msgstr "Torped M1913"
 
 msgid "IDS_PWUT302_DD4_TORP_STOCK"
-msgstr "Torped M1913 mod 1"
+msgstr "Torped M1913 mod.1"
 
 msgid "IDS_PWUT401_DD5_TORP_STOCK"
-msgstr "Torped M1913 mod 1"
+msgstr "Torped M1913 mod.1"
 
 msgid "IDS_PWUT402_DD5_TORP_TOP"
 msgstr "Torped M1929"
@@ -100450,7 +100450,7 @@ msgid "IDS_PWUT501_DD6_TORP_STOCK"
 msgstr "Torped M1929"
 
 msgid "IDS_PWUT502_DD6_TORP_TOP"
-msgstr "Torped M1924 mod 1"
+msgstr "Torped M1924 mod.1"
 
 msgid "IDS_PWUT503_D6_TORP_STOCK"
 msgstr "533 mm Mk VII"
@@ -100462,7 +100462,7 @@ msgid "IDS_PWUT601_533_MARK_X"
 msgstr "Mark 10"
 
 msgid "IDS_PWUT602_DD7_TORP_STOCK"
-msgstr "Torped M1924 mod 1"
+msgstr "Torped M1924 mod.1"
 
 msgid "IDS_PWUT603_DD7_TORP_TOP"
 msgstr "Torped M1943"
@@ -100477,13 +100477,13 @@ msgid "IDS_PWUT702_DD8_TORP_ORKAN"
 msgstr "Torped M1943"
 
 msgid "IDS_PWUT703_DD8_TORP_TOP"
-msgstr "Torped M1943 mod 1"
+msgstr "Torped M1943 mod.1"
 
 msgid "IDS_PWUT704_D8_TORP_STOCK"
 msgstr "533 mm Mk"
 
 msgid "IDS_PWUT801_DD9_TORP_STOCK"
-msgstr "Torped M1943 mod 1"
+msgstr "Torped M1943 mod.1"
 
 msgid "IDS_PWUT802_DD9_TORP_TOP"
 msgstr "Torped M1947"
@@ -100501,22 +100501,22 @@ msgid "IDS_PWUT806_TORP_KARL_XIV"
 msgstr "Mk14"
 
 msgid "IDS_PWUT900_D10_TORP_STOCK"
-msgstr "Torped M1947 mod 1"
+msgstr "Torped M1947 mod.1"
 
 msgid "IDS_PWUT901_D10_TORP_STOCK"
 msgstr "53-51"
 
 msgid "IDS_PWUT902_DD10_TORP_STOCK"
-msgstr "Torped M1947 mod 1"
+msgstr "Torped M1947 mod.1"
 
 msgid "IDS_PWUT903_DD10_SMALAND"
-msgstr "Torped M1943 mod 1"
+msgstr "Torped M1943 mod.1"
 
 msgid "IDS_PWUT904_DD10_TORP_TST_LAPPLAND"
-msgstr "Torped M1947 mod 1"
+msgstr "Torped M1947 mod.1"
 
 msgid "IDS_PWUT941_DD11_TORP_STOCK"
-msgstr "Torped M1947 mod 1"
+msgstr "Torped M1947 mod.1"
 
 msgid "IDS_PXAB002_GRUMMAN_TBF"
 msgstr "Trident VB-17"
@@ -100999,7 +100999,7 @@ msgid "IDS_PXGS032_150MM_SKC_28_RF"
 msgstr " "
 
 msgid "IDS_PXGS036_5IN38_MK32_MOD12"
-msgstr "127 mm/38 Mk32 mod. 12"
+msgstr "127 mm/38 Mk32 mod.12"
 
 msgid "IDS_PXGS039_TESLA_SECOND_GUN"
 msgstr "150 mm L/55 SK C/28"
@@ -101632,7 +101632,7 @@ msgid "IDS_PXPT013_53_38I"
 msgstr "53-38D"
 
 msgid "IDS_PXPT014_610MM_TYPE90_MOD_1"
-msgstr "Type91 mod. A"
+msgstr "Type91 mod.A"
 
 msgid "IDS_PXPT015_TORPEDO_DAMAGE_D2"
 msgstr "T-N0RM \"Fish-Gig\""
@@ -103211,7 +103211,7 @@ msgid "IDS_PXUE955_AURORA_ENG"
 msgstr "PowerCube"
 
 msgid "IDS_PXUF711_FLIGHTCONTROL_1"
-msgstr "Mk17 mod. 1"
+msgstr "Mk17 mod.1"
 
 msgid "IDS_PXUF901_FLIGHTCONTROL_1"
 msgstr "Hive HSH-I"
@@ -104146,10 +104146,10 @@ msgid "IDS_PXUS002_SUO_RASPUTIN"
 msgstr "Tsar GFCS"
 
 msgid "IDS_PXUS003_SUO_FRANKY"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PXUS004_SUO_HELLSINK"
-msgstr "Type3 mod. 1"
+msgstr "Type3 mod.1"
 
 msgid "IDS_PXUS400_SUO_BERSERK"
 msgstr "机敏之眼"
@@ -104170,10 +104170,10 @@ msgid "IDS_PXUS703_SUO_Z_23_H2018"
 msgstr "Mk8 Sixth Sense"
 
 msgid "IDS_PXUS704_SUO_N_CAROLINA_H2018"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PXUS705_SUO_MOGAMI_H2018"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PXUS711_SUO_TIRPITZ"
 msgstr "FKS U17-I"
@@ -104181,7 +104181,7 @@ msgstr "FKS U17-I"
 msgid "IDS_PXUS721_SUO"
 msgstr ""
 "GFCS VIII\n"
-"mod. 1-D"
+"mod.1-D"
 
 msgid "IDS_PXUS731_C8_SUO_STOCK"
 msgstr "PCA Anubis"
@@ -104190,7 +104190,7 @@ msgid "IDS_PXUS741_SUO"
 msgstr "Mk8 Sixth Sense"
 
 msgid "IDS_PXUS807_D8_SUO_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod.1"
 
 msgid "IDS_PXUS901_C10_SUO_STOCK"
 msgstr " "
@@ -104226,7 +104226,7 @@ msgid "IDS_PXUS910_HARUGUMO_PA_SUO"
 msgstr "Mark AF-S"
 
 msgid "IDS_PXUS911_ALLDESTROYER_SUO"
-msgstr "EFE mod. I"
+msgstr "EFE mod.I"
 
 msgid "IDS_PXUS912_DARING_PA_SUO"
 msgstr "Tower 800"
@@ -104238,7 +104238,7 @@ msgid "IDS_PXUS914_KLEBER_PA_SUO"
 msgstr "PCA 12"
 
 msgid "IDS_PXUS915_ASTER_SUO"
-msgstr "EFE mod. I"
+msgstr "EFE mod.I"
 
 msgid "IDS_PXUS916_SHIMAKAZE_H19_SUO"
 msgstr "Mark AF-S"
@@ -104250,19 +104250,19 @@ msgid "IDS_PXUS918_HENRI_H19_SUO"
 msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PXUS919_ALASKA_H19_SUO"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PXUS920_MONTANA_H19_SUO"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PXUS921_FLYFIRE_SUO"
-msgstr "EFE mod. I"
+msgstr "EFE mod.I"
 
 msgid "IDS_PXUS922_REPUBLIQ_H19_SUO"
 msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PXUS923_YAMATO_H19_SUO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod.1"
 
 msgid "IDS_PXUS924_GEARING_H19_SUO"
 msgstr "Eagle eye"
@@ -104301,7 +104301,7 @@ msgid "IDS_PXUT701_533_TIRPITZ"
 msgstr "G17a T2"
 
 msgid "IDS_PXUT707_MOGAMI_H2018_TORP"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PXUT708_D8_TORP_STOCK"
 msgstr "Type90-17"
@@ -104547,7 +104547,7 @@ msgid "IDS_PZGA083_37MM_46K"
 msgstr "37 mm 46-K炮座"
 
 msgid "IDS_PZGA088_3IN70_MARK37"
-msgstr "76.2 mm/70 Mk.23（Mk.37 mod. 0炮座）"
+msgstr "76.2 mm/70 Mk.23（Mk.37 mod.0炮座）"
 
 msgid "IDS_PZGA090_57MM_ZIF_31B"
 msgstr "57 mm ZIF-31B炮座"
@@ -104820,7 +104820,7 @@ msgid "IDS_PZGT070_550MM_3TUBE_MLE_1924"
 msgstr "550 mm tube lance-torpilles"
 
 msgid "IDS_PZGT075_610MM4_TYPE_93"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PZGT100_21IN_3TUBE_TR_MK_IV_R"
 msgstr "533 mm TR Mk IV"
@@ -105081,7 +105081,7 @@ msgid "IDS_PZPT001_53_51_ANSHAN"
 msgstr "533 mm 53-51"
 
 msgid "IDS_PZPT002_MK15_LO_YANG"
-msgstr "533 mm Mk15 mod. 3"
+msgstr "533 mm Mk15 mod.3"
 
 msgid "IDS_PZPT003_53_38_ANSHAN"
 msgstr "533 mm 53-38"
@@ -105090,7 +105090,7 @@ msgid "IDS_PZPT004_MK31_LO_YANG"
 msgstr "533 mm Mk31"
 
 msgid "IDS_PZPT005_MK15_LO_YANG"
-msgstr "533 mm Mk15 mod. 0"
+msgstr "533 mm Mk15 mod.0"
 
 msgid "IDS_PZPT006_G6_AV3_C"
 msgstr "G/6 AV**"
@@ -105129,16 +105129,16 @@ msgid "IDS_PZPT017_533_MKIX2_D"
 msgstr "533 mm Mk IX*"
 
 msgid "IDS_PZPT018_MK_15_MOD3_C"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PZPT019_MK_15_MOD3_D"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PZPT020_MK16_MOD1_C"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PZPT021_MK16_MOD1_D"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PZPT022_MK17_C"
 msgstr "Mark 17"
@@ -105159,16 +105159,16 @@ msgid "IDS_PZPT027_550_23DT_MARTEL_CN"
 msgstr "550 mm 24V Mod D"
 
 msgid "IDS_PZPT028_610MM_FEN_YANG"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PZPT029_SANZANG_STOCK"
 msgstr "Torpedo Mk.13-2"
 
 msgid "IDS_PZPT030_610MM_WH_ORK"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PZPT031_53_39_DALIAN"
-msgstr "53-39 mod. 4"
+msgstr "53-39 mod.4"
 
 msgid "IDS_PZPT032_MK17"
 msgstr "533 mm Mk31"
@@ -105177,7 +105177,7 @@ msgid "IDS_PZPT033_533_MKIX2"
 msgstr "533 mm Mk IX*"
 
 msgid "IDS_PZPT034_MK16_MOD2_A"
-msgstr "Mk16 mod. 2"
+msgstr "Mk16 mod.2"
 
 msgid "IDS_PZPT035_53_56_PAZ"
 msgstr "533 mm 53-56"
@@ -105189,7 +105189,7 @@ msgid "IDS_PZPT037_MK17_E"
 msgstr "Mark 17*"
 
 msgid "IDS_PZPT038_MK_15_MOD3_D_2"
-msgstr "Mk15 mod. 3*"
+msgstr "Mk15 mod.3*"
 
 msgid "IDS_PZPT039_533MM_NING_HAI"
 msgstr "533 mm Type6*"
@@ -105201,7 +105201,7 @@ msgid "IDS_PZPT041_LUSHUN"
 msgstr "53-51"
 
 msgid "IDS_PZPT042_G7A_MENGCHONG"
-msgstr "G7a T1 Ausf. D"
+msgstr "G7a T1 Ausf.D"
 
 msgid "IDS_PZPT053_533MM_PASOPATI"
 msgstr "53-38"
@@ -105210,7 +105210,7 @@ msgid "IDS_PZPT054_533MM_PASOPATI_MZ"
 msgstr "53-38 MZ"
 
 msgid "IDS_PZPT055_533_BEN_MA"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PZSA508"
 msgstr "三藏"
@@ -106014,7 +106014,7 @@ msgid "IDS_PZUE904_ENG_CHANGZHENG"
 msgstr "推进系统：158200马力"
 
 msgid "IDS_PZUF701_FC_SANZANG"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PZUH001_C1_HULL_A"
 msgstr "成安(A)"
@@ -106176,10 +106176,10 @@ msgid "IDS_PZUQ701_SONAR_PASOPATI"
 msgstr "对海搜索8"
 
 msgid "IDS_PZUS001_C1_SUO_STOCK"
-msgstr "Type1 mod. 1"
+msgstr "Type1 mod.1"
 
 msgid "IDS_PZUS002_C1_SUO_TOP"
-msgstr "Type1 mod. 2"
+msgstr "Type1 mod.2"
 
 msgid "IDS_PZUS101_D2_SUO_STOCK"
 msgstr "FKS Typ 2 Mod. 1"
@@ -106188,142 +106188,142 @@ msgid "IDS_PZUS102_D2_SUO_TOP"
 msgstr "FKS Typ 2 Mod. 2"
 
 msgid "IDS_PZUS201_D3_SUO_STOCK"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PZUS202_D3_SUO_TOP"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod.2"
 
 msgid "IDS_PZUS203_SUO_NING_HAI"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod.1"
 
 msgid "IDS_PZUS301_D4_SUO_STOCK"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod.1"
 
 msgid "IDS_PZUS302_D4_SUO_TOP"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod.2"
 
 msgid "IDS_PZUS401_D5_SUO_STOCK"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PZUS402_D5_SUO_TOP"
-msgstr "Mk V mod. 2"
+msgstr "Mk V mod.2"
 
 msgid "IDS_PZUS403_C5_SUO_STOCK"
-msgstr "Mk V mod. 1"
+msgstr "Mk V mod.1"
 
 msgid "IDS_PZUS404_C5_SUO_TOP"
-msgstr "Mk V mod. 2"
+msgstr "Mk V mod.2"
 
 msgid "IDS_PZUS501_SUO_ANSHAN"
 msgstr "Shèjī Kòngzhì Xìtǒng 6 Shì"
 
 msgid "IDS_PZUS502_D6_SUO_STOCK"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PZUS503_D6_SUO_TOP"
-msgstr "GFCS VI mod. 2"
+msgstr "GFCS VI mod.2"
 
 msgid "IDS_PZUS504_SUO_HUANGHE"
-msgstr "GFCS VI mod. 1"
+msgstr "GFCS VI mod.1"
 
 msgid "IDS_PZUS505_C6_SUO_STOCK"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod.1"
 
 msgid "IDS_PZUS506_C6_SUO_TOP"
-msgstr "Mk VI mod. 2"
+msgstr "Mk VI mod.2"
 
 msgid "IDS_PZUS601_D7_SUO_STOCK"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PZUS602_D7_SUO_TOP"
-msgstr "Mk VII mod. 2"
+msgstr "Mk VII mod.2"
 
 msgid "IDS_PZUS603_C7_SUO_STOCK"
-msgstr "Mk VII mod. 1"
+msgstr "Mk VII mod.1"
 
 msgid "IDS_PZUS604_C7_SUO_TOP"
-msgstr "Mk VII mod. 2"
+msgstr "Mk VII mod.2"
 
 msgid "IDS_PZUS701_SUO_LO_YANG"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PZUS702_D8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PZUS703_D8_SUO_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PZUS704_SUO_IRIAN"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PZUS705_SUO_SILIWANGI"
-msgstr "GFCS VIII mod. 1"
+msgstr "GFCS VIII mod.1"
 
 msgid "IDS_PZUS706_SUO_MARTEL_CN"
 msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PZUS707_SUO_FEN"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PZUS708_SUO_BLACK_LOYANG"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PZUS709_SUO_WH_ORK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PZUS710_C8_SUO_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod.2"
 
 msgid "IDS_PZUS711_C8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod.1"
 
 msgid "IDS_PZUS800_SUO_MENGCHONG"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod.1"
 
 msgid "IDS_PZUS801_D9_SUO_STOCK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PZUS802_D9_SUO_TOP"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PZUS803_SUO_IZUMO_CN"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod.1"
 
 msgid "IDS_PZUS804_SUO_WUJING"
 msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PZUS805_SUO_DALIAN"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX mod.1"
 
 msgid "IDS_PZUS806_C9_SUO_STOCK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PZUS807_C9_SUO_TOP"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod.2"
 
 msgid "IDS_PZUS808_SUO_SUN_YAT_SEN"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod.1"
 
 msgid "IDS_PZUS809_SUO_LOUCHUAN"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PZUS810_SUO_BEN_MA"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod.1"
 
 msgid "IDS_PZUS900_D11_SUO_STOCK"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod.1"
 
 msgid "IDS_PZUS901_D10_SUO_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PZUS902_C10_SUO_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod.1"
 
 msgid "IDS_PZUS903_SUO_LUSHUN"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PZUS904_SUO_CHANGZHENG"
-msgstr "GFCS X mod. 1"
+msgstr "GFCS X mod.1"
 
 msgid "IDS_PZUT101_D2_TORP_STOCK"
 msgstr "G/6 D"
@@ -106380,7 +106380,7 @@ msgid "IDS_PZUT602_D7_TORP_TOP"
 msgstr "533 mm Mk IX*"
 
 msgid "IDS_PZUT603_C7_TORP_STOCK"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PZUT701_D8_TORP_STOCK"
 msgstr "533 mm Mk IX*"
@@ -106389,10 +106389,10 @@ msgid "IDS_PZUT702_LO_YANG"
 msgstr "533 mm Mk31"
 
 msgid "IDS_PZUT703_LO_YANG"
-msgstr "533 mm Mk15 mod. 0"
+msgstr "533 mm Mk15 mod.0"
 
 msgid "IDS_PZUT704_D8_TORP_TOP"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PZUT705_TORP_IRIAN"
 msgstr "Mark 17"
@@ -106404,16 +106404,16 @@ msgid "IDS_PZUT707_TORP_MARTEL_CN"
 msgstr "550 mm 23DT"
 
 msgid "IDS_PZUT708_TORP_FEN"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PZUT709_TORP_BLACK_LOYANG"
 msgstr "533 mm Mk31"
 
 msgid "IDS_PZUT710_TORP_BLACK_LOYANG"
-msgstr "533 mm Mk15 mod. 0"
+msgstr "533 mm Mk15 mod.0"
 
 msgid "IDS_PZUT711_TORP_WH_ORK"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod.1"
 
 msgid "IDS_PZUT712_C8_TORP_STOCK"
 msgstr "533 mm 53-38"
@@ -106425,10 +106425,10 @@ msgid "IDS_PZUT800_TORP_MENGCHONG"
 msgstr "G7 Steinbutt"
 
 msgid "IDS_PZUT801_D9_TORP_STOCK"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod.3"
 
 msgid "IDS_PZUT802_D9_TORP_TOP"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PZUT803_TORP_DALIAN"
 msgstr "533 mm 53-38"
@@ -106440,7 +106440,7 @@ msgid "IDS_PZUT805_TORP_BEN_MA"
 msgstr "533 mm Si 270 H2"
 
 msgid "IDS_PZUT900_D11_TORP_STOCK"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PZUT901_D10_TORP_STOCK"
 msgstr "Mark 17"
@@ -106449,7 +106449,7 @@ msgid "IDS_PZUT902_D10_TORP_TOP"
 msgstr "Mark 17"
 
 msgid "IDS_PZUT903_C10_TORP_STOCK"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod.1"
 
 msgid "IDS_PZUT904_TORP_LUSHUN"
 msgstr "53-51"
