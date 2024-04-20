@@ -14,16 +14,16 @@ msgstr ""
 "X-Generator: Poedit 3.4.2\n"
 
 msgid "ID"
-msgstr "俄语"
+msgstr "中文（简体）"
 
 msgid "IDS_000_001_BEWARE_RASPUTIN_WARNING"
 msgstr ""
 "摧毁拉斯普京！\n"
-"别让它摧毁特兰西瓦尼亚！"
+"保护好特兰西瓦尼亚！"
 
 msgid "IDS_000_001_MAIN_TASK_BRIEFING"
 msgstr ""
-"护卫特兰西瓦尼亚前往传送门，\n"
+"护送特兰西瓦尼亚前往传送门，\n"
 "保护它，别让它受到伤害！"
 
 msgid "IDS_000_001_MAIN_TASK_TASK_END_F"
@@ -78,7 +78,7 @@ msgid "IDS_12_MONTHS_MARCH"
 msgstr "三月兄弟"
 
 msgid "IDS_17_NA_FAULT_LINE_01"
-msgstr "D2 和 G9 方格探测到敌军活动。"
+msgstr "D2 和 G9 方格侦测到敌军活动。"
 
 msgid "IDS_1BS01"
 msgstr ":Jorgensen:"
@@ -426,19 +426,19 @@ msgid "IDS_4W4"
 msgstr "Kado"
 
 msgid "IDS_5W1"
-msgstr "护卫舰 1"
+msgstr "Defender 1"
 
 msgid "IDS_5W2"
-msgstr "护卫舰 2"
+msgstr "Defender 2"
 
 msgid "IDS_5W3"
-msgstr "护卫舰 3"
+msgstr "Defender 3"
 
 msgid "IDS_5W4"
-msgstr "护卫舰 4"
+msgstr "Defender 4"
 
 msgid "IDS_5W5"
-msgstr "护卫舰 5"
+msgstr "Defender 5"
 
 msgid "IDS_6W1"
 msgstr "Yuushi"
@@ -676,7 +676,7 @@ msgid "IDS_ACCOUNT_COMPLETION_DOCK_TOOLTIP_SUBHEADER"
 msgstr "保存您在游戏中的进度并获得奖励！"
 
 msgid "IDS_ACCOUNT_COMPLETION_EMAIL_DEFAULT_TEXT"
-msgstr "您的电子邮件"
+msgstr "您的电子邮箱"
 
 msgid "IDS_ACCOUNT_COMPLETION_EMAIL_WRONG_CHARACTERS"
 msgstr ""
@@ -684,7 +684,7 @@ msgstr ""
 "只能使用拉丁字母、数字、以及“@” “.” “-” “_”"
 
 msgid "IDS_ACCOUNT_COMPLETION_ENTER_EMAIL"
-msgstr "电子邮件："
+msgstr "电子邮箱："
 
 msgid "IDS_ACCOUNT_COMPLETION_ENTER_PASSWORD"
 msgstr "密码："
@@ -770,7 +770,7 @@ msgid "IDS_ACCOUNT_COMPLETION_SEND_EMAIL_BUTTON"
 msgstr "创建"
 
 msgid "IDS_ACCOUNT_COMPLETION_SEND_EMAIL_DESCRIPTION"
-msgstr "要创建Lesta Games账号，请输入您的电子邮件地址并选择密码。"
+msgstr "要创建Lesta Games账号，请输入您的电子邮箱地址并选择密码。"
 
 msgid "IDS_ACCOUNT_COMPLETION_SEND_EMAIL_HEADER"
 msgstr "创建账号"
@@ -798,8 +798,8 @@ msgstr "此活动结束于："
 
 msgid "IDS_ACCOUNT_ERROR_ALL_SPA_LOGIN_ALREADY_TAKEN"
 msgstr ""
-"已存在使用该邮箱注册的账号。\n"
-"请尝试其他邮箱或联系玩家支持。"
+"此邮箱已被注册过。\n"
+"请尝试使用其他邮箱或联系玩家支持。"
 
 msgid "IDS_ACCOUNT_ERROR_ALL_WEAK_PASSWORD"
 msgstr ""
@@ -808,7 +808,7 @@ msgstr ""
 
 msgid "IDS_ACCOUNT_ERROR_GENERAL"
 msgstr ""
-"注册错误。\n"
+"注册时出现错误。\n"
 "请稍后再试。"
 
 msgid "IDS_ACCOUNT_ERROR_LOGIN_FORBIDDEN"
@@ -818,7 +818,7 @@ msgstr ""
 
 msgid "IDS_ACCOUNT_ERROR_LOGIN_INVALID"
 msgstr ""
-"不正确的邮箱地址。\n"
+"邮箱地址不正确。\n"
 "请检查拼写。"
 
 msgid "IDS_ACCOUNT_ERROR_LOGIN_MAX_LENGTH"
@@ -836,7 +836,7 @@ msgstr "输入您的电子邮箱地址。"
 
 msgid "IDS_ACCOUNT_ERROR_PASSWORD_INVALID"
 msgstr ""
-"您输入了无效的密码。\n"
+"您输入的密码无效。\n"
 "只能使用英文字母、数字以及下划线。"
 
 msgid "IDS_ACCOUNT_ERROR_PASSWORD_MAX_LENGTH"
@@ -852,7 +852,7 @@ msgstr ""
 msgid "IDS_ACCOUNT_ERROR_PASSWORD_REQUIRED"
 msgstr ""
 "未设置密码。\n"
-"请选择密码。"
+"请设置密码。"
 
 msgid "IDS_ACCOUNT_ERROR_PASSWORD_WEAK_PASSWORD"
 msgstr ""
@@ -914,7 +914,7 @@ msgid "IDS_ACCURACY"
 msgstr "准度"
 
 msgid "IDS_ACCURACY_ATBA"
-msgstr "副武器准度"
+msgstr "副炮准度"
 
 msgid "IDS_ACCURACY_ATBA_TOOLTIP"
 msgstr "副炮炮弹命中率"
@@ -1322,7 +1322,7 @@ msgid "IDS_ACHIEVEMENT_CONDITION_PCOC017_TITLE"
 msgstr "对战舰造成伤害"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC018_DESCRIPTION"
-msgstr "从20公里及以上的距离三次击中敌方战舰的核心区。"
+msgstr "从20公里及以上的距离三次命中敌方战舰的核心区。"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC018_TITLE"
 msgstr "命中核心区"
@@ -3561,7 +3561,7 @@ msgid "IDS_ACHIEVEMENT_VETERAN"
 msgstr "老兵"
 
 msgid "IDS_ACHIEVEMENT_VICTORY"
-msgstr "Victory"
+msgstr "胜利"
 
 msgid "IDS_ACHIEVEMENT_WARRIOR"
 msgstr "海怪出没！"
@@ -3687,94 +3687,94 @@ msgid "IDS_ACTIONS_WITH_PLAYERS_HINT"
 msgstr "右键点击玩家名称以称赞、举报他们，或是屏蔽他们的聊天信息。"
 
 msgid "IDS_ACTION_LOG_AIR_DEFENSE_CRIT"
-msgstr "防空炮瘫痪。"
+msgstr "防空炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_AIR_DEFENSE_DESTRUCTED"
-msgstr "防空炮瘫痪。"
+msgstr "防空炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_ALL_AIR_DEFENSE_DESTRUCTED"
-msgstr "所有防空炮都已瘫痪。"
+msgstr "所有防空炮都已瘫痪"
 
 msgid "IDS_ACTION_LOG_ALL_AIR_DESTRUCTED"
-msgstr "所有防空炮都已瘫痪。"
+msgstr "所有防空炮都已瘫痪"
 
 msgid "IDS_ACTION_LOG_ALL_ATBA_DESTRUCTED"
-msgstr "所有副武器都已瘫痪。"
+msgstr "所有副炮都已瘫痪"
 
 msgid "IDS_ACTION_LOG_ALL_ATBA_GUN_DESTRUCTED"
-msgstr "所有副武器都已瘫痪。"
+msgstr "所有副炮都已瘫痪"
 
 msgid "IDS_ACTION_LOG_ALL_MAIN_CALIBER_DESTRUCTED"
-msgstr "所有主炮都已瘫痪。"
+msgstr "所有主炮都已瘫痪"
 
 msgid "IDS_ACTION_LOG_ALL_TORPEDO_DESTRUCTED"
-msgstr "所有鱼雷发射管都已瘫痪。"
+msgstr "所有鱼雷发射管都已瘫痪"
 
 msgid "IDS_ACTION_LOG_ALL_TORPEDO_TUBE_DESTRUCTED"
-msgstr "所有鱼雷发射管都已瘫痪。"
+msgstr "所有鱼雷发射管都已瘫痪"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_ALERT"
 msgstr "即将受到伤害！"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_CRIT"
-msgstr "主炮塔瘫痪。"
+msgstr "主炮塔已瘫痪"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_DESTRUCTED"
-msgstr "主炮塔瘫痪。"
+msgstr "主炮塔已瘫痪"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_GUN_CRIT"
-msgstr "主炮塔瘫痪。"
+msgstr "主炮塔已瘫痪"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_GUN_DESTRUCTED"
-msgstr "主炮塔瘫痪。"
+msgstr "主炮塔已瘫痪"
 
 msgid "IDS_ACTION_LOG_ATBA_CRIT"
-msgstr "副武器瘫痪。"
+msgstr "副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_ATBA_DESTRUCTED"
-msgstr "副武器瘫痪。"
+msgstr "副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_ATBA_GUN_CRIT"
-msgstr "副武器瘫痪。"
+msgstr "副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_ATBA_GUN_DESTRUCTED"
-msgstr "副武器瘫痪。"
+msgstr "副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_AVIATION_CRIT"
-msgstr "飞机瘫痪。"
+msgstr "飞机已瘫痪"
 
 msgid "IDS_ACTION_LOG_AVIATION_DESTRUCTED"
-msgstr "飞机瘫痪。"
+msgstr "飞机已瘫痪"
 
 msgid "IDS_ACTION_LOG_COLLISION_ALERT"
 msgstr "有碰撞的风险"
 
 msgid "IDS_ACTION_LOG_ENGINE_CRIT"
-msgstr "引擎受损。"
+msgstr "引擎已瘫痪"
 
 msgid "IDS_ACTION_LOG_ENGINE_DAMAGED"
-msgstr "引擎受损。"
+msgstr "引擎已瘫痪"
 
 msgid "IDS_ACTION_LOG_ENGINE_DESTRUCTED"
-msgstr "引擎已瘫痪。"
+msgstr "引擎已瘫痪"
 
 msgid "IDS_ACTION_LOG_FAR_AURA_DESTRUCTED"
-msgstr "大口径防空炮瘫痪。"
+msgstr "大口径防空炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_HANGAR_CRIT"
-msgstr "机库瘫痪。"
+msgstr "机库已瘫痪"
 
 msgid "IDS_ACTION_LOG_HANGAR_DAMAGED"
-msgstr "机库受损。"
+msgstr "机库已瘫痪"
 
 msgid "IDS_ACTION_LOG_HARD_DAMAGE_LEVEL"
 msgstr "严重伤害！"
 
 msgid "IDS_ACTION_LOG_LANDING_STRIP_CRIT"
-msgstr "飞行甲板瘫痪。"
+msgstr "飞行甲板已瘫痪"
 
 msgid "IDS_ACTION_LOG_LANDING_STRIP_DAMAGED"
-msgstr "飞行甲板受损。"
+msgstr "飞行甲板已瘫痪"
 
 msgid "IDS_ACTION_LOG_LIGHT_DAMAGE_LEVEL"
 msgstr "战舰被攻击！"
@@ -3783,43 +3783,43 @@ msgid "IDS_ACTION_LOG_MEDIUM_DAMAGE_LEVEL"
 msgstr "严重伤害！"
 
 msgid "IDS_ACTION_LOG_MID_AURA_DESTRUCTED"
-msgstr "中口径防空炮瘫痪。"
+msgstr "中口径防空炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_NEAR_AURA_DESTRUCTED"
-msgstr "小口径防空炮瘫痪。"
+msgstr "小口径防空炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_OBSERVATION_CRIT"
-msgstr "目标捕获系统瘫痪。"
+msgstr "目标捕获系统已瘫痪"
 
 msgid "IDS_ACTION_LOG_OBSERVATION_DESTRUCTED"
-msgstr "目标捕获系统瘫痪。"
+msgstr "目标捕获系统已瘫痪"
 
 msgid "IDS_ACTION_LOG_PORT_ATBA_DESTRUCTED"
-msgstr "左舷副武器瘫痪。"
+msgstr "左舷副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_PORT_ATBA_GUN_DESTRUCTED"
-msgstr "左舷副武器瘫痪。"
+msgstr "左舷副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_CRIT"
-msgstr "弹药库瘫痪。"
+msgstr "弹药库已瘫痪"
 
 msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_DAMAGED"
-msgstr "弹药库受损。"
+msgstr "弹药库已瘫痪"
 
 msgid "IDS_ACTION_LOG_STAR_ATBA_DESTRUCTED"
-msgstr "右舷副武器瘫痪。"
+msgstr "右舷副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_STAR_ATBA_GUN_DESTRUCTED"
-msgstr "右舷副武器瘫痪。"
+msgstr "右舷副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_STEERING_GEAR_CRIT"
-msgstr "操舵装置瘫痪。"
+msgstr "操舵装置已瘫痪"
 
 msgid "IDS_ACTION_LOG_TORPEDOES_CRIT"
-msgstr "鱼雷武器瘫痪。"
+msgstr "鱼雷武器已瘫痪"
 
 msgid "IDS_ACTION_LOG_TORPEDOES_DESTRUCTED"
-msgstr "鱼雷武器瘫痪。"
+msgstr "鱼雷武器已瘫痪"
 
 msgid "IDS_ACTION_LOG_TORPEDO_ALERT_AHEAD"
 msgstr "前方鱼雷！"
@@ -3834,10 +3834,10 @@ msgid "IDS_ACTION_LOG_TORPEDO_ALERT_RIGHT_BOARD"
 msgstr "右舷鱼雷！"
 
 msgid "IDS_ACTION_LOG_TORPEDO_TUBE_CRIT"
-msgstr "鱼雷武器瘫痪。"
+msgstr "鱼雷发射管已瘫痪"
 
 msgid "IDS_ACTION_LOG_TORPEDO_TUBE_DESTRUCTED"
-msgstr "鱼雷发射管瘫痪。"
+msgstr "鱼雷发射管已瘫痪"
 
 msgid "IDS_ACTIVATE_RAGE_MODE"
 msgstr "作战指令"
@@ -4553,22 +4553,22 @@ msgid "IDS_ALL_SEASONS"
 msgstr "所有赛季"
 
 msgid "IDS_ALL_SKILLPOINTS_DISTRIBUTED"
-msgstr "您已经重新分配了最大数量的技能点数"
+msgstr "您已经分配了最大数量的技能点数"
 
 msgid "IDS_ALL_SKILLPOINTS_DISTRIBUTED_FOR_AIRCARRIER"
-msgstr "您已经为航空母舰重新分配了最大数量的技能点数"
+msgstr "您已经为航空母舰分配了最大数量的技能点数"
 
 msgid "IDS_ALL_SKILLPOINTS_DISTRIBUTED_FOR_BATTLESHIP"
-msgstr "您已经为战列舰重新分配了最大数量的技能点数"
+msgstr "您已经为战列舰分配了最大数量的技能点数"
 
 msgid "IDS_ALL_SKILLPOINTS_DISTRIBUTED_FOR_CRUISER"
-msgstr "您已经为巡洋舰重新分配了最大数量的技能点数"
+msgstr "您已经为巡洋舰分配了最大数量的技能点数"
 
 msgid "IDS_ALL_SKILLPOINTS_DISTRIBUTED_FOR_DESTROYER"
-msgstr "您已经为驱逐舰重新分配了最大数量的技能点数"
+msgstr "您已经为驱逐舰分配了最大数量的技能点数"
 
 msgid "IDS_ALL_SKILLPOINTS_DISTRIBUTED_FOR_SUBMARINE"
-msgstr "您已经为潜艇重新分配了最大数量的技能点数"
+msgstr "您已经为潜艇分配了最大数量的技能点数"
 
 msgid "IDS_ALL_VEHICLES"
 msgstr "所有战舰"
@@ -7512,13 +7512,13 @@ msgid "IDS_BATTLE_TASK_TEXT_PCOI002"
 msgstr "获得至少2个“造成火灾”勋带。"
 
 msgid "IDS_BATTLE_TASK_TEXT_PCOI003"
-msgstr "获得至少7个“已发现”勋带。"
+msgstr "获得至少7个“发现”勋带。"
 
 msgid "IDS_BATTLE_TASK_TEXT_PCOI004"
-msgstr "获得至少3个“已发现”勋带。"
+msgstr "获得至少3个“发现”勋带。"
 
 msgid "IDS_BATTLE_TASK_TEXT_PCOI005"
-msgstr "获得至少2个“已发现”勋带。"
+msgstr "获得至少2个“发现”勋带。"
 
 msgid "IDS_BATTLE_TASK_TEXT_PCOI006"
 msgstr "获得任意90个勋带。"
@@ -7569,13 +7569,13 @@ msgid "IDS_BATTLE_TASK_TEXT_PCOI021"
 msgstr "获得至少1个“造成进水”勋带。"
 
 msgid "IDS_BATTLE_TASK_TEXT_PCOI022"
-msgstr "获得至少8个“击落飞机”和“被战斗机击落”勋带。"
+msgstr "获得至少8个“击落”勋带。"
 
 msgid "IDS_BATTLE_TASK_TEXT_PCOI023"
-msgstr "获得至少6个“击落飞机”和“被战斗机击落”勋带。"
+msgstr "获得至少6个“击落”勋带。"
 
 msgid "IDS_BATTLE_TASK_TEXT_PCOI024"
-msgstr "获得至少3个“击落飞机”和“被战斗机击落”勋带。"
+msgstr "获得至少3个“击落”勋带。"
 
 msgid "IDS_BATTLE_TIPS"
 msgstr "小提示"
@@ -17019,7 +17019,7 @@ msgid "IDS_CREW_LIST_OVERLAY_STATUS_BARRACK_IS_FULL"
 msgstr "预备队中没有空位"
 
 msgid "IDS_CREW_LIST_OVERLAY_STATUS_TARGET_IN_BATTLE"
-msgstr "所选战舰现在正在战斗中"
+msgstr "所选战舰正在战斗中"
 
 msgid "IDS_CREW_LIST_OVERLAY_STATUS_TARGET_IN_DIVISION"
 msgstr "所选战舰正在小队中准备战斗"
@@ -18015,7 +18015,7 @@ msgid "IDS_CREW_SKILLS_UNAVAILABLE_FOR_THAT_SHIP"
 msgstr "指挥官无法在这艘战舰上学习技能"
 
 msgid "IDS_CREW_SKILL_ALL_POINTS_DISTRIBUTED_INSTRUCTION"
-msgstr "您已经重新分配了最大数量的技能点数"
+msgstr "您已经分配了最大数量的技能点数"
 
 msgid "IDS_CREW_SKILL_MEASURE_BOMBER"
 msgid_plural "IDS_CREW_SKILL_MEASURE_BOMBER"
@@ -18054,7 +18054,7 @@ msgid "IDS_CREW_SPECIALIZATION_TO_SELECT_SHIP"
 msgstr "已训练至："
 
 msgid "IDS_CREW_START_FREE_RETRAINING_QUESTION"
-msgstr "开始免费重新训练？"
+msgstr "开始重新训练（免费）？"
 
 msgid "IDS_CREW_STATUS_SKILLS_PENALTY_DUE_ADAPTATION"
 msgstr "在重新训练完成之前，指挥官技能没有效果。"
@@ -19525,7 +19525,7 @@ msgid "IDS_DESTROYED"
 msgstr "被摧毁："
 
 msgid "IDS_DESTROYED_BY_AG"
-msgstr "通过副武器击沉"
+msgstr "通过副炮击沉"
 
 msgid "IDS_DESTROYED_BY_AG_TOOLTIP"
 msgstr "副炮摧毁的敌方战舰总数"
@@ -19644,16 +19644,16 @@ msgstr "被发现"
 msgid "IDS_DETECTED_AIRCARRIER"
 msgstr ""
 "航空母舰\n"
-"被发现"
+"已被发现"
 
 msgid "IDS_DETECTED_BY_ENEMY_SHIP"
 msgstr "被定位"
 
 msgid "IDS_DETECTED_CARRIER"
-msgstr "航空母舰已被敌方发现！"
+msgstr "航空母舰已被敌军发现！"
 
 msgid "IDS_DETONATIONCHANCEFACTOR"
-msgstr "弹药库爆炸的风险"
+msgstr "殉爆的风险"
 
 msgid "IDS_DEUTERANOPIA"
 msgstr "绿色盲"
@@ -19818,7 +19818,7 @@ msgid "IDS_DISMISS_DIVISION"
 msgstr "解散小队"
 
 msgid "IDS_DISMISS_DIVISION_QUESTION"
-msgstr "要解散小队？"
+msgstr "是否解散小队？"
 
 msgid "IDS_DISTSSHIP_AIRCARRIER"
 msgstr "航空母舰侦察性"
@@ -22506,7 +22506,7 @@ msgid "IDS_DOGTAG_PCNB075_NAME"
 msgstr "死亡射线"
 
 msgid "IDS_DOGTAG_PCNB076_DESCRIPTION"
-msgstr "在战舰上使用火炮的想法可以追溯到古代：最早盖乌斯•尤利乌斯•恺撒就曾写过在高卢战争中使用战舰弹射器。拜占庭战舰也配备了喷火器和弹射器。自中世纪以来，战舰一直配备各种口径的火炮。最初，战舰艏艉的火炮主要用于轰炸陆地上的建筑设施。后来，人们为海战开发了舰炮来攻击敌方战舰。"
+msgstr "在战舰上使用火炮的想法可以追溯到古代：最早盖乌斯•尤利乌斯•恺撒就曾写过在高卢战争中使用战舰弹射器。拜占庭战舰也配备了喷火器和弹射器。自中世纪以来，战舰一直配备各种口径的火炮。最初，战舰首艉的火炮主要用于轰炸陆地上的建筑设施。后来，人们为海战开发了舰炮来攻击敌方战舰。"
 
 msgid "IDS_DOGTAG_PCNB076_NAME"
 msgstr "火炮"
@@ -26401,7 +26401,7 @@ msgid "IDS_ERROR_HEADER_UPDATE_IN_PROGRESS"
 msgstr "正在加载数据…"
 
 msgid "IDS_ERROR_ILLEGAL_CHARACTERS"
-msgstr "电子邮件或密码含有无效的字符。"
+msgstr "电子邮箱或密码含有无效的字符。"
 
 msgid "IDS_ERROR_INTERNAL"
 msgstr "发生技术问题。请重试或联系玩家支持。"
@@ -26583,15 +26583,15 @@ msgstr ""
 msgid "IDS_EV2020_NCB_BOSS"
 msgstr ""
 "注意！\n"
-"Rasputin号正在接近！"
+"拉斯普京正在接近！"
 
 msgid "IDS_EV2020_NCB_BOSS_ALERT"
-msgstr "已确定Rasputin号的起始区域。"
+msgstr "已确定拉斯普京的起始区域。"
 
 msgid "IDS_EV2020_NCB_BOSS_IS_DEAD"
 msgstr ""
-"Rasputin号已被摧毁！\n"
-"快前往传送门！"
+"拉斯普京已被摧毁！\n"
+"快进入传送门！"
 
 msgid "IDS_EV2020_NCB_CHEATER_LEVEL_UP"
 msgstr ""
@@ -26600,7 +26600,7 @@ msgstr ""
 
 msgid "IDS_EV2020_NCB_CHEATER_SPAWN"
 msgstr ""
-"快前往传送门！\n"
+"快进入传送门！\n"
 "敌人已经变得更强，它们会试着阻挠您。"
 
 msgid "IDS_EV2020_NCB_RULES_1"
@@ -26963,10 +26963,10 @@ msgid "IDS_EXCLUDED_SHIPS_HEADER"
 msgstr "不允许"
 
 msgid "IDS_EXCLUDE_PLAYER_FROM_DIVISION_QUESTION"
-msgstr "要将 <h3>%(playerName)s</h3> 从小队中移除？"
+msgstr "是否将 <h3>%(playerName)s</h3> 踢出小队？"
 
 msgid "IDS_EXCLUDE_PLAYER_OUT_OF_DIVISION"
-msgstr "从小队中移除"
+msgstr "踢出小队"
 
 msgid "IDS_EXCLUDE_PLAYER_OUT_OF_TRAINING_ROOM"
 msgstr "踢出房间"
@@ -27415,10 +27415,10 @@ msgid "IDS_FEAT_BAD_TORP_NOTORPEDOES"
 msgstr "无鱼雷武器"
 
 msgid "IDS_FEAT_BAD_TORP_NOTORPEDOES_9"
-msgstr "从IX级起没有鱼雷武器"
+msgstr "从IX级起无鱼雷武器"
 
 msgid "IDS_FEAT_BAD_TORP_ONLY_NARROW_SPREAD"
-msgstr "仅有较窄的鱼雷发射角度"
+msgstr "鱼雷射界较窄"
 
 msgid "IDS_FEAT_BAD_TORP_RANGE"
 msgstr "鱼雷射程较短"
@@ -27604,7 +27604,7 @@ msgid "IDS_FEAT_GOOD_ATBA_ACCURACY"
 msgstr "副炮准度较高"
 
 msgid "IDS_FEAT_GOOD_ATBA_DMG"
-msgstr "副武器伤害较高"
+msgstr "副炮伤害较高"
 
 msgid "IDS_FEAT_GOOD_ATBA_HEPEN"
 msgstr "高爆弹穿甲能力较强"
@@ -27997,7 +27997,7 @@ msgid "IDS_FEAT_GOOD_MC_AP_SUPER_OVERMATCH"
 msgstr "穿甲弹不会在同等级战舰的外板处跳弹"
 
 msgid "IDS_FEAT_GOOD_MC_BOW_TURN_360"
-msgstr "舰艏主炮塔可旋转360度"
+msgstr "舰首主炮塔可旋转360度"
 
 msgid "IDS_FEAT_GOOD_MC_SOME_TURN_360"
 msgstr "部分主炮塔可旋转360度"
@@ -28174,7 +28174,7 @@ msgid "IDS_FEAT_GOOD_TBMB_TORPRANGE"
 msgstr "鱼雷射程较长"
 
 msgid "IDS_FEAT_GOOD_TORP_ALLTIERS"
-msgstr "所有等级皆可使用鱼雷武器"
+msgstr "所有等级皆可使用鱼雷发射管"
 
 msgid "IDS_FEAT_GOOD_TORP_BONUSTRELOAD"
 msgstr "可使用鱼雷装填助推器消耗品"
@@ -29322,7 +29322,7 @@ msgid "IDS_GAMEMODE_PORTAL_2021_RULES_DESCRIPTION_TEXT_2"
 msgstr "战斗点数。可通过摧毁对手来获取。您需要战斗点数来推进作战任务。"
 
 msgid "IDS_GAMEMODE_PORTAL_2021_RULES_DESCRIPTION_TEXT_3"
-msgstr "主要敌人Rasputin号的起始区域。"
+msgstr "主要敌人拉斯普京的起始区域。"
 
 msgid "IDS_GAMEMODE_PVE_DESCRIPTION"
 msgstr " "
@@ -30804,10 +30804,10 @@ msgid "IDS_HANS"
 msgstr "Feng Hans"
 
 msgid "IDS_HARD_LEVEL_BOT_STATUS"
-msgstr "电脑。高级AI。"
+msgstr "电脑（高级AI）"
 
 msgid "IDS_HARD_LEVEL_TARGET_STATUS"
-msgstr "目标。高级AI。"
+msgstr "目标（高级AI）"
 
 msgid "IDS_HARUNA"
 msgstr "Haruna"
@@ -31155,7 +31155,7 @@ msgid "IDS_HELP_HEAL_TIME"
 msgstr "恢复时间"
 
 msgid "IDS_HELP_INDICATOR_PMK_AND_HE"
-msgstr "关闭副武器和防空炮"
+msgstr "关闭副炮和防空炮"
 
 msgid "IDS_HELP_IT_IS_DESTROYED"
 msgstr "已摧毁"
@@ -31209,7 +31209,7 @@ msgid "IDS_HELP_ONE_BY_ONE_SHOT_DESCRIPTION"
 msgstr "按住鼠标左键"
 
 msgid "IDS_HELP_ON_OFF_AD_AND_HE"
-msgstr "启用/禁用副武器与防空炮"
+msgstr "启用/禁用副炮与防空炮"
 
 msgid "IDS_HELP_ON_OFF_AD_AND_HE_DESCR"
 msgstr "P 键"
@@ -31224,7 +31224,7 @@ msgid "IDS_HELP_POINT_ON_RANDOM_SPOT"
 msgstr "设置攻击点"
 
 msgid "IDS_HELP_PRIORITY_PMK_PVO"
-msgstr "设定副武器的优先目标"
+msgstr "设定副炮的优先目标"
 
 msgid "IDS_HELP_PRIORITY_PMK_PVO_DESCR"
 msgstr "瞄准目标时"
@@ -32307,7 +32307,7 @@ msgid "IDS_INFO_MODULE_BURNING_CEASED_HULL"
 msgstr "火灾已扑灭"
 
 msgid "IDS_INFO_MODULE_FLOOD_CEASED"
-msgstr "已停止进水"
+msgstr "进水已停止"
 
 msgid "IDS_INFO_MODULE_HEATED_CEASED"
 msgstr "过热已解除"
@@ -32355,7 +32355,7 @@ msgid "IDS_INFO_SQUADRON_DEATH_CANT_REPLENISH"
 msgstr "第%d中队被歼灭。无法维护。"
 
 msgid "IDS_INFO_TBD_REPAIRING"
-msgstr "弹药库瘫痪。"
+msgstr "弹药库已瘫痪"
 
 msgid "IDS_INFO_TOO_DEEP"
 msgstr "超过最大安全深度！"
@@ -35351,10 +35351,10 @@ msgid "IDS_LOW_ACCESS_LEVEL"
 msgstr "需要更高的权限等级来解锁补给箱。"
 
 msgid "IDS_LOW_LEVEL_BOT_STATUS"
-msgstr "电脑。低级AI。"
+msgstr "电脑（低级AI）"
 
 msgid "IDS_LOW_LEVEL_TARGET_STATUS"
-msgstr "目标。低级AI。"
+msgstr "目标（低级AI）"
 
 msgid "IDS_LOW_QUALITY_GUI"
 msgstr "降低GUI刷新频率"
@@ -35408,7 +35408,7 @@ msgid "IDS_MAIN_APROCKETS"
 msgstr "穿甲火箭弹"
 
 msgid "IDS_MAIN_ATBARANGEDAMAGE"
-msgstr "副武器射程较远，且可造成显著伤害"
+msgstr "副炮射程较远，且可造成显著伤害"
 
 msgid "IDS_MAIN_BAD_MAIN_ACCURACY"
 msgstr "射击准度较低"
@@ -35621,7 +35621,7 @@ msgid "IDS_MAIN_NOSMOKE"
 msgstr "无法使用发烟器消耗品"
 
 msgid "IDS_MAIN_NOTORP"
-msgstr "无鱼雷武器"
+msgstr "无鱼雷发射管"
 
 msgid "IDS_MAIN_NO_T_BOMBERS"
 msgstr "无鱼雷轰炸机"
@@ -35992,10 +35992,10 @@ msgid "IDS_MEDIUM"
 msgstr "中"
 
 msgid "IDS_MEDIUM_LEVEL_BOT_STATUS"
-msgstr "电脑。中级AI。"
+msgstr "电脑（中级AI）"
 
 msgid "IDS_MEDIUM_LEVEL_TARGET_STATUS"
-msgstr "目标。中级AI。"
+msgstr "目标（中级AI）"
 
 msgid "IDS_MEGATRON"
 msgstr "威震天"
@@ -36022,7 +36022,7 @@ msgid "IDS_MERCENARIES"
 msgstr "佣兵"
 
 msgid "IDS_MERCENARIES_TOOLTIP_DESCRIPTION"
-msgstr "是您的队友但不在小队指挥官所在军团的玩家。"
+msgstr "不在小队指挥官所在军团中的队友。"
 
 msgid "IDS_MERCENARIES_TOOLTIP_RESTRICTIONS"
 msgstr "小队的佣兵人数有限。"
@@ -36196,7 +36196,7 @@ msgid "IDS_MINIMAP_OPTIONS_MINIMAPROTATIONENABLED"
 msgstr "旋转小地图"
 
 msgid "IDS_MINIMAP_OPTIONS_MINIMAPVISIBILITYSHIPENABLED"
-msgstr "显示被发现指示器"
+msgstr "队友被发现指示器"
 
 msgid "IDS_MINIMAP_OPTIONS_MOUSECOMMANDSENABLED"
 msgstr "提醒注意某对象"
@@ -36840,7 +36840,7 @@ msgid "IDS_MODAL_WINDOW_PCVE009_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "战斗点数可以通过摧毁暮光舰队的战舰获得。如果您选择击沉由其他玩家操控的战舰，那么该玩家在该场战斗中获得的所有战斗点数都将归属于您。"
 
 msgid "IDS_MODAL_WINDOW_PCVE009_RULES_PARAGRAPH_3_TEXT_3"
-msgstr "在战斗开始一段时间后，暮光舰队的旗舰Rasputin号将出海寻找猎物。摧毁这艘晦暗的战舰以最大化您的战斗点数。通过传送门退出战斗将使获得的战斗点数翻倍。"
+msgstr "在战斗开始一段时间后，暮光舰队的旗舰拉斯普京将出海寻找猎物。摧毁这艘晦暗的战舰以最大化您的战斗点数。通过传送门退出战斗将使获得的战斗点数翻倍。"
 
 msgid "IDS_MODAL_WINDOW_PCVE009_RULES_PARAGRAPH_4_HEADER"
 msgstr "团队"
@@ -38930,10 +38930,10 @@ msgid "IDS_OPTIONS_ALTERNATIVE_MOUSE_CONTROLS"
 msgstr "激活鼠标新操作方式"
 
 msgid "IDS_OPTIONS_ALWAYS_SHOW_LAMP_VISIBILITY"
-msgstr "显示被发现指示器"
+msgstr "显示队友被发现指示器"
 
 msgid "IDS_OPTIONS_ALWAYS_SHOW_LAMP_VISIBILITY_DESCRIPTION"
-msgstr "显示敌方发现友军战舰的指示器。"
+msgstr "显示友军战舰被敌军发现的指示器。"
 
 msgid "IDS_OPTIONS_ALWAYS_SHOW_MODIFIERS_TIMERS"
 msgstr "状态计时器"
@@ -41475,10 +41475,10 @@ msgid "IDS_OP_NS_SECONDARY_TASK_SILENT_HUNTER_CHAT_FAILURE"
 msgstr "所有潜艇都已被敌人发现！"
 
 msgid "IDS_OP_NS_SECONDARY_TASK_SILENT_HUNTER_UPDATE_DEAD"
-msgstr "指挥官%s的潜艇被摧毁！"
+msgstr "指挥官%s的潜艇已被摧毁！"
 
 msgid "IDS_OP_NS_SECONDARY_TASK_SILENT_HUNTER_UPDATE_SPOTTED"
-msgstr "指挥官%s的潜艇被发现！"
+msgstr "指挥官%s的潜艇已被发现！"
 
 msgid "IDS_OP_NS_SECONDARY_TASK_SILENT_HUNTER_YOU_SPOTTED"
 msgstr "指挥官，您的潜艇已被发现！"
@@ -41550,7 +41550,7 @@ msgid "IDS_OTHER_FEATURE_CATEGORY_RAGEMODE"
 msgstr "作战指令"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_SECONDARY_CALIBER"
-msgstr "副武器"
+msgstr "副炮"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_SKIP_BOMBERS"
 msgstr "弹跳轰炸机"
@@ -44391,7 +44391,7 @@ msgid "IDS_PARAMS_MODIFIER_CHANCETOSETONFIREBONUSALL"
 msgstr "高爆弹造成火灾的几率"
 
 msgid "IDS_PARAMS_MODIFIER_CHANGEPRIORITYTARGETPENALTY"
-msgstr "改变目标时，副武器的优先目标累积准度数值"
+msgstr "改变目标时，副炮的优先目标累积准度数值"
 
 msgid "IDS_PARAMS_MODIFIER_COLLISIONDAMAGEAPPLY"
 msgstr "造成撞击伤害"
@@ -44774,10 +44774,10 @@ msgid "IDS_PARAMS_MODIFIER_GSIDEALRADIUS"
 msgstr "副炮炮弹的最大误差"
 
 msgid "IDS_PARAMS_MODIFIER_GSIDEALRADIUSHIGHLEVEL"
-msgstr "VII-X级战舰副武器炮弹的最大误差"
+msgstr "VII-X级战舰副炮炮弹的最大误差"
 
 msgid "IDS_PARAMS_MODIFIER_GSIDEALRADIUSLOWLEVEL"
-msgstr "I-VI级战舰副武器炮弹的最大误差"
+msgstr "I-VI级战舰副炮炮弹的最大误差"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST"
 msgstr "副炮射程"
@@ -45077,10 +45077,10 @@ msgid "IDS_PARAMS_MODIFIER_PLANEVISIBILITYINSMOKE"
 msgstr "对空被侦察范围"
 
 msgid "IDS_PARAMS_MODIFIER_PMDETONATIONPROB"
-msgstr "您战舰弹药库爆炸的风险"
+msgstr "您战舰殉爆的风险"
 
 msgid "IDS_PARAMS_MODIFIER_PM_NO_DETONATION"
-msgstr "完全消除您战舰弹药库爆炸的风险"
+msgstr "完全消除您战舰殉爆的风险"
 
 msgid "IDS_PARAMS_MODIFIER_POTENTIALDAMAGESHIFT_RAGEMODE"
 msgstr "提高作战指令完成进度所需的潜在伤害量"
@@ -61365,7 +61365,7 @@ msgstr "在您的战舰上安装至少一面信号旗并进入一场战斗。"
 
 msgid "IDS_PCQT045_1"
 msgid_plural "IDS_PCQT045_1"
-msgstr[0] "获得%(count)s个“已发现”勋带。"
+msgstr[0] "获得%(count)s个“发现”勋带。"
 
 msgid "IDS_PCQT046_1"
 msgstr "第一个发现敌方鱼雷。"
@@ -61443,7 +61443,7 @@ msgstr "进行一场战斗。"
 
 msgid "IDS_PCQT075_1"
 msgid_plural "IDS_PCQT075_1"
-msgstr[0] "获得%(count)s个“已发现”勋带。"
+msgstr[0] "获得%(count)s个“发现”勋带。"
 
 msgid "IDS_PCQT076_1"
 msgid_plural "IDS_PCQT076_1"
@@ -61605,11 +61605,11 @@ msgstr[0] "用任意武器击中敌方巡洋舰%(count)s次。"
 
 msgid "IDS_PCQT128_1"
 msgid_plural "IDS_PCQT128_1"
-msgstr[0] "获得%(count)s个“已发现”勋带。"
+msgstr[0] "获得%(count)s个“发现”勋带。"
 
 msgid "IDS_PCQT129_1"
 msgid_plural "IDS_PCQT129_1"
-msgstr[0] "获得%(count)s个“已发现”勋带。"
+msgstr[0] "获得%(count)s个“发现”勋带。"
 
 msgid "IDS_PCQT130_1"
 msgid_plural "IDS_PCQT130_1"
@@ -61673,7 +61673,7 @@ msgstr[0] "击中敌方战舰的核心区%(count)s次。"
 
 msgid "IDS_PCQT146_1"
 msgid_plural "IDS_PCQT146_1"
-msgstr[0] "获得%(count)s个“已发现”勋带。"
+msgstr[0] "获得%(count)s个“发现”勋带。"
 
 msgid "IDS_PCQT147_1"
 msgstr "获得%(count)s点全局经验。"
@@ -61820,7 +61820,7 @@ msgstr[0] "瘫痪敌方战舰上的%(count)s个配件。"
 
 msgid "IDS_PCQT194_CAMPAIGNSB_MISSION05_TASK04_1"
 msgid_plural "IDS_PCQT194_CAMPAIGNSB_MISSION05_TASK04_1"
-msgstr[0] "获得%(count)s个“已发现”勋带。"
+msgstr[0] "获得%(count)s个“发现”勋带。"
 
 msgid "IDS_PCQT195_CAMPAIGNSB_MISSION05_TASK05_1"
 msgstr "获得一个“重创”成就。"
@@ -61889,7 +61889,7 @@ msgstr[0] "获得%(count)s个“重创”或“支援”成就。"
 
 msgid "IDS_PCQT385_1"
 msgid_plural "IDS_PCQT385_1"
-msgstr[0] "获得%(count)s个“已发现”勋带。"
+msgstr[0] "获得%(count)s个“发现”勋带。"
 
 msgid "IDS_PCQT386_1"
 msgid_plural "IDS_PCQT386_1"
@@ -62227,14 +62227,14 @@ msgstr[0] "用主炮造成%(count)s点伤害。"
 
 msgid "IDS_PCQT648_1"
 msgid_plural "IDS_PCQT648_1"
-msgstr[0] "获得%(count)s个“已摧毁”勋带。"
+msgstr[0] "获得%(count)s个“摧毁”勋带。"
 
 msgid "IDS_PCQT649_1"
 msgstr "获得%(count)s点经验（应用加成后）。"
 
 msgid "IDS_PCQT650_1"
 msgid_plural "IDS_PCQT650_1"
-msgstr[0] "获得%(count)s个“已摧毁”勋带。"
+msgstr[0] "获得%(count)s个“摧毁”勋带。"
 
 msgid "IDS_PCQT651_1"
 msgid_plural "IDS_PCQT651_1"
@@ -62253,7 +62253,7 @@ msgstr[0] "获得%(count)s银币。"
 
 msgid "IDS_PCQT655_1"
 msgid_plural "IDS_PCQT655_1"
-msgstr[0] "获得%(count)s个“已摧毁”勋带。"
+msgstr[0] "获得%(count)s个“摧毁”勋带。"
 
 msgid "IDS_PCQT656_1"
 msgid_plural "IDS_PCQT656_1"
@@ -62329,7 +62329,7 @@ msgstr[0] "获得%(count)s银币。"
 
 msgid "IDS_PCQT675_1"
 msgid_plural "IDS_PCQT675_1"
-msgstr[0] "获得%(count)s个“已摧毁”勋带。"
+msgstr[0] "获得%(count)s个“摧毁”勋带。"
 
 msgid "IDS_PCQT676_1"
 msgid_plural "IDS_PCQT676_1"
@@ -64035,7 +64035,7 @@ msgstr "沙恩霍斯特的前方雷达套装"
 
 msgid "IDS_PCZC109_NY2018_SCHARNHORST_RADAR_DESCRIPTION"
 msgstr ""
-"1942年初，沙恩霍斯特 装备了新式的 FuMO 27 雷达。一套装在位于舰艏上层建筑顶部的前方测距塔上面，而另一套则放在舰尾测距塔上。2 x 4米的矩阵式天线跟着测距塔一起转动。这些雷达可以发现距离25公里的敌方战舰。\n"
+"1942年初，沙恩霍斯特 装备了新式的 FuMO 27 雷达。一套装在位于舰首上层建筑顶部的前方测距塔上面，而另一套则放在舰尾测距塔上。2 x 4米的矩阵式天线跟着测距塔一起转动。这些雷达可以发现距离25公里的敌方战舰。\n"
 "\n"
 "然而在北角海战期间，英国战舰在雷达设备的质量和数量上都远远超过了 沙恩霍斯特。而更重要的是，沙恩霍斯特为了避免被发现而关闭了舰上的雷达系统。拜此所赐，沙恩霍斯特 无法实时侦测出敌方战舰。英国巡洋舰的第一批齐射就完全出乎德国战舰的意料之外。还被第一批齐射瘫痪了前方 FuMO 27 套组。在北极的夜晚条件下，因失去雷达而近盲的沙恩霍斯特，就这样直接闯入了英国人的圈套。"
 
@@ -66012,7 +66012,7 @@ msgstr "巡洋舰奥尔巴尼舰首像"
 
 msgid "IDS_PCZC276_NY2019_ALBANYFIGURE_DESCRIPTION"
 msgstr ""
-"在舰首用丰富的进行装饰的传统继承于帆船舰队的装甲舰，其中几乎每艘舰的舰艏斜桅上都有一个巨大的雕刻形象，通常与船名有关。虽然战舰上的帆船桅杆已经成为历史，但新的战列舰和巡洋舰仍然继承了在他们的船舷和桅杆上装饰镀金的饰品的传统。\n"
+"在舰首用丰富的进行装饰的传统继承于帆船舰队的装甲舰，其中几乎每艘舰的舰首斜桅上都有一个巨大的雕刻形象，通常与船名有关。虽然战舰上的帆船桅杆已经成为历史，但新的战列舰和巡洋舰仍然继承了在他们的船舷和桅杆上装饰镀金的饰品的传统。\n"
 "在19-20世纪之交，美国海军的战舰可能拥有当时海上最丰富的装饰品。美国海军当时正处于蓬勃发展时期，并且正在大力追求海洋霸权。星条旗帜下的钢铁巨兽必须证明他们绝不逊色于旧世界的海上力量。虽然奥尔巴尼号是在英国建造，由英国阿姆斯特朗公司设计，于1900年投入使用，但她的舰首上有带有一个装饰丰富的镀金饰品的美国海军徽章上。"
 
 msgid "IDS_PCZC277_NY2019_VARYAGFIGURE"
@@ -66020,7 +66020,7 @@ msgstr "巡洋舰瓦良格舰首像"
 
 msgid "IDS_PCZC277_NY2019_VARYAGFIGURE_DESCRIPTION"
 msgstr ""
-"在19世纪至20世纪之交投入使用的俄国帝国海军的战舰，通常不会带有18世纪80年代至19世纪90年代早期的丰富舰艏像。但是从美国订购的中队战舰列特维赞和防护巡洋舰瓦良格除外。这两艘战舰都是在1898年到1901年间在位于宾夕法尼亚州费城的William Cramp & Sons公司的造船厂建造的。\n"
+"在19世纪至20世纪之交投入使用的俄国帝国海军的战舰，通常不会带有18世纪80年代至19世纪90年代早期的丰富舰首像。但是从美国订购的中队战舰列特维赞和防护巡洋舰瓦良格除外。这两艘战舰都是在1898年到1901年间在位于宾夕法尼亚州费城的William Cramp & Sons公司的造船厂建造的。\n"
 "瓦良格的舰首像由镀金的青铜制成，在其设计和制作过程中，复用了当时许多美国战舰类似装饰元素。只是美国海军标志的秃鹰被俄罗斯帝国双头鹰取代。这艘巡洋舰在仁川湾沉没后被日本人从海底捞起，巨大的舰首像也完全被拆除。这艘名为瓦良格的战舰最终更名为宗谷，经过长时间的大修后，加入了日本帝国海军。"
 
 msgid "IDS_PCZC278_NY2019_STLOUISFIGURE"
@@ -66028,7 +66028,7 @@ msgstr "巡洋舰圣路易斯舰首像"
 
 msgid "IDS_PCZC278_NY2019_STLOUISFIGURE_DESCRIPTION"
 msgstr ""
-"几乎所有在1880年至1900年间投入使用的美国海军大型战舰的舰艏都豪华的装饰。最初，部件是用木头制成的，但很快青铜就成为主要材料。在大多数情况下，装饰的核心元素是海军徽章——一个星形闪光盾牌标志，通常还有一只白头鹰抱着它。\n"
+"几乎所有在1880年至1900年间投入使用的美国海军大型战舰的舰首都豪华的装饰。最初，部件是用木头制成的，但很快青铜就成为主要材料。在大多数情况下，装饰的核心元素是海军徽章——一个星形闪光盾牌标志，通常还有一只白头鹰抱着它。\n"
 "1906年加入美国海军的巡洋舰圣路易斯也有一个典型的美国舰首像。但是这没持续多久，1910年，装饰被拆除了。“美好时代”即将结束，逐渐让位对于不需要镀金装饰的“大口径火炮”的无畏战舰的时代。几乎所有战舰上的“过度”装饰都消失得无影无踪，这些物品中只有少数能够幸运地继续装饰政府大楼的大厅，军事设施的墙壁或美国各地的城市公园。"
 
 msgid "IDS_PCZC279_NY2019_GERMANYFIGURE"
@@ -75714,7 +75714,7 @@ msgid "IDS_PGSA518"
 msgstr "齐柏林伯爵"
 
 msgid "IDS_PGSA518_DESCR"
-msgstr "意识到建设航空母舰的重要性后，德国领导层派遣了一批专家前往日本研究这种战舰类型的实行。首艘航空母舰在下水仪式上获得了齐柏林伯爵号的名称。在建造过程中，该战舰的设计经历了各种修改，包括把原先的舰艏替换成大西洋舰艏，并加装外部鼓包。这艘未完工的战舰在苏联红军占领斯德丁之前被凿沉。战后，苏联打捞起该航空母舰并进行了彻底的检查。建完该战舰的计划被放弃，它后来作为训练目标被摧毁。"
+msgstr "意识到建设航空母舰的重要性后，德国领导层派遣了一批专家前往日本研究这种战舰类型的实行。首艘航空母舰在下水仪式上获得了齐柏林伯爵号的名称。在建造过程中，该战舰的设计经历了各种修改，包括把原先的舰首替换成大西洋舰首，并加装外部鼓包。这艘未完工的战舰在苏联红军占领斯德丁之前被凿沉。战后，苏联打捞起该航空母舰并进行了彻底的检查。建完该战舰的计划被放弃，它后来作为训练目标被摧毁。"
 
 msgid "IDS_PGSA518_FULL"
 msgstr "齐柏林伯爵"
@@ -75729,7 +75729,7 @@ msgid "IDS_PGSA598"
 msgstr "齐柏林伯爵B"
 
 msgid "IDS_PGSA598_DESCR"
-msgstr "意识到建设航空母舰的重要性后，德国领导层派遣了一批专家前往日本研究这种战舰类型的实行。首艘航空母舰在下水仪式上获得了齐柏林伯爵号的名称。在建造过程中，该战舰的设计经历了各种修改，包括把原先的舰艏替换成大西洋舰艏，并加装外部鼓包。这艘未完工的战舰在苏联红军占领斯德丁之前被凿沉。战后，苏联打捞起该航空母舰并进行了彻底的检查。建完该战舰的计划被放弃，它后来作为训练目标被摧毁。"
+msgstr "意识到建设航空母舰的重要性后，德国领导层派遣了一批专家前往日本研究这种战舰类型的实行。首艘航空母舰在下水仪式上获得了齐柏林伯爵号的名称。在建造过程中，该战舰的设计经历了各种修改，包括把原先的舰首替换成大西洋舰首，并加装外部鼓包。这艘未完工的战舰在苏联红军占领斯德丁之前被凿沉。战后，苏联打捞起该航空母舰并进行了彻底的检查。建完该战舰的计划被放弃，它后来作为训练目标被摧毁。"
 
 msgid "IDS_PGSA598_FULL"
 msgstr "齐柏林伯爵B"
@@ -84832,7 +84832,7 @@ msgid "IDS_PJSB011"
 msgstr "三笠"
 
 msgid "IDS_PJSB011_DESCR"
-msgstr "与1896年计划下订购的其他战列舰相比，三笠号增强了副武器的炮廓装甲。该战舰在日俄战争期间是海军大将东乡的旗舰；它还参加了黄海海战和对马海战。到一战开始时，三笠号已经过时，但它仍被列为舰队的一员：先是战列舰，然后是海防舰。在1926年至1945年期间，该战舰在被废弃和部分拆解之前曾作为博物馆使用。后来，它被修复，并作为纪念碑安置在岸边。"
+msgstr "与1896年计划下订购的其他战列舰相比，三笠号增强了副炮的炮廓装甲。该战舰在日俄战争期间是海军大将东乡的旗舰；它还参加了黄海海战和对马海战。到一战开始时，三笠号已经过时，但它仍被列为舰队的一员：先是战列舰，然后是海防舰。在1926年至1945年期间，该战舰在被废弃和部分拆解之前曾作为博物馆使用。后来，它被修复，并作为纪念碑安置在岸边。"
 
 msgid "IDS_PJSB011_FULL"
 msgstr "三笠"
@@ -113302,7 +113302,7 @@ msgid "IDS_RIBBON_RIBBON_BOMB"
 msgstr "命中"
 
 msgid "IDS_RIBBON_RIBBON_BUILDING_KILL"
-msgstr "已摧毁"
+msgstr "摧毁"
 
 msgid "IDS_RIBBON_RIBBON_BURN"
 msgstr "造成火灾"
@@ -113323,7 +113323,7 @@ msgid "IDS_RIBBON_RIBBON_DEMINING_MINE"
 msgstr "摧毁水雷"
 
 msgid "IDS_RIBBON_RIBBON_DETECTED"
-msgstr "已发现"
+msgstr "发现"
 
 msgid "IDS_RIBBON_RIBBON_DROP"
 msgstr "拾得增益"
@@ -113335,7 +113335,7 @@ msgid "IDS_RIBBON_RIBBON_FLOOD"
 msgstr "造成进水"
 
 msgid "IDS_RIBBON_RIBBON_FRAG"
-msgstr "已摧毁"
+msgstr "摧毁"
 
 msgid "IDS_RIBBON_RIBBON_MAIN_CALIBER"
 msgstr "命中"
@@ -113344,7 +113344,7 @@ msgid "IDS_RIBBON_RIBBON_MINE"
 msgstr "命中"
 
 msgid "IDS_RIBBON_RIBBON_PLANE"
-msgstr "击落飞机"
+msgstr "击落"
 
 msgid "IDS_RIBBON_RIBBON_ROCKET"
 msgstr "命中"
@@ -113353,7 +113353,7 @@ msgid "IDS_RIBBON_RIBBON_SECONDARY_CALIBER"
 msgstr "命中"
 
 msgid "IDS_RIBBON_RIBBON_SPLANE"
-msgstr "被战斗机击落"
+msgstr "击落"
 
 msgid "IDS_RIBBON_RIBBON_SUPPRESSED"
 msgstr "压制"
@@ -113365,7 +113365,7 @@ msgid "IDS_RIBBON_RIBBON_WAVE"
 msgstr "震波命中"
 
 msgid "IDS_RIBBON_SSE_ACOUSTIC_HIT"
-msgstr "已被声呐标记"
+msgstr "通过声呐标记"
 
 msgid "IDS_RIBBON_SSE_BASE_CAPTURE"
 msgstr "占领"
@@ -113392,7 +113392,7 @@ msgid "IDS_RIBBON_SSE_DBOMB"
 msgstr "深水炸弹命中"
 
 msgid "IDS_RIBBON_SSE_DETECTED"
-msgstr "已发现"
+msgstr "发现"
 
 msgid "IDS_RIBBON_SSE_EFFECTIVE_SMOKES"
 msgstr "掩护"
@@ -113401,7 +113401,7 @@ msgid "IDS_RIBBON_SSE_FLOOD"
 msgstr "造成进水"
 
 msgid "IDS_RIBBON_SSE_FRAG"
-msgstr "已摧毁"
+msgstr "摧毁"
 
 msgid "IDS_RIBBON_SSE_MAIN_CALIBER"
 msgstr "主炮组命中"
@@ -113410,7 +113410,7 @@ msgid "IDS_RIBBON_SSE_MINE"
 msgstr "水雷命中"
 
 msgid "IDS_RIBBON_SSE_PLANE"
-msgstr "击落飞机"
+msgstr "对空防御击落飞机"
 
 msgid "IDS_RIBBON_SSE_ROCKET"
 msgstr "火箭弹命中"
@@ -113419,16 +113419,16 @@ msgid "IDS_RIBBON_SSE_SECONDARY_CALIBER"
 msgstr "副炮组命中"
 
 msgid "IDS_RIBBON_SSE_SPLANE"
-msgstr "被战斗机击落"
+msgstr "战斗机击落飞机"
 
 msgid "IDS_RIBBON_SSE_SUPPRESSED"
-msgstr "压制"
+msgstr "压制陆上设施"
 
 msgid "IDS_RIBBON_SSE_TORPEDO"
 msgstr "鱼雷命中"
 
 msgid "IDS_RIBBON_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_BLOCK"
-msgstr "声呐脉冲被中和"
+msgstr "脉冲被中和"
 
 msgid "IDS_RIBBON_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_CURR"
 msgstr "命中2次"
@@ -113488,13 +113488,13 @@ msgid "IDS_RIBBON_SUBRIBBON_ROCKET_RICOCHET"
 msgstr "跳弹"
 
 msgid "IDS_RIBBON_SUBRIBBON_WAVE_CUT_WAVE"
-msgstr "已用震波打断敌人震波"
+msgstr "用震波打断敌人震波"
 
 msgid "IDS_RIBBON_SUBRIBBON_WAVE_HIT_VEHICLE"
-msgstr "已用震波击中战舰"
+msgstr "用震波击中战舰"
 
 msgid "IDS_RIBBON_SUBRIBBON_WAVE_KILL_TORPEDO"
-msgstr "已用震波摧毁鱼雷"
+msgstr "用震波摧毁鱼雷"
 
 msgid "IDS_RIBBON_TOTAL_DAMAGE"
 msgstr "战斗中造成的总伤害"
@@ -117224,7 +117224,7 @@ msgid "IDS_SHIP_PARAM_ACTIVE_STATE_AIR_DEFENSE_DEAD"
 msgstr "防空炮"
 
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_ATBA_GUN_DEAD"
-msgstr "副武器"
+msgstr "副炮"
 
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_BURN"
 msgstr "起火"
@@ -117470,10 +117470,10 @@ msgid "IDS_SHIP_PARAM_ARTILLERY_TITLE"
 msgstr "武器"
 
 msgid "IDS_SHIP_PARAM_ATBA"
-msgstr "副武器"
+msgstr "副炮"
 
 msgid "IDS_SHIP_PARAM_ATBA_GUN"
-msgstr "副武器"
+msgstr "副炮"
 
 msgid "IDS_SHIP_PARAM_ATBA_GUNS_COUNT"
 msgstr "副炮塔数"
@@ -117809,31 +117809,31 @@ msgid "IDS_SHIP_PARAM_MODULE_NAME_JOINT"
 msgstr "和"
 
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_AIR_DEFENSE_DEAD"
-msgstr "所有防空炮都已被摧毁。"
+msgstr "所有防空炮都已瘫痪"
 
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_ATBA_GUN_DEAD"
-msgstr "所有副炮都已被摧毁。"
+msgstr "所有副炮都已瘫痪"
 
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_ENGINE_CRIT"
-msgstr "引擎已瘫痪。"
+msgstr "引擎已瘫痪"
 
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_MAIN_CALIBER_CRIT"
-msgstr "主炮塔已瘫痪。"
+msgstr "主炮塔已瘫痪"
 
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_MAIN_CALIBER_DEAD"
-msgstr "所有主炮塔都已被摧毁。"
+msgstr "所有主炮塔都已瘫痪"
 
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_PATH_CONTROL_CRIT"
-msgstr "操舵装置已瘫痪。"
+msgstr "操舵装置已瘫痪"
 
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_PINGER_CRIT"
-msgstr "声呐已瘫痪。"
+msgstr "声呐已瘫痪"
 
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_TORPEDO_TUBE_CRIT"
-msgstr "鱼雷发射管瘫痪"
+msgstr "鱼雷发射管已瘫痪"
 
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_TORPEDO_TUBE_DEAD"
-msgstr "所有鱼雷发射管都已被摧毁。"
+msgstr "所有鱼雷发射管都已瘫痪"
 
 msgid "IDS_SHIP_PARAM_MODULE_TORPEDOES_BUNDLE"
 msgstr "鱼雷"
@@ -119436,7 +119436,7 @@ msgstr ""
 "\n"
 "当改变优先目标时，将保留80%的累积准度。\n"
 "\n"
-"要设置副武器的优先目标，按下[CMD_FREE_CURSOR]，将光标悬停在敌方战舰上，按下[CMD_SHOOT]。"
+"要设置副炮的优先目标，按下[CMD_FREE_CURSOR]，将光标悬停在敌方战舰上，按下[CMD_SHOOT]。"
 
 msgid "IDS_SKILL_TRIGGER_ATBAHEAT_OVERRIDE_FOR_WEB"
 msgstr ""
@@ -125196,7 +125196,7 @@ msgstr "配件"
 
 msgid "IDS_TIPS_MODULES_DESCRIPTION"
 msgstr ""
-"战舰配件可能会被瘫痪。\n"
+"战舰配件可能会受到攻击而瘫痪。\n"
 "\n"
 "可使用伤害控制小组消耗品立即修复被瘫痪的配件。\n"
 "\n"
