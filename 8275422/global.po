@@ -18148,7 +18148,7 @@ msgid "IDS_CURRENCY_CREDITS_GET_DESCRIPTION"
 msgstr "在战斗中获得。"
 
 msgid "IDS_CURRENCY_CREDITS_MOUSE_INSTRUCTION"
-msgstr "用达布隆兑换银币。"
+msgstr "用达布隆兑换银币"
 
 msgid "IDS_CURRENCY_CREDITS_SPEND_DESCRIPTION"
 msgstr "用于获取科技树中您已研发的战舰和配件，以及其他游戏内物品。"
