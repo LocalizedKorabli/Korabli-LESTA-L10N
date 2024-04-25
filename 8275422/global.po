@@ -1439,10 +1439,10 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_3WAYSTOKILL_PA"
 msgstr "在一场战斗中用3种不同方式摧毁3艘战舰。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRDEFENSEEXPERT"
-msgstr "在单场战斗中，击毁至少%(goalValue)s架敌方飞机。"
+msgstr "在单场战斗中，击毁至少%(goalValue)s架敌机。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRKING"
-msgstr "在单场战斗中，使用飞机或航空母舰防空炮击落至少%(goalValue)s架敌方飞机。"
+msgstr "在单场战斗中，使用飞机或航空母舰防空炮击落至少%(goalValue)s架敌机。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ALL_THREE_HALLOWEEN_COMPLETE"
 msgstr "以五星完成“保护特兰西瓦尼亚”、“黑暗中的光芒”和“恐怖深海”行动。"
@@ -4104,7 +4104,7 @@ msgid "IDS_AIRCARRIER_GOAL"
 msgstr "航空母舰角色定位"
 
 msgid "IDS_AIRCARRIER_GOAL_DESCRIPTION"
-msgstr "可摧毁大型水面单位。也能对抗敌方飞机和航母。"
+msgstr "可摧毁大型水面单位。也能对抗敌机和航母。"
 
 msgid "IDS_AIRCARRIER_LEGENDARY"
 msgstr "超级航空母舰"
@@ -4122,7 +4122,7 @@ msgid "IDS_AIRCARRIER_LOG_FEEDBACK_SPOTTED"
 msgstr "航空母舰已被敌方发现！"
 
 msgid "IDS_AIRCARRIER_LOG_FEEDBACK_SPOTTED_BY_PLANE"
-msgstr "航空母舰已被敌方飞机发现！"
+msgstr "航空母舰已被敌机发现！"
 
 msgid "IDS_AIRCARRIER_LOG_FEEDBACK_SPOTTED_BY_SHIP"
 msgstr "航空母舰被一艘敌舰发现！"
@@ -6572,7 +6572,7 @@ msgid "IDS_BATTLE_STATS_CAUSED_DAMAGE_TO_PLANES"
 msgstr "对飞机造成的伤害"
 
 msgid "IDS_BATTLE_STATS_CAUSED_DAMAGE_TO_PLANES_HINT"
-msgstr "在此战斗中您对敌方飞机造成的总伤害"
+msgstr "在此战斗中您对敌机造成的总伤害"
 
 msgid "IDS_BATTLE_STATS_CAUSED_FIRES_HINT"
 msgstr "造成火灾次数与火灾造成的伤害"
@@ -7387,7 +7387,7 @@ msgid "IDS_BATTLE_TASK_TEXT_OP_09_KILL_AIRCARRIER"
 msgstr "击毁航空母舰Adler"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_09_KILL_AIRPLANES_MAX"
-msgstr "击落敌方飞机"
+msgstr "击落敌机"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_09_KILL_ALL_ENEMIES"
 msgstr "击毁敌舰"
@@ -7414,7 +7414,7 @@ msgid "IDS_BATTLE_TASK_TEXT_OP_10_MAIN_TASK_2"
 msgstr "摧毁敌军机场"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_10_SECONDARY_TASK_KILL_AIRPLANES"
-msgstr "摧毁敌方飞机"
+msgstr "摧毁敌机"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_10_SECONDARY_TASK_KILL_DA_BOSS"
 msgstr "摧毁旗舰Koyama"
@@ -8380,7 +8380,7 @@ msgid "IDS_CAUSED_AA"
 msgstr "对空防御"
 
 msgid "IDS_CAUSED_AA_HINT"
-msgstr "对空防御对敌方飞机造成的伤害"
+msgstr "对空防御对敌机造成的伤害"
 
 msgid "IDS_CAUSED_AIRPLANES_HINT"
 msgstr "飞机投弹命中次数和造成的伤害"
@@ -8407,10 +8407,10 @@ msgid "IDS_CAUSED_AMMO_HE_SHOTS_HINT"
 msgstr "高爆弹射击数"
 
 msgid "IDS_CAUSED_AVIA_DAMAGE_HINT"
-msgstr "在此战斗中您对敌方飞机造成的总伤害"
+msgstr "在此战斗中您对敌机造成的总伤害"
 
 msgid "IDS_CAUSED_AVIA_DAMAGE_HINT_HEADER"
-msgstr "对敌方飞机伤害"
+msgstr "对敌机伤害"
 
 msgid "IDS_CAUSED_BOMBS_AIRSUP_HINT"
 msgstr "炸弹命中次数和造成的伤害"
@@ -8461,7 +8461,7 @@ msgid "IDS_CAUSED_PLANES"
 msgstr "战斗机"
 
 msgid "IDS_CAUSED_PLANES_HINT"
-msgstr "战斗机对敌方飞机造成的伤害"
+msgstr "战斗机对敌机造成的伤害"
 
 msgid "IDS_CAUSED_ROCKETS_AIRSUP_HINT"
 msgstr "火箭弹命中次数和造成的伤害"
@@ -18902,7 +18902,7 @@ msgstr ""
 
 msgid "IDS_DESCRIPTION_CLASS_CRUISER"
 msgstr ""
-"拥有一般装甲防护和良好火炮的多功能战舰。适合用炮火为队友提供支援，并对抗敌方飞机。\n"
+"拥有一般装甲防护和良好火炮的多功能战舰。适合用炮火为队友提供支援，并对抗敌机。\n"
 "\n"
 "对付驱逐舰最有效。"
 
@@ -19482,10 +19482,10 @@ msgid "IDS_DESTROYED_ENEMY_AIRCRAFT_AVERAGE"
 msgstr "场均摧毁飞机数"
 
 msgid "IDS_DESTROYED_ENEMY_AIRCRAFT_AVERAGE_TOOLTIP"
-msgstr "平均摧毁敌方飞机数"
+msgstr "平均摧毁敌机数"
 
 msgid "IDS_DESTROYED_ENEMY_AIRCRAFT_TOOLTIP"
-msgstr "摧毁敌方飞机总数"
+msgstr "摧毁敌机总数"
 
 msgid "IDS_DESTROYED_ENEMY_SHIPS"
 msgstr "摧毁敌舰总数"
@@ -20340,7 +20340,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY003_AIRDEFENSEDISP"
 msgstr "增加防空火力强度。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY004_FIGHTER"
-msgstr "跟随战舰并自动攻击敌方飞机。"
+msgstr "跟随战舰并自动攻击敌机。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY005_SPOTTER"
 msgstr "延伸主炮射程。"
@@ -20393,7 +20393,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY011_AIRDEFENSEDISPPREMIUM"
 msgstr "增加防空火力强度。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY012_FIGHTERPREMIUM"
-msgstr "跟随战舰并自动攻击敌方飞机。"
+msgstr "跟随战舰并自动攻击敌机。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTERACCURACY"
 msgstr ""
@@ -20483,7 +20483,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY025_AIRDEFENSEDISPSUPER"
 msgstr "增加防空火力强度。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY026_FIGHTERSUPER"
-msgstr "跟随战舰并自动攻击敌方飞机。"
+msgstr "跟随战舰并自动攻击敌机。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY027_SPOTTERSUPER"
 msgstr "延伸主炮射程。"
@@ -20510,11 +20510,11 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY034_FORSAGEBOOSTER"
 msgstr "允许您在使用引擎增压时避免引擎过热的风险。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY035_CALLFIGHTERS"
-msgstr "在指定区域内巡逻并自动攻击敌方飞机。"
+msgstr "在指定区域内巡逻并自动攻击敌机。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY035_CALLFIGHTERS_UPGRADE"
 msgstr ""
-"在指定区域内巡逻并自动攻击敌方飞机。\n"
+"在指定区域内巡逻并自动攻击敌机。\n"
 "不受敌方战斗机攻击。\n"
 "不会攻击敌方战斗机。\n"
 "不会发现敌舰。"
@@ -20533,7 +20533,7 @@ msgstr ""
 "阻止敌方潜艇发射的鱼雷进行导向。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY038_FIGHTERAUTO"
-msgstr "跟随战舰并自动攻击敌方飞机。"
+msgstr "跟随战舰并自动攻击敌机。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY044_DEPTHCHARGES"
 msgstr " "
@@ -21899,7 +21899,7 @@ msgid "IDS_DOGTAG_PCNB003_NAME"
 msgstr "鱼雷"
 
 msgid "IDS_DOGTAG_PCNB004_DESCRIPTION"
-msgstr "海军航空兵执行的任务诸如对抗敌方飞机、战舰和潜艇，以及搜救行动和侦察任务。舰载飞机需要具备特定的属性，核心要求是能够在航空母舰的飞行甲板上于短距离内起飞和降落。海军航空兵起源于20世纪初，但直到在二战的海战中，它才真正成为决定性因素。在此期间，航空母舰接替了战列舰的角色，成为海战中的主要进攻力量。"
+msgstr "海军航空兵执行的任务诸如对抗敌机、战舰和潜艇，以及搜救行动和侦察任务。舰载飞机需要具备特定的属性，核心要求是能够在航空母舰的飞行甲板上于短距离内起飞和降落。海军航空兵起源于20世纪初，但直到在二战的海战中，它才真正成为决定性因素。在此期间，航空母舰接替了战列舰的角色，成为海战中的主要进攻力量。"
 
 msgid "IDS_DOGTAG_PCNB004_NAME"
 msgstr "海军航空"
@@ -26833,7 +26833,7 @@ msgid "IDS_EV_23_25"
 msgstr "Tisiphone"
 
 msgid "IDS_EV_23_ANTI_AIR_DONE"
-msgstr "已击败敌方飞机！"
+msgstr "已击败敌机！"
 
 msgid "IDS_EV_HL_23_AIRFIELD"
 msgstr "Harpy"
@@ -27414,7 +27414,7 @@ msgid "IDS_FEAT_FIGHTERS_UPGRADE"
 msgstr "可使用截击机"
 
 msgid "IDS_FEAT_FIGHTERS_UPGRADE_DESC"
-msgstr "截击机不会发现敌舰，巡逻半径更长，攻击敌方飞机所需的目标锁定时间较短。"
+msgstr "截击机不会发现敌舰，巡逻半径更长，攻击敌机所需的目标锁定时间较短。"
 
 msgid "IDS_FEAT_GERHYDROPHONE_DESC"
 msgstr "范围较远、装填速度较快。"
@@ -30895,7 +30895,7 @@ msgid "IDS_HELP_CONSUME_DESCRIPTION_CRASHCREW"
 msgstr "扑灭火灾、清除进水、修复受损配件并阻止敌方潜艇发射的鱼雷进行导向。"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_FIGHTER"
-msgstr "跟随战舰并自动攻击敌方飞机。"
+msgstr "跟随战舰并自动攻击敌机。"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_REGENCREW"
 msgstr "通过修理轻度损伤恢复战舰的部分生命值。"
@@ -30988,7 +30988,7 @@ msgid "IDS_HELP_ENEMY_DETECT"
 msgstr "战舰被敌人发现"
 
 msgid "IDS_HELP_ENEMY_PLANE_DETECT"
-msgstr "战舰被敌方飞机发现"
+msgstr "战舰被敌机发现"
 
 msgid "IDS_HELP_ENGINE"
 msgstr "引擎"
@@ -33381,7 +33381,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL10_15"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_16"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_17"
 msgstr "驱逐舰非常擅长突袭。"
@@ -33471,7 +33471,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL11_15"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_16"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_17"
 msgstr "驱逐舰非常擅长突袭。"
@@ -33561,7 +33561,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL12_15"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_16"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_17"
 msgstr "驱逐舰非常擅长突袭。"
@@ -33651,7 +33651,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL13_15"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL13_16"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL13_17"
 msgstr "驱逐舰非常擅长突袭。"
@@ -33741,7 +33741,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL14_15"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL14_16"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL14_17"
 msgstr "驱逐舰非常擅长突袭。"
@@ -33831,7 +33831,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL15_15"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL15_16"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL15_17"
 msgstr "驱逐舰非常擅长突袭。"
@@ -34140,7 +34140,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL3_31"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_32"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_33"
 msgstr "侦察机可以延伸主炮的射程，有些特殊侦察机可以提高主炮的精度。"
@@ -34293,7 +34293,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL4_3"
 msgstr "当您射击时，要记得考虑到目标的提前量。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_30"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_31"
 msgstr "侦察机可以延伸主炮的射程，有些特殊侦察机可以提高主炮的精度。"
@@ -34407,7 +34407,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL5_18"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_19"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_2"
 msgstr "在战斗中按住 [CMD_HELP] 可随时查看游戏帮助。"
@@ -34518,7 +34518,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL6_16"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_17"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_18"
 msgstr "驱逐舰非常擅长突袭。"
@@ -34614,7 +34614,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL7_16"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_17"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_18"
 msgstr "驱逐舰非常擅长突袭。"
@@ -34704,7 +34704,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL8_15"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_16"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_17"
 msgstr "驱逐舰非常擅长突袭。"
@@ -34794,7 +34794,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL9_15"
 msgstr "在近距离下请留意，从舰首与舰尾发射的炮弹会沿着不同弹道射向目标。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_16"
-msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌方飞机所发现。"
+msgstr "当您操控驱逐舰时，您可以按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 来关闭防空炮。关闭防空炮能帮助您长时间不被敌机所发现。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_17"
 msgstr "驱逐舰非常擅长突袭。"
@@ -35819,7 +35819,7 @@ msgid "IDS_MAX_PLANES_PER_BATTLE"
 msgstr "摧毁飞机数"
 
 msgid "IDS_MAX_PLANES_PER_BATTLE_TOOLTIP"
-msgstr "单场战斗摧毁的最大敌方飞机数"
+msgstr "单场战斗摧毁的最大敌机数"
 
 msgid "IDS_MAX_REPLENISHMENT"
 msgstr "最大花费"
@@ -40925,7 +40925,7 @@ msgid "IDS_OP_02_04_PHASE_06_CHAT_AHTUNG"
 msgstr "空袭警报！警报解除，这些都是盟军飞机！"
 
 msgid "IDS_OP_02_04_PHASE_06_CSM_JAMES_W"
-msgstr "向盟军中队提供协助对抗敌方飞机。"
+msgstr "向盟军中队提供协助对抗敌机。"
 
 msgid "IDS_OP_02_04_PHASE_08_CHAT"
 msgstr "我想我们做到了！英国只有一步之遥了！"
@@ -60705,7 +60705,7 @@ msgid "IDS_PCEF016_NE7_SIGNALFLAG"
 msgstr "November Echo Setteseven"
 
 msgid "IDS_PCEF016_NE7_SIGNALFLAG_DESCRIPTION"
-msgstr "您应该保持警惕；已发现敌方飞机。"
+msgstr "您应该保持警惕；已发现敌机。"
 
 msgid "IDS_PCEF017_VL_SIGNALFLAG"
 msgstr "Victor Lima"
@@ -61191,7 +61191,7 @@ msgid "IDS_PCQT055_1"
 msgstr "在战舰上使用涂装进入一场战斗。"
 
 msgid "IDS_PCQT061_1"
-msgstr "击落一架敌方飞机。"
+msgstr "击落一架敌机。"
 
 msgid "IDS_PCQT063_1"
 msgstr "对敌舰造成%(count)s点伤害。"
@@ -61866,7 +61866,7 @@ msgid "IDS_PCVO012_EV_HL_18_ZIKAKU"
 msgstr "戈登"
 
 msgid "IDS_PCVO012_OP_02_04_S05_DUNKIRK_DESCRIPTION"
-msgstr "盟军部队被包围在敦刻尔克附近。您要在民用船只的支援下尽量从大陆多撤离我们的士兵。预计会受到敌方飞机、远程火炮、以及鱼雷艇的抵抗。小心，撤离路线会穿过水雷区。"
+msgstr "盟军部队被包围在敦刻尔克附近。您要在民用船只的支援下尽量从大陆多撤离我们的士兵。预计会受到敌机、远程火炮、以及鱼雷艇的抵抗。小心，撤离路线会穿过水雷区。"
 
 msgid "IDS_PCVO012_OP_02_04_S05_DUNKIRK_GOAL"
 msgstr "支援被包围在敦刻尔克附的盟军部队的撤离行动。"
@@ -66562,7 +66562,7 @@ msgstr ""
 "\n"
 "在所有战舰类型中，首要事实是，驱逐舰的生命值最低。所以，如果您突然发现自己置身于汹涌的海浪之中，试着待在盟友的后面并且永远不要进入关键区域，那是地图上最危险的地方！\n"
 "\n"
-"事实2——没时间解释了，但要时刻保持防空炮高度戒备！深呼吸新鲜的海洋空气，保持冷静。您的对空防御系统将通过对敌方飞机造成不可估量的伤害来解决剩下的问题。\n"
+"事实2——没时间解释了，但要时刻保持防空炮高度戒备！深呼吸新鲜的海洋空气，保持冷静。您的对空防御系统将通过对敌机造成不可估量的伤害来解决剩下的问题。\n"
 "\n"
 "记住：驱逐舰在战斗中的最终目标是摧毁敌舰。因此，一旦你在地平线上发现了敌舰，立即开始用你所有武器向他开火！"
 
@@ -67627,7 +67627,7 @@ msgstr "37 mm LC/30（双联装防空炮座）"
 
 msgid "IDS_PCZC546_GERDD_1004_37CM_DESCRIPTION"
 msgstr ""
-"从1934年开始，安装在双联装炮座上的37mm /83 SK C/30火炮是德国战争海军所有类型战舰上的主要近程防空炮，从驱逐舰到更大型的战舰（例如俾斯麦号和齐柏林伯爵号）都装备了这种火炮。这种低射速、单发手动装填的37毫米半自动火炮不足以对抗性能不断提升的敌方飞机。\n"
+"从1934年开始，安装在双联装炮座上的37mm /83 SK C/30火炮是德国战争海军所有类型战舰上的主要近程防空炮，从驱逐舰到更大型的战舰（例如俾斯麦号和齐柏林伯爵号）都装备了这种火炮。这种低射速、单发手动装填的37毫米半自动火炮不足以对抗性能不断提升的敌机。\n"
 "\n"
 "德国人摒弃了用1943年研发的自动装填机对SK C/30进行现代化改装的设想。不久后这种火炮就被新型自动高射炮M/42和M/43取代。"
 
@@ -85419,7 +85419,7 @@ msgid "IDS_PJSD510"
 msgstr "疾风"
 
 msgid "IDS_PJSD510_DESCR"
-msgstr "装备127毫米双联装两用炮座的岛风级驱逐舰的理论设计。其特点是使用定装弹药和更高的射速。因此该战舰能更好地对抗高空的敌方飞机，并在对抗敌方轻型部队时占据火力优势。"
+msgstr "装备127毫米双联装两用炮座的岛风级驱逐舰的理论设计。其特点是使用定装弹药和更高的射速。因此该战舰能更好地对抗高空的敌机，并在对抗敌方轻型部队时占据火力优势。"
 
 msgid "IDS_PJSD510_FULL"
 msgstr "疾风"
@@ -116752,7 +116752,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BASE_PLANE"
 msgstr "标准被侦察范围"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BASE_PLANE_TOOLTIP_DESCRIPTION"
-msgstr "应用临时加成前对敌方飞机的被侦察范围。"
+msgstr "应用临时加成前对敌机的被侦察范围。"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BASE_TOOLTIP_DESCRIPTION"
 msgstr "应用临时加成前对敌舰的被侦察范围。"
@@ -117437,7 +117437,7 @@ msgid "IDS_SKILL_DESC_AA_DAMAGE_CONSTANT_BUBBLES_CV"
 msgstr " "
 
 msgid "IDS_SKILL_DESC_AA_PRIORITYSECTOR_DAMAGE_CONSTANT"
-msgstr "在面对敌方飞机方向时，按下[CMD_SET_PRIORITY_SECTOR]激活优先区域。"
+msgstr "在面对敌机方向时，按下[CMD_SET_PRIORITY_SECTOR]激活优先区域。"
 
 msgid "IDS_SKILL_DESC_AA_PRIORITYSECTOR_DAMAGE_CONSTANT_OVERRIDE_FOR_WEB"
 msgstr "提升防空炮和空袭武器的属性。"
@@ -117560,7 +117560,7 @@ msgid "IDS_SKILL_DESC_PLANES_CONSUMABLES_CALLFIGHTERS_ADDITIONAL"
 msgstr " "
 
 msgid "IDS_SKILL_DESC_PLANES_CONSUMABLES_CALLFIGHTERS_PREPARATIONTIME"
-msgstr "在巡逻战斗机或截击机消耗品激活时，攻击敌方飞机所需的目标锁定时间较短。"
+msgstr "在巡逻战斗机或截击机消耗品激活时，攻击敌机所需的目标锁定时间较短。"
 
 msgid "IDS_SKILL_DESC_PLANES_CONSUMABLES_CALLFIGHTERS_RANGE"
 msgstr "延长巡逻战斗机和截击机消耗品巡逻半径。"
@@ -121903,7 +121903,7 @@ msgid "IDS_TALENT_PWW010_RIBBONS_16"
 msgstr "防空炮专家"
 
 msgid "IDS_TALENT_PWW010_RIBBONS_16_DESCRIPTION"
-msgstr "击落20架敌方飞机后激活，每场战斗可激活一次。"
+msgstr "击落20架敌机后激活，每场战斗可激活一次。"
 
 msgid "IDS_TALENT_PZW426_ACHIEVEMENT_2"
 msgstr "高度警戒"
@@ -122917,7 +122917,7 @@ msgstr "防空区域强化"
 
 msgid "IDS_TIPS_AIR_DEFENSE_SECTOR_GAIN_DESCRIPTION"
 msgstr ""
-"按下[CMD_SET_PRIORITY_SECTOR]并选择要加强的防空强化区域，这取决于对敌方飞机进攻您战舰方向的判断。\n"
+"按下[CMD_SET_PRIORITY_SECTOR]并选择要加强的防空强化区域，这取决于对敌机进攻您战舰方向的判断。\n"
 "\n"
 "这样做会降低其他区域的防空效率。\n"
 "\n"
@@ -123049,7 +123049,7 @@ msgid "IDS_TIPS_CATAPULT_FIGHTER"
 msgstr "战斗机"
 
 msgid "IDS_TIPS_CATAPULT_FIGHTER_DESCRIPTION"
-msgstr "跟随战舰并自动攻击敌方飞机。提供额外的空中侦察。"
+msgstr "跟随战舰并自动攻击敌机。提供额外的空中侦察。"
 
 msgid "IDS_TIPS_CRUISERS"
 msgstr "巡洋舰"
@@ -124514,10 +124514,10 @@ msgid "IDS_TOOLTIP_VISIBILITY_DIST_BY_PINGER"
 msgstr "此潜艇在发射声呐脉冲后可能被敌舰或潜艇发现的范围。"
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_BY_PLANE"
-msgstr "战舰可能被敌方飞机发现的范围。"
+msgstr "战舰可能被敌机发现的范围。"
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_BY_PLANE_SUBMARINE"
-msgstr "此潜艇可能被敌方飞机发现的范围。"
+msgstr "此潜艇可能被敌机发现的范围。"
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_BY_SHIP"
 msgstr "战舰可能被敌舰发现的范围。"
@@ -127074,7 +127074,7 @@ msgstr[0] "击毁%(count)s艘敌方战列舰。"
 
 msgid "IDS_PCQT051_1"
 msgid_plural "IDS_PCQT051_1"
-msgstr[0] "击落%(count)s架敌方飞机。"
+msgstr[0] "击落%(count)s架敌机。"
 
 msgid "IDS_PCQT053_1"
 msgid_plural "IDS_PCQT053_1"
@@ -127126,7 +127126,7 @@ msgstr[0] "用主炮或副炮击毁%(count)s艘敌舰。"
 
 msgid "IDS_PCQT084_1"
 msgid_plural "IDS_PCQT084_1"
-msgstr[0] "击落%(count)s架敌方飞机。"
+msgstr[0] "击落%(count)s架敌机。"
 
 msgid "IDS_PCQT086_1"
 msgid_plural "IDS_PCQT086_1"
@@ -127222,7 +127222,7 @@ msgstr[0] "击毁%(count)s艘敌舰。"
 
 msgid "IDS_PCQT137_1"
 msgid_plural "IDS_PCQT137_1"
-msgstr[0] "击落%(count)s架敌方飞机。"
+msgstr[0] "击落%(count)s架敌机。"
 
 msgid "IDS_PCQT138_1"
 msgid_plural "IDS_PCQT138_1"
@@ -127330,7 +127330,7 @@ msgstr[0] "瘫痪敌舰上的%(count)s个“引擎”配件。"
 
 msgid "IDS_PCQT175_CAMPAIGNSB_MISSION03_TASK05_1"
 msgid_plural "IDS_PCQT175_CAMPAIGNSB_MISSION03_TASK05_1"
-msgstr[0] "击落%(count)s架敌方飞机。"
+msgstr[0] "击落%(count)s架敌机。"
 
 msgid "IDS_PCQT176_CAMPAIGNSB_MISSION03_TASK06_1"
 msgid_plural "IDS_PCQT176_CAMPAIGNSB_MISSION03_TASK06_1"
@@ -127370,7 +127370,7 @@ msgstr[0] "赢得%(count)s场战斗并存活下来，成为己方团队经验获
 
 msgid "IDS_PCQT187_CAMPAIGNSB_MISSION04_TASK07_1"
 msgid_plural "IDS_PCQT187_CAMPAIGNSB_MISSION04_TASK07_1"
-msgstr[0] "击落%(count)s架敌方飞机。"
+msgstr[0] "击落%(count)s架敌机。"
 
 msgid "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
 msgid_plural "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
@@ -127446,7 +127446,7 @@ msgstr[0] "获得%(count)s个任意成就。"
 
 msgid "IDS_PCQT387_1"
 msgid_plural "IDS_PCQT387_1"
-msgstr[0] "击落%(count)s架敌方飞机。"
+msgstr[0] "击落%(count)s架敌机。"
 
 msgid "IDS_PCQT389_1"
 msgid_plural "IDS_PCQT389_1"
@@ -127490,7 +127490,7 @@ msgstr[0] "受到%(count)s点潜在伤害并在战斗中存活下来。"
 
 msgid "IDS_PCQT402_1"
 msgid_plural "IDS_PCQT402_1"
-msgstr[0] "击落%(count)s架敌方飞机。"
+msgstr[0] "击落%(count)s架敌机。"
 
 msgid "IDS_PCQT403_1"
 msgid_plural "IDS_PCQT403_1"
@@ -127518,7 +127518,7 @@ msgstr[0] "击中敌舰的核心区%(count)s次。"
 
 msgid "IDS_PCQT416_1"
 msgid_plural "IDS_PCQT416_1"
-msgstr[0] "击落%(count)s架敌方飞机。"
+msgstr[0] "击落%(count)s架敌机。"
 
 msgid "IDS_PCQT417_1"
 msgid_plural "IDS_PCQT417_1"
@@ -127602,7 +127602,7 @@ msgstr[0] "受到%(count)s点潜在伤害并赢得胜利。"
 
 msgid "IDS_PCQT525_1"
 msgid_plural "IDS_PCQT525_1"
-msgstr[0] "成为己方团队经验获取量排名前3的玩家，赢得胜利并击落%(count)s架敌方飞机。"
+msgstr[0] "成为己方团队经验获取量排名前3的玩家，赢得胜利并击落%(count)s架敌机。"
 
 msgid "IDS_PCQT526_1"
 msgid_plural "IDS_PCQT526_1"
@@ -127638,7 +127638,7 @@ msgstr[0] "用火箭弹、机载炸弹或机载鱼雷命中敌舰%(count)s次。
 
 msgid "IDS_PCQT542_1"
 msgid_plural "IDS_PCQT542_1"
-msgstr[0] "击落%(count)s架敌方飞机。"
+msgstr[0] "击落%(count)s架敌机。"
 
 msgid "IDS_PCQT543_1"
 msgid_plural "IDS_PCQT543_1"
