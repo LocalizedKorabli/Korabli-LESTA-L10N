@@ -498,7 +498,7 @@ msgid "IDS_ABUSE_CONFIRMED_STATUS_CLEAN"
 msgstr "惩罚取消前保持无违规联合作战的场数"
 
 msgid "IDS_ABUSE_CONFIRMED_STATUS_CLEAN_COLON"
-msgstr "惩罚取消前需进行的没有违规的联合作战场数："
+msgstr "惩罚取消前需进行的无违规联合作战场数："
 
 msgid "IDS_ABUSE_PENALTY"
 msgstr "因消极行为受到的惩罚"
@@ -564,7 +564,7 @@ msgid "IDS_ABUSE_SUSPECT_STATUS_CLEAN"
 msgstr "惩罚取消前保持无违规战斗的场数"
 
 msgid "IDS_ABUSE_SUSPECT_STATUS_CLEAN_COLON"
-msgstr "惩罚取消前需进行的没有违规的战斗场数："
+msgstr "惩罚取消前需进行的无违规战斗场数："
 
 msgid "IDS_ACCEPT"
 msgstr "接受"
