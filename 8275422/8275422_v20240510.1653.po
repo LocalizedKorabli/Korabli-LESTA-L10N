@@ -7274,7 +7274,7 @@ msgid "IDS_BATTLE_TASK_TEXT_OP_01_02_MAIN_TASK"
 msgstr "击毁基地内的所有敌舰。"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_02_MAIN_TASK_2"
-msgstr "和至少一半的友军战舰一起撤退到指定地区。"
+msgstr "仍存活的友军战舰中，至少有一半撤退到指定地区。"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_02_SUPPRESS_BUILDINGS"
 msgstr "击毁敌方要塞和陆上设施。"
