@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 msgid "ID"
 msgstr "中文（简体）"
@@ -25834,7 +25834,7 @@ msgid "IDS_EARLY_ACCESS_STATUS_NOT_OWNED"
 msgstr "您可以通过完成作战任务或参加各种活动获得抢先体验战舰，也可以在兵工厂中获取。"
 
 msgid "IDS_EARLY_EXIT_BATTLE_ATTENTION"
-msgstr "战斗尚未结束！如果您在未做出足够贡献便离开战斗，将会受到惩罚。"
+msgstr "战斗尚未结束！如果您未做出足够贡献便离开战斗，将会受到惩罚。"
 
 msgid "IDS_EARNED"
 msgstr "总共"
