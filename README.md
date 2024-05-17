@@ -1,6 +1,6 @@
 # 战舰世界莱服非官方本地化
 
-![封面](images/cover.png)
+![cover](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/88b005f3-abf1-44ce-a8fd-9318cedd0322)
 
 ## 如何使用？
 
