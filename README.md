@@ -1,6 +1,6 @@
 <div align=center>
 
-  <img  width="160" src=".github/assets/korabli_l10n_logo.png" alt="logo"><br>
+  <img  width="160" src="https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/26415d14-c46e-4bdd-aa26-f7f0234911ce" alt="logo"><br>
 
 <h3>战舰世界莱服非官方本地化</h1>
 
