@@ -1,12 +1,14 @@
 <div align=center>
 
-  <img src=".github/assets/logo.png" alt="logo"><br>
+  <img  width="160" src=".github/assets/korabli_l10n_logo.png" alt="logo"><br>
 
-</div>
+<h3>战舰世界莱服非官方本地化</h1>
 
 ![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg)
 [![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)
 ![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-L10N.svg)
+
+</div>
 
 ## 如何使用
 
