@@ -1,0 +1,1035 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_12_MONTHS_JANUARY"
+msgstr "Братец Январь"
+
+msgid "IDS_12_MONTHS_MARCH"
+msgstr "Братец Март"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR"
+msgstr ""
+"Взять под контроль необходимое количество территорий, чтобы получить "
+"финальную награду события «Новогодний карнавал»."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR_FULL"
+msgstr "Взять под контроль все территории в событии «Новогодний карнавал»."
+
+msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR"
+msgstr "Новогодний карнавал"
+
+msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR_FULL"
+msgstr "Новогодний карнавал: морское господство"
+
+msgid "IDS_BATTLEPASS_LEVEL_STATUS_LOCKED"
+msgstr "Вы ещё не достигли этого уровня"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_RESOURCES_COEF"
+msgstr "Уголь, сталь и очки исследования"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_REWARDS"
+msgstr "Можно получить больше ресурсов:"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_REGULAR_TEXT_1"
+msgstr "Всё, что доступно в Базовом пропуске"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_REGULAR_TEXT_2"
+msgstr "Награды Улучшенного пропуска"
+
+msgid "IDS_BATTLEPASS_STATUS_BUTTON_CLAIM_REWARDS"
+msgstr "Забрать награды"
+
+msgid "IDS_BATTLEPASS_TYPE_FREE_SHORT_TITLE"
+msgstr "Базовый"
+
+msgid "IDS_BATTLEPASS_TYPE_PAID_ENHANCED_SHORT_TITLE"
+msgstr ""
+"Улучшенный\n"
+"+ сезонные бонусы"
+
+msgid "IDS_BATTLEPASS_TYPE_PAID_REGULAR_SHORT_TITLE"
+msgstr "Улучшенный"
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_FREE"
+msgstr "Эта линия прогресса доступна сразу и не требует покупки."
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_ENHANCED_RECEIVED"
+msgstr "Содержит дополнительные награды и сезонные бонусы."
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_REGULAR"
+msgstr "Эта линия прогресса содержит дополнительные награды."
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_REGULAR_RECEIVED"
+msgstr "Содержит дополнительные награды."
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "К экрану «Улучшение и бонусы»"
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_STATUS_LOCKED"
+msgstr "Станет доступен после покупки"
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_STATUS_RECEIVED"
+msgstr "Доступен"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_MINEBOMBER"
+msgstr "%(player)s! Нужна поддержка с воздуха!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_MINEBOMBER_NO_OWNER"
+msgstr "Нужна поддержка с воздуха!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_MINEBOMBER"
+msgstr "Нужна поддержка с воздуха!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
+msgstr "Нужна поддержка с воздуха!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_MINEBOMBER"
+msgstr "Нужна поддержка с воздуха!"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
+msgstr "Нужна поддержка с воздуха!"
+
+msgid "IDS_COMPENDIUM_UNIFIED_STATUS_RIBBON"
+msgstr "Корабль является основным"
+
+msgid "IDS_DESC_PCM073_ADDITIONALCONSUMABLECV_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM098_SPECIAL_MOD_I_GOUDEN_LEEUW"
+msgstr ""
+"Усиливает тактическую роль корабля, позволяя эффективнее проводить атаки "
+"авиаударом на определённой территории."
+
+msgid "IDS_DESC_PCM100_MINEFIELD_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM101_MINEBOMBER_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM994_MODERNIZATION_SLOT_DUMMY"
+msgstr ""
+"Эффекты тестовой модернизации уже применены к характеристикам корабля, "
+"установка или демонтаж не повлечёт изменений. Вы не можете устанавливать "
+"другие модернизации в этот слот."
+
+msgid "IDS_DESC_PCM995_MODERNIZATION_SLOT_DUMMY"
+msgstr ""
+"Эффекты тестовой модернизации уже применены к характеристикам корабля, "
+"установка или демонтаж не повлечёт изменений. Вы не можете устанавливать "
+"другие модернизации в этот слот."
+
+msgid "IDS_DESC_PCM996_MODERNIZATION_SLOT_DUMMY"
+msgstr ""
+"Эффекты тестовой модернизации уже применены к характеристикам корабля, "
+"установка или демонтаж не повлечёт изменений. Вы не можете устанавливать "
+"другие модернизации в этот слот."
+
+msgid "IDS_DOGTAG_PCNA011_NAME"
+msgstr "Зимняя сказка"
+
+msgid "IDS_DOGTAG_PCNB417_DESCRIPTION"
+msgstr ""
+"«Перестали потрескивать от мороза деревья, а снег начал падать густо, большими, мягкими хлопьями».\n"
+"\n"
+"В честь празднования Нового года."
+
+msgid "IDS_DOGTAG_PCNB417_NAME"
+msgstr "Снежинка"
+
+msgid "IDS_DOGTAG_PCNB422_DESCRIPTION"
+msgstr ""
+"Поздравляем с лучшим результатом по итогам всех боёв на авианосцах "
+"за 2023 год!"
+
+msgid "IDS_DOGTAG_PCNB422_NAME"
+msgstr "Лучший командир авианосца 2023"
+
+msgid "IDS_DOGTAG_PCNB423_DESCRIPTION"
+msgstr ""
+"Поздравляем с лучшим результатом по итогам всех боёв на эсминцах "
+"за 2023 год!"
+
+msgid "IDS_DOGTAG_PCNB423_NAME"
+msgstr "Лучший командир эсминца 2023"
+
+msgid "IDS_DOGTAG_PCNB424_DESCRIPTION"
+msgstr ""
+"Поздравляем с лучшим результатом по итогам всех боёв на крейсерах "
+"за 2023 год!"
+
+msgid "IDS_DOGTAG_PCNB424_NAME"
+msgstr "Лучший командир крейсера 2023"
+
+msgid "IDS_DOGTAG_PCNB425_DESCRIPTION"
+msgstr ""
+"Поздравляем с лучшим результатом по итогам всех боёв на линкорах "
+"за 2023 год!"
+
+msgid "IDS_DOGTAG_PCNB425_NAME"
+msgstr "Лучший командир линкора 2023"
+
+msgid "IDS_DOGTAG_PCNB426_DESCRIPTION"
+msgstr ""
+"Поздравляем с лучшим результатом по итогам всех боёв на подводных лодках "
+"за 2023 год!"
+
+msgid "IDS_DOGTAG_PCNB426_NAME"
+msgstr "Лучший командир подводной лодки 2023"
+
+msgid "IDS_FEAT_GOOD_MC_BOW_TURN_360"
+msgstr "Носовая башня главного калибра вращается на 360 градусов"
+
+msgid "IDS_FEAT_GOOD_MC_STERN_TURN_360"
+msgstr "Кормовая башня главного калибра вращается на 360 градусов"
+
+msgid "IDS_LAST_CHANCE"
+msgstr "Последний шанс!"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_8"
+msgstr "600 кораблей: +6 наград за 1300 ед. опыта"
+
+msgid "IDS_PAPA161_203MM_HE_N_HAMPSHIRE"
+msgstr "203-мм HE/HC Mk25"
+
+msgid "IDS_PAPA162_203MM_AP_N_HAMPSHIRE"
+msgstr "203-мм AP Mk19"
+
+msgid "IDS_PAPA206_127MM_HE_MAYO"
+msgstr "127-мм HE Mk32"
+
+msgid "IDS_PAPA207_127MM_AP_MAYO"
+msgstr "127-мм AP/SC Mk38"
+
+msgid "IDS_PAPT061_MAYO"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PARAMS_MODIFIER_ASNUMPACKSBONUS"
+msgstr "Количество атакующих звеньев авиаудара"
+
+msgid "IDS_PARAMS_MODIFIER_MINEBOMBERHEALTH"
+msgstr "Боеспособность постановщиков мин"
+
+msgid "IDS_PARAMS_MODIFIER_MINEFIELDLIFETIMECOEFF"
+msgstr "Время действия минного заграждения"
+
+msgid "IDS_PASB710"
+msgstr "New Hampshire"
+
+msgid "IDS_PASB710_DESCR"
+msgstr ""
+"New Hampshire должен был стать четвёртым линкором типа Montana. С началом "
+"Второй мировой войны строительство было приостановлено, а позже было "
+"отменено. К середине войны стало понятно, что линкоры уступают роль главных "
+"сил флота авианосцам, и возникла идея перестройки линкоров в корабли "
+"сопровождения авианосцев. Одним из вариантов была установка на барбеты "
+"главного калибра башен со скорострельными 203-мм орудиями на двух линкорах "
+"типа Iowa. В случае достройки линкоров типа Montana по сходному проекту "
+"общее число 203-мм орудий достигло бы 16."
+
+msgid "IDS_PASB710_FULL"
+msgstr "New Hampshire"
+
+msgid "IDS_PASB710_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASB710_YEAR"
+msgstr "1953 г."
+
+msgid "IDS_PASD517"
+msgstr "Mayo"
+
+msgid "IDS_PASD517_DESCR"
+msgstr ""
+"USS Mayo DD-422 — эсминец типа Benson. В июле 1941 г. в составе "
+"«Нейтрального патруля» участвовал в оккупации Исландии. В 1942 г. "
+"сопровождал атлантические конвои, в 1943–44 гг. участвовал в Итальянской "
+"кампании. Подорвался на мине 24 января 1944 г., позже был отремонтирован "
+"в Нью-Йорке. В 1945 г. эсминец участвовал в сопровождении конвоев "
+"на Окинаву."
+
+msgid "IDS_PASD517_FULL"
+msgstr "Mayo"
+
+msgid "IDS_PASD517_NUMBER"
+msgstr "30"
+
+msgid "IDS_PASD517_YEAR"
+msgstr "1940 г."
+
+msgid "IDS_PAUA610_ART_MAYO"
+msgstr "127-мм/38 Mk.12 в установке Mk.21 mod.0/Mk.30 mod.1"
+
+msgid "IDS_PAUA914_ART_N_HAMPSHIRE"
+msgstr "203-мм/55 RF Mk.16 в башенной установке"
+
+msgid "IDS_PAUE613_ENG_MAYO"
+msgstr "ЭУ 50 000 л.с."
+
+msgid "IDS_PAUE924_ENG_N_HAMPSHIRE"
+msgstr "ЭУ 172 000 л.с."
+
+msgid "IDS_PAUH616_HULL_MAYO"
+msgstr "Mayo"
+
+msgid "IDS_PAUH919_N_HAMPSHIRE"
+msgstr "New Hampshire"
+
+msgid "IDS_PAUS613_SUO_MAYO"
+msgstr "Mk7 mod. 1"
+
+msgid "IDS_PAUS916_SUO_N_HAMPSHIRE"
+msgstr "Mk10 mod. 1"
+
+msgid "IDS_PAUT604_TORP_MAYO"
+msgstr "Mk15 mod. 0"
+
+msgid "IDS_PCEE658_12_MONTHS_FLAG"
+msgstr "Зимняя сказка"
+
+msgid "IDS_PCEE658_12_MONTHS_FLAG_DESCRIPTION"
+msgstr ""
+"«Перестали потрескивать от мороза деревья, а снег начал падать густо, "
+"большими, мягкими хлопьями»."
+
+msgid "IDS_PCEE658_12_MONTHS_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь празднования Нового года."
+
+msgid "IDS_PCEE660_ST_ANDREW_FLAG"
+msgstr "Андреевский флаг"
+
+msgid "IDS_PCEE660_ST_ANDREW_FLAG_DESCRIPTION"
+msgstr ""
+"Флаг с синим крестом святого Андрея Первозванного на белом поле. Официально "
+"утверждён в качестве военно-морского флага Российского императорского флота "
+"в 1865 г."
+
+msgid "IDS_PCEE663_NEW_HAMPSHIRE_FLAG"
+msgstr "USS New Hampshire"
+
+msgid "IDS_PCEE663_NEW_HAMPSHIRE_FLAG_DESCRIPTION"
+msgstr ""
+"Неофициальный флаг Новой Англии представляет собой красное поле с зелёной "
+"сосной, размещённой в белом крыже. Веймутова сосна считается символом "
+"региона с конца XVII в. и встречается на множестве региональных флагов."
+
+msgid "IDS_PCEE664_PASOPATI_FLAG"
+msgstr "KRI Pasopati"
+
+msgid "IDS_PCEE664_PASOPATI_FLAG_DESCRIPTION"
+msgstr ""
+"На эмблеме подводных сил Индонезии изображена подводная лодка, по бокам "
+"от неё — две акулы. Первыми индонезийскими субмаринами стали приобретённые "
+"в СССР подводные лодки проекта 613. Одной из них была C-79, вошедшая "
+"в состав индонезийского флота под именем Pasopati."
+
+msgid "IDS_PCEE665_MAYO_FLAG"
+msgstr "USS Mayo"
+
+msgid "IDS_PCEE665_MAYO_FLAG_DESCRIPTION"
+msgstr ""
+"7-я эскадра эсминцев ВМС США была впервые создана в 1920 г. и ликвидирована "
+"в 1922 г. Вновь сформированная в годы Второй мировой войны эскадра состояла "
+"из новых эсминцев типов Benson и Gleaves. Четыре корабля из этой эскадры, "
+"включая USS Mayo, стояли в Токийском заливе во время подписания акта "
+"о капитуляции Японии."
+
+msgid "IDS_PCEE666_SEVEROMORSK_FLAG"
+msgstr "Североморск"
+
+msgid "IDS_PCEE666_SEVEROMORSK_FLAG_DESCRIPTION"
+msgstr ""
+"После перевода главной базы Северного флота в посёлок Ваенга в 1951 г. был "
+"образован город Североморск. Новое название было дано в честь моряков-"
+"североморцев, героев Великой Отечественной войны. Флаг Североморска, "
+"утверждённый в 2001 г., был создан на основе современного герба города."
+
+msgid "IDS_PCEP311_PERMO_LUSHUN"
+msgstr "Штатный"
+
+msgid "IDS_PHES410_GOUDEN_LEEUW_12_MONTHS"
+msgstr "Весенний ветер"
+
+msgid "IDS_PIES421_MICHELANGELO_CEREMONIAL"
+msgstr "Парадный"
+
+msgid "IDS_PJGM208_21CM_60_SK_C34_DRL_C_40"
+msgstr "210-мм/60 SK C/34 в установке Drh LC/40"
+
+msgid "IDS_PJPA145_210MM_HE_T11"
+msgstr "210-мм Spr.Gr. L/4.7"
+
+msgid "IDS_PJPA146_210MM_AP_T11"
+msgstr "210-мм Spr.Gr. L/4.4"
+
+msgid "IDS_PJPT065_610MM_T11"
+msgstr "Type93"
+
+msgid "IDS_PJSC111"
+msgstr "Senjo"
+
+msgid "IDS_PJSC111_DESCR"
+msgstr ""
+"Дальнейшее развитие японских тяжёлых крейсеров, предполагающее вооружение "
+"из двенадцати 60-калиберных немецких 210-мм орудий. Техническое "
+"сотрудничество между Германией и Японией включало в себя обмен чертежами "
+"и технологическими картами перспективных образцов техники и вооружений. "
+"От предшественника (проекта тяжёлого крейсера 1941 г.) отличается усиленными"
+" бронированием и вспомогательным вооружением, в первую очередь ПВО."
+
+msgid "IDS_PJSC111_FULL"
+msgstr "Senjo"
+
+msgid "IDS_PJSC111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC111_YEAR"
+msgstr "1945 г."
+
+msgid "IDS_PJUA934_C11_ART_STOCK"
+msgstr "210-мм/60 SK C/34 в установке Drh LC/40"
+
+msgid "IDS_PJUE934_C11_ENG_STOCK"
+msgstr "ЭУ 176 000 л.с."
+
+msgid "IDS_PJUH934_C11_HULL_STOCK"
+msgstr "Senjo"
+
+msgid "IDS_PJUS931_C11_SUO_STOCK"
+msgstr "Type11 mod. 1"
+
+msgid "IDS_PJUT932_C11_TORPEDOES_STOCK"
+msgstr "Type F3"
+
+msgid "IDS_PORT_NEWYEAR2024"
+msgstr "Петровский форт"
+
+msgid "IDS_PORT_NEWYEAR2024_TOOLTIP"
+msgstr "Порт Петровский форт"
+
+msgid "IDS_PRAL903_SEVEROMORSK_TOP"
+msgstr "Сухой Су-6 (АМ-42)"
+
+msgid "IDS_PRES450_PETROPAVLOVSK_12_MONTHS"
+msgstr "Зимняя стужа"
+
+msgid "IDS_PRPA208_406MM_HE_SEVEROMORSK"
+msgstr "406-мм ОФ обр. 1928 г."
+
+msgid "IDS_PRPA209_406MM_AP_SEVEROMORSK"
+msgstr "406-мм ББ обр. 1928 г."
+
+msgid "IDS_PRPS009_SEVEROMORSK_TOP"
+msgstr "ФАБ-500"
+
+msgid "IDS_PRSB520"
+msgstr "Североморск"
+
+msgid "IDS_PRSB520_DESCR"
+msgstr ""
+"В 1930-х гг. в рамках усиления советского флота было спроектировано "
+"несколько крупных артиллерийских кораблей, также изучался опыт США. "
+"В 1938 г. специальная комиссия установила контакты с американской фирмой, "
+"которая взялась за разработку проекта по советскому заданию. В результате "
+"был разработан проект гибридного линкора-авианосца, причём предполагалось, "
+"что один корабль будет строиться в США, а второй — в СССР. Если бы проект "
+"был принят, то корабль, строившийся бы в СССР, получил бы советские "
+"вооружение и авиацию."
+
+msgid "IDS_PRSB520_FULL"
+msgstr "Североморск"
+
+msgid "IDS_PRSB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB520_YEAR"
+msgstr "1938 г."
+
+msgid "IDS_PRUA919_ART_SEVEROMORSK"
+msgstr "406-мм/45 обр. 1915 г. в башенной установке"
+
+msgid "IDS_PRUE920_ENG_SEVEROMORSK"
+msgstr "ЭУ 300 000 л.с."
+
+msgid "IDS_PRUF904_FC_SEVEROMORSK"
+msgstr "Тип 10"
+
+msgid "IDS_PRUH920_HULL_SEVEROMORSK"
+msgstr "Североморск"
+
+msgid "IDS_PRUL904_SB_SEVEROMORSK"
+msgstr "Сухой Су-6 (АМ-42)"
+
+msgid "IDS_PRUS917_SUO_SEVEROMORSK"
+msgstr "СУО X мод. 1"
+
+msgid "IDS_PZES519_3KINGS_AEGIR"
+msgstr "Величественный дракон"
+
+msgid "IDS_PZES619_3KINGS_LION"
+msgstr "Ловкий тигр"
+
+msgid "IDS_PZGA139_40MM_BOFORS_MK_VI"
+msgstr "40-мм/56 OQF Mk.IX в установке Mk.VI"
+
+msgid "IDS_PZGA143_20MM_FLACK_38_QUAD"
+msgstr "20-мм/65 C/38 в установке Flak 35 Vierling L/38"
+
+msgid "IDS_PZGA145_55MM_GERAT_TWIN"
+msgstr "55-мм/77 Gerät 58 в спаренной установке"
+
+msgid "IDS_PZGA147_20MM_FLACK_38_QUAD"
+msgstr "20-мм/65 C/38 в установке Flak 35 Vierling L/38"
+
+msgid "IDS_PZGA150_20MM70_BREDA_BARRELS_6"
+msgstr "20-мм/70 Scotti Model 1941 в шестиствольной установке"
+
+msgid "IDS_PZGA151_37MM_54_BREDA"
+msgstr "37-мм/54 Breda Model 1939 в установке Model RM1939"
+
+msgid "IDS_PZGM138_16_5IN_45_MKII_CUBIC"
+msgstr "419-мм/45 Mk.I в установке Type C"
+
+msgid "IDS_PZGM140_16_5IN_45_MKII_ROUNDED"
+msgstr "419-мм/45 Mk.I в установке Type D"
+
+msgid "IDS_PZGM141_305MM_56_SKC_39"
+msgstr "305-мм/56 SK C/39 в башенной установке"
+
+msgid "IDS_PZGM142_305MM_56_SKC_39_RF"
+msgstr "305-мм/56 SK C/39 в башенной установке"
+
+msgid "IDS_PZGM148_135_45_OTO_1937"
+msgstr "135-мм/45 Model 1938 в установке Model 1938"
+
+msgid "IDS_PZGS097_5_25IN_50_QF_MK_I"
+msgstr "133-мм/50 QF Mk.I в установке Mk.I"
+
+msgid "IDS_PZGS144_127MM_KC_40"
+msgstr "128-мм/61 KM40 в башенной установке"
+
+msgid "IDS_PZGT000_INVISIBLE_TA"
+msgstr "533-мм"
+
+msgid "IDS_PZGT146_533MM_TORPEDO_TUBES_QUAD"
+msgstr "533-мм Vierling"
+
+msgid "IDS_PZGT154_533MM_4TUBES"
+msgstr "533-мм tubo lanciasiluri"
+
+msgid "IDS_PZPA064_305MM_HE_MENGCHONG"
+msgstr "305-мм Spr.Gr. L/4.9"
+
+msgid "IDS_PZPA065_305MM_AP_MENGCHONG"
+msgstr "305-мм P.Spr.Gr. L/3.8"
+
+msgid "IDS_PZPA066_419MM_HE_LOUCHUAN"
+msgstr "419-мм HE Mk Ia"
+
+msgid "IDS_PZPA067_419MM_AP_LOUCHUAN"
+msgstr "419-мм AP Mk IIa"
+
+msgid "IDS_PZPA068_134MM_MI_HE"
+msgstr "133-мм HE Mk IC"
+
+msgid "IDS_PZPA069_128MM_HE_SPR_GR_KZ"
+msgstr "128-мм Spr.Gr. Kz."
+
+msgid "IDS_PZPA070_135MM_HE_BEN_MA"
+msgstr "135-мм proiettili HE 1938"
+
+msgid "IDS_PZPA071_135MM_CS_BEN_MA"
+msgstr "135-мм proiettili CS 1938"
+
+msgid "IDS_PZPA072_135MM_AP_BEN_MA"
+msgstr "135-мм proiettili AP 1938"
+
+msgid "IDS_PZPT042_G7A_MENGCHONG"
+msgstr "G7a T1 Ausf. D"
+
+msgid "IDS_PZPT053_533MM_PASOPATI"
+msgstr "53-38"
+
+msgid "IDS_PZPT054_533MM_PASOPATI_MZ"
+msgstr "53-38 MZ"
+
+msgid "IDS_PZPT055_533_BEN_MA"
+msgstr "Mk16 mod. 1"
+
+msgid "IDS_PZSB539"
+msgstr "Louchuan"
+
+msgid "IDS_PZSB539_DESCR"
+msgstr ""
+"Лоучуань — вид китайских боевых кораблей времён империи Хань, трёхпалубная "
+"«плавучая крепость». Такие корабли играли роль основной силы флота и были "
+"оборудованы для абордажа, однако лоучуань был вооружён и осадными орудиями "
+"для ведения дальнего боя."
+
+msgid "IDS_PZSB539_FULL"
+msgstr "Louchuan"
+
+msgid "IDS_PZSB539_NUMBER"
+msgstr "2"
+
+msgid "IDS_PZSB539_YEAR"
+msgstr "1938 г."
+
+msgid "IDS_PZSC529"
+msgstr "Mengchong"
+
+msgid "IDS_PZSC529_DESCR"
+msgstr ""
+"Мэнчун — вид боевого корабля, который был распространён в Китае II–III вв. "
+"Имел сплошной борт, обтянутый кожей, что обеспечивало укрытие для стрелков "
+"и защиту для гребцов. Мэнчун использовался в качестве корабля прикрытия."
+
+msgid "IDS_PZSC529_FULL"
+msgstr "Mengchong"
+
+msgid "IDS_PZSC529_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSC529_YEAR"
+msgstr "1945 г."
+
+msgid "IDS_PZSD529"
+msgstr "Ben Ma"
+
+msgid "IDS_PZSD529_DESCR"
+msgstr ""
+"Бэньма — вид боевого корабля, применявшегося для сопровождения в Китае "
+"II–III вв. Про такой корабль говорили, что он быстрый, как скачущая "
+"лошадь, — именно этому сравнению бэньма обязан своим названием."
+
+msgid "IDS_PZSD529_FULL"
+msgstr "Ben Ma"
+
+msgid "IDS_PZSD529_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSD529_YEAR"
+msgstr "1945 г."
+
+msgid "IDS_PZSS508"
+msgstr "Pasopati"
+
+msgid "IDS_PZSS508_DESCR"
+msgstr ""
+"С-79 — советская подводная лодка проекта 613, которая была передана флоту "
+"Индонезии и переименована в Pasopati. В 1961–62 гг. подводная лодка "
+"участвовала в индонезийской операции «Трикора» по присоединению западной "
+"части острова Новая Гвинея. В 1994 г. Pasopati была исключена из списков "
+"флота и установлена в качестве корабля-музея в Сурабае."
+
+msgid "IDS_PZSS508_FULL"
+msgstr "Pasopati"
+
+msgid "IDS_PZSS508_NUMBER"
+msgstr "236"
+
+msgid "IDS_PZSS508_YEAR"
+msgstr "1954 г."
+
+msgid "IDS_PZUA800_ART_MENGCHONG"
+msgstr "305-мм/56 SK C/39 в башенной установке"
+
+msgid "IDS_PZUA807_ART_LOUCHUAN"
+msgstr "419-мм/45 Mk.I в установке Type C/D"
+
+msgid "IDS_PZUA808_ART_BEN_MA"
+msgstr "135-мм/45 Model 1938 в установке Model 1938"
+
+msgid "IDS_PZUE711_ENG_PASOPATI"
+msgstr "ЭУ 4 000 л.с."
+
+msgid "IDS_PZUE800_ENG_MENGCHONG"
+msgstr "ЭУ 176 000 л.с."
+
+msgid "IDS_PZUE807_ENG_LOUCHUAN"
+msgstr "ЭУ 130 000 л.с."
+
+msgid "IDS_PZUE808_ENG_BEN_MA"
+msgstr "ЭУ 100 000 л.с."
+
+msgid "IDS_PZUH713_PASOPATI"
+msgstr "Pasopati"
+
+msgid "IDS_PZUH800_HULL_MENGCHONG"
+msgstr "Mengchong"
+
+msgid "IDS_PZUH809_HULL_LOUCHUAN"
+msgstr "Louchuan"
+
+msgid "IDS_PZUH810_HULL_BEN_MA"
+msgstr "Ben Ma"
+
+msgid "IDS_PZUQ701_SONAR_PASOPATI"
+msgstr "ГАП 8"
+
+msgid "IDS_PZUS800_SUO_MENGCHONG"
+msgstr "FKS Typ 9 Mod. 1"
+
+msgid "IDS_PZUS809_SUO_LOUCHUAN"
+msgstr "Mk IX mod. 1"
+
+msgid "IDS_PZUS810_SUO_BEN_MA"
+msgstr "Mk IX mod. 1"
+
+msgid "IDS_PZUT713_TORP_PASOPATI"
+msgstr "533-мм"
+
+msgid "IDS_PZUT800_TORP_MENGCHONG"
+msgstr "G7 Steinbutt"
+
+msgid "IDS_PZUT805_TORP_BEN_MA"
+msgstr "533-мм Si 270 H2"
+
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль X уровня или редкий корабль"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X или редкий"
+
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль VIII–IX уровня"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VIII–IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Корабль V–VII уровня"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "V–VII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE"
+msgstr "Контейнер «Новогодний подарок»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE_SHORT"
+msgstr "Новогодний подарок"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль X уровня или редкий корабль"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X или редкий"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль VIII–IX уровня"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VIII–IX"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Корабль V–VII уровня"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "V–VII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_TITLE"
+msgstr "Контейнер «Гигантский новогодний подарок»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_TITLE_SHORT"
+msgstr "Гигантский новогодний подарок"
+
+msgid "IDS_REWARD_LOOTBOX_SLOTS_TITLE"
+msgstr "Свободный слот"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM070_BRAWL_SPEED"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM070_BRAWL_SPEED"
+msgstr "Повышение скорости"
+
+msgid "IDS_SHIP_MODIFIER_PXOM070_BRAWL_SPEED_APPLIED"
+msgstr "Повышение скорости"
+
+msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE"
+msgstr ""
+"Бортовая группа\n"
+"торпедных аппаратов"
+
+msgid "IDS_SHIP_PARAM_TORPEDO_TUBE_COUNT"
+msgstr "Количество торпедных аппаратов"
+
+msgid "IDS_SHIP_REWARD_RENT_STATUS_DURATION"
+msgstr "В аренду на: %(_timeLeft)s"
+
+msgid "IDS_SHIP_REWARD_RENT_STATUS_UNTIL"
+msgstr "В аренду до: %(_timeLeft)s"
+
+msgid "IDS_SOUND_MOD_NEWYEAR2023_12_MONTHS_JANUARY"
+msgstr "Братец Январь"
+
+msgid "IDS_SOUND_MOD_NEWYEAR2023_12_MONTHS_MARCH"
+msgstr "Братец Март"
+
+msgid "IDS_SPACES/AS02_NEW_TIERRA"
+msgstr "Новогодний карнавал"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_DAMAGE_MAIN_ATBA_FULL"
+msgstr "Нанесите как можно больше урона главным и вспомогательным калибром"
+
+msgid "IDS_STRATEGIC_ACTIONS_TASK_CURRENT"
+msgstr "Текущая задача"
+
+msgid "IDS_STRATEGIC_ACTIONS_TASK_NEXT"
+msgstr "Следующая задача"
+
+msgid "IDS_SUBST_BATTLEPASS_CURRENT_LEVEL"
+msgstr "%(_level)s-й уровень"
+
+msgid "IDS_SUBST_BATTLEPASS_FREE_TOOLTIP_TEXT"
+msgstr "%(_level)s-й уровень Базового пропуска"
+
+msgid "IDS_SUBST_BATTLEPASS_PAID_TOOLTIP_TEXT"
+msgstr "%(_level)s-й уровень Улучшенного пропуска"
+
+msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARD_CLAIM"
+msgstr "Награды события"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_CASUAL"
+msgstr "Таинственный господин"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_HARD"
+msgstr "Таинственный господин"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_MIDDLE"
+msgstr "Таинственный господин"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_CASUAL"
+msgstr "Таинственный господин"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_HARD"
+msgstr "Таинственный господин"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_MIDDLE"
+msgstr "Таинственный господин"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_CASUAL"
+msgstr "Таинственная дама"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_HARD"
+msgstr "Таинственная дама"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_MIDDLE"
+msgstr "Таинственная дама"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_START"
+msgstr "Хозяин торжества"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL"
+msgstr "Начнём состязание, пусть победит сильнейший!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL_COMPLETED"
+msgstr ""
+"Вы победили в честном состязании! Имея опыт в организации потешных боёв, "
+"хочу уверить вас: не стоит смотреть на них свысока, именно здесь куются "
+"будущие победы."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD"
+msgstr ""
+"Впереди самая сложная часть состязания. Победит сильнейший, но мы оба "
+"отлично проведём время!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD_COMPLETED"
+msgstr ""
+"Браво, вы отлично проявили себя, но наше состязание подошло к концу. Однажды"
+" мои войска подошли на расстояние 15 вёрст до столицы противника, но мы "
+"прекратили наступление. Помните: мудрый командир должен понимать, в какие "
+"битвы стоит вступить, а каких лучше избежать."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE"
+msgstr ""
+"Вы не потеряете честь, если откажетесь от состязания со мной прямо сейчас!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE_COMPLETED"
+msgstr ""
+"Я, прямо скажем, не последний человек в военно-морском деле, так что можете "
+"мне поверить: вы превосходный соперник!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL"
+msgstr "Скоро вы пожалеете, что не остались ждать десерт в особняке!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL_COMPLETED"
+msgstr ""
+"Завистники говорят, будто я сын конюха, а никакой не дворянин. Но если они "
+"думают, что вы сможете одержать надо мной верх в ещё одном состязании, они "
+"ставят не на ту лошадку..."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD"
+msgstr ""
+"Думаете, что сможете одолеть меня? Что ж, не откажу себе в удовольствии "
+"разочаровать вас!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD_COMPLETED"
+msgstr ""
+"Вам повезло, что я честный дворянин и умею проигрывать. Но помните: у меня "
+"достаточно золота, чтобы судья пересмотрел результаты состязания..."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE"
+msgstr "Ну что, шутки в сторону? Начинаем состязаться всерьёз!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE_COMPLETED"
+msgstr ""
+"Один мой английский приятель дважды избирался в парламент, но за всё время "
+"выступил только с одной инициативой: попросил закрыть окно, чтобы избавиться"
+" от сквозняка. Меньше слов — больше дела, жду вас на следующем состязании!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL"
+msgstr ""
+"Не думайте, что я буду поддаваться! Я не раз бывала в военных походах, кое-"
+"чему научилась."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL_COMPLETED"
+msgstr ""
+"Поздравляю, вы изумительно проявили себя в этом пустяковом состязании. "
+"Готовы сразиться по-настоящему? Предупреждаю: в плен не сдаюсь!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD"
+msgstr ""
+"Вечер подходит к концу. Вы готовы продемонстрировать всё, на что способны?"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD_COMPLETED"
+msgstr ""
+"Благодарна за великолепное состязание! Однажды специально для меня учредили "
+"орден и тут же представили к нему. Жаль, что я не обладаю такой же властью, "
+"чтобы вознаградить вас..."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE"
+msgstr ""
+"Раз за разом вы проявляете поразительное упорство. Но на этот раз вам так "
+"легко не отделаться!"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE_COMPLETED"
+msgstr ""
+"Вы же догадались, что я специально позволила вам выиграть? Я знаю, как "
+"управляться со своенравными и вспыльчивыми военачальниками."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_START"
+msgstr ""
+"Для начала сразитесь со мной, чтобы доказать, что вы достойны этого "
+"состязания! Первое испытание простое, для разминки..."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_START_COMPLETED"
+msgstr ""
+"Вы отлично справились, три моих фаворита ждут вас! Выбирайте, с кем вступить"
+" в состязание в первую очередь."
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_CASUAL"
+msgstr "Теодор Архангельский"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_HARD"
+msgstr "Теодор Архангельский"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_MIDDLE"
+msgstr "Теодор Архангельский"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_CASUAL"
+msgstr "Александр Пирогов"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_HARD"
+msgstr "Александр Пирогов"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_MIDDLE"
+msgstr "Александр Пирогов"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_CASUAL"
+msgstr "Марта Васильева"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_HARD"
+msgstr "Марта Васильева"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_MIDDLE"
+msgstr "Марта Васильева"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_START"
+msgstr "Пётр Михайлов"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_CASUAL"
+msgstr "Запад"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_HARD"
+msgstr "Восток"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_MIDDLE"
+msgstr "Центр"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_CASUAL"
+msgstr "Северо-запад"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_HARD"
+msgstr "Северо-восток"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_MIDDLE"
+msgstr "Север"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_CASUAL"
+msgstr "Юго-запад"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_HARD"
+msgstr "Юго-восток"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_MIDDLE"
+msgstr "Юг"
+
+msgid "IDS_TERRITORY_TITLE_START"
+msgstr "Вступительное испытание"
+
+msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINE_BOMBERS"
+msgstr "Постановщики мин"
+
+msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINE_BOMBERS_DESCRIPTION"
+msgstr ""
+"Этот тип самолётов способен устанавливать минные заграждения на поле боя.\n"
+"\n"
+"Мины взрываются при контакте с кораблями, могут вызвать затопление и вывести модули из строя.\n"
+"\n"
+"Ставьте минные заграждения между островами, чтобы заманить корабли противника в ловушку."
+
+msgid "IDS_TITLE_PCM073_ADDITIONALCONSUMABLECV_MOD_I"
+msgstr "Снаряжение эскадрильи Модификация 1"
+
+msgid "IDS_TITLE_PCM098_SPECIAL_MOD_I_GOUDEN_LEEUW"
+msgstr "Система управления ударной авиацией"
+
+msgid "IDS_TITLE_PCM100_MINEFIELD_MOD_I"
+msgstr "Минное заграждение Модификация 1"
+
+msgid "IDS_TITLE_PCM101_MINEBOMBER_MOD_I"
+msgstr "Постановщики мин Модификация 1"
+
+msgid "IDS_TITLE_PCM994_MODERNIZATION_SLOT_DUMMY"
+msgstr "Тестовая модернизация"
+
+msgid "IDS_TITLE_PCM995_MODERNIZATION_SLOT_DUMMY"
+msgstr "Тестовая модернизация"
+
+msgid "IDS_TITLE_PCM996_MODERNIZATION_SLOT_DUMMY"
+msgstr "Тестовая модернизация"
+
+msgid "IDS_TOOLTIP_SHIP_NEEDS_SERVICE"
+msgstr "Требуется обслуживание"
