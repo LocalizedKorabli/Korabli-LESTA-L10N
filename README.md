@@ -4,9 +4,9 @@
 
 <h3>战舰世界莱服非官方本地化</h3>
 
-![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg)
+[![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/stargazers)
 [![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)
-![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-L10N.svg)
+[![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/commit)
 
 </div>
 
