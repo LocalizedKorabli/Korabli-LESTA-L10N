@@ -4,9 +4,9 @@
 
 <h3>战舰世界莱服非官方本地化</h3>
 
-![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg)
+[![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/stargazers)
 [![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)
-![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-L10N.svg)
+[![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/commit)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 #### 通过 GitHub
 
-1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.05.17.1941/L10nInstaller-v2024.05.17.1941.exe)；
+1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.05.29.0049/L10nInstaller-v2024.05.29.0049.exe)；
 2. 汉化包（汉化安装器已内置汉化包下载功能，按需下载）：在本仓库 [Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest) 中，下载该发布版本下的`global.mo`文件；
 
 ### 安装
