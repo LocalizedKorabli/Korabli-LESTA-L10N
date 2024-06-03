@@ -24,7 +24,7 @@
 #### 通过 GitHub
 
 1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.05.29.0049/L10nInstaller-v2024.05.29.0049.exe)；
-2. 汉化包（汉化安装器已内置汉化包下载功能，按需下载）：在本仓库 [Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest) 中，下载该发布版本下的`global.mo`文件；
+2. 汉化包（汉化安装器已内置汉化包下载功能，按需下载）：在本仓库[Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)中，下载该发布版本下的`global.mo`文件；
 
 ### 安装
 
@@ -68,11 +68,11 @@
 
 ## 关于
 
-自2022年9月20日起，战舰世界独联体区玩家开始转移，一部分选择并入Wargaming直营欧服，另一部分则被分流到Lesta Games管理的新俄服（LESTA服）。
+自2022年9月20日起，战舰世界独联体区玩家开始转移，一部分选择并入Wargaming直营欧服，另一部分则被分流到Lesta Games管理的新俄服（莱服）。
 
-由于LESTA服主要面向俄罗斯和白俄罗斯玩家，其战舰世界客户端仅保留了俄语本地化文件。
-想在LESTA服游玩的非俄语玩家一般会用从直营服提取的本地化文件来覆盖俄语文件。
-这在最初是可行的，但随着版本更迭，LESTA服正在引入一些在Wargaming直营服未曾出现的内容，
+由于莱服主要面向俄罗斯和白俄罗斯玩家，其战舰世界客户端仅保留了俄语本地化文件。
+想在莱服游玩的非俄语玩家一般会用从直营服提取的本地化文件来覆盖俄语文件。
+这在最初是可行的，但随着版本更迭，莱服正在引入一些在直营服未曾出现的内容，
 其文本显然不会被直营服的本地化文件所覆盖，从而不能正常显示，影响游玩体验。
 
 于是，本项目应运而生。
