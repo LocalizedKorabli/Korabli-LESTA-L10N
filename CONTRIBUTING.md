@@ -8,7 +8,7 @@
 
 ### 拉取请求（Pull Requests）
 
-请在新的分支修改global.po文件，修改完毕后使用[POEdit](https://poedit.net/)保存以生成global.mo文件。与Localizations分支比较并提交拉取请求。
+请在新的分支修改global.po文件，修改完毕后使用[POEdit](https://poedit.net/)保存以生成global.mo文件。与main分支比较并提交拉取请求。
 
 ### 讨论（Discussions）
 
