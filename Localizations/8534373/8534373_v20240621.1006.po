@@ -45678,43 +45678,46 @@ msgid "IDS_PARAMS_MODIFIER_VITALITYCOEFFICIENT"
 msgstr "每级战舰的生命值"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYACID"
-msgstr "强酸伤害"
+msgstr "敌方强酸伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYALL"
-msgstr "所有类型伤害"
+msgstr "敌方所有类型伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYAP"
-msgstr "穿甲弹伤害"
+msgstr "敌方穿甲弹伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYBURN"
-msgstr "起火伤害"
+msgstr "敌方起火伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYCS"
-msgstr "半穿甲弹伤害"
+msgstr "敌方半穿甲弹伤害"
+
+msgid "IDS_PARAMS_MODIFIER_VULNERABILITYDBOMB"
+msgstr "敌方深水炸弹伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYFEL"
-msgstr "特殊伤害"
+msgstr "敌方特殊伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYFLOOD"
-msgstr "进水伤害"
+msgstr "敌方进水伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYHE"
-msgstr "高爆弹伤害"
+msgstr "敌方高爆弹伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYLASER"
-msgstr "激光伤害"
+msgstr "敌方激光伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYMINE"
-msgstr "水雷伤害"
+msgstr "敌方水雷伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYRAM"
-msgstr "冲撞伤害"
+msgstr "敌方冲撞伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYTORPEDO"
-msgstr "鱼雷伤害"
+msgstr "敌方鱼雷伤害"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYWAVE"
-msgstr "震波伤害"
+msgstr "敌方震波伤害"
 
 msgid "IDS_PARAMS_MODIFIER_WAVESPEEDMULTIPLIER"
 msgstr "震波速度"
