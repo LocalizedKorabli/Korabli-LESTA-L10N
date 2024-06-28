@@ -25,7 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      - name: sync-gitee-mirror
+      - name: sync-gitee
         uses: abersheeran/sync-gitee-mirror@v1-beta
         with:
           repository: nova-committee/l10n-mirror
