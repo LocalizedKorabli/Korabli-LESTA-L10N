@@ -1,33 +1,34 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Sync2Gitee
-
-# Controls when the workflow will run
+name: sync2gitee
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  repo-sync:
+    env:
+      dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+      dst_token: ${{ secrets.GITEE_TOKEN }}
+      gitee_user: ${{ secrets.GITEE_USER }}
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-
-      - name: sync-gitee
-        uses: abersheeran/sync-gitee-mirror@v1-beta
+      - uses: actions/checkout@v2
         with:
-          repository: nova-committee/l10n-mirror
-          username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD }}
+          persist-credentials: false
+
+      - name: sync github -> gitee
+        uses: Yikun/hub-mirror-action@master
+        if: env.dst_key && env.dst_token && env.gitee_user
+        with:
+          # 必选，需要同步的 Github 用户（源）
+          src: 'github/${{ github.repository_owner }}'
+          # 必选，需要同步到的 Gitee 用户（目的）
+          dst: 'gitee/${{ secrets.GITEE_USER }}'
+          # 必选，Gitee公钥对应的私钥，https://gitee.com/profile/sshkeys
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          # 必选，Gitee对应的用于创建仓库的token，https://gitee.com/profile/personal_access_tokens
+          dst_token:  ${{ secrets.GITEE_TOKEN }}
+          # 如果是组织，指定组织即可，默认为用户 user
+          account_type: org
+          # 直接取当前项目的仓库名
+          static_list: 'l10n-mirror'
