@@ -12,6 +12,12 @@
 
 ## 如何使用
 
+<details><summary style="font-size: 20px;">教学视频</summary>
+
+[![](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/d8d44d1f-f448-4feb-ab07-7ab2ccbca54e)](https://player.bilibili.com/player.html?aid=1755946809&bvid=BV1c4421D7Gh&cid=1596825150&page=1)
+
+</details>
+
 ### 下载
 
 #### 通过国内网盘
@@ -66,7 +72,7 @@
 
 [贡献指南](CONTRIBUTING.md)
 
-## 关于
+## 背景
 
 自2022年9月20日起，战舰世界独联体区玩家开始转移，一部分选择并入Wargaming直营欧服，另一部分则被分流到Lesta Games管理的新俄服（莱服）。
 
@@ -81,8 +87,24 @@
 
 [Gitee](https://gitee.com/nova-committee/korabli-LESTA-L10N)
 
-[Korabli Forum发布页](https://forum.korabli.su/topic/161848-133-%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%E4%B8%AD%E6%96%87%E6%9C%AC%E5%9C%B0%E5%8C%96/)
+[Korabli Forum发布页](https://forum.korabli.su/topic/161848-/)
+
+[Bilibili教学视频](https://www.bilibili.com/video/BV1c4421D7Gh)
 
 [Bilibili专栏](https://www.bilibili.com/opus/918285182086152224)
 
 [Patreon](https://www.patreon.com/LocalizedKorabli)
+
+## 同类项目
+
+### [Lavandel的修改版](https://github.com/EGIST-Lavandel/RU2CNKorabliModificate)
+
+基于本项目8275422-20240410.2319版本的修改版，分叉后保持更新。
+
+主打创造性的、具有节目效果的文本翻译。
+
+### [REPAD本土化](https://github.com/DDFantasyV/Korabli_localization_chs)
+
+与本项目几乎同时起步的汉化项目，主打流畅的、谨慎的新增文本翻译。
+
+
