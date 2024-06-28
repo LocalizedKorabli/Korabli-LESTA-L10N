@@ -16,7 +16,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync github -> gitee
+      - name: SyncGithub2Gitee
         uses: Yikun/hub-mirror-action@master
         if: env.dst_key && env.dst_token && env.gitee_user
         with:
