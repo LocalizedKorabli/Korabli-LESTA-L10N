@@ -71876,7 +71876,7 @@ msgid "IDS_PFSC105_YEAR"
 msgstr "1935"
 
 msgid "IDS_PFSC106"
-msgstr "L.加利索尼埃"
+msgstr "拉加利索尼埃"
 
 msgid "IDS_PFSC106_DESCR"
 msgstr "伦敦海军条约签署后，法国着手开发新型巡洋舰。技术规格包括抵御从9000米外打来的138.6毫米炮弹和14000米外打来的152毫米炮弹。武器包括9门152毫米火炮。二战期间，加利索尼埃号在突尼斯海岸巡逻，并在弩炮行动期间为战列舰普罗旺斯号提供掩护。"
@@ -72131,7 +72131,7 @@ msgid "IDS_PFSC810_YEAR"
 msgstr "1956"
 
 msgid "IDS_PFSC896"
-msgstr "[L.加利索尼埃]"
+msgstr "[拉加利索尼埃]"
 
 msgid "IDS_PFSC896_DESCR"
 msgstr "这艘战舰是拉加利索尼埃号的复制并且仅适用于联合作战"
@@ -94183,7 +94183,7 @@ msgid "IDS_PRSC610_YEAR"
 msgstr "1950"
 
 msgid "IDS_PRSC710"
-msgstr "塞瓦"
+msgstr "塞瓦斯托波尔"
 
 msgid "IDS_PRSC710_DESCR"
 msgstr "1940年5月，海军学院进行了战术演练，内容涉及项目69巡洋舰，战列舰沙恩霍斯特号和敦刻尔克号。结果显示，用德国380毫米火炮替换305毫米火炮显著提高了巡洋舰的火力。后来，德国克虏伯公司签署了一项协议，该公司须在1943年3月之前交付6座炮塔。这些炮塔将安装在巡洋舰喀琅施塔得号和塞瓦斯托波尔号上，这些巡洋舰原定于1942年下水，但战争的爆发令这些计划泡汤。"
@@ -94423,7 +94423,7 @@ msgid "IDS_PRSD109_YEAR"
 msgstr "1939"
 
 msgid "IDS_PRSD110"
-msgstr "哈巴"
+msgstr "哈巴罗夫斯克"
 
 msgid "IDS_PRSD110_DESCR"
 msgstr "在20世纪30年代后半期，苏联政府正在考虑建造“装甲领舰”。1935年，有关部门起草了两个初步方案，其中一个包括五个衍生型号。该项目的代号为24，最终方案于1936年出炉。然而，海军高层最终决定支持更常规的驱逐舰和领舰。1939年，“装甲领舰”的想法再次成为话题中心，由此起草了技术规格。由于战争爆发，项目47从未实现。"
@@ -97273,7 +97273,7 @@ msgid "IDS_PSSC106_YEAR"
 msgstr "1936"
 
 msgid "IDS_PSSC107"
-msgstr "阿斯图里亚"
+msgstr "阿斯图里亚斯"
 
 msgid "IDS_PSSC107_DESCR"
 msgstr "佛朗哥主义者宣布在西班牙内战中获胜后，他们与意大利法西斯政权之间的联系更加紧密。这些联系也体现在海军建设领域：西班牙计划拿到意大利造船业的最新成果，以加强其舰队。意大利的安萨尔多公司提交了三个重型巡洋舰方案给西班牙，这些方案在武器组成上彼此不同。其中一个方案采用4座203毫米双联装炮座。"
@@ -108473,7 +108473,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "超级补给箱"
 
 msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_TITLE"
-msgstr "小型补给箱"
+msgstr "小型"
 
 msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_TITLE_SHORT"
 msgstr "小型补给箱"
@@ -109778,10 +109778,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_TITLE"
-msgstr "苏联时代补给箱"
+msgstr "光荣传统补给箱"
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_TITLE_SHORT"
-msgstr "苏联时代"
+msgstr "光荣传统"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -109814,10 +109814,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_TITLE"
-msgstr "苏联时代高级补给箱"
+msgstr "海洋盛典高级补给箱"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_TITLE_SHORT"
-msgstr "苏联时代"
+msgstr "海洋盛典"
 
 msgid "IDS_REWARD_LOOTBOX_PCL063_RECRUITSMALL_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
