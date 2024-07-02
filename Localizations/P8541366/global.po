@@ -46838,7 +46838,7 @@ msgid "IDS_PASB990"
 msgstr "佛蒙特Test"
 
 msgid "IDS_PASB990_DESCR"
-msgstr "一种强大的70000吨级战列舰设计，航速中等，装备了457毫米主炮。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PASB990_FULL"
 msgstr "佛蒙特Test"
@@ -48130,7 +48130,7 @@ msgid "IDS_PASS910"
 msgstr "巴劳鱵 Test"
 
 msgid "IDS_PASS910_DESCR"
-msgstr "测试战舰"
+msgstr "用于测试的战舰复制品。"
 
 msgid "IDS_PASS910_FULL"
 msgstr "巴劳鱵 Test"
@@ -54051,13 +54051,13 @@ msgid "IDS_PBSC516_YEAR"
 msgstr "1929"
 
 msgid "IDS_PBSC518"
-msgstr "虎59"
+msgstr "虎'59"
 
 msgid "IDS_PBSC518_DESCR"
 msgstr "1941年，当局订购了两艘“改进型斐济”级巡洋舰。1948年，当局决定根据修改后的项目，安装2座152毫米两用炮座来完成这些战舰的建造。HMS虎号于1941年10月铺设龙骨，但直到1945年才下水，而在隔年，它的所有工程停止。1959年3月，被改造成防空巡洋舰的虎号以新身份服役。1968年至1972年间，它被改造成直升机航空母舰。"
 
 msgid "IDS_PBSC518_FULL"
-msgstr "虎59"
+msgstr "虎'59"
 
 msgid "IDS_PBSC518_NUMBER"
 msgstr "3"
@@ -54204,7 +54204,7 @@ msgid "IDS_PBSC910"
 msgstr "哥利亚Test"
 
 msgid "IDS_PBSC910_DESCR"
-msgstr "这艘重型巡洋舰拥有12门主炮、强大的装甲防护，以及1940年代后期英国海军常用的防空武器。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PBSC910_FULL"
 msgstr "哥利亚Test"
@@ -55558,13 +55558,13 @@ msgid "IDS_PBUH713_CA8_HULL_CHESHIRE"
 msgstr "柴郡"
 
 msgid "IDS_PBUH714_BELFAST2"
-msgstr "贝尔法斯特（1943）"
+msgstr "贝尔法斯特'43"
 
 msgid "IDS_PBUH715_HULL_BLACK_COSSACK"
 msgstr "哥萨克人B."
 
 msgid "IDS_PBUH716_TIGER59"
-msgstr "虎59"
+msgstr "虎'59"
 
 msgid "IDS_PBUH717_B8_HULL_A"
 msgstr "霍克(A)"
@@ -75489,7 +75489,7 @@ msgid "IDS_PGSA990"
 msgstr "M.里希特霍芬Test"
 
 msgid "IDS_PGSA990_DESCR"
-msgstr "德国重型航空母舰的假设衍生型号，基于未完成的H-39级战列舰舰体。当局认为，当该战列舰的建造停止时，其舰体应已完全成型，并且主要推进装置和电气机械设备也已安装。以这样的配置，它将是世界上最大的战舰之一，仅次于日本信浓号。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PGSA990_FULL"
 msgstr "M.里希特霍芬Test"
@@ -76839,7 +76839,7 @@ msgid "IDS_PGSD990"
 msgstr "埃尔宾Test"
 
 msgid "IDS_PGSD990_DESCR"
-msgstr "这个项目的目标是所谓的“侦察巡洋舰”，它是人们追求可以在远洋作战的驱逐舰的过程中打造出的巅峰之作。它是一艘巨大的驱逐舰，有着安置在双联装炮塔中的150毫米主炮，并且装备了强大的鱼雷武器。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PGSD990_FULL"
 msgstr "埃尔宾Test"
@@ -79480,7 +79480,7 @@ msgid "IDS_PHSC990"
 msgstr "金狮Test"
 
 msgid "IDS_PHSC990_DESCR"
-msgstr "20世纪30年代末在荷兰研发的战列巡洋舰项目（项目1047），旨在对抗太平洋的日本舰队。主武器是9门德国283毫米火炮。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PHSC990_FULL"
 msgstr "金狮Test"
@@ -80828,7 +80828,7 @@ msgid "IDS_PISB990"
 msgstr "哥伦布Test"
 
 msgid "IDS_PISB990_DESCR"
-msgstr "假设出来的衍生项目，基于意大利的维托里奥•维内托级战舰和42000吨排水量的苏联战列舰项目。火力的提升可以通过增加火炮和炮塔的数量来实现：20世纪10年代末和20年代初，装有381毫米火炮的四联装炮塔正处于开发之中。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PISB990_FULL"
 msgstr "哥伦布Test"
@@ -81128,7 +81128,7 @@ msgid "IDS_PISC990"
 msgstr "威尼斯Test"
 
 msgid "IDS_PISC990_DESCR"
-msgstr "拥有203毫米主炮和高航速的战舰项目体现了20世纪40年代初意大利造船业的成就。它代表了重型巡洋舰朝着将主炮数量增加到15门的方向发展。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PISC990_FULL"
 msgstr "威尼斯Test"
@@ -86492,7 +86492,7 @@ msgid "IDS_PJSD548"
 msgstr "本森Test"
 
 msgid "IDS_PJSD548_DESCR"
-msgstr "测试战舰。"
+msgstr "用于测试的战舰。"
 
 msgid "IDS_PJSD548_FULL"
 msgstr "本森Test"
@@ -93139,7 +93139,7 @@ msgid "IDS_PRSA990"
 msgstr "纳希莫夫Test"
 
 msgid "IDS_PRSA990_DESCR"
-msgstr "此设计计划将项目23战列舰改造为重型航空母舰。这艘战舰的对空防御由战后时期开发的火炮系统组成。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PRSA990_FULL"
 msgstr "纳希莫夫海军上将Test"
@@ -94268,7 +94268,7 @@ msgid "IDS_PRSC990"
 msgstr "彼得罗Test"
 
 msgid "IDS_PRSC990_DESCR"
-msgstr "82号工程重型巡洋舰的重新设计的另一个版本，根据二战经验进行了修改。除了220毫米主炮外，还装备了强大的两用炮。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PRSC990_FULL"
 msgstr "彼得罗巴甫洛夫斯克Test"
@@ -100159,7 +100159,7 @@ msgid "IDS_PWSD990"
 msgstr "哈兰Test"
 
 msgid "IDS_PWSD990_DESCR"
-msgstr "瑞典海军中体积最大、火力最强的驱逐舰。主要优势是强大的防空能力和射速极快的主炮火炮。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PWSD990_FULL"
 msgstr "哈兰Test"
