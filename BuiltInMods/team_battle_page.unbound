@@ -300,7 +300,7 @@
 		(block
 			(style
 				(marginLeft = "XS")
-				(width = 143px)
+				(width = 169px)
 				(height = 100%)
 			)
 
@@ -703,7 +703,7 @@
 		(block
 			(style
 				(marginLeft = "XS")
-				(bind width "_isOnlyTeam ? 348 : 143")
+				(bind width "_isOnlyTeam ? 348 : 169")
 				(height = 100%)
 			)
 
@@ -826,7 +826,7 @@
 			)
 			(tf
 				(class $TextDefaultBoldNM)
-				(style (bind textColor "_playerShipColor") (fontSize = 8))
+				(style (bind textColor "_playerShipColor"))
 				(bind text "_shipLevelRome + ' '")
 			)
 		)
@@ -844,7 +844,7 @@
 
 			(class $TextDefaultBoldNM)
 			(style
-				(width = 100%) (textAlign = "left") (wordWrap = false) (letterSpacing = 0) (marginTextLeft = 1) (elideMode = true) (fontSize = 13)
+				(width = 100%) (textAlign = "left") (wordWrap = false) (letterSpacing = 0) (marginTextLeft = 1) (elideMode = true)
 				(bind alpha "_alpha")
 				(bind textColor "_playerShipColor")
 			)
