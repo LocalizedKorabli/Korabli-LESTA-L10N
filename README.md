@@ -29,7 +29,7 @@
 
 #### 通过 GitHub
 
-1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.06.30.1912/L10nInstaller-v2024.06.30.1912.exe)；
+1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.07.03.1331/L10nInstaller-v2024.07.03.1331.exe)；
 2. （汉化安装器已内置汉化包下载功能，按需下载）汉化包：在本仓库[Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)中，下载该发布版本下的`global.mo`文件；
 
 ### 安装
