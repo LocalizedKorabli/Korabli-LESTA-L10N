@@ -1,0 +1,309 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_CURRENCY_EVENTUM_6"
+msgstr "突袭者代币"
+
+msgid "IDS_CURRENCY_EVENTUM_6_GET_DESCRIPTION"
+msgstr "通过在13.5版本结束前达到基础战斗通行证的最高等级、完成“冰上突袭”活动作战任务以及在13.5和13.6版本从兵工厂的礼包中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_6_SPEND_DESCRIPTION"
+msgstr "用于在13.5和13.6更新期间购买VII级战列舰普法尔茨和其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
+msgstr "“冰雪突袭”活动的临时资源。13.7版本发布后，将被无偿收回。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY045_HYDROPHONE"
+msgstr "在水下时，高亮地形以及战舰和（在水面或潜望深度的）潜艇的位置。"
+
+msgid "IDS_EVENTUM_6_COLON"
+msgstr "突袭者代币："
+
+msgid "IDS_GO_TO_STRATEGIC_ACTIONS_MOUSE_INSTRUCTION"
+msgstr "前往“冰雪突袭”活动界面"
+
+msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "飞机只能在离航空母舰或混合型战舰较近的区域内发现敌舰。"
+
+msgid "IDS_PCVE026_DESCRIPTION"
+msgstr "在战斗中体验飞机侦察敌舰的新机制。"
+
+msgid "IDS_PCVE026_MATCHMAKER_DESCRIPTION"
+msgstr "在战斗中体验飞机侦察敌舰的新机制。"
+
+msgid "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
+msgid_plural "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
+msgstr[0] "您还有%(durationAlmanac)s天来领取奖励"
+
+msgid "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
+msgid_plural "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
+msgstr[0] "在接下来的%(extraRewardClaimDay)s天内，您可以领取额外奖励"
+
+msgid "IDS_PL_ALMANAC_WINDOW_WARNING_STATUS"
+msgid_plural "IDS_PL_ALMANAC_WINDOW_WARNING_STATUS"
+msgstr[0] "您还有%(timeUntilAlmanacEnd)s天来领取奖励"
+
+msgid "IDS_PL_TOOLTIP_NEXT_MONTH_REWARD"
+msgid_plural "IDS_PL_TOOLTIP_NEXT_MONTH_REWARD"
+msgstr[0] "您还有%(_timeLeft)s天来领取所有奖励"
+
+msgid "IDS_PRSC980"
+msgstr "弗拉基米尔"
+
+msgid "IDS_PRSC980_DESCR"
+msgstr "用于测试主炮弹鼓式射击机制的“亚历山大•涅夫斯基”号的复制品。"
+
+msgid "IDS_PRSC980_FULL"
+msgstr "弗拉基米尔亲王"
+
+msgid "IDS_PRUH916_HULL_VLADIMIR_MONOMAKH"
+msgstr "弗拉基米尔亲王"
+
+msgid "IDS_REWARD_EVENTUM_6_TITLE"
+msgstr "突袭者代币"
+
+msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "IX–X级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX–X级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "VII–VIII级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VII–VIII级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_TITLE_FULL"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "IX–X级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX–X级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "VII–VIII级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VII–VIII级"
+
+msgid "IDS_SKILL_TRIGGER_ENEMYWITHINVISIBILITYTRIGGER"
+msgstr "战舰被侦察范围内存在被发现的敌舰时，提高主炮的装填速度。因发射主炮及其他战斗原因造成的战舰被侦察范围变化不被纳入考虑。"
+
+msgid "IDS_SKILL_TRIGGER_NOENEMIESWITHINVISIBILITYTRIGGER"
+msgstr "战舰被侦察范围内不存在被发现的敌舰时，提高主炮的精度。因发射主炮及其他战斗原因造成的战舰被侦察范围变化不被纳入考虑。"
+
+msgid "IDS_SPACES/AS02_NEW_TIERRA"
+msgstr "冰雪突袭"
+
+msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE"
+msgstr "冰雪突袭"
+
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_0"
+msgstr "在“冰雪突袭”活动中，您需要通过完成作战任务来控制领土。"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TITLE"
+msgstr "“冰雪突袭”活动已结束"
+
+msgid "IDS_SUBST_SSE_DAILY_RESET_IN"
+msgstr "每日任务将在%(timeLeft)s后重置"
+
+msgid "IDS_SUBST_SSE_DAILY_RESET_IN_TOOLTIP"
+msgstr "任务每天都会重置。距离下次重置还有%(timeLeft)s。"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
+msgstr "已购买突袭者代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
+msgstr "已获得突袭者代币"
+
+msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARDS_CLAIM"
+msgstr "“冰雪突袭”活动奖励"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
+msgstr "突袭者代币已移除"
+
+msgid "IDS_TEAM_STRATEGIC_ACTIONS"
+msgstr "冰雪突袭"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_CASUAL"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_HARD"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_MIDDLE"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_CASUAL"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_HARD"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_MIDDLE"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_CASUAL"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_HARD"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_MIDDLE"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_START"
+msgstr "海军情报官"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL"
+msgstr "我们已经抵达“新威斯特法伦”。我们接到报告称在这个基地附近集结了几支敌方巡洋舰编队。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL_COMPLETED"
+msgstr "干得漂亮，敌方编队被消灭了！在基地还发现了普法尔茨战列舰的动力装置图纸。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD"
+msgstr "前往“新杜塞尔多夫”基地。看起来这里藏着一位海盗头目。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD_COMPLETED"
+msgstr "战斗艰难，但你们完成了任务！我们手中又有了一套普法尔茨战列舰的图纸。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE"
+msgstr "我们的下一个目标是“新不来梅”基地。这里应该存放着普法尔茨战列舰的装甲设计图。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE_COMPLETED"
+msgstr "基地已被我们控制！我们在这里获得了其余图纸位置的重要线索。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL"
+msgstr "在二战期间，德国在南极建立了一个军事科学基地，秘密研发普法尔茨战列舰。现在这个基地被海盗占领，他们想要建造普法尔茨并袭击南大西洋的航线。不要让战列舰落入海盗手中！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_COMPLETED"
+msgstr "所有目标均已达成：海盗势力被完全消灭，普法尔茨战列舰图纸已妥善保管。指挥部对您表示特别感谢！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL"
+msgstr "为了防止敌人发出警报，必须摧毁“新汉堡”基地的主要电台。普法尔茨战列舰的炮图纸也在那里。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL_COMPLETED"
+msgstr "干得好，我们成功切断了岛屿之间的通讯。现在基地无法互相支援。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD"
+msgstr "“新勃兰登堡”基地是海盗首领的藏身之所，我们将面临激烈的抵抗。集合力量，出发！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD_COMPLETED"
+msgstr "非常好！任务完成，我们的专家正在研究新获取的图纸。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE"
+msgstr "前方是“新梅克伦堡”。最新情报显示，这里是海盗潜艇舰队的基地。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE_COMPLETED"
+msgstr "该基地存放着普法尔茨战列舰的鱼雷发射管图纸。据推测，这是九个单管发射器，位于水线以下。配备这种武器的战列舰非常罕见！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL"
+msgstr "接近“新萨克森”基地。这里曾经积极研发战斗机和防空系统。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL_COMPLETED"
+msgstr "这个岛上的一流德国军工企业专家正在工作：毫不奇怪，我们在这里发现了普法尔茨战列舰的防空系统图纸！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD"
+msgstr "这是“新多特蒙德”，一个海盗首领就藏在这里。准备迎接激烈的抵抗！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD_COMPLETED"
+msgstr "干得漂亮，战列舰图纸已掌握在我们手中！其中包含关于船员、配件和升级品的信息。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE"
+msgstr "看来部分敌舰撤退到了“新科隆”。我们需要迎难而上。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE_COMPLETED"
+msgstr "非常好，我们发现了普法尔茨战列舰的新图纸！这里存放着关于弹药库和弹药的信息。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_START"
+msgstr "“新柏林”基地由分布在岛屿上的九个基地组成。接近它们并不容易：几个舰船在水域巡逻。击沉它们以便进入基地！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_START_COMPLETED"
+msgstr "敌方巡逻舰成功击沉，通往“新柏林”基地的道路已打开！"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_CASUAL"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_HARD"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_MIDDLE"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_CASUAL"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_HARD"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_MIDDLE"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_CASUAL"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_HARD"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_MIDDLE"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_START"
+msgstr "亚历山大•乌瓦罗夫"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_CASUAL"
+msgstr "新威斯特法伦"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_HARD"
+msgstr "新杜塞尔多夫"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_MIDDLE"
+msgstr "新不来梅"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_CASUAL"
+msgstr "新汉堡"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_HARD"
+msgstr "新勃兰登堡"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_MIDDLE"
+msgstr "新梅克伦堡"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_CASUAL"
+msgstr "新萨克森"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_HARD"
+msgstr "新多特蒙德"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_MIDDLE"
+msgstr "新科隆"
+
+msgid "IDS_TERRITORY_TITLE_START"
+msgstr "别林斯高晋海"
+
+msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE_DESCRIPTION"
+msgstr "在水下启用时，高亮地形和水面战舰位置。"
+
+msgid "IDS_TOOLTIP_AVAILABLE_LATER"
+msgstr "未获得前一奖励"
