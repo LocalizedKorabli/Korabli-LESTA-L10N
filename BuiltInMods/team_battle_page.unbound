@@ -197,7 +197,7 @@
 		(var isKeyTargetVisible:bool = "rawKeyTargetValue && feature_9 != 'locked'")
 
 		
-		(macro PULL_PLAYER_COLOR _tkStatus = "tkStatus")
+		(macro PULL_PLAYER_COLOR _isAbuser = "isAbuser")
 		(var alphaOfText:number = "isAlive 	? playerNameColor == SC.Ui_styles.SERVICE_COLORS.WHITE 	? TA 
 																									: 1
 											: TS")
@@ -347,7 +347,7 @@
 				(style (marginLeft = 5px) (marginRight = "XS") (align = "middle|center"))
 
 				(element PlayerNameAndClanTag
-					_tkStatus =		"tkStatus"
+					_isAbuser =		"isAbuser"
 					_playerName =	"pureName"
 					_clanTag =		"clanTag"
 					_isBot =		"isBot"
@@ -512,7 +512,7 @@
 		
 		(macro PULL_PLAYER_COLOR
 			_isSelf = "isSelf"
-			_tkStatus = "tkStatus"
+			_isAbuser = "isAbuser"
 			_isInSameDivision = "isInSameDivision"
 		)
 		(var playerShipColor:number = "!isSelf && isInSameDivision	? SC.Ui_styles.SERVICE_COLORS.YELLOW
@@ -675,7 +675,7 @@
 
 				(element PlayerNameAndClanTag
 					_isSelf =			"isSelf"
-					_tkStatus =			"tkStatus"
+					_isAbuser =			"isAlive ? isAbuser : false"
 					_isInSameDivision =	"isInSameDivision"
 					_playerName =		"pureName"
 					_clanTag =			"clanTag"
@@ -1136,13 +1136,13 @@
 	(scope
 		(event evSelectAircarrierAmmo)
 
-		(var shipInfoWeaponCollection:gfx = "$datahub.getCollection(CC.selectedShipInfoWeapon)")
+		(var visualSlotDataCollection:gfx = "$datahub.getCollection(CC.visualSlotData)")
+		(var ammoBySelectedAvatar:gfx = "visualSlotDataCollection.getChildByPath('byAvatarId.' + _selectedAvatarId)" (event "visualSlotDataCollection.evChildAdded") (event "visualSlotDataCollection.evChildRemoved"))
+		(var ammoList:array = "ammoBySelectedAvatar.items" (event "ammoBySelectedAvatar.evAdded") (event "ammoBySelectedAvatar.evRemoved") (event "ammoBySelectedAvatar.evUpdated"))
 
-		(var ammoBySelectedAvatar:gfx = "shipInfoWeaponCollection.getChildByPath('byRowAndAvatarId.first_' + _selectedAvatarId)" (event "shipInfoWeaponCollection.evChildAdded") (event "shipInfoWeaponCollection.evChildRemoved"))
-		(var ammoList:gfx = "ammoBySelectedAvatar.items" (event "ammoBySelectedAvatar.evAdded") (event "ammoBySelectedAvatar.evRemoved") (event "ammoBySelectedAvatar.evUpdated"))
-
-		(var equipmentBySelectedAvatar:gfx = "shipInfoWeaponCollection.getChildByPath('byRowAndAvatarId.second_' + _selectedAvatarId + '.sorted')" (event "shipInfoWeaponCollection.evChildAdded") (event "shipInfoWeaponCollection.evChildRemoved"))
-		(var equipmentList:gfx = "equipmentBySelectedAvatar.items" (event "equipmentBySelectedAvatar.evAdded") (event "equipmentBySelectedAvatar.evRemoved") (event "equipmentBySelectedAvatar.evUpdated"))
+		(var consumableCollection:gfx = "$datahub.getCollection(CC.battleConsumable)")
+		(var consumableBySelectedAvatar:gfx = "consumableCollection.getChildByPath('byAvatarIdAndSquadronOwner.' + _selectedAvatarId + '_' + DEFAULT_SQUADRON_OWNER_ID)" (event "consumableCollection.evChildAdded") (event "consumableCollection.evChildRemoved"))
+		(var consumableList:array = "consumableBySelectedAvatar.items ?: []" (event "consumableBySelectedAvatar.evAdded") (event "consumableBySelectedAvatar.evRemoved") (event "consumableBySelectedAvatar.evUpdated"))
 	)
 
 	(element BG_Black)
@@ -1160,18 +1160,17 @@
 			(controller $Repeat renderer='ShipEquipmentOnTeamBattlePageItem'
 				(bind count "ammoList.length")
 				(args
-					_weaponSlotEntity = "ammoList[$index]"
+					_slotEntity = "ammoList[$index]"
 				)
 			)
 		)
 
 		(hblock
 			(style (marginTop = "M"))
-
 			(controller $Repeat renderer='ShipEquipmentOnTeamBattlePageItem'
-				(bind count "equipmentList.length")
+				(bind count "consumableList.length")
 				(args
-					_weaponSlotEntity = "equipmentList[$index]"
+					_slotEntity = "consumableList[$index]"
 				)
 			)
 		)
@@ -1182,17 +1181,21 @@
 	(scope
 		(event evSelectAircarrierAmmo)
 
-		(var shipInfoWeaponCollection:gfx = "$datahub.getCollection(CC.selectedShipInfoWeapon)")
+		(var visualSlotDataCollection:gfx = "$datahub.getCollection(CC.visualSlotData)")
+		(var ammoBySelectedAvatar:gfx = "visualSlotDataCollection.getChildByPath('byAvatarId.' + _selectedAvatarId)" (event "visualSlotDataCollection.evChildAdded") (event "visualSlotDataCollection.evChildRemoved"))
+		(var ammoList:array = "ammoBySelectedAvatar.items" (event "ammoBySelectedAvatar.evAdded") (event "ammoBySelectedAvatar.evRemoved") (event "ammoBySelectedAvatar.evUpdated"))
 
-		(var ammoBySelectedAvatar:gfx = "shipInfoWeaponCollection.getChildByPath('byRowAndAvatarId.first_' + _selectedAvatarId)" (event "shipInfoWeaponCollection.evChildAdded") (event "shipInfoWeaponCollection.evChildRemoved"))
-		(var ammoList:gfx = "ammoBySelectedAvatar.items" (event "ammoBySelectedAvatar.evAdded") (event "ammoBySelectedAvatar.evRemoved") (event "ammoBySelectedAvatar.evUpdated"))
-
-		(var selectedSquadronType:str = "ammoList[0].selectedShipInfoWeapon.squadType" (event "ammoBySelectedAvatar.evAdded") (event "ammoBySelectedAvatar.evRemoved") (event "ammoBySelectedAvatar.evUpdated"))
+		(var selectedSquadronType:str = "ammoList[0].visualSlotData.squadType" (event "ammoBySelectedAvatar.evAdded") (event "ammoBySelectedAvatar.evRemoved") (event "ammoBySelectedAvatar.evUpdated"))
 		(bind selectedSquadronType "$event._selectedSquadronType" init=false (event "evSelectAircarrierAmmo"))
+		(var selectedSquadronIndex:number = "ammoList[0].visualSlotData.squadId" (event "ammoBySelectedAvatar.evAdded") (event "ammoBySelectedAvatar.evRemoved") (event "ammoBySelectedAvatar.evUpdated"))
+		(bind selectedSquadronIndex "$event._selectedSquadronIndex" init=false (event "evSelectAircarrierAmmo"))
 
-		(var selectedSquadronAmmoCollection:gfx = "shipInfoWeaponCollection.getChildByPath('byRowAndAvatarId.second_' + _selectedAvatarId + '.bySquadType.' + selectedSquadronType)" (event "shipInfoWeaponCollection.evChildAdded") (event "shipInfoWeaponCollection.evChildRemoved"))
-		(var squadronAmmoList:gfx = "selectedSquadronAmmoCollection.items" (event "selectedSquadronAmmoCollection.evAdded") (event "selectedSquadronAmmoCollection.evRemoved") (event "selectedSquadronAmmoCollection.evUpdated"))
+		(var selectedSquadronAmmoCollection:gfx = "visualSlotDataCollection.getChildByPath('byAvatarIdAndSquadType.' + _selectedAvatarId + '_' + selectedSquadronType)" (event "visualSlotDataCollection.evChildAdded") (event "visualSlotDataCollection.evChildRemoved"))
+		(var squadronAmmoList:array = "selectedSquadronAmmoCollection.items ?: []" (event "selectedSquadronAmmoCollection.evAdded") (event "selectedSquadronAmmoCollection.evRemoved") (event "selectedSquadronAmmoCollection.evUpdated"))
 
+		(var consumableCollection:gfx = "$datahub.getCollection(CC.battleConsumable)")
+		(var consumableBySelectedAvatar:gfx = "consumableCollection.getChildByPath('byAvatarIdAndSquadronOwner.' + _selectedAvatarId + '_' + selectedSquadronIndex)" (event "consumableCollection.evChildAdded") (event "consumableCollection.evChildRemoved"))
+		(var consumableList:array = "consumableBySelectedAvatar.items ?: []" (event "consumableBySelectedAvatar.evAdded") (event "consumableBySelectedAvatar.evRemoved") (event "consumableBySelectedAvatar.evUpdated"))
 	)
 
 	(class $Fullsize)
@@ -1211,7 +1214,7 @@
 				(controller $Repeat renderer='ShipEquipmentOnTeamBattlePageItemWithTab'
 					(bind count "ammoList.length")
 					(args
-						_isSelected = "selectedSquadronType == ammoList[$index].selectedShipInfoWeapon.squadType"
+						_isSelected = "selectedSquadronType == ammoList[$index].visualSlotData.squadType"
 						_weaponSlotEntity = "ammoList[$index]"
 					)
 				)
@@ -1236,7 +1239,15 @@
 				(controller $Repeat renderer='ShipEquipmentOnTeamBattlePageItem'
 					(bind count "squadronAmmoList.length")
 					(args
-						_weaponSlotEntity = "squadronAmmoList[$index]"
+						_slotEntity = "squadronAmmoList[$index]"
+					)
+				)
+			)
+			(hblock
+				(controller $Repeat renderer='ShipEquipmentOnTeamBattlePageItem'
+					(bind count "consumableList.length")
+					(args
+						_slotEntity = "consumableList[$index]"
 					)
 				)
 			)
@@ -1263,7 +1274,7 @@
 
 		(var lineAlpha:number = "lineAlphaDict[state]")
 
-		(var isSlotInteractive:bool = "_weaponSlotEntity.selectedShipInfoWeapon.weaponType == SC.Ships.SHIP_WEAPON_TYPES.AIRPLANES")
+		(var isSlotInteractive:bool = "_weaponSlotEntity.visualSlotData.weaponType == SC.Ships.SHIP_WEAPON_TYPES.AIRPLANES")
 
 		(var isTabClickable:bool = "!_isSelected && isSlotInteractive")
 		(var soundEventName:str = "isTabClickable ? 'button_tab' : ''")
@@ -1278,10 +1289,14 @@
 	(macro MOUSE_EVENTS_DISPATCHER)
 	(macro SOUND_HANDLER "soundEventName")
 
-	(dispatch evSelectAircarrierAmmo args="{_selectedSquadronType: _weaponSlotEntity.selectedShipInfoWeapon.squadType}" dir="EventDirection.UP" (event "evClicked") (bind enabled "isTabClickable"))
+	(dispatch evSelectAircarrierAmmo
+		args="{_selectedSquadronType: _weaponSlotEntity.visualSlotData.squadType, _selectedSquadronIndex: _weaponSlotEntity.visualSlotData.squadId}"
+		dir="EventDirection.UP" (
+		event "evClicked") (bind enabled "isTabClickable")
+	)
 
 	(element ShipEquipmentOnTeamBattlePageItem
-		_weaponSlotEntity = "_weaponSlotEntity"
+		_slotEntity = "_weaponSlotEntity"
 	)
 
 	
@@ -1299,22 +1314,22 @@
 	)
 )
 
-(def element ShipEquipmentOnTeamBattlePageItem (_weaponSlotEntity:gfx)
+(def element ShipEquipmentOnTeamBattlePageItem (_slotEntity:gfx)
 	(scope
 		(event evWeaponItemClicked)
 
-		(var weaponSlotEntity:gfx = "_weaponSlotEntity")
-		(var weaponSlotEntityComponent:gfx = "weaponSlotEntity.selectedShipInfoWeapon")
-		(var paramsDescriptor:str = "weaponSlotEntityComponent ? weaponSlotEntityComponent.paramsDescriptor : ''")
-		(var iconPath:str = "weaponSlotEntityComponent.iconPath")
+		(var equipmentSlotComponent:gfx = "_slotEntity.visualSlotData ?: _slotEntity.battleConsumable")
+		(var iconPath:str = "equipmentSlotComponent.iconPath")
+		(var paramsDescriptor:str = "_slotEntity.hasComponent(CC.visualSlotData) ? equipmentSlotComponent.id : ''")
 
 		(var selectedShipInfoEntity:gfx = "$datahub.getSingleEntity(CC.selectedShipInfo)")
 		(var shipTTX:gfx = "selectedShipInfoEntity.selectedShipInfo.shipTTX" (event "selectedShipInfoEntity.selectedShipInfo.evChanged"))
 		(var isChargeableDrum:bool = "shipTTX.artillery.drumFireMode.isChargeable.value")
 		(var isSwitchableDrum:bool = "shipTTX.artillery.drumFireMode.isSwitchable.value")
 		(var isShowDrumMode:bool = "shipTTX.artillery.drumFireMode && (isChargeableDrum || !isSwitchableDrum)")
+		(var showSlot:bool = "equipmentSlotComponent.id != SC.Ships.SHIP_INFO_WEAPON_TYPE.VALUE_TO_NAME[SC.Ships.SHIP_INFO_WEAPON_TYPE.FIRE_MODE] || isSwitchableDrum")
 	)
-	(bind visible "$index < MAX_SLOT_COUNT")
+	(bind visible "$index < MAX_SLOT_COUNT && showSlot")
 	(style
 		(marginLeft = "S")
 		(marginRight = "S")
@@ -1325,7 +1340,7 @@
 	(controller $Tooltip
 		(bind renderer "'ShipEquipmentOnTeamBattlePageItemTooltip'")
 		(args
-			_weaponSlotEntity = "weaponSlotEntity"
+			_slotEntity = "_slotEntity"
 			_isShowDrumMode = "isShowDrumMode"
 		)
 		(cache = false)
@@ -1335,7 +1350,7 @@
 		(class $FullsizeAbsolute)
 		(style
 			(backgroundSize = "fill")
-			(bind backgroundImage "'url:' + iconPath")
+			(bind backgroundImage "iconPath")
 		)
 	)
 	(block
@@ -1349,26 +1364,23 @@
 	)
 )
 
-(def element ShipEquipmentOnTeamBattlePageItemTooltip (_weaponSlotEntity:gfx, _isShowDrumMode:bool) layout=true
+(def element ShipEquipmentOnTeamBattlePageItemTooltip (_slotEntity:gfx, _isShowDrumMode:bool)
 	(scope
 		(macro SELECTED_AVATAR_ID)
 		(var shipTTX:gfx = "selectedShipInfoEntity.selectedShipInfo.shipTTX" (event "selectedShipInfoEntity.selectedShipInfo.evChanged"))
 
-		(var selectedShipInfoWeaponComponent:gfx = "_weaponSlotEntity.selectedShipInfoWeapon")
-		(var paramsDescriptor:str = "selectedShipInfoWeaponComponent ? selectedShipInfoWeaponComponent.paramsDescriptor : ''")
+		(var equipmentSlotComponent:gfx = "_slotEntity.visualSlotData ?: _slotEntity.battleConsumable")
+		(var paramsDescriptor:str = "_slotEntity.hasComponent(CC.visualSlotData) ? equipmentSlotComponent.id : ''")
+		(var title:str = 			"equipmentSlotComponent.title")
+		(var subheader:str = 		"equipmentSlotComponent.subheader")
+		(var iconPath:str = 		"equipmentSlotComponent.iconPath")
 
-		(var iconPath:str = "selectedShipInfoWeaponComponent.iconPath")
-		(var title:str = "selectedShipInfoWeaponComponent ? selectedShipInfoWeaponComponent.title : ''")
-		(var subheader:str = "selectedShipInfoWeaponComponent ? selectedShipInfoWeaponComponent.subheader : ''")
+		(var attributesComponent:gfx = "_slotEntity.attributes")
+		(var attributesNegative:array = "attributesComponent.negative 	?: []" (event "attributesComponent.evChanged"))
+		(var attributesNeutral:array = 	"attributesComponent.neutral 	?: []"	(event "attributesComponent.evChanged"))
+		(var attributesPositive:array = "attributesComponent.positive 	?: []" (event "attributesComponent.evChanged"))
 
-		(var attributesComponent:gfx = "_weaponSlotEntity ? _weaponSlotEntity.attributes : null")
-		(var attributesNegative:array = "_weaponSlotEntity ? attributesComponent.negative : []"	(event "attributesComponent.evChanged"))
-		(var attributesNeutral:array = "_weaponSlotEntity ? attributesComponent.neutral : []"	(event "attributesComponent.evChanged"))
-		(var attributesPositive:array = "_weaponSlotEntity ? attributesComponent.positive : []"	(event "attributesComponent.evChanged"))
-
-		(var squadTypeForStatistics:str = "selectedShipInfoWeaponComponent.squadType ? '_' + selectedShipInfoWeaponComponent.squadType : ''")
-		(var timeStatisticsEventName:str = "SC.Common.SHIP_INFO_STATISTICS.WEAPON_TTX_TOOLTIP_OPENED + ':' + selectedAvatarId + '_' +
-			SC.Ships.SHIP_INFO_WEAPON_TYPE.VALUE_TO_NAME[selectedShipInfoWeaponComponent.type] + squadTypeForStatistics + '_' + selectedShipInfoWeaponComponent.name")
+		(var timeStatisticsEventName:str = "SC.Common.SHIP_INFO_STATISTICS.WEAPON_TTX_TOOLTIP_OPENED + ':' + selectedAvatarId + '_' + equipmentSlotComponent.title")
 	)
 
 	(bindcall externalCall 'direct.action' "[SC.Common.STATISTICS_EVENTS.LOG_START, [timeStatisticsEventName]]" init=false watch=false on='addedToStage')
@@ -1381,7 +1393,7 @@
 
 	(element TOOLTIP_SYSTEM_DEFAULT_CONTAINER
 		(element TooltipSystemHeaderWithIconAndText
-			_imageUrl =			"'url:' + iconPath"
+			_imageUrl =			"iconPath"
 			_imageWidth =		60
 			_imageHeight =		60
 			_headerText =		"title"
@@ -1400,6 +1412,7 @@
 				(args
 					_ttxDescriptor = "paramsDescriptor"
 					_shipTTX = "shipTTX"
+					_avatarId = "selectedAvatarId"
 				)
 			)
 			(controller $Instance renderer = 'WeaponTooltipBurstFire'
@@ -1416,6 +1429,7 @@
 			(style (width = 100%))
 			(controller $Instance renderer='TooltipSystemParamsModifiersList'
 				(bind enabled "!paramsDescriptor")
+				
 				(args
 					_attributesPositive =	"attributesPositive"
 					_attributesNeutral =	"attributesNeutral"
