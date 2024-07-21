@@ -5415,13 +5415,13 @@ msgid "IDS_ASSIGN_CREW_DENY_REASON_CURRENT_SHIP_IN_BATTLE"
 msgstr "指挥官从战斗中返回后，就可以将该指挥官指派至战舰。"
 
 msgid "IDS_ASSIGN_CREW_DENY_REASON_CURRENT_SHIP_IN_FORMATION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能更换指挥官。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能更换指挥官。"
 
 msgid "IDS_ASSIGN_CREW_DENY_REASON_TARGET_SHIP_IN_BATTLE"
 msgstr "请等待至战舰结束战斗再更换指挥官。"
 
 msgid "IDS_ASSIGN_CREW_DENY_REASON_TARGET_SHIP_IN_FORMATION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能指派指挥官到战舰。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能指派指挥官到战舰。"
 
 msgid "IDS_ASSIGN_CREW_FULL_BARRACKS"
 msgstr "预备队中没有空位。"
@@ -8633,7 +8633,7 @@ msgid "IDS_CHANGE_NAME_TAKES_EFFECT"
 msgstr "改动需要一段时间才能生效。"
 
 msgid "IDS_CHANGE_PORT_HINT_DIVISION"
-msgstr "在小队中时，点击“取消准备”后才能切换港口。"
+msgstr "在小队中时，点击“未准备”后才能切换港口。"
 
 msgid "IDS_CHANGE_REALM_RESTART_INFO"
 msgstr "重新启动游戏来改变您的地区。"
@@ -19795,7 +19795,7 @@ msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_BATTLE"
 msgstr "要将指挥官送回预备队，请等待他们从战斗中返回。"
 
 msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_FORMATION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能将指挥官送回预备队。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能将指挥官送回预备队。"
 
 msgid "IDS_DISCIPLINES"
 msgstr "挑战"
@@ -27147,7 +27147,7 @@ msgid "IDS_FAST_TRAINING_DISABLE_REASON_SHIP_IS_IN_BATTLE"
 msgstr "加速训练将在指挥官从战斗中返回后可用。"
 
 msgid "IDS_FAST_TRAINING_DISABLE_REASON_SHIP_IS_IN_FORMATION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能加速指挥官的训练。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能加速指挥官的训练。"
 
 msgid "IDS_FEAT_APBOMBS"
 msgstr "穿甲炸弹"
@@ -28668,7 +28668,7 @@ msgid "IDS_FIRE_CREW_DENY_REASON_IN_BATTLE"
 msgstr "指挥官可以在从战场返回后被解雇。"
 
 msgid "IDS_FIRE_CREW_DENY_REASON_IN_FORMATION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能解雇指挥官。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能解雇指挥官。"
 
 msgid "IDS_FIRE_CREW_WILL_RECEIVE"
 msgstr "您将收到"
@@ -29169,7 +29169,7 @@ msgid "IDS_FREE_SKILLPOINTS_DENY_REASON_IN_BATTLE"
 msgstr "一旦指挥官从战斗中返回就可以重置技能。"
 
 msgid "IDS_FREE_SKILLPOINTS_DENY_REASON_IN_DIVISION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能重置技能。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能重置技能。"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT"
 msgstr "未分配的技能点数："
@@ -29950,7 +29950,7 @@ msgid "IDS_GUIDING_TIP_130_HEADER"
 msgstr "选择战斗模式"
 
 msgid "IDS_GUIDING_TIP_132_DESC"
-msgstr "已设置为“准备好小队作战”状态，点击“取消准备”后才能更改战舰外观。"
+msgstr "已设置为“准备好小队作战”状态，点击“未准备”后才能更改战舰外观。"
 
 msgid "IDS_GUIDING_TIP_132_HEADER"
 msgstr "战舰外观"
@@ -29968,7 +29968,7 @@ msgid "IDS_GUIDING_TIP_134_HEADER"
 msgstr "战舰外观"
 
 msgid "IDS_GUIDING_TIP_135_DESC"
-msgstr "已设置为“准备好小队作战”状态，点击“取消准备”后才能安装信号旗。"
+msgstr "已设置为“准备好小队作战”状态，点击“未准备”后才能安装信号旗。"
 
 msgid "IDS_GUIDING_TIP_135_HEADER"
 msgstr "安装信号旗"
@@ -29986,7 +29986,7 @@ msgid "IDS_GUIDING_TIP_137_HEADER"
 msgstr "安装信号旗"
 
 msgid "IDS_GUIDING_TIP_138_DESC"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能变更经济加成。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能变更经济加成。"
 
 msgid "IDS_GUIDING_TIP_138_HEADER"
 msgstr "经济加成"
@@ -30010,7 +30010,7 @@ msgid "IDS_GUIDING_TIP_140_HEADER"
 msgstr "经济加成"
 
 msgid "IDS_GUIDING_TIP_141_DESC"
-msgstr "已设置为“准备好小队作战”状态，点击“取消准备”后才能管理指挥官。"
+msgstr "已设置为“准备好小队作战”状态，点击“未准备”后才能管理指挥官。"
 
 msgid "IDS_GUIDING_TIP_141_HEADER"
 msgstr "指挥官训练"
@@ -30022,7 +30022,7 @@ msgid "IDS_GUIDING_TIP_142_HEADER"
 msgstr "指挥官训练"
 
 msgid "IDS_GUIDING_TIP_144_DESC"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能更换已安装的升级品。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能更换已安装的升级品。"
 
 msgid "IDS_GUIDING_TIP_144_HEADER"
 msgstr "安装升级品"
@@ -33415,7 +33415,7 @@ msgid "IDS_LEARN_SKILLS_DENY_REASON_IN_BATTLE"
 msgstr "一旦指挥官从战斗中返回就可以学习技能。"
 
 msgid "IDS_LEARN_SKILLS_DENY_REASON_IN_DIVISION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能学习技能。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能学习技能。"
 
 msgid "IDS_LEARN_SKILLS_DENY_REASON_NOT_ENOUGH_POINTS"
 msgstr "未分配技能点数不足，不能学习技能。"
@@ -38730,7 +38730,7 @@ msgid "IDS_NOT_PURCHASED"
 msgstr "尚未购买"
 
 msgid "IDS_NOT_READY"
-msgstr "取消准备"
+msgstr "未准备"
 
 msgid "IDS_NOT_READY_TO_BATTLE_IN_DIVISION"
 msgstr "未准备好小队作战"
@@ -38742,10 +38742,10 @@ msgstr ""
 "选择一艘合适的战舰并点击“准备”来进入战斗。"
 
 msgid "IDS_NOT_READY_TO_BATTLE_IN_FORMATION_INFO"
-msgstr "点击“取消准备”后才可以选择其它战舰或修改该舰的配置。"
+msgstr "点击“未准备”后才可以选择其它战舰或修改该舰的配置。"
 
 msgid "IDS_NOT_READY_TO_BATTLE_IN_FORMATION_INFO_HINT_ASSIGN_CREW_TO_THIS_SHIP"
-msgstr "点击“取消准备”后才可以指派指挥官到所选战舰上。"
+msgstr "点击“未准备”后才可以指派指挥官到所选战舰上。"
 
 msgid "IDS_NOT_READY_TO_BATTLE_IN_FORMATION_STATUS"
 msgstr ""
@@ -44235,7 +44235,7 @@ msgstr ""
 msgid "IDS_PARAGON_DENY_REASON_IS_IN_DIVISION"
 msgstr ""
 "其中一艘战舰处于“准备好小队作战”状态。\n"
-"点击“取消准备”后才能重置研发进程。"
+"点击“未准备”后才能重置研发进程。"
 
 msgid "IDS_PARAGON_DENY_REASON_IS_NEED_SERVICE"
 msgstr ""
@@ -107388,7 +107388,7 @@ msgid "IDS_READY_TO_BATTLE_IN_DIVISION_INFO"
 msgstr "您已准备好加入小队战斗"
 
 msgid "IDS_READY_TO_BATTLE_IN_FORMATION_INFO_2"
-msgstr "点击“取消准备”后才能选择其他战舰或修改战舰配置。"
+msgstr "点击“未准备”后才能选择其他战舰或修改战舰配置。"
 
 msgid "IDS_READY_TO_BATTLE_IN_FORMATION_STATUS"
 msgstr "已准备好作战"
@@ -108063,7 +108063,7 @@ msgid "IDS_RETRAINING_DISABLE_REASON_SHIP_IS_IN_BATTLE"
 msgstr "加速重新训练将在指挥官从战斗中返回后可用。"
 
 msgid "IDS_RETRAINING_DISABLE_REASON_SHIP_IS_IN_FORMATION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能加速指挥官的重新训练。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能加速指挥官的重新训练。"
 
 msgid "IDS_RETRAINING_FOR"
 msgstr "正在重新训练至"
@@ -114766,7 +114766,7 @@ msgid "IDS_SESSION_VICTORY_PERCENT"
 msgstr "战斗胜率。"
 
 msgid "IDS_SET_NOT_READY_TO_BATTLE_IN_FORMATION"
-msgstr "点击“取消准备”"
+msgstr "点击“未准备”"
 
 msgid "IDS_SET_PRIORITY_SECTOR"
 msgstr "选择优先防空区域"
@@ -114778,31 +114778,31 @@ msgid "IDS_SET_READY_TO_BATTLE_IN_FORMATION"
 msgstr "点击“准备”"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_BUY_MODERNIZATION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能更换升级品。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能更换升级品。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_CHANGE_CONSUMABLES"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能更换消耗品。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能更换消耗品。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_FREE_CREW_SKILLPOINTS"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能重新分配技能。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能重新分配技能。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_MANAGE_SHIP"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能更换装备。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能更换装备。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_AUTOPURCHASE"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能管理自动购买。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能管理自动购买。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_ECONOMIC_BOOSTS"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能变更经济加成。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能变更经济加成。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_EXTERIORS"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能更改战舰外观。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能更改战舰外观。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能更换升级品。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能更换升级品。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_SIGNALS"
-msgstr "已选择“准备好小队作战”状态，点击“取消准备”后才能变更信号旗。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能变更信号旗。"
 
 msgid "IDS_SEVENTH_AMERICAN_ARCSUBCOLLECTION_NAME"
 msgstr "战斗评级"
@@ -115685,7 +115685,7 @@ msgid "IDS_SHIP_IN_DOCK"
 msgstr "战舰在港口中。"
 
 msgid "IDS_SHIP_IN_FORMATION_MESSAGE_1"
-msgstr "点击“取消准备”后才能选择其他战舰或修改战舰配置。"
+msgstr "点击“未准备”后才能选择其他战舰或修改战舰配置。"
 
 msgid "IDS_SHIP_IS_ELITE_HEADING"
 msgstr "精英战舰状态"
@@ -118782,7 +118782,7 @@ msgid "IDS_SHIP_RENT_CREW_HINT"
 msgstr "租用期为%(_timeLeft)s的战舰指挥官"
 
 msgid "IDS_SHIP_RENT_TIME_IS_UP_TOOLTIP"
-msgstr "此战舰将在您离开战斗，或将状态设置为“取消准备”时从您的账号中移除"
+msgstr "此战舰将在您离开战斗，或将状态设置为“未准备”时从您的账号中移除"
 
 msgid "IDS_SHIP_RENT_UNTIL_ZERO"
 msgstr "战舰租用期即将到期"
