@@ -20,16 +20,14 @@
 
 ### 下载
 
-#### 通过国内网盘
+#### 通过蓝奏云
 
-[蓝奏云](https://tapio.lanzouw.com/b01lit85i)（密码：256r）
-
-1. 汉化安装器：选择`汉化安装器`文件夹，下载最新`exe`文件；
-2. （汉化安装器已内置汉化包下载功能，按需下载）汉化包：根据游戏版本选择正确的文件夹，下载最新压缩包并解压出`global.mo`文件。
+1. 汉化安装器（[GUI新版](https://tapio.lanzn.com/b0nybehgb) | [命令行旧版](https://tapio.lanzn.com/b0nybx87c)）：下载最新`exe`文件；
+2. （汉化安装器已内置汉化包下载功能，按需下载）[汉化包](https://tapio.lanzn.com/b01lit85i)：根据游戏版本选择正确的文件夹，下载最新压缩包并解压出`global.mo`文件。
 
 #### 通过 GitHub
 
-1. 汉化安装器：[下载](https://github.com/LocalizedKorabli/L10nInstaller/releases/download/v2024.07.03.1331/L10nInstaller-v2024.07.03.1331.exe)；
+1. 汉化安装器：[GUI新版](https://github.com/LocalizedKorabli/L10nInstallerGUI/releases/latest) | [命令行旧版](https://github.com/LocalizedKorabli/L10nInstaller/releases/latest)；
 2. （汉化安装器已内置汉化包下载功能，按需下载）汉化包：在本仓库[Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)中，下载该发布版本下的`global.mo`文件；
 
 ### 安装
@@ -49,8 +47,10 @@
 
 #### 安装模组
 
-1. 将相应模组的`mo`文件（从蓝奏云下载的模组需先解压）放入游戏目录下`l10n_installer`文件夹下的`mods`文件夹（这些文件夹会在第一次运行汉化安装器时被创建）；
-2. 运行汉化安装器，在提示`是否将l10n_installer/mods/下的模组应用到汉化文件？`时输入Y后按回车键，等待安装器将模组应用到即将被安装的汉化包。
+- 将相应模组的`mo`文件（从蓝奏云下载的模组需先解压）放入游戏目录下`l10n_installer`文件夹下的`mods`文件夹（这些文件夹会在第一次运行汉化安装器时被创建）；
+- 运行汉化安装器；
+- （GUI新版安装器）勾选“安装模组（汉化修改包）”；
+- （命令行旧版安装器）在提示`是否将l10n_installer/mods/下的模组应用到汉化文件？`时输入Y后按回车键，等待安装器将模组应用到即将被安装的汉化包。
 
 </details>
 
