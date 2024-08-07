@@ -123079,7 +123079,7 @@ msgid "IDS_SUBST_SSE_DAILY_RESET_IN"
 msgstr "每日任务将在%(timeLeft)s后重置"
 
 msgid "IDS_SUBST_SSE_DAILY_RESET_IN_TOOLTIP"
-msgstr "任务每天都会重置。距离下次重置还有%(timeLeft)s。"
+msgstr "任务每天都会重置。下次重置时间：%(timeLeft)s。"
 
 msgid "IDS_SUBST_SSE_EXPIRES_AT"
 msgstr "任务有效期截止到%(expiryDateTime)s"
