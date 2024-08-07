@@ -1,7 +1,15 @@
-(def constant HALF_TABLE_WIDTH "408")
-(def constant TABLE_WIDTH "HALF_TABLE_WIDTH * 2 + 2")
-(def constant LINE_HEIGHT "32")
-(def constant MAX_SLOT_COUNT 6)
+
+
+(def constant COLUMN_DIVISIONS_WIDTH 40)
+(def constant COLUMN_PLAYER_WIDTH 166)
+(def constant COLUMN_PLAYER_WIDTH_ONE_TEAM 385)
+(def constant COLUMN_SHIP_WIDTH 200)
+(def constant COLUMN_SHIP_WIDTH_ONE_TEAM 434)
+(def constant COLUMN_FRAGS_WIDTH 46)
+
+(def constant HALF_TABLE_WIDTH "COLUMN_DIVISIONS_WIDTH + COLUMN_PLAYER_WIDTH + COLUMN_SHIP_WIDTH + COLUMN_FRAGS_WIDTH")
+(def constant TABLE_WIDTH "COLUMN_DIVISIONS_WIDTH + COLUMN_PLAYER_WIDTH_ONE_TEAM + COLUMN_SHIP_WIDTH_ONE_TEAM + COLUMN_FRAGS_WIDTH")
+(def constant LINE_HEIGHT 32)
 
 (def constant C_RED_HEADER 0x77FF2E05)
 (def constant C_GREEN_HEADER 0x7700CC7A)
@@ -56,7 +64,7 @@
 
 		(hblock
 			(class $FullsizeAbsolute)
-			(style (hitTest = false) (paddingTop = "LINE_HEIGHT + 2"))
+			(style (hitTest = false) (paddingTop = "LINE_HEIGHT"))
 			(block
 				(style
 					(height = 100%) (backgroundColor = "C_DARK") (alpha = "0.15")
@@ -65,7 +73,7 @@
 			)
 			(block
 				(bind visible "!isOnlyTeam")
-				(style (width = "HALF_TABLE_WIDTH") (height = 100%) (backgroundColor = "C_DARK") (alpha = "0.15") (marginLeft = 2px))
+				(style (width = "HALF_TABLE_WIDTH") (height = 100%) (backgroundColor = "C_DARK") (alpha = "0.15") (marginLeft = 1px))
 			)
 		)
 
@@ -85,9 +93,9 @@
 		
 		(block
 			(bind visible "!isOnlyTeam")
-			(style (width = 2px) (height = 100%))
+			(style (width = 1px) (height = 100%))
 		)
-			
+
 		(block
 			(controller $Instance renderer='UIlistTeamStructureRight'
 				(bind enabled "!isOnlyTeam")
@@ -118,21 +126,17 @@
 		(style (width = 100%) (height = "LINE_HEIGHT") (backgroundColor = "C_RED_HEADER"))
 	)
 
-	(element TableDivider)
 	(block
-		(style (width = 100%))
-		(block
-			(style (right = 0px) (width = 100%))
+		(style (right = 0px) (width = 100%))
 
-			(controller $Repeat renderer='SimpleUIListTeamStructureRight'
-				(bind count "avatarCollectionArray.length")
-				(args
-					_avatarEntity = "avatarCollectionArray[$index]"
-					_isBattleLoading = "_isBattleLoading"
-					_isBattleStats = "_isBattleStats"
-					_battleType = "_battleType"
-					_isFogOfWar = "_isFogOfWar"
-				)
+		(controller $Repeat renderer='SimpleUIListTeamStructureRight'
+			(bind count "avatarCollectionArray.length")
+			(args
+				_avatarEntity = "avatarCollectionArray[$index]"
+				_isBattleLoading = "_isBattleLoading"
+				_isBattleStats = "_isBattleStats"
+				_battleType = "_battleType"
+				_isFogOfWar = "_isFogOfWar"
 			)
 		)
 	)
@@ -237,15 +241,14 @@
 		)
 
 		(controller $Tooltip
-			(bind renderer "'BattlePlayerTooltip'")
+			(renderer = 'BattlePlayerTooltip')
 			(args
 				_playerEntity = "_avatarEntity"
 				_isInStats = true
 				_isBot = "isBot"
 				_isSelected = "isSelected"
 			)
-			(cache = false)
-			(macro DEFAULT_TOOLTIP_BEHAVIOUR "0")
+			(macro DEFAULT_TOOLTIP_BEHAVIOUR)
 		)
 
 		(controller $Tooltip
@@ -255,7 +258,6 @@
 				_playerEntity =	"_avatarEntity"
 				_selfPlayer =	"selfPlayerEntity"
 			)
-			(cache = false)
 			(macro DEFAULT_MENU_BEHAVIOUR "1")
 			(macro TOOLTIP_HIDE_ON_EVENT "evMenuItemClicked")
 			(dispatch evContextMenuShowed dir="EventDirection.DOWN" on='evStartShow')
@@ -275,15 +277,18 @@
 		)
 	)
 
+	
 	(hblock
 		(class $Fullsize)
 		(style (hitTest = false))
-
-		
 		(block
 			(bind name "'player_tab_state_' + name")
+			(style
+				(width = "COLUMN_FRAGS_WIDTH")
+				(height = 100%)
+				
+			)
 
-			(class $Fullsize)
 			(element LoadingIndicatorAndFrags
 				_isBattleLoading =			"_isBattleLoading"
 				_isBattleStats =			"_isBattleStats"
@@ -294,14 +299,14 @@
 				_isShipHidedByFogOfWar =	"isDetectionInfoHidden"
 			)
 		)
-		
 
 		
 		(block
 			(style
-				(marginLeft = "XS")
-				(width = 169px)
+				(paddingLeft = "XS")
+				(width = "COLUMN_SHIP_WIDTH")
 				(height = 100%)
+				
 			)
 
 			(element ShipIconAndLevelAndName
@@ -315,36 +320,43 @@
 				_isShipHidedByFogOfWar =	"isDetectionInfoHidden"
 			)
 		)
-		
-		
-		(block
-			(style
-				(align = "middle|center")
-				(marginLeft = "XS")
-				(width = 19px)
-				(height = 100%)
-			)
-
-			(controller $Instance renderer='KeyTargetIcon'
-				(bind enabled "isKeyTargetVisible")
-			)
-		)
 
 		
 		(hblock
 			(bind name "'player_tab_name_' + name")
 
 			(style
-				(marginLeft = "XS")
+				(paddingLeft = "XS")
+				(paddingRight = "XS")
 				(height = 100%)
-				(width = 148px)
+				(width = "COLUMN_PLAYER_WIDTH")
 				(bind alpha "alphaOfText")
+				(align = "center|middle")
+				
+			)
+
+			
+			(block
+				(style
+					(align = "middle")
+					(marginLeft = "XS")
+					(width = 19px)
+					(height = 100%)
+				)
+
+				(controller $Instance renderer='KeyTargetIcon'
+					(bind enabled "isKeyTargetVisible")
+				)
 			)
 			
 			
 			(block
 				(class $Fullsize)
-				(style (marginLeft = 5px) (marginRight = "XS") (align = "middle|center"))
+				(style
+					(marginRight = "XS")
+					(marginLeft = "S")
+					(align = "middle")
+				)
 
 				(element PlayerNameAndClanTag
 					_isAbuser =		"isAbuser"
@@ -358,11 +370,22 @@
 
 		(hblock
 			(style
-				(width = 36px)
+				(width = "COLUMN_DIVISIONS_WIDTH")
 				(height = 100%)
-				(align = "left|middle")
-				(marginLeft = "XS")
-				(marginRight = "XS")
+				(align = "middle")
+				
+			)
+
+			
+			(block
+				(bind visible "division > 0 && !divisionHidden")
+				(style
+					(width = 19px)
+					(height = 19px)
+					(marginTop = 2px)
+					(marginLeft = 5px)
+					(bind backgroundImage "'swf:../service_kit/divisions_icons/svg/svg.swf:division_another_' + DIVISION_LETTERS_ARRAY[divisionSign]")
+				)
 			)
 
 			
@@ -373,24 +396,6 @@
 				_isSpeaking = "isSpeaking"
 				_isVoiceChatMuted = "isMuted"
 				_isInVoiceChat = "playerVoiceStateEntity != null"
-
-				(style
-					(position = "absolute")
-					(top = 5px)
-					(left = 15px)
-					(width = 19px)
-					(height = 19px)
-				)
-			)
-
-			
-			(block
-				(bind visible "division > 0 && !divisionHidden")
-				(style
-					(width = 19px)
-					(height = 19px)
-					(bind backgroundImage "'swf:../service_kit/divisions_icons/svg/svg.swf:division_another_' + DIVISION_LETTERS_ARRAY[divisionSign]")
-				)
 			)
 		)
 	)
@@ -422,22 +427,18 @@
 		(style (width = 100%) (height = "LINE_HEIGHT") (backgroundColor = "C_GREEN_HEADER"))
 	)
 
-	(element TableDivider)
 	(block
 		(style (width = 100%))
-		(block
-			(style (width = 100%))
-			(controller $Repeat renderer='SimpleUIListTeamStructureLeft'
-				(bind count "isChallenge ? challengeParticipantCollectionArray.length : avatarCollectionArray.length")
-				(args
-					_avatarEntity = "isChallenge ? challengeParticipantCollectionArray[$index] : avatarCollectionArray[$index]"
-					_isBattleLoading = "_isBattleLoading"
-					_isBattleStats = "_isBattleStats"
-					_battleType = "_battleType"
-					_isDynamicDivisionsEnabled = "_isDynamicDivisionsEnabled"
-					_isOnlyTeam = "_isOnlyTeam"
-					_isChallenge = "isChallenge"
-				)
+		(controller $Repeat renderer='SimpleUIListTeamStructureLeft'
+			(bind count "isChallenge ? challengeParticipantCollectionArray.length : avatarCollectionArray.length")
+			(args
+				_avatarEntity = "isChallenge ? challengeParticipantCollectionArray[$index] : avatarCollectionArray[$index]"
+				_isBattleLoading = "_isBattleLoading"
+				_isBattleStats = "_isBattleStats"
+				_battleType = "_battleType"
+				_isDynamicDivisionsEnabled = "_isDynamicDivisionsEnabled"
+				_isOnlyTeam = "_isOnlyTeam"
+				_isChallenge = "isChallenge"
 			)
 		)
 	)
@@ -555,15 +556,14 @@
 		)
 
 		(controller $Tooltip
-			(bind renderer "'BattlePlayerTooltip'")
+			(renderer = 'BattlePlayerTooltip')
 			(args
 				_playerEntity = "_avatarEntity"
 				_isInStats = true
 				_isBot = "isBot"
 				_isSelected = "isSelected"
 			)
-			(cache = false)
-			(macro DEFAULT_TOOLTIP_BEHAVIOUR "0")
+			(macro DEFAULT_TOOLTIP_BEHAVIOUR)
 		)
 
 		(controller $Tooltip
@@ -573,7 +573,6 @@
 				_playerEntity =	"_avatarEntity"
 				_selfPlayer =	"selfPlayerEntity"
 			)
-			(cache = false)
 			(macro DEFAULT_MENU_BEHAVIOUR "1")
 			(macro TOOLTIP_HIDE_ON_EVENT "evMenuItemClicked")
 			(dispatch evContextMenuShowed dir="EventDirection.DOWN" on='evStartShow')
@@ -600,9 +599,10 @@
 		
 		(hblock
 			(style
-				(width = 36px)
+				(width = "COLUMN_DIVISIONS_WIDTH")
 				(height = 100%)
-				(align = "right|middle")
+				(align = "middle")
+				
 			)
 
 			(element UIListVoiceTextChatIcons
@@ -613,14 +613,6 @@
 				_isSpeaking = "isSpeaking"
 				_isVoiceChatMuted = "isMuted"
 				_isInVoiceChat = "playerVoiceStateEntity != null"
-
-				(style
-					(position = "absolute")
-					(top = 5px)
-					(right = 15px)
-					(width = 19px)
-					(height = 19px)
-				)
 			)
 
 			
@@ -630,6 +622,7 @@
 				(style
 					(width = 19px)
 					(height = 19px)
+					(marginTop = 2px)
 					(bind backgroundImage "	isDivisionCommander && isInSameDivision ? 'swf:../service_kit/divisions_icons/svg/svg.swf:division_your_commander' :
 											isInSameDivision 						? 'swf:../service_kit/divisions_icons/svg/svg.swf:division_your_' + DIVISION_LETTERS_ARRAY[divisionSign]
 																					: 'swf:../service_kit/divisions_icons/svg/svg.swf:division_another_' + DIVISION_LETTERS_ARRAY[divisionSign]")
@@ -637,18 +630,14 @@
 			)
 
 			
+
 			(block
-				(bind visible "division == 0 && !isSelf && _isDynamicDivisionsEnabled")
-				(class $Fullsize)
-				(style (align = "middle|center"))
-				
-				(block
-					(bind visible "isInvited")
-					(style
-						(width = 19px)
-						(height = 19px)
-						(backgroundImage = 'swf:../service_kit/divisions_icons/svg/svg.swf:division_invited')
-					)
+				(bind visible "division == 0 && !isSelf && _isDynamicDivisionsEnabled && isInvited")
+				(style
+					(width = 19px)
+					(height = 19px)
+					(marginTop = 2px)
+					(backgroundImage = 'swf:../service_kit/divisions_icons/svg/svg.swf:division_invited')
 				)
 			)
 		)
@@ -658,53 +647,49 @@
 			(bind name "'player_tab_name_' + name")
 
 			(style
-				(marginLeft = "XS")
+				(paddingLeft = "XS")
+				(paddingRight = "XS")
 				(height = 100%)
-				(bind width "_isOnlyTeam ? 363 : 148")
+				(bind width "_isOnlyTeam ? COLUMN_PLAYER_WIDTH_ONE_TEAM : COLUMN_PLAYER_WIDTH")
 				(bind alpha "alphaOfText")
+				(align = "center|middle")
+				
 			)
 			
 			
+
+			(element PlayerNameAndClanTag
+				_isSelf =			"isSelf"
+				_isAbuser =			"isAlive ? isAbuser : false"
+				_isInSameDivision =	"isInSameDivision"
+				_playerName =		"pureName"
+				_clanTag =			"clanTag"
+				_isBot =			"isBot"
+				_isTextBold =		"isSelf || isSelected"
+			)
+		)
+
+
+		
+		(hblock
+			(style
+				(paddingLeft = "XS")
+				(bind width "_isOnlyTeam ? COLUMN_SHIP_WIDTH_ONE_TEAM : COLUMN_SHIP_WIDTH")
+				(height = 100%)
+				
+			)
+
+			
 			(block
-				(class $Fullsize)
 				(style
-					(align = "middle|center")
-					(marginLeft = 5px)
+					(align = "middle")
+					(height = 100%)
 					(marginRight = "XS")
 				)
 
-				(element PlayerNameAndClanTag
-					_isSelf =			"isSelf"
-					_isAbuser =			"isAlive ? isAbuser : false"
-					_isInSameDivision =	"isInSameDivision"
-					_playerName =		"pureName"
-					_clanTag =			"clanTag"
-					_isBot =			"isBot"
-					_isTextBold =		"isSelf || isSelected"
+				(controller $Instance renderer='KeyTargetIcon'
+					(bind enabled "isKeyTargetVisible")
 				)
-			)
-		)
-
-		
-		(block
-			(style
-				(align = "middle|center")
-				(marginLeft = "XS")
-				(width = 19px)
-				(height = 100%)
-			)
-
-			(controller $Instance renderer='KeyTargetIcon'
-				(bind enabled "isKeyTargetVisible")
-			)
-		)
-
-		
-		(block
-			(style
-				(marginLeft = "XS")
-				(bind width "_isOnlyTeam ? 348 : 169")
-				(height = 100%)
 			)
 
 			(element ShipIconAndLevelAndName
@@ -724,6 +709,11 @@
 		
 		(block
 			(bind name "'player_tab_state_' + name")
+			(style
+				(width = "COLUMN_FRAGS_WIDTH")
+				(height = 100%)
+				
+			)
 
 			(class $Fullsize)
 			(controller $Instance renderer='LoadingIndicatorAndFrags'
@@ -801,14 +791,16 @@
 	)
 	
 	(class $Fullsize)
-	(style (flow = "horizontal") (align = "middle|center"))
+	(style (flow = "horizontal") (align = "middle"))
 
 	
 	(block
 		(bind visible "!_isShipHidedByFogOfWar")
+		(bind name "'ship_icon_' + _name")
 		(style
-			(width = "SHIP_ICON_SIZE.WIDTH") (height = "SHIP_ICON_SIZE.HEIGHT") (marginLeft = "XS")
 			(bind backgroundImage "'swf:../service_kit/ship_classes/svg/svg.swf:icon_default_' + iconName")
+			(width = "SHIP_ICON_SIZE.WIDTH")
+			(height = "SHIP_ICON_SIZE.HEIGHT")
 		)
 	)
 
@@ -816,7 +808,7 @@
 	(hblock
 		(bind visible "!_isShipHidedByFogOfWar")
 		(class $Fullsize)
-		(style (marginRight = "XS") (align = "middle|center"))
+		(style (marginRight = "XS") (align = "middle"))
 
 		(block
 			(bind visible "!_shipLevelIcon.length")
@@ -856,7 +848,7 @@
 	(block
 		(bind visible "_isShipHidedByFogOfWar")
 		(class $Fullsize)
-		(style (marginLeft = "XS") (marginRight = "XS") (align = "middle|center") (alpha = "TS"))
+		(style (marginLeft = "XS") (marginRight = "XS") (align = "middle") (alpha = "TS"))
 		(tf
 			(bind name "'player_tab_ship_' + _name")
 			(class $TextDefaultNM)
@@ -892,11 +884,18 @@
 
 	(bind name "isPlayerMessagesMuted ? 'mute_' + pureName : 'not_mute_' + pureName")
 
+	(style
+		(height = 100%)
+		(width = 19px)
+	)
+
 	(block
 		(bind visible "canBeInChat")
-
+		(style
+			(position = "absolute")
+		)
 		(controller $Animation
-			(bindcall play duration=0.15 from={top: 6} to={top: 1} easing="Easing.quad_out" action="killAll" reverse="!isVoiceAndTextTriggered" init=true (bind trigger "isVoiceAndTextTriggered"))
+			(bindcall play duration=0.15 from={top: 7} to={top: 1} easing="Easing.quad_out" action="killAll" reverse="!isVoiceAndTextTriggered" init=true (bind trigger "isVoiceAndTextTriggered"))
 		)
 
 		(block
@@ -913,14 +912,19 @@
 	)
 
 	(block
-		(style (position = "absolute") (top = 6px))
+		(style
+			(position = "absolute")
+			(left = 1px)
+		)
 
 		(controller $Animation
-			(bindcall play duration=0.15 from={top: 6} to={top: 13} easing="Easing.quad_out" action="killAll" reverse="!isVoiceAndTextTriggered" init=true (bind trigger "isVoiceAndTextTriggered"))
+			(bindcall play duration=0.15 from={top: 7} to={top: 13} easing="Easing.quad_out" action="killAll" reverse="!isVoiceAndTextTriggered" init=true (bind trigger "isVoiceAndTextTriggered"))
 		)
 
 		(block
 			(style
+				(width = 19px)
+				(height = 19px)
 				(backgroundImage = "'swf:../service_kit/chat_channels/chat_svg/chat_svg.swf:text_chat_muted'")
 				(alpha = "isTextChatIconVisible ? 1 : 0")
 			)
@@ -958,11 +962,13 @@
 		(var isAircarrier:bool = "subType == ShipTypes.AIRCARRIER")
 
 		(macro FEATURES "9")
-		(var rawKeyTargetValue:gfx = "selectedAvatarEntity.keyTargetMarkerBattle")
-		(var isKeyTargetVisible:bool = "rawKeyTargetValue && feature_9 != 'locked'")
 
-		(var visibility:gfx = "selectedShipInfoEntity.selectedShipInfo.shipTTX.visibility.visibilityByShip" (event "selectedShipInfoEntity.selectedShipInfo.evChanged"))
+		(var shipTTX:gfx = "selectedShipInfoEntity.selectedShipInfo.shipTTX" (event "selectedShipInfoEntity.selectedShipInfo.evChanged"))
+		(var hasAtbaArtillery:bool = "toBool(shipTTX.artillery.atba)")
+		(var hasAirDefense:bool = "toBool(shipTTX.airDefense.averageAura.maxDist)")
 	)
+
+	(name = 'tooltip_ship_info')
 
 	(bind visible "selectedAvatarId > 0")
 
@@ -975,39 +981,44 @@
 	
 	(style
 		(flow = "horizontal")
-		(width = 817px)
-		(height = 260px)
+		(height = 185px)
 	)
 
 	
 	(block
-		
-		(element BG_Black)
-
-		(style (width = 328px) (height = 100%))
-
-		(block
+		(style
+			(width = "HALF_TABLE_WIDTH")
+			(height = 100%)
+		)
+		(hblock
 			(style
 				(width = 100%)
-				(height = 100%)
-				(align = "center")
-				(paddingTop = "SXS")
-				(paddingBottom = "M")
-				(paddingLeft = "MS")
-				(paddingRight = "MS")
+				(align = "middle")
+			)
+
+			(element BG_Black)
+
+			(block
+				(style
+					(height = 100%)
+					(width = 6px)
+					(bind backgroundColor "isEnemy ? C_RED_HEADER : C_GREEN_HEADER")
+				)
 			)
 
 			(element PlayerDogTagContainer
 				_playerId =		"playerEntityDbId"
-				_size =			"DOG_TAG_SIZE.MEDIUM"
+				_size =			"DOG_TAG_SIZE.SMALL"
+				(style
+					(marginLeft = 6px)
+					(marginTop = 6px)
+					(marginRight = 12px)
+					(marginBottom = 6px)
+				)
 			)
 
 			(block
-				(style
-					(width = 100%)
-					(height = 100%)
-					(align = "bottom")
-				)
+				(style (width = 100%))
 
 				(element PlayerNameAndClanTag
 					_playerName =	"pureName"
@@ -1018,15 +1029,111 @@
 					(style (alpha = "TA"))
 				)
 
-				(block
-					(bind visible "isKeyTargetVisible")
-					(style (width = 100%) (marginTop = "M"))
-					(controller $Instance renderer='TooltipSystemStatusLine'
-						(bind enabled "isKeyTargetVisible")
-						(args
-							_text = "'IDS_TOKEN_TARGET_TYPE_BATTLE_TOKEN'"
-							_unifiedStatus = "SC.Ui_styles.UNIFIED_STATUS.KEY_TARGET"
+				(hblock
+					(bind visible "!isDetectionInfoHidden")
+					(style (width = 100%) (marginTop = "S") (align = "middle"))
+
+					(element NationFlagsTiny
+						_shipCountry =	"flagName"
+					)
+
+					(block
+						(class $Fullsize)
+						(style (marginLeft = "XXS"))
+						(element ShipIconAndLevelAndName
+							_shipIDS = 			"shipIDS"
+							_shipLevelRome = 	"shipLevelRome"
+							_shipLevelIcon =	"shipLevelIcon"
+							_shipType = 		"subType ? toLower(subType): ''"
+							_name = 			"name"
 						)
+					)
+				)
+			)
+		)
+	
+		(element TableDivider)
+	
+		(block
+			(class $Fullsize)
+
+			(element BG_Black)
+
+			(block
+				(bind visible "isDetectionInfoHidden || isViewEnemyShipInfoDisabled")
+				(style
+					(width = 100%)
+					(paddingTop = "SXS")
+					(paddingLeft = "M")
+					(paddingRight = "M")
+					(alpha = "TS")
+				)
+				(tf
+					(name = 'lbl_reason_of_empty_container')
+					(class $TextDefaultNM)
+					(style (width = 100%))
+					(bind text "reasonOfEmptyContainer")
+				)
+			)
+
+			(block
+				(bind visible "!isDetectionInfoHidden && !isViewEnemyShipInfoDisabled")
+				(style
+					(width = 100%)
+					(paddingLeft = "M")
+					(paddingRight = "M")
+					(paddingTop = "XS")
+				)
+
+				(block
+					(bind visible "hasAtbaArtillery")
+					(style (width = 100%))
+					(controller $Tooltip
+						(bind enabled "hasAtbaArtillery")
+						(renderer='ShipInfoParamAtbaTooltip')
+						(args _atbaArray= "shipTTX.artillery.atba")
+						(macro DEFAULT_TOOLTIP_BEHAVIOUR)
+					)
+					(controller $Instance renderer='ShipParameter_Number'
+						(bind enabled "hasAtbaArtillery")
+						(args
+							_title = 'IDS_SHIP_PARAM_ATBA_GUN'
+							_value = "shipTTX.artillery.atbaMaxDist"
+							_valueConfig = "VALUE_CONFIG.KILOMETER"
+						)
+					)
+				)
+
+				(block
+					(bind visible "hasAirDefense")
+					(style (width = 100%))
+					(controller $Tooltip
+						(bind enabled "hasAirDefense")
+						(renderer='ShipInfoParamAirDefenseTooltip')
+						(args _airDefenseTTX = "shipTTX.airDefense")
+						(macro DEFAULT_TOOLTIP_BEHAVIOUR)
+					)
+					(controller $Instance renderer='ShipParameter_Number'
+						(bind enabled "hasAirDefense")
+						(args
+							_title = 'IDS_SHIP_PARAM_AIR_DEFENSE'
+							_value = "shipTTX.airDefense.averageAura.maxDist"
+							_valueConfig = "VALUE_CONFIG.KILOMETER"
+						)
+					)
+				)
+
+				(block
+					(style (width = 100%))
+					(controller $Tooltip
+						(renderer='ShipInfoParamVisibilityTooltip')
+						(args _visibilityTTX = "shipTTX.visibility")
+						(macro DEFAULT_TOOLTIP_BEHAVIOUR)
+					)
+					(element ShipParameter_Number
+						_title = 'IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SHIP'
+						_value = "shipTTX.visibility.visibilityByShip.normal"
+						_valueConfig = "VALUE_CONFIG.KILOMETER_NEGATIVE"
 					)
 				)
 			)
@@ -1034,50 +1141,20 @@
 	)
 
 	
-	(block (style (width = 2px) (height = 100%)))
+	(block (style (width = 1px) (height = 100%)))
 
 	
 	(block
-		(style (width = 488px) (height = 100%))
-
-		
-		(block
-			(bind visible "!isDetectionInfoHidden")
-			(style (width = 100%) (height = 44px))
-			(hblock
-				
-				(element BG_Black)
-
-				(style (width = 100%) (height = 42px) (align = "middle"))
-
-				(block
-					(style (paddingLeft = "MS"))
-					(element NationFlagsTiny
-						_shipCountry =	"flagName"
-					)
-				)
-				(block
-					(class $Fullsize)
-					(style (marginLeft = "XXS"))
-					(element ShipIconAndLevelAndName
-						_shipIDS = 			"shipIDS"
-						_shipLevelRome = 	"shipLevelRome"
-						_shipLevelIcon =	"shipLevelIcon"
-						_shipType = 		"subType ? toLower(subType): ''"
-						_name = 			"name"
-					)
-				)
-			)
-			(element TableDivider)
-		)
+		(style (width = "HALF_TABLE_WIDTH") (height = 100%))
 
 		
 		(block
 			(bind visible "isWeaponContainerVisible")
+			(name = 'lbl_visible_ship_info')
 			(class $Fullsize)
 
 			(block
-				(style (width = 100%) (height = 170px))
+				(style (width = 100%) (height = 100%))
 
 				(controller $Instance
 					(bind enabled "isWeaponContainerVisible")
@@ -1088,49 +1165,148 @@
 					)
 				)
 			)
-
-			(element TableDivider)
-
-			(block
-				
-				(element BG_Black)
-
-				(style (width = 100%) (height = 44px) (align = "middle"))
-				(block
-					(style (width = 100%) (paddingLeft = "MS") (paddingRight = "MS"))
-					(element ShipParameter_Number	_title = 'IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SHIP'
-													_value = "visibility.normal"
-													_valueConfig = "VALUE_CONFIG.KILOMETER_NEGATIVE"
-					)
-				)
-			)
 		)
 
+		
 		(block
-			(bind visible "!isWeaponContainerVisible ")
+			(bind visible "!isWeaponContainerVisible")
 			(class $Fullsize)
 
 			
 			(element BG_Black)
 
 			(block
-				(bind visible "isDetectionInfoHidden")
 				(class $FullsizeAbsolute)
 				(style (backgroundImage = 'url:../bg/shipinfo_bg_ship_undetected.png'))
 			)
+		)
+	)
+)
 
+(def element ShipInfoParamAtbaTooltip (_atbaArray:array)
+	(macro TTX_TOOLTIP_STYLE)
+	(element TOOLTIP_SYSTEM_DEFAULT_CONTAINER
+		(element TooltipSystemHeaderSubheaderText _headerText='IDS_SHIP_PARAM_ATBA_GUN')
+		(block
+			(style (width = 100%))
+			(controller $Repeat
+				(renderer = 'ShipInfoAtbaTTX')
+				(bind count "_atbaArray.length")
+				(args _atbaGunTTX = "_atbaArray[$index]")
+			)
+		)
+	)
+)
+
+(def element ShipInfoAtbaTTX (_atbaGunTTX:gfx)
+	(scope
+		(var ammoTTX:gfx = "_atbaGunTTX.ammoHE	? _atbaGunTTX.ammoHE :
+							_atbaGunTTX.ammoCS	? _atbaGunTTX.ammoCS :
+							_atbaGunTTX.ammoAP	? _atbaGunTTX.ammoAP
+												: null")
+		(var title:str = 	"_atbaGunTTX.ammoHE	? 'IDS_SHIP_PARAM_AMMO_HE_FULL_NAME' :
+							_atbaGunTTX.ammoCS	? 'IDS_SHIP_PARAM_AMMO_CS_FULL_NAME' :
+							_atbaGunTTX.ammoAP	? 'IDS_SHIP_PARAM_AMMO_AP_FULL_NAME'
+												: ''")
+	)
+	(style (width = 100%))
+
+	(macro TTX_AMMO_ROW "title" "ammoTTX")
+	(element TOOLTIP_SYSTEM_PARAMS_WRAPPER
+		(element TOOLTIP_SYSTEM_PARAMS_BLOCK
+			(element ShipParameter_Number
+				_title = 'IDS_SHIP_PARAM_ARTILLERY_MAX_DAMAGE'
+				_value = "ammoTTX.damage"
+			)
 			(block
-				(style (width = 100%) (padding = "MS") (alpha = "TS"))
-				(tf
-					(class $TextDefaultNM)
-					(style (width = 100%))
-					(bind text "reasonOfEmptyContainer")
+				(style (width = 100%))
+				(controller $Instance
+					(bind enabled "_atbaGunTTX.ammoHE != null")
+					(renderer = 'ShipParameter_Percent')
+					(args
+						_title = 'IDS_SHIP_PARAM_ARTILLERY_BURN_PROB'
+						_value = "ammoTTX.burnChance"
+						_valueConfig = "VALUE_CONFIG.PERCENT_FLOAT"
+						_zeroValueHidden = true
+					)
+				)
+			)
+			(block
+				(style (width = 100%))
+				(controller $Instance
+					(bind enabled "_atbaGunTTX.ammoHE == null")
+					(renderer = 'ShipParameter_Number')
+					(args
+						_title = 'IDS_SHIP_PARAM_ARTILLERY_ALPHA_PIERCING'
+						_value = "ammoTTX.piercing"
+						_valueConfig = "VALUE_CONFIG.MILLIMETER"
+						_zeroValueHidden = true
+					)
 				)
 			)
 		)
 	)
 )
 
+(def element ShipInfoParamAirDefenseTooltip (_airDefenseTTX:gfx)
+	(scope
+		(var airDefenseAuras:array = "_airDefenseTTX.auras")
+	)
+	(macro TTX_TOOLTIP_STYLE)
+	(element TOOLTIP_SYSTEM_DEFAULT_CONTAINER
+		(element TooltipSystemHeaderSubheaderText _headerText='IDS_SHIP_PARAM_AIR_DEFENSE')
+		(element TooltipSystemHorizontalDivider)
+		(element TOOLTIP_SYSTEM_PARAMS_WRAPPER
+			(element TOOLTIP_SYSTEM_PARAMS_BLOCK
+				(block
+					(style (width = 100%))
+					(controller $Repeat
+						(renderer = 'ShipInfoArDefenseTTX')
+						(bind count "airDefenseAuras.length")
+						(args _airDefenseAura = "airDefenseAuras[$index]")
+					)
+				)
+			)
+		)
+	)
+)
+
+(def element ShipInfoArDefenseTTX (_airDefenseAura:dict)
+	(style (width = 100%))
+	(element ShipParameter_Number
+		_title = "'IDS_SHIP_PARAM_AA_AVERAGE_DAMAGE_' + toUpper(_airDefenseAura.type)"
+		_value = "_airDefenseAura.damage"
+	)
+)
+
+(def element ShipInfoParamVisibilityTooltip (_visibilityTTX:gfx)
+	(macro TTX_TOOLTIP_STYLE)
+	(element TOOLTIP_SYSTEM_DEFAULT_CONTAINER
+		(element TooltipSystemHeaderSubheaderText _headerText='IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SHIP')
+		(element TooltipSystemHorizontalDivider)
+		(element TOOLTIP_SYSTEM_PARAMS_WRAPPER
+			(element TOOLTIP_SYSTEM_PARAMS_BLOCK
+				(element ShipParameter_Number
+					_title = 'IDS_SHIP_PARAM_VISIBILITY_DIST_BY_GK_IN_SMOKE'
+					_value = "_visibilityTTX.visibilityByShip.smoke"
+					_valueConfig = "VALUE_CONFIG.KILOMETER_NEGATIVE"
+					_zeroValueHidden = true
+				)
+				(element ShipParameter_Range
+					_title = 'IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH'
+					_valueMin = "_visibilityTTX.visibilityFromDepth.min"
+					_valueMax = "_visibilityTTX.visibilityFromDepth.max"
+					_valueConfig = "VALUE_CONFIG.KILOMETER_NEGATIVE"
+				)
+				(element ShipParameter_Number
+					_title = 'IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE'
+					_value = "_visibilityTTX.visibilityByPlane.normal"
+					_valueConfig = "VALUE_CONFIG.KILOMETER_NEGATIVE"
+				)
+			)
+		)
+	)
+)
 
 (def element ShipEquipmentOnTeamBattlePageDefault (_selectedAvatarId:number)
 	(scope
@@ -1150,10 +1326,10 @@
 	(class $Fullsize)
 
 	(block
+		(class $Fullsize)
 		(style
-			(marginTop = "M")
-			(marginBottom = "M")
-			(marginLeft = "S")
+			(marginLeft = 10px)
+			(align = "middle")
 		)
 
 		(hblock
@@ -1166,7 +1342,7 @@
 		)
 
 		(hblock
-			(style (marginTop = "M"))
+			(style (marginTop = 25px))
 			(controller $Repeat renderer='ShipEquipmentOnTeamBattlePageItem'
 				(bind count "consumableList.length")
 				(args
@@ -1200,23 +1376,24 @@
 
 	(class $Fullsize)
 
-	(hblock
-		(style (width = 100%))
+	(block
+		(style
+			(width = 100%)
+			(height = 92px)
+		)
+
 		(element BG_Black)
+
 		(hblock
 			(style
-				(marginTop = "M")
-				(marginBottom = "S")
-				(marginLeft = "S")
+				(marginLeft = 10px)
+				(marginTop = 20px)
 			)
-
-			(hblock
-				(controller $Repeat renderer='ShipEquipmentOnTeamBattlePageItemWithTab'
-					(bind count "ammoList.length")
-					(args
-						_isSelected = "selectedSquadronType == ammoList[$index].visualSlotData.squadType"
-						_weaponSlotEntity = "ammoList[$index]"
-					)
+			(controller $Repeat renderer='ShipEquipmentOnTeamBattlePageItemWithTab'
+				(bind count "ammoList.length")
+				(args
+					_isSelected = "selectedSquadronType == ammoList[$index].visualSlotData.squadType"
+					_weaponSlotEntity = "ammoList[$index]"
 				)
 			)
 		)
@@ -1225,15 +1402,19 @@
 	(element TableDivider)
 
 	(hblock
-		(style (width = 100%))
+		(style
+			(width = 100%)
+			(height = 92px)
+		)
+
 		(element BG_Black)
+
 		(macro INNER_PANEL_BACKGROUND)
 
 		(hblock
 			(style
-				(marginTop = "S")
-				(marginBottom = "M")
-				(marginLeft = "S")
+				(marginLeft = 10px)
+				(marginTop = 12px)
 			)
 			(hblock
 				(controller $Repeat renderer='ShipEquipmentOnTeamBattlePageItem'
@@ -1267,7 +1448,7 @@
 
 
 		(var lineAlphaDict:dict = "{SC.Ui_styles.BUTTON_STATE.DISABLED	: 0.1,
-									SC.Ui_styles.BUTTON_STATE.SELECTED	: 0.9,
+									SC.Ui_styles.BUTTON_STATE.SELECTED	: 0.8,
 									SC.Ui_styles.BUTTON_STATE.DOWN		: 0.3,
 									SC.Ui_styles.BUTTON_STATE.OVER		: 0.5,
 									SC.Ui_styles.BUTTON_STATE.UP		: 0.2}")
@@ -1281,18 +1462,15 @@
 		(var clickEventName:gfx = "isTabClickable ? 'evSelectAircarrierAmmo' : ''")
 	)
 
-	(style
-		(align = "center")
-		(backgroundColor = "0x01000000")
-	)
+	(style (backgroundColor = "0x01000000"))
 
 	(macro MOUSE_EVENTS_DISPATCHER)
 	(macro SOUND_HANDLER "soundEventName")
 
 	(dispatch evSelectAircarrierAmmo
 		args="{_selectedSquadronType: _weaponSlotEntity.visualSlotData.squadType, _selectedSquadronIndex: _weaponSlotEntity.visualSlotData.squadId}"
-		dir="EventDirection.UP" (
-		event "evClicked") (bind enabled "isTabClickable")
+		dir="EventDirection.UP"
+		(event "evClicked") (bind enabled "isTabClickable")
 	)
 
 	(element ShipEquipmentOnTeamBattlePageItem
@@ -1306,8 +1484,8 @@
 			(position = "absolute")
 			(alpha = "lineAlpha")
 			(width = 100%)
-			(bottom = "-10")
-			(height = "XXS")
+			(bottom = -13px)
+			(height = 1px)
 			(backgroundColor = 0xFFFFFFFF)
 		)
 		(macro DEFAULT_CONTROL_STATE_ANIMATION_ALPHA _trigger="state" _alpha="lineAlpha")
@@ -1329,22 +1507,22 @@
 		(var isShowDrumMode:bool = "shipTTX.artillery.drumFireMode && (isChargeableDrum || !isSwitchableDrum)")
 		(var showSlot:bool = "equipmentSlotComponent.id != SC.Ships.SHIP_INFO_WEAPON_TYPE.VALUE_TO_NAME[SC.Ships.SHIP_INFO_WEAPON_TYPE.FIRE_MODE] || isSwitchableDrum")
 	)
-	(bind visible "$index < MAX_SLOT_COUNT && showSlot")
+
+	(bind visible "showSlot")
 	(style
-		(marginLeft = "S")
-		(marginRight = "S")
+		(marginLeft = 6px)
+		(marginRight = 6px)
 		(width = 60px)
 		(height = 60px)
 	)
 
 	(controller $Tooltip
-		(bind renderer "'ShipEquipmentOnTeamBattlePageItemTooltip'")
+		(renderer = 'ShipEquipmentOnTeamBattlePageItemTooltip')
 		(args
 			_slotEntity = "_slotEntity"
 			_isShowDrumMode = "isShowDrumMode"
 		)
-		(cache = false)
-		(macro DEFAULT_TOOLTIP_BEHAVIOUR "0")
+		(macro DEFAULT_TOOLTIP_BEHAVIOUR)
 	)
 	(block
 		(class $FullsizeAbsolute)
@@ -1377,7 +1555,7 @@
 
 		(var attributesComponent:gfx = "_slotEntity.attributes")
 		(var attributesNegative:array = "attributesComponent.negative 	?: []" (event "attributesComponent.evChanged"))
-		(var attributesNeutral:array = 	"attributesComponent.neutral 	?: []"	(event "attributesComponent.evChanged"))
+		(var attributesNeutral:array = 	"attributesComponent.neutral	?: []"	(event "attributesComponent.evChanged"))
 		(var attributesPositive:array = "attributesComponent.positive 	?: []" (event "attributesComponent.evChanged"))
 
 		(var timeStatisticsEventName:str = "SC.Common.SHIP_INFO_STATISTICS.WEAPON_TTX_TOOLTIP_OPENED + ':' + selectedAvatarId + '_' + equipmentSlotComponent.title")
