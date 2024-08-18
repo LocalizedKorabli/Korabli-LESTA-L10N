@@ -10,6 +10,8 @@
 
 </div>
 
+**简体中文** | [English](/README-EN.md)
+
 ## 如何使用
 
 <details><summary style="font-size: 20px;">教学视频</summary>

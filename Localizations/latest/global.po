@@ -115701,7 +115701,7 @@ msgid "IDS_SECOND_PCZA027_TFTM_108_NAME"
 msgstr "霸天虎指挥官"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_NAME"
-msgstr "罢工——取得进步的关键"
+msgstr "进步源于艰苦奋斗"
 
 msgid "IDS_SECOND_SOVIETBBARC_NAME"
 msgstr "主炮"
@@ -125487,7 +125487,7 @@ msgid "IDS_THIRD_PCZA027_TFTM_108_NAME"
 msgstr "汽车人：游戏中的历史"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_NAME"
-msgstr "各国科学家，联合起来！"
+msgstr "全世界的科学家，联合起来！"
 
 msgid "IDS_THIRD_SOVIETBBARC_NAME"
 msgstr "荣耀的名字"
