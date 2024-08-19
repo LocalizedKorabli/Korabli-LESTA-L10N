@@ -26,13 +26,13 @@ Looking for English Localization? Check [Korabli-LESTA-I18N](https://github.com/
 
 #### Via Lanzou Drive
 
-1. L10n Installer（[GUI Implementation](https://tapio.lanzn.com/b0nybehgb) | [CLI (old)](https://tapio.lanzn.com/b0nybx87c)）：Download the latest executable file;
-2. （Downloading feature is built into the Installer）[L10n Package](https://tapio.lanzn.com/b01lit85i)：Choose the correct directory refer to the client version，and extract the `global.mo` file from the downloaded archive.
+1. L10n Installer ([GUI Implementation](https://tapio.lanzn.com/b0nybehgb) | [CLI (old)](https://tapio.lanzn.com/b0nybx87c) ): Download the latest executable file;
+2. (Downloading feature is built into the Installer) [L10n Package](https://tapio.lanzn.com/b01lit85i): Choose the correct directory refer to the client version，and extract the `global.mo` file from the downloaded archive.
 
 #### Via GitHub
 
-1. L10n Installer: [GUI Implementation](https://github.com/LocalizedKorabli/L10nInstallerGUI/releases/latest) | [CLI (old)](https://github.com/LocalizedKorabli/L10nInstaller/releases/latest)；
-2. （Downloading feature is built into the Installer）L10n Package：Extract the `global.mo` file from the downloaded archive in the [latest release](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest).
+1. L10n Installer: [GUI Implementation](https://github.com/LocalizedKorabli/L10nInstallerGUI/releases/latest) | [CLI (old)](https://github.com/LocalizedKorabli/L10nInstaller/releases/latest);
+2. (Downloading feature is built into the Installer) L10n Package: Extract the `global.mo` file from the downloaded archive in the [latest release](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest).
 
 ### Installation
 
@@ -60,13 +60,13 @@ The installer can automatically apply mods (usually `.po` or `.mo`) in the `l10n
 
 ## Q&A
 
-- Q：Armory and dockyard unlocalized?
+- Q: Armory and dockyard unlocalized?
 
-  A：Those are website pages displayed by the game's built-in browser and are not able to be localized via MO localization.
+  A: Those are website pages displayed by the game's built-in browser and are not able to be localized via MO localization.
   
-- Q：After a certain startup, the game shows up in Russian again?
+- Q: After a certain startup, the game shows up in Russian again?
 
-  A：The build number folder in the `bin` directory is replaced with each version update, just reinstall the package.
+  A: The build number folder in the `bin` directory is replaced with each version update, just reinstall the package.
 
 ## Contributing
 
@@ -106,5 +106,3 @@ Style: Creative and amusing.
 ### [REPAD Localization](https://github.com/DDFantasyV/Korabli_localization_chs)
 
 Another localization project, which started almost at the same time as this project, focuses on smooth, discreet translations of the added text.
-
-
