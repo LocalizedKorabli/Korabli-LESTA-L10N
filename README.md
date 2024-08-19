@@ -2,7 +2,7 @@
 
   <img  width="160" src="https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/26415d14-c46e-4bdd-aa26-f7f0234911ce" alt="logo">
 
-<h3>战舰世界莱服非官方本地化</h3>
+<h3>LocalizedKorabli战舰世界莱服本地化</h3>
 
 [![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/stargazers)
 [![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)
