@@ -40807,13 +40807,13 @@ msgid "IDS_OP_01_04_026_NEW_POST_WEST"
 msgstr "支援舰正在接近第二线炮台。"
 
 msgid "IDS_OP_01_04_026_NEW_POST_WEST1"
-msgstr "支援舰已经到达炮台 1。正在修理炮组。"
+msgstr "支援舰已经到达炮台1。正在修理炮组。"
 
 msgid "IDS_OP_01_04_026_NEW_POST_WEST2"
-msgstr "炮台 1 已修复。支援舰正往下个炮台移动。"
+msgstr "炮台1已修复。支援舰正往下个炮台移动。"
 
 msgid "IDS_OP_01_04_026_NEW_POST_WEST3"
-msgstr "支援舰已经到达炮台 2。正在修理炮组。"
+msgstr "支援舰已经到达炮台2。正在修理炮组。"
 
 msgid "IDS_OP_01_04_026_NEW_POST_WEST4"
 msgstr "所有炮台都已修复。支援舰正返回基地。"
@@ -40873,7 +40873,7 @@ msgid "IDS_OP_01_04_035_ATTACK_BIG"
 msgstr "敌军已发起总攻！"
 
 msgid "IDS_OP_01_04_039_DEAD_ONE_OBJ_PORT_MESSAGE"
-msgstr "祝您好运！试着保护在我们基地中的所有战舰及陆上设施。"
+msgstr "祝您好运！尽可能保护我方基地中的所有战舰及陆上设施。"
 
 msgid "IDS_OP_01_04_ACR_ALLY_1"
 msgstr "Yankee"
@@ -40888,10 +40888,10 @@ msgid "IDS_OP_01_04_ALLY_21"
 msgstr "Bravo"
 
 msgid "IDS_OP_01_04_ARTILLERY_BATTERY_BIG_L"
-msgstr "炮台 1"
+msgstr "炮台1"
 
 msgid "IDS_OP_01_04_ARTILLERY_BATTERY_BIG_R"
-msgstr "炮台 2"
+msgstr "炮台2"
 
 msgid "IDS_OP_01_04_ARTILLERY_BATTERY_LITLE_C"
 msgstr "中央炮台"
