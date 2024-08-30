@@ -90,7 +90,7 @@
 LocalizedKorabli正面向多个语言、服务器类型制作本地化，
 您可以通过点击以下表格中的链接快速访问相应的项目仓库。
 
-| 语言/服务器类型 | 正式服 | PT服 |
+| 语言\服务器类型 | 正式服 | PT服 |
 |:------------:|:----------:|:--------:|
 | L10N-简体中文 | **本仓库** | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
 | I18N-English | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
