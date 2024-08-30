@@ -10,7 +10,7 @@
 
 </div>
 
-**简体中文** | [English](/README-EN.md)
+Language: **简体中文** | [English](/README-EN.md)
 
 ## 如何使用
 
@@ -24,7 +24,7 @@
 
 #### 通过蓝奏云
 
-1. 汉化安装器（[GUI新版](https://tapio.lanzn.com/b0nybehgb) | [命令行旧版](https://tapio.lanzn.com/b0nybx87c)）：下载最新`exe`文件；
+1. 汉化安装器：[GUI新版](https://tapio.lanzn.com/b0nybehgb) | [命令行旧版](https://tapio.lanzn.com/b0nybx87c)；
 2. （汉化安装器已内置汉化包下载功能，按需下载）[汉化包](https://tapio.lanzn.com/b01lit85i)：根据游戏版本选择正确的文件夹，下载最新压缩包并解压出`global.mo`文件。
 
 #### 通过 GitHub
@@ -84,6 +84,16 @@
 其文本显然不会被直营服的本地化文件所覆盖，从而不能正常显示，影响游玩体验。
 
 于是，本项目应运而生。
+
+## 项目传送门
+
+LocalizedKorabli正面向多个语言、服务器类型制作本地化，
+您可以通过点击以下表格中的链接快速访问相应的项目仓库。
+
+| 语言/服务器类型 | 正式服 | PT服 |
+|:------------:|:----------:|:--------:|
+| L10N-简体中文 | **本仓库** | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
+| I18N-English | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
 
 ## 相关链接
 
