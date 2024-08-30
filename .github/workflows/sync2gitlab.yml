@@ -1,7 +1,7 @@
-name: Sync Repo to GitLab
+name: sync2gitlab
 
 on:
-  push
+  [push, pull_request]
 
 jobs:
   sync:
