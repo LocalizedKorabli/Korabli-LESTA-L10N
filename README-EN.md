@@ -86,7 +86,7 @@ Thus, this project was born.
 ## Portal
 
 LocalizedKorabli is making localizations for multiple languages and server types.
-You can quickly access the corresponding project repositories by clicking on the links in the table below.
+You can easily access the corresponding project repositories by clicking on the links in the table below.
 
 | Language\Server Type | Live Server | Public Test Server |
 |:--------------------:|:-----------:|:------------------:|
