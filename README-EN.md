@@ -83,6 +83,17 @@ Its text will obviously not be overwritten by the Wargaming's, and thus will not
 
 Thus, this project was born.
 
+## Portal
+
+LocalizedKorabli is making localizations for multiple languages and server types.
+You can quickly access the corresponding project repositories by clicking on the links in the table below.
+
+| Language\Server Type | Live Server | Public Test Server |
+|:--------------------:|:-----------:|:------------------:|
+| L10N-简体中文 | **This Repository** | [Repository Link](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
+| I18N-English | [Repository Link](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [Repository Link](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
+
+
 ## Relative links
 
 [Gitee](https://gitee.com/nova-committee/korabli-LESTA-L10N)
