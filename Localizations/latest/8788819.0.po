@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "ID"
 msgstr "中文（简体）"
@@ -100220,7 +100220,7 @@ msgid "IDS_PVP_CONTROLPOINTENABLE"
 msgstr "占领关键区域！"
 
 msgid "IDS_PVP_CONTROLPOINTENABLESOON"
-msgstr "关键区域1分钟后出现"
+msgstr "关键区域将在1分钟后出现"
 
 msgid "IDS_PVSB505"
 msgstr "里约热内卢"
