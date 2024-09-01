@@ -115248,7 +115248,7 @@ msgid "IDS_RIGHTS_RESERVED"
 msgstr ""
 "© Lesta Games, 2022-2024. 《战舰世界》游戏基于第三方的知识产权。第三方权利对象的所有权利归其合法权利人所有。\n"
 "\n"
-"汉化团队：LocalizedKorabli（https://github.com/LocalizedKorabli）"
+"汉化团队：澪刻（https://github.com/LocalizedKorabli）"
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "”"
