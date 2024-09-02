@@ -47249,13 +47249,13 @@ msgid "IDS_PASB012_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASB013"
-msgstr "阿肯色β"
+msgstr "阿肯色Beta"
 
 msgid "IDS_PASB013_DESCR"
 msgstr "USS阿肯色号是怀俄明级第二艘战列舰，于1910年铺设龙骨，并在2年后服役。一战期间，它被分配到由皇家海军指挥的第9战列舰分队。二战爆发后，阿肯色号执行中立巡逻。美国参战后，它也在大西洋护送船团。后来，它支援了诺曼底登陆，并为入侵法国南部提供火力支援。1945年，它在硫磺岛和冲绳岛登陆战中提供火力支援。战后，阿肯色号将士兵运回美国，并参加了在比基尼环礁进行的核试验。"
 
 msgid "IDS_PASB013_FULL"
-msgstr "阿肯色β"
+msgstr "阿肯色Beta"
 
 msgid "IDS_PASB013_NUMBER"
 msgstr "2"
@@ -87049,13 +87049,13 @@ msgid "IDS_PJSC018_YEAR"
 msgstr "1938"
 
 msgid "IDS_PJSC026"
-msgstr "岩城α"
+msgstr "岩城Alpha"
 
 msgid "IDS_PJSC026_DESCR"
 msgstr "在20世纪10年代后期，根据日本舰队的发展计划，预计建造六艘巡洋舰，以天龙级改进后的设计为基础。借鉴众多新设计方案，这些战舰将增加第五门主炮并减轻舰体重量。项目从未实施，但进一步法展促成了球磨级巡洋舰的问世。"
 
 msgid "IDS_PJSC026_FULL"
-msgstr "岩城α"
+msgstr "岩城Alpha"
 
 msgid "IDS_PJSC026_NUMBER"
 msgstr "0"
