@@ -127362,10 +127362,10 @@ msgid "IDS_TOOLTIP_BATTLE_STATS_DETAILED_REPORT"
 msgstr "造成与受到的伤害"
 
 msgid "IDS_TOOLTIP_BATTLE_STATS_PERSONAL_REPORT"
-msgstr "您的个人战绩"
+msgstr "个人战绩"
 
 msgid "IDS_TOOLTIP_BATTLE_STATS_TEAM_REPORT"
-msgstr "队伍成绩"
+msgstr "团队战绩"
 
 msgid "IDS_TOOLTIP_BATTLE_TIPS"
 msgstr "战斗小提示"
