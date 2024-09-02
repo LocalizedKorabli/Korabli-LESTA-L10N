@@ -4,9 +4,13 @@
 
 <h3>澪刻战舰世界莱服本地化</h3>
 
-[![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/stargazers)
-[![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)
-[![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/commit)
+[![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/stargazers)
+[![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-L10N.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)
+[![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-L10N.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/commit)
+
+[![发布群](https://img.shields.io/badge/QQ-发布群-red?style=for-the-badge)](https://qm.qq.com/q/oLZZH47TRA)
+[![闲聊群](https://img.shields.io/badge/QQ-闲聊群-blue?style=for-the-badge)](https://qm.qq.com/q/n3gtv0yfwQ)
+[![Discord](https://img.shields.io/discord/1275430075369656381?style=for-the-badge)](https://discord.gg/3d9k2mkWy4)
 
 </div>
 
