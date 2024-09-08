@@ -18,7 +18,13 @@
 
 ## 如何使用
 
-<details><summary style="font-size: 20px;">教学视频</summary>
+<details><summary style="font-size: 20px;">演示视频</summary>
+
+[![](https://github.com/user-attachments/assets/d5918619-f147-4f0f-8871-c2e7f0be6976)](https://player.bilibili.com/player.html?aid=112944050341775&bvid=BV1rDYReAEws&cid=25777407882&page=1)
+
+</details>
+
+<details><summary style="font-size: 20px;">介绍视频</summary>
 
 [![](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/d8d44d1f-f448-4feb-ab07-7ab2ccbca54e)](https://player.bilibili.com/player.html?aid=1755946809&bvid=BV1c4421D7Gh&cid=1596825150&page=1)
 
