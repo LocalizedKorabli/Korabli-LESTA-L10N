@@ -47,6 +47,12 @@
 1. 下载汉化安装器，放入战舰世界安装目录后运行，按程序指示操作；
 2. 若汉化安装器内置下载失败，请手动下载汉化包并选择`使用本地文件`。
 
+<details><summary style="font-size: 20px;">安装器运行图示</summary>
+
+![installerdemo](https://github.com/user-attachments/assets/209f230c-daa5-4d42-b6d8-cd360503be50)
+
+</details>
+
 <details><summary style="font-size: 20px;">可选步骤</summary>
 
 #### 模组
