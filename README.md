@@ -49,7 +49,7 @@
 
 <details><summary style="font-size: 20px;">安装器运行图示</summary>
 
-![installerdemo](https://github.com/user-attachments/assets/209f230c-daa5-4d42-b6d8-cd360503be50)
+![installerdemo](https://github.com/user-attachments/assets/c7ecac70-82ee-4d29-9111-63e88d38cdc1)
 
 </details>
 
