@@ -7331,7 +7331,7 @@ msgid "IDS_BATTLE_STATS_DBOMBS"
 msgstr "深水炸弹"
 
 msgid "IDS_BATTLE_STATS_DBOMBS_RELEASED"
-msgstr "投掷的炸弹"
+msgstr "深水炸弹投掷数"
 
 msgid "IDS_BATTLE_STATS_DEFENCE_POINTS"
 msgstr "防御点数"
@@ -7529,7 +7529,7 @@ msgid "IDS_BATTLE_STATS_RESTART_REPLAY"
 msgstr "再次观看"
 
 msgid "IDS_BATTLE_STATS_ROCKETS_RELEASED"
-msgstr "火箭弹发射"
+msgstr "火箭弹发射数"
 
 msgid "IDS_BATTLE_STATS_SCENARIO_REPORT"
 msgstr "任务"
@@ -7640,10 +7640,10 @@ msgid "IDS_BATTLE_STATS_TIME_AND_SPACE_HINT"
 msgstr "战斗与航行距离的时间统计"
 
 msgid "IDS_BATTLE_STATS_TORPEDOES_RELEASED"
-msgstr "投掷的鱼雷"
+msgstr "鱼雷释放数"
 
 msgid "IDS_BATTLE_STATS_TORPEDOES_SHOTS"
-msgstr "发射的鱼雷"
+msgstr "鱼雷发射数"
 
 msgid "IDS_BATTLE_STATS_TORPEDOES_SPOTTED"
 msgstr "侦察鱼雷数"
@@ -8242,7 +8242,7 @@ msgid "IDS_BOMBS_AIRSUP"
 msgstr "炸弹"
 
 msgid "IDS_BOMBS_RELEASED"
-msgstr "投掷的炸弹"
+msgstr "炸弹投掷数"
 
 msgid "IDS_BOMBS_SHOTS_HINT"
 msgstr "炸弹投掷数"
@@ -37122,16 +37122,16 @@ msgid "IDS_MARK_ATTACK"
 msgstr "进攻"
 
 msgid "IDS_MARK_DEFEND"
-msgstr "防御"
+msgstr "保护"
 
 msgid "IDS_MARK_ESCORT"
-msgstr "护卫"
+msgstr "保护"
 
 msgid "IDS_MARK_KEY_TARGET"
 msgstr "进攻"
 
 msgid "IDS_MARK_KEY_TARGET_ALLY"
-msgstr "防御"
+msgstr "保护"
 
 msgid "IDS_MARK_KEY_TARGET_DIVISION"
 msgstr "保护"
@@ -39506,7 +39506,7 @@ msgid "IDS_NAVAL_FLAG_KOREA"
 msgstr "南朝鲜海军"
 
 msgid "IDS_NAVAL_FLAG_KOREA_DESCRIPTION"
-msgstr "1948年起，南朝鲜开始用太极旗作为国旗。"
+msgstr "1882年，在《朝美修好通商条约》签字前，朝鲜方面设计了一种无卦的‌太极旗，经中国外交官马建忠提示加入了八卦，同年出使日本的朝鲜大臣‌朴泳孝与英国船长商量后决定去掉四卦，最终在1883年被朝鲜高宗选定为国旗。‌1949年，南朝鲜决定沿用修改后的太极旗作为国旗。"
 
 msgid "IDS_NAVAL_FLAG_MALAYSIA"
 msgstr "马来西亚"
@@ -39596,7 +39596,7 @@ msgid "IDS_NAVAL_FLAG_TAIWAN"
 msgstr "中华民国海军（1912-1949）"
 
 msgid "IDS_NAVAL_FLAG_TAIWAN_DESCRIPTION"
-msgstr "中华民国海军（1912-1949）旗的图案红布为背景，并在左上四分之一的蓝色框内绘制白色太阳和12道光线。"
+msgstr "中华民国海军（1912-1949）旗以红布为背景，并在左上四分之一的蓝色框内绘制白色太阳和12道光线。"
 
 msgid "IDS_NAVAL_FLAG_TURKEY"
 msgstr "土耳其海军"
@@ -108612,13 +108612,13 @@ msgid "IDS_PZSD598_YEAR"
 msgstr "1940"
 
 msgid "IDS_PZSD718"
-msgstr "粉碎"
+msgstr "冲撞跳跳"
 
 msgid "IDS_PZSD718_DESCR"
 msgstr "兽人从不在亚空间导航。他们与讨厌的人类不同，不需要星炬。格克和摩克会指引他们到达WAAAGH！他们跳进又跳出亚空间，火力全开。但不是用这艘漂亮的小船。小子们是从哪儿搞来这玩意儿的？是用废弃的原始宇宙飞船的部件组装而成的吗？还是碰巧在银河系某个被遗忘的角落找到的？他们不记得，也不关心。它一直都在那里，是唯一一艘可以让您与之交谈的船。您告诉它去哪，您就能去哪。但您得够聪明才能这么做。不是技师小子那种聪明。不是灵能小子那种聪明。是真的聪明。"
 
 msgid "IDS_PZSD718_FULL"
-msgstr "粉碎"
+msgstr "冲撞跳跳"
 
 msgid "IDS_PZSD718_NUMBER"
 msgstr " "
@@ -109017,7 +109017,7 @@ msgid "IDS_PZUH709_HULL_BLACK_LOYANG"
 msgstr "洛阳B"
 
 msgid "IDS_PZUH710_WH_ORK"
-msgstr "粉碎"
+msgstr "冲撞跳跳"
 
 msgid "IDS_PZUH711_C8_HULL_B"
 msgstr "哈尔滨(B)"
@@ -121704,7 +121704,7 @@ msgid "IDS_SHORT_DASH"
 msgstr "-"
 
 msgid "IDS_SHOTS"
-msgstr "发射的炮弹"
+msgstr "炮弹发射数"
 
 msgid "IDS_SHOTS_HINT"
 msgstr "射击的炮弹数"
@@ -128006,7 +128006,7 @@ msgid "IDS_TIPS_SMOKE_GENERATOR_DESCRIPTION"
 msgstr "在您的战舰后方施放烟幕，降低被敌人发现的风险。"
 
 msgid "IDS_TIPS_START_TORPEDOES"
-msgstr "鱼雷发射"
+msgstr "发射鱼雷"
 
 msgid "IDS_TIPS_START_TORPEDOES_DESCRIPTION"
 msgstr ""
@@ -129319,7 +129319,7 @@ msgid "IDS_TORPEDOES_SHOTS_HINT"
 msgstr "鱼雷发射数"
 
 msgid "IDS_TORPEDOS_RELEASED"
-msgstr "发射的鱼雷"
+msgstr "鱼雷发射数"
 
 msgid "IDS_TORPEDO_ALPHA_DAMAGE_HIGH"
 msgstr "单枚鱼雷伤害较高"
