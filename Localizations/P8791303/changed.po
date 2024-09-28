@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RUSY_VS_LIZARDS_ASYMM_BATTLE_MEMORABLE"
+msgstr "Совершить великий подвиг против полчища ящеров."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_RUSY_VS_LIZARDS_ASYMM_BATTLE"
+msgstr "Выполняется в событии «Русы против ящеров»."
+
+msgid "IDS_ACHIEVEMENT_RUSY_VS_LIZARDS_ASYMM_BATTLE_MEMORABLE"
+msgstr "Русы против ящеров"
+
+msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
+msgstr "За выполнение боевых задач, за достижение уровней Боевого пропуска и в разделе «Ежедневные награды» до конца обновления 13.9, а также из наборов в Адмиралтействе до конца обновления 13.10."
+
+msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
+msgstr "На последовательные наборы с кораблями раннего доступа VII, VIII и X уровней Vineta, Hertha и Hansa, с экономическими комплектами для Vineta и Hertha, с постоянными камуфляжами для Hertha, Hansa и корабля раннего доступа IX уровня Freya, а также на другое имущество до конца обновления 13.10."
+
+msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
+msgstr "За выполнение боевых задач до конца обновления 13.9, а также из наборов в Адмиралтействе во время проведения события в обновлениях 13.9 и 13.10."
+
+msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
+msgstr "На эсминец X уровня Natsukaze с постоянным камуфляжем «Японский лак» для него и памятным флагом, а также на премиум контейнеры «Японская эскадра» во время проведения события в обновлениях 13.9 и 13.10."
+
+msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
+msgstr "Временный ресурс события «Взмах катаны». С выходом обновления 13.11 жетоны будут списаны без компенсации."
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Несметные полчища ящеров ведут громадные корабли в наступление... Им противостоит лишь горстка русов на своих верных ладьях."
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Но не всё потеряно: испив вод байкальских, великие русы получили заряд молодецкой удали, которая поможет одолеть рептилий!"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Вы можете выйти в бой в одиночку или в составе отряда до 3 русов."
+
+msgid "IDS_PCEE717_RUS_BOGATUR_FLAG"
+msgstr "Флот русов"
+
+msgid "IDS_PCEE717_RUS_BOGATUR_FLAG_DESCRIPTION"
+msgstr "Знамя великих русов, боевыми подвигами славных."
+
+msgid "IDS_PCEE718_REPTILIAN_FLAG"
+msgstr "Флот ящеров"
+
+msgid "IDS_PCEE718_REPTILIAN_FLAG_DESCRIPTION"
+msgstr "Штандарт, под которым полчища гнусных ящеров идут в атаку."
+
+msgid "IDS_PCVE023"
+msgstr "Асимметричный бой: русы против ящеров"
+
+msgid "IDS_PCVE023_DESCRIPTION"
+msgstr "Великие подвиги против ящеров, превосходящих вас числом и огневой мощью, но уступающих в молодецкой удали."
+
+msgid "IDS_PCVE023_MATCHMAKER_DESCRIPTION"
+msgstr "Ящеры превосходят вас числом и огневой мощью, но уступают в молодецкой удали."
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL"
+msgstr "Корабль"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM126_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM135_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
+msgstr "Немецкие жетоны куплены"
