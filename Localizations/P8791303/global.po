@@ -363,7 +363,7 @@ msgid "IDS_2W6"
 msgstr "Fuju"
 
 msgid "IDS_2WAGONS_REVERCED"
-msgstr "飞艇护卫 — 替代模式"
+msgstr "飞艇护卫 — 备选模式"
 
 msgid "IDS_2_AIRBASE"
 msgstr "敌方机场"
@@ -21040,7 +21040,7 @@ msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ACID_FIRST_APRIL23"
 msgstr "气泡鱼雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE"
-msgstr "替代鱼雷"
+msgstr "备选鱼雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUBBURN"
 msgstr "带有烈性炸药的鱼雷"
@@ -21052,7 +21052,7 @@ msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUBFLOOD"
 msgstr "带有增强弹头的鱼雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUPERSHIP"
-msgstr "替代鱼雷"
+msgstr "备选鱼雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_DEEPWATER"
 msgstr "深水鱼雷（DT）"
@@ -28023,13 +28023,13 @@ msgid "IDS_FEAT_BAD_AIR_SUPPORT_SURFACE_ONLY"
 msgstr "对水下的潜艇无效"
 
 msgid "IDS_FEAT_BAD_ALTTORP_DAMAGE"
-msgstr "替代鱼雷的伤害较低"
+msgstr "备选鱼雷伤害较低"
 
 msgid "IDS_FEAT_BAD_ALTTORP_RANGE"
-msgstr "近程替代鱼雷"
+msgstr "近程备选鱼雷"
 
 msgid "IDS_FEAT_BAD_ALTTORP_SLOW_SPEED"
-msgstr "替代鱼雷的速度较低"
+msgstr "备选鱼雷航速较低"
 
 msgid "IDS_FEAT_BAD_APDPM"
 msgstr "穿甲弹每分钟伤害较低"
@@ -28485,22 +28485,22 @@ msgid "IDS_FEAT_GOOD_ALTTORPS_2_TORPS"
 msgstr "拥有两种鱼雷，可在战斗中切换"
 
 msgid "IDS_FEAT_GOOD_ALTTORPS_6"
-msgstr "从VI级起可使用替代鱼雷"
+msgstr "从VI级起可使用备选鱼雷"
 
 msgid "IDS_FEAT_GOOD_ALTTORPS_DAMAGE"
-msgstr "替代鱼雷伤害较高"
+msgstr "备选鱼雷伤害较高"
 
 msgid "IDS_FEAT_GOOD_ALTTORP_DMG"
-msgstr "替代鱼雷伤害较高"
+msgstr "备选鱼雷伤害较高"
 
 msgid "IDS_FEAT_GOOD_ALTTORP_RANGE"
-msgstr "替代鱼雷射程较远"
+msgstr "备选鱼雷射程较远"
 
 msgid "IDS_FEAT_GOOD_ALTTORP_SPEED"
-msgstr "替代鱼雷航速较高"
+msgstr "备选鱼雷航速较高"
 
 msgid "IDS_FEAT_GOOD_ALTTORP_VISIBILITY"
-msgstr "替代鱼雷被侦察性较低"
+msgstr "备选鱼雷被侦察性较低"
 
 msgid "IDS_FEAT_GOOD_APDPM"
 msgstr "穿甲弹每分钟伤害较高"
@@ -28566,7 +28566,7 @@ msgid "IDS_FEAT_GOOD_BMB_FASTPLAINS"
 msgstr "飞机航速较高"
 
 msgid "IDS_FEAT_GOOD_BONUSRADAR_VIS_VS_SMOKE"
-msgstr "可使用监视雷达替代发烟器消耗品"
+msgstr "可使用监视雷达取代发烟器消耗品"
 
 msgid "IDS_FEAT_GOOD_BURSTFIRE"
 msgstr "可使用连发射击模式"
@@ -29193,10 +29193,10 @@ msgid "IDS_FEAT_GOOD_VIS_BONUSRADAR_OPTION_DESC"
 msgstr "监视雷达大幅提高对水面上的战舰和潜艇的绝对捕获范围，包括处于烟幕区域之内的目标。"
 
 msgid "IDS_FEAT_GOOD_VIS_BONUSRADAR_VS_SMOKE_8"
-msgstr "从VIII级起可使用监视雷达替代发烟器消耗品"
+msgstr "从VIII级起可使用监视雷达取代发烟器消耗品"
 
 msgid "IDS_FEAT_GOOD_VIS_BONUSREPAIR_VS_SMOKE_8"
-msgstr "从VIII级起可使用维修小组替代发烟器消耗品"
+msgstr "从VIII级起可使用维修小组取代发烟器消耗品"
 
 msgid "IDS_FEAT_GOOD_VIS_BONUSSMOKE"
 msgstr "可使用发烟器消耗品"
@@ -37020,7 +37020,7 @@ msgid "IDS_MAIN_TORPEDO_ACOUSTIC_RANGE_GOOD"
 msgstr "远程声呐导向鱼雷"
 
 msgid "IDS_MAIN_TORPEDO_ALT_RANGE_SPEED_GOOD"
-msgstr "替代鱼雷航速较高、射程较远"
+msgstr "备选鱼雷航速较高、射程较远"
 
 msgid "IDS_MAIN_TORPEDO_LOADERS_BAD"
 msgstr "所有鱼雷发射管齐射装填时间较长"
@@ -37029,7 +37029,7 @@ msgid "IDS_MAIN_TORPEDO_LOADERS_GOOD"
 msgstr "所有鱼雷发射管齐射装填时间较短"
 
 msgid "IDS_MAIN_TORPEDO_RANGE_DAMAGE_GOOD"
-msgstr "伤害较高、射程较远的替代鱼雷"
+msgstr "伤害较高、射程较远的备选鱼雷"
 
 msgid "IDS_MAIN_TORPEDO_REARTUBES_BAD"
 msgstr "舰尾组鱼雷发射管数量较少"
@@ -40391,7 +40391,7 @@ msgid "IDS_OPTIONS_CAMERA"
 msgstr "战斗镜头"
 
 msgid "IDS_OPTIONS_CAMERA_AIRSTRIKE_ZOOM"
-msgstr "空袭替代控制"
+msgstr "空袭部署镜头"
 
 msgid "IDS_OPTIONS_CAMERA_DAMAGE_FEEDBACK"
 msgstr "开启受到伤害时的镜头反馈"
@@ -49081,7 +49081,7 @@ msgid "IDS_PASD207"
 msgstr "法兰德"
 
 msgid "IDS_PASD207_DESCR"
-msgstr "在设计波特驱逐舰的过程中，美国工程师提出了几种不同的方案。1932年3月，提出了单座或双座装备六门主炮的方案。舰队司令还考虑了三座双联装51口径舰炮的替代方案。"
+msgstr "在设计波特驱逐舰的过程中，美国工程师提出了几种不同的方案。1932年3月，提出了单座或双座装备六门主炮的方案。舰队司令还考虑了三座双联装51口径舰炮的备选方案。"
 
 msgid "IDS_PASD207_FULL"
 msgstr "法兰德"
@@ -63265,7 +63265,7 @@ msgstr "“打得狠！打得快！打得勤！”"
 
 msgid "IDS_PCQC014_EPOCHSOFSHIPS_DESCR"
 msgstr ""
-"无论在什么时候，船的形象都具有一种其他任何人造作品都无法比拟的审美价值。几个世纪以来，巨大而又神秘，雄伟并且和谐的帆船一直吸引着人们。后来，“19世纪——铁器时代……”来临了。工业革命加快了人类生活的步伐。海洋上，大自然赐予我们的木材和风，被金属和蒸汽所替代。\n"
+"无论在什么时候，船的形象都具有一种其他任何人造作品都无法比拟的审美价值。几个世纪以来，巨大而又神秘，雄伟并且和谐的帆船一直吸引着人们。后来，“19世纪——铁器时代……”来临了。工业革命加快了人类生活的步伐。海洋上，大自然赐予我们的木材和风，被金属和蒸汽所取代。\n"
 "\n"
 "从那时起，直到航天时代开始之前，船舶承载了所有杰出的科学成就，推动了我们文明的发展。20世纪伴随着空前残酷的世界大战，军舰自然而然地登上了当时造船业的中心舞台。这些军舰外形设计的整齐与匀称，所携带的武器的复杂性和杀伤力则一直被人们所称道。"
 
@@ -64507,12 +64507,12 @@ msgstr "俾斯麦"
 
 msgid "IDS_PCZC011_BISMARCK_BISMARCK_DESCRIPTION"
 msgstr ""
-"德国战列舰俾斯麦 (1940年首次服役) 的徽章，源自与战舰名有关的首相 Otto von 俾斯麦 之家族纹章。\n"
+"德国战列舰俾斯麦（1940年首次服役）的徽章，源自与战舰名有关的首相奥托•冯•俾斯麦之家族纹章。\n"
 "\n"
 "俾斯麦由巡洋舰欧根亲王护卫，而它唯一的海上行动就是强行进入大西洋来攻击盟军船团，但秘密行动并未没有引起注意：战舰被发现而后来就被英国人拦截。5月24日，丹麦海峡，俾斯麦的炮弹击中了英国战斗巡洋舰胡德并造成大爆炸。然而，俾斯麦也同样受到了损伤且不得不放弃它的突围任务。5月26、27日，有着航空团支持的皇家海军联合部队使俾斯麦失去动力并以火炮将它击沉。"
 
 msgid "IDS_PCZC012_BISMARCK_PRINZEUGEN"
-msgstr "Prinz Eugen"
+msgstr "欧根亲王"
 
 msgid "IDS_PCZC012_BISMARCK_PRINZEUGEN_DESCRIPTION"
 msgstr ""
@@ -64534,7 +64534,7 @@ msgstr "No. 209 Squadron RAF"
 
 msgid "IDS_PCZC014_BISMARCK_209SQUADRON_DESCRIPTION"
 msgstr ""
-"No. 209 Squadron (RAF) 的官方中队徽章。下坠的老鹰象征着传说中的曼弗雷德•冯•里希特霍芬男爵的陨落，他就是广为人知的红男爵，于1918年被记入No. 209 Squadron飞行员的机枪击落记录。\n"
+"No. 209 Squadron (RAF)的官方中队徽章。下坠的老鹰象征着传说中的曼弗雷德•冯•里希特霍芬男爵的陨落，他就是广为人知的红男爵，于1918年被记入No. 209 Squadron飞行员的机枪击落记录。\n"
 "\n"
 "这是PBY Catalina，一架由No. 209 Squadron的Dennis Briggs和Leonard B.史密斯所驾驶的水上飞机，于1941年5月26日上午发现了此前与英国人失去联系的战列舰俾斯麦号。这使得英国皇家海军能够集中力量击沉这艘德国战列舰。"
 
@@ -64678,7 +64678,7 @@ msgstr "HMS Victorious"
 
 msgid "IDS_PCZC030_BISMARCK_VICTORIOUS_DESCRIPTION"
 msgstr ""
-"HMS Victorious (于1941年进入服役) 是Illustrious级航空母舰的其中一艘富有创新的战舰，其舰级的第一批战舰接收了装甲飞行甲板。此战舰徽章上描绘着维多利亚，为古罗马的胜利女神。\n"
+"HMS Victorious（于1941年进入服役）是Illustrious级航空母舰的其中一艘富有创新的战舰，其舰级的第一批战舰接收了装甲飞行甲板。此战舰徽章上描绘着维多利亚，为古罗马的胜利女神。\n"
 "\n"
 "1941年5月，最新服役的航空母舰被列入本土舰队的主力部队中并参加了德国战列舰俾斯麦的追击。5月24日-5月25日夜晚期间，HMS Victorious搭载的第825海军中队的鱼雷轰炸机在恶劣的天候下直接命中了俾斯麦，导致此战舰数个舱间进水。"
 
@@ -65362,7 +65362,7 @@ msgstr "战列舰约克公爵号的主炮塔"
 
 msgid "IDS_PCZC108_NY2018_HMSDUKE_OF_YORK_GK356_DESCRIPTION"
 msgstr ""
-"在整个造船史上，由于设计上的复杂性，很少会认真考虑把四联装炮塔当做主要武器。用金属来体现它们的实例更是在规则之外。当中一个例外就是属于英王乔治五世级战列舰中的HMS约克公爵。各战舰都搭载了14英寸 (356毫米) Mk.VII 舰炮，它们被装在一座 Mk.II 二联装前置炮塔和两座 Mk.III 四联装炮塔上。\n"
+"在整个造船史上，由于设计上的复杂性，很少会认真考虑把四联装炮塔当做主要武器。用金属来体现它们的实例更是在规则之外。当中一个例外就是属于英王乔治五世级战列舰中的HMS约克公爵。各战舰都搭载了14英寸（356毫米）Mk.VII舰炮，它们被装在一座Mk.II二联装前置炮塔和两座Mk.III四联装炮塔上。\n"
 "\n"
 "英王乔治五世级战列舰无法拥有更大口径的舰炮，因为舰炮内部有着大量机械结构而无法一直可靠地运转，但在这种作战条件下证明了此战舰的主炮拥有相当高的精度及十足的破坏力。北角海战期间，约克公爵在首次齐射中就达成命中，瘫痪了沙恩霍斯特最重要的炮塔。战斗的头两个小时，德国战列舰被约克公爵的主炮命中后失去了所有的作战能力，英国方的战舰没有受到 沙恩霍斯特 反击火力的严重伤害。"
 
@@ -65461,7 +65461,7 @@ msgstr "巴斯勋章的大十字"
 
 msgid "IDS_PCZC119_NY2018_BANI_DESCRIPTION"
 msgstr ""
-"巴斯勋章是英国最高等的英国勋章之一。由George I于1725年设立，其名称源于英国骑士册封仪式中的一个沐浴环节。授予军事官员的勋章则做成刻有格言Ich Dien (德语的“我侍奉”) 的十字架。\n"
+"巴斯勋章是英国最高等的英国勋章之一。由George I于1725年设立，其名称源于英国骑士册封仪式中的一个沐浴环节。授予军事官员的勋章则做成刻有格言Ich Dien（德语“我侍奉”）的十字架。\n"
 "\n"
 "本土舰队的总指挥官Bruce Fraser，因北角海战的胜利而被授予巴斯勋章的爵级大十字勋章。除此之外，他也被晋升为海军元帅并颁给苏沃洛夫一级勋章，并且在战后提升贵族爵位为北角男爵。"
 
@@ -69022,7 +69022,7 @@ msgid "IDS_PCZC456_CAPT_4_3_FISH_DESCRIPTION"
 msgstr ""
 "自然界中万物共存相互平衡，这是普遍认知。有黑夜，也有白天。施加力量，必然产生反作用力。作为法则，万物相生相克构成了整体。\n"
 "\n"
-"费什是卡普忠实的伙伴、最好的朋友和共识的守护者，它在我们英雄的历险中不可替代。卡普无法抑制的幻想和费什细腻的幽默感能够产生微妙的化学作用。鱼不需要拥语言来表达态度，而是用一种动作和仪态做到这一点。她并不缺乏魅力，这无疑增加了这对组合的吸引力。\n"
+"费什是卡普忠实的伙伴、最好的朋友和共识的守护者，它在我们英雄的历险中功不可没。卡普无法抑制的幻想和费什细腻的幽默感能够产生微妙的化学作用。鱼不需要拥语言来表达态度，而是用一种动作和仪态做到这一点。她并不缺乏魅力，这无疑增加了这对组合的吸引力。\n"
 "\n"
 "菲什扮演了如此多的角色！它是女王、主教、甚至是铆工罗西。人们说，她是从祖母那里继承了如此神奇的变身才能，它的祖母是一条美人鱼。"
 
@@ -73439,7 +73439,7 @@ msgid "IDS_PFSA506"
 msgstr "贝阿恩"
 
 msgid "IDS_PFSA506_DESCR"
-msgstr "贝阿恩号作为诺曼底级战列舰铺设龙骨，但与它的姊妹舰不同，它采用涡轮推进装置替代混合推进装置。华盛顿海军会议后，该舰被重建为航空母舰。在20世纪30年代后期，当局决定重新装备贝阿恩号，用作水上飞机基地，同时保留容纳轮式飞机的可能性；但二战的爆发阻碍了这些计划。在战争期间，贝阿恩号运送了飞机、黄金、部队和装备。"
+msgstr "贝阿恩号作为诺曼底级战列舰铺设龙骨，但与它的姊妹舰不同，它采用涡轮推进装置取代混合推进装置。华盛顿海军会议后，该舰被重建为航空母舰。在20世纪30年代后期，当局决定重新装备贝阿恩号，用作水上飞机基地，同时保留容纳轮式飞机的可能性；但二战的爆发阻碍了这些计划。在战争期间，贝阿恩号运送了飞机、黄金、部队和装备。"
 
 msgid "IDS_PFSA506_FULL"
 msgstr "贝阿恩"
@@ -77710,7 +77710,7 @@ msgid "IDS_PGSB203"
 msgstr "冯•德•坦恩"
 
 msgid "IDS_PGSB203_DESCR"
-msgstr "德国舰队需要实质性的提升来有效对抗英国战列巡洋舰。这艘新战舰配备了4座炮塔，可容纳280毫米火炮；涡轮机替代了蒸汽机；装甲防护明显优于英国战舰。随着一战的爆发，SMS冯•德•坦恩号参加了突袭行动，目的是把大舰队的战舰引出基地。在日德兰海战中，此战舰击沉了HMS不倦号，但它也遭受了英国战舰的多次打击，使其所有火炮瘫痪。"
+msgstr "德国舰队需要实质性的提升来有效对抗英国战列巡洋舰。这艘新战舰配备了4座炮塔，可容纳280毫米火炮；涡轮机取代了蒸汽机；装甲防护明显优于英国战舰。随着一战的爆发，SMS冯•德•坦恩号参加了突袭行动，目的是把大舰队的战舰引出基地。在日德兰海战中，此战舰击沉了HMS不倦号，但它也遭受了英国战舰的多次打击，使其所有火炮瘫痪。"
 
 msgid "IDS_PGSB203_FULL"
 msgstr "冯•德•坦恩"
@@ -77755,7 +77755,7 @@ msgid "IDS_PGSB206"
 msgstr "马肯森"
 
 msgid "IDS_PGSB206_DESCR"
-msgstr "在设计新型战列巡洋舰时，火炮问题至关重要。新型战舰的武器有各种选择，例如将6门380毫米火炮装入3座炮塔，或者选用10门305毫米火炮的替代方案。妥协后的结果是用8门350毫米火炮装备战列巡洋舰。建造由于敌意行动的结束而停止，而此战舰距离完成只差15个月的时间。"
+msgstr "在设计新型战列巡洋舰时，火炮问题至关重要。新型战舰的武器有各种选择，例如将6门380毫米火炮装入3座炮塔，或者使用10门305毫米火炮的备选方案。妥协后的结果是用8门350毫米火炮装备战列巡洋舰。建造由于敌意行动的结束而停止，而此战舰距离完成只差15个月的时间。"
 
 msgid "IDS_PGSB206_FULL"
 msgstr "马肯森"
@@ -77905,7 +77905,7 @@ msgid "IDS_PGSB509"
 msgstr "波美拉尼亚"
 
 msgid "IDS_PGSB509_DESCR"
-msgstr "在设计这艘H级战列舰时，核心诉求是火力要超越世界上所有同类型战舰。尽管德国承诺遵守《华盛顿海军条约》，但该国领导人坚持使用420毫米口径。替代方案包括使用406毫米口径（德国需要更长的时间才能完成开发）或将380毫米火炮的数量增加到12门（置于4座三联装炮塔中）。"
+msgstr "在设计这艘H级战列舰时，核心诉求是火力要超越世界上所有同类型战舰。尽管德国承诺遵守《华盛顿海军条约》，但该国领导人坚持使用420毫米口径。备选方案包括使用406毫米口径（德国需要更长的时间才能完成开发）或将380毫米火炮的数量增加到12门（置于4座三联装炮塔中）。"
 
 msgid "IDS_PGSB509_FULL"
 msgstr "波美拉尼亚"
@@ -78040,7 +78040,7 @@ msgid "IDS_PGSB599"
 msgstr "波美拉尼亚B"
 
 msgid "IDS_PGSB599_DESCR"
-msgstr "在设计这艘H级战列舰时，核心诉求是火力要超越世界上所有同类型战舰。尽管德国承诺遵守《华盛顿海军条约》，但该国领导人坚持使用420毫米口径。替代方案包括使用406毫米口径（德国需要更长的时间才能完成开发）或将380毫米火炮的数量增加到12门（置于4座三联装炮塔中）。"
+msgstr "在设计这艘H级战列舰时，核心诉求是火力要超越世界上所有同类型战舰。尽管德国承诺遵守《华盛顿海军条约》，但该国领导人坚持使用420毫米口径。备选方案包括使用406毫米口径（德国需要更长的时间才能完成开发）或将380毫米火炮的数量增加到12门（置于4座三联装炮塔中）。"
 
 msgid "IDS_PGSB599_FULL"
 msgstr "波美拉尼亚B"
@@ -78205,7 +78205,7 @@ msgid "IDS_PGSC107"
 msgstr "约克"
 
 msgid "IDS_PGSC107_DESCR"
-msgstr "根据《凡尔赛条约》的条款，德国可以保留六艘老化的德意志级和不伦瑞克级战列舰。这些战舰在达到指定年限后，可以由排水量不超过10000吨的战舰替代。在20世纪20年代，海军高层开始深入研究未来战舰以取代旧战列舰。多个衍生型号设计出台，包括类似于“华盛顿”巡洋舰的设计。这个特殊的项目设想使用8门8英寸火炮。该项目从未实施，但其发展促成了“袖珍战列舰”的问世。"
+msgstr "根据《凡尔赛条约》的条款，德国可以保留六艘老化的德意志级和不伦瑞克级战列舰。这些战舰在达到指定年限后，可以由排水量不超过10000吨的战舰顶替。在20世纪20年代，海军高层开始深入研究未来战舰以取代旧战列舰。多个衍生型号设计出台，包括类似于“华盛顿”巡洋舰的设计。这个特殊的项目设想使用8门8英寸火炮。该项目从未实施，但其发展促成了“袖珍战列舰”的问世。"
 
 msgid "IDS_PGSC107_FULL"
 msgstr "约克"
@@ -78640,7 +78640,7 @@ msgid "IDS_PGSD106"
 msgstr "恩斯特•盖德"
 
 msgid "IDS_PGSD106_DESCR"
-msgstr "1933年，驱逐舰舰队的建造开始，它们在航速和火力方面按计划应超过其他国家同类型战舰。1933年3月，斯德丁伏尔铿股份公司提交了一份“常规伦敦海军条约”驱逐舰的设计提案，排水量为1500吨。后来，该项目进行了修改，导致排水量增加至2000吨。尽管如此，德国战争海军领导层还是青睐另一个替代项目，该替代项目被作为1934型战舰后续发展的基础。"
+msgstr "1933年，驱逐舰舰队的建造开始，它们在航速和火力方面按计划应超过其他国家同类型战舰。1933年3月，斯德丁伏尔铿股份公司提交了一份“常规伦敦海军条约”驱逐舰的设计提案，排水量为1500吨。后来，该项目进行了修改，导致排水量增加至2000吨。尽管如此，德国战争海军领导层还是青睐另一个备选项目，该备选项目被作为1934型战舰后续发展的基础。"
 
 msgid "IDS_PGSD106_FULL"
 msgstr "恩斯特•盖德"
@@ -87528,7 +87528,7 @@ msgid "IDS_PJSB906"
 msgstr "伊势2"
 
 msgid "IDS_PJSB906_DESCR"
-msgstr "一种结合了战列舰和航空母舰特征的独特混合型战舰。伊势最初是作为先前的扶桑级的一个版本而建造的，在20世纪40年代进行了大规模的改造。战舰上的部分主炮塔用机库替代，机库上方是飞行甲板。"
+msgstr "一种结合了战列舰和航空母舰特征的独特混合型战舰。伊势最初是作为先前的扶桑级的一个版本而建造的，在20世纪40年代进行了大规模的改造。战舰上的部分主炮塔被机库取代，机库上方是飞行甲板。"
 
 msgid "IDS_PJSB906_FULL"
 msgstr "伊势2"
@@ -87543,7 +87543,7 @@ msgid "IDS_PJSB916"
 msgstr "伊势3"
 
 msgid "IDS_PJSB916_DESCR"
-msgstr "一种结合了战列舰和航空母舰特征的独特混合型战舰。伊势最初是作为先前的扶桑级的一个版本而建造的，在20世纪40年代进行了大规模的改造。战舰上的部分主炮塔用机库替代，机库上方是飞行甲板。"
+msgstr "一种结合了战列舰和航空母舰特征的独特混合型战舰。伊势最初是作为先前的扶桑级的一个版本而建造的，在20世纪40年代进行了大规模的改造。战舰上的部分主炮塔被机库取代，机库上方是飞行甲板。"
 
 msgid "IDS_PJSB916_FULL"
 msgstr "伊势3"
@@ -95482,7 +95482,7 @@ msgid "IDS_PRSB001"
 msgstr "尼古拉一世"
 
 msgid "IDS_PRSB001_DESCR"
-msgstr "一战期间，为了防止土耳其舰队比黑海舰队更有优势，黑海舰队的第4艘无畏舰沙皇尼古拉一世号于1914年在尼古拉耶夫市铺设龙骨。该舰的初始武器构成被修改，以加快其建造速度——原定在该战列舰上安装305毫米火炮以替代356毫米火炮。该舰于1916年下水；然而，由于缺乏必要的机械设备，后续工作中止。苏联当局在20世纪20年代恢复建造该战列舰的计划，但从未真正实现。"
+msgstr "一战期间，为了防止土耳其舰队比黑海舰队更有优势，黑海舰队的第4艘无畏舰沙皇尼古拉一世号于1914年在尼古拉耶夫市铺设龙骨。该舰的初始武器构成被修改，以加快其建造速度——原定在该战列舰上安装305毫米火炮以代替356毫米火炮。该舰于1916年下水；然而，由于缺乏必要的机械设备，后续工作中止。苏联当局在20世纪20年代恢复建造该战列舰的计划，但从未真正实现。"
 
 msgid "IDS_PRSB001_FULL"
 msgstr "沙皇尼古拉一世"
@@ -102337,7 +102337,7 @@ msgid "IDS_PWSD111"
 msgstr "达拉纳"
 
 msgid "IDS_PWSD111_DESCR"
-msgstr "根据瑞典海军的发展计划，主要战术单位是由多艘驱逐舰组成的中队，其中包含一艘领舰。原先由三王冠级巡洋舰充当领舰，但在20世纪40年代中后期，建造一艘特殊的中队领舰成了替代方案。1947年，可供考虑的设计草案有3份，标准排水量分别为2400、3000和4660吨。3000吨领舰的项目采用3座120毫米双联装炮座和2部鱼雷发射管。"
+msgstr "根据瑞典海军的发展计划，主要战术单位是由多艘驱逐舰组成的中队，其中包含一艘领舰。原先由三王冠级巡洋舰充当领舰，但在20世纪40年代中后期，建造一艘特殊的中队领舰成了备选方案。1947年，可供考虑的设计草案有3份，标准排水量分别为2400、3000和4660吨。3000吨领舰的项目采用3座120毫米双联装炮座和2部鱼雷发射管。"
 
 msgid "IDS_PWSD111_FULL"
 msgstr "达拉纳"
@@ -116708,7 +116708,7 @@ msgid "IDS_SCENARIO_1APRIL_D"
 msgstr "外太空"
 
 msgid "IDS_SCENARIO_2WAGONS_REVERCED"
-msgstr "飞艇护卫 — 替代模式"
+msgstr "飞艇护卫 — 备选模式"
 
 msgid "IDS_SCENARIO_AIRBARRIER"
 msgstr "隐蔽机动战"
@@ -116747,7 +116747,7 @@ msgid "IDS_SCENARIO_CONVOY_12X12"
 msgstr "护航战 — 标准航线"
 
 msgid "IDS_SCENARIO_CONVOY_12X12_B"
-msgstr "护航战 — 替代航线"
+msgstr "护航战 — 备选航线"
 
 msgid "IDS_SCENARIO_CONVOY_12X12_W"
 msgstr "护航战 — 标准航线 — 气旋"
@@ -116759,13 +116759,13 @@ msgid "IDS_SCENARIO_CVC_DOMINATION"
 msgstr "军团 — 统治"
 
 msgid "IDS_SCENARIO_CVC_DOMINATION_ALT"
-msgstr "军团战 — 统治 — 替代模式"
+msgstr "军团战 — 统治 — 备选模式"
 
 msgid "IDS_SCENARIO_CVC_DOMINATION_BRAWL"
 msgstr "对决 — 混战"
 
 msgid "IDS_SCENARIO_CVC_DOMINATION_BRAWL_ALT"
-msgstr "对决 — 统治 — 替代模式"
+msgstr "对决 — 统治 — 备选模式"
 
 msgid "IDS_SCENARIO_CVC_DOMINATION_OBSERV0"
 msgstr "军团 — 统治 — 比赛"
@@ -116810,10 +116810,10 @@ msgid "IDS_SCENARIO_DOMINATION_3POINT_COOP"
 msgstr "统治 — 联合作战"
 
 msgid "IDS_SCENARIO_DOMINATION_3POINT_REVISED"
-msgstr "统治 — 替代模式"
+msgstr "统治 — 备选模式"
 
 msgid "IDS_SCENARIO_DOMINATION_3POINT_REVISED_COOP"
-msgstr "统治 — 联合作战 — 替代模式"
+msgstr "统治 — 联合作战 — 备选模式"
 
 msgid "IDS_SCENARIO_DOMINATION_3_BASES"
 msgstr "统治 — 三区域"
@@ -116825,10 +116825,10 @@ msgid "IDS_SCENARIO_DOMINATION_4POINT_COOP"
 msgstr "统治 — 四区域 — 联合作战"
 
 msgid "IDS_SCENARIO_DOMINATION_4POINT_ROMB"
-msgstr "统治 — 四区域 — 替代"
+msgstr "统治 — 四区域 — 备选"
 
 msgid "IDS_SCENARIO_DOMINATION_4POINT_ROMB_COOP"
-msgstr "统治 — 联合作战 — 四区域 — 替代"
+msgstr "统治 — 联合作战 — 四区域 — 备选"
 
 msgid "IDS_SCENARIO_DOMINATION_4_BASES"
 msgstr "统治 — 四区域"
@@ -116864,7 +116864,7 @@ msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_3POINTS_OBSERV0"
 msgstr "比赛 — 统治"
 
 msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_3POINT_ALT"
-msgstr "比赛 — 统治 — 替代"
+msgstr "比赛 — 统治 — 备选"
 
 msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_4POINT"
 msgstr "比赛 — 统治 — 四区域"
@@ -117041,7 +117041,7 @@ msgid "IDS_SCENARIO_RANKED_DOMINATION_1_BASE"
 msgstr "排位战 — 统治 — 单基地"
 
 msgid "IDS_SCENARIO_RANKED_DOMINATION_ALT"
-msgstr "排位战 — 统治 — 替代模式"
+msgstr "排位战 — 统治 — 备选模式"
 
 msgid "IDS_SCENARIO_RANKED_DOMINATION_BRAWL"
 msgstr "对决 — 混战"
@@ -118154,7 +118154,7 @@ msgid "IDS_SHIP_CREW_HINT"
 msgstr "战舰指挥官"
 
 msgid "IDS_SHIP_DUR_SPECIAL_REPAIR"
-msgstr "快速伤害控制小队消耗品替代了伤害控制小组"
+msgstr "快速伤害控制小队消耗品取代了伤害控制小组"
 
 msgid "IDS_SHIP_DUR_TURRET_WEAKARMOR_BAD"
 msgstr "炮塔装甲较弱"
@@ -118319,19 +118319,19 @@ msgid "IDS_SHIP_FEAT_ACOUSTIC_TORP_RANGE_BAD"
 msgstr "声呐导向鱼雷射程较近"
 
 msgid "IDS_SHIP_FEAT_ALT_TORP_EFF_GOOD"
-msgstr "替代鱼雷效率较高"
+msgstr "备选鱼雷效率较高"
 
 msgid "IDS_SHIP_FEAT_ALT_TORP_FAST_GOOD"
-msgstr "替代鱼雷航速较高"
+msgstr "备选鱼雷航速较高"
 
 msgid "IDS_SHIP_FEAT_ALT_TORP_SHORT_RANGE_BAD"
-msgstr "替代鱼雷射程较近"
+msgstr "备选鱼雷射程较近"
 
 msgid "IDS_SHIP_FEAT_ALT_TORP_SINGLE_HIGH_DAMAGE_GOOD"
-msgstr "单枚替代鱼雷伤害较高"
+msgstr "单枚备选鱼雷伤害较高"
 
 msgid "IDS_SHIP_FEAT_ALT_TORP_SLOW_BAD"
-msgstr "替代鱼雷航速较低"
+msgstr "备选鱼雷航速较低"
 
 msgid "IDS_SHIP_FEAT_ASW_FORWARD_DEPTH_CHARGES"
 msgstr "深水炸弹投掷在战舰前方"
@@ -118370,10 +118370,10 @@ msgid "IDS_SHIP_FEAT_DECK_PLANES_FEW_BAD"
 msgstr "甲板上的飞机数量较少"
 
 msgid "IDS_SHIP_FEAT_DUR_HEAL_OR_SMOKE_GOOD"
-msgstr "可使用维修小组替代发烟器消耗品"
+msgstr "可使用维修小组取代发烟器消耗品"
 
 msgid "IDS_SHIP_FEAT_DUR_REPAIR_DIVISION"
-msgstr "重型维修小队替代了维修小组消耗品"
+msgstr "重型维修小队取代了维修小组消耗品"
 
 msgid "IDS_SHIP_FEAT_EHAL_MANY_CHARGES_FAST_RELOAD_GOOD_DESC"
 msgstr "消耗品装载数较多。消耗品装填时间较短。"
@@ -118382,7 +118382,7 @@ msgid "IDS_SHIP_FEAT_GOOD_MAIN_FAST_AP"
 msgstr "从远距离精准发射穿甲弹的难度较低"
 
 msgid "IDS_SHIP_FEAT_GOOD_RADAR_OR_SMOKE"
-msgstr "可使用监视雷达替代发烟器消耗品"
+msgstr "可使用监视雷达取代发烟器消耗品"
 
 msgid "IDS_SHIP_FEAT_HIGH_APSALVO_GOOD"
 msgstr "穿甲弹齐射伤害较高"
@@ -118688,7 +118688,7 @@ msgid "IDS_SHIP_IS_ELITE_HEADING"
 msgstr "精英战舰状态"
 
 msgid "IDS_SHIP_LEVEL"
-msgstr "%(_shipLevel)s级 %(_shipClass)s"
+msgstr "%(_shipLevel)s级%(_shipClass)s"
 
 msgid "IDS_SHIP_LEVEL_RANGE_DELIMETER"
 msgstr "，"
@@ -118739,7 +118739,7 @@ msgid "IDS_SHIP_MAIN_EACH_TUBE_SLOW_RELOAD_BAD"
 msgstr "鱼雷发射管的装填较慢"
 
 msgid "IDS_SHIP_MAIN_GOOD_ALTTORP_GOOD"
-msgstr "替代鱼雷效率较高"
+msgstr "备选鱼雷效率较高"
 
 msgid "IDS_SHIP_MAIN_HAS_MAIN_GUN_GOOD"
 msgstr "可使用主炮"
@@ -118835,7 +118835,7 @@ msgid "IDS_SHIP_MAIN_PLANES_DIVE_AP"
 msgstr "俯冲轰炸机携带穿甲炸弹"
 
 msgid "IDS_SHIP_MAIN_PLANES_DIVE_INSTEAD_ATTACK_CRAFT"
-msgstr "俯冲轰炸机替代了攻击机"
+msgstr "俯冲轰炸机取代了攻击机"
 
 msgid "IDS_SHIP_MAIN_PLANES_FIGHTER_WARDS_GOOD"
 msgstr "增强的巡逻战斗机消耗品"
@@ -118919,13 +118919,13 @@ msgid "IDS_SHIP_MAIN_SPEC_MODULE_SELECT_TORP_GOOD"
 msgstr "可选择不同的鱼雷配件"
 
 msgid "IDS_SHIP_MAIN_SPEC_MODULE_SELECT_TORP_GOOD_ANSHAN_DESC"
-msgstr "标准配件鱼雷射程较近、航速较高。替代配件鱼雷装填时间更长、射程更远、航速更低。"
+msgstr "标准配件鱼雷射程较近、航速较高。备选配件鱼雷装填时间更长、射程更远、航速更低。"
 
 msgid "IDS_SHIP_MAIN_SPEC_MODULE_SELECT_TORP_GOOD_LOYANG_DESC"
-msgstr "标准配件鱼雷伤害较低、装填较快、射程较远、航速较低。替代配件鱼雷伤害明显更高、装填时间更长、射程更短、航速更高。"
+msgstr "标准配件鱼雷伤害较低、装填较快、射程较远、航速较低。备选配件鱼雷伤害明显更高、装填时间更长、射程更短、航速更高。"
 
 msgid "IDS_SHIP_MAIN_SPEC_MODULE_SELECT_TORP_GOOD_SIMS_DESC"
-msgstr "标准配件鱼雷伤害较低、装填时间较长、射程较近、航速较高。替代配件鱼雷伤害更低、装填速度更快、射程更远、航速更低。"
+msgstr "标准配件鱼雷伤害较低、装填时间较长、射程较近、航速较高。备选配件鱼雷伤害更低、装填速度更快、射程更远、航速更低。"
 
 msgid "IDS_SHIP_MAIN_SPEEDMANEUVER_GOOD"
 msgstr "机动性高且最高航速较高"
@@ -120298,7 +120298,7 @@ msgid "IDS_SHIP_PARAM_ALPHA_PIERCING_HE"
 msgstr "高爆弹的穿甲能力"
 
 msgid "IDS_SHIP_PARAM_ALT_TORPEDO_MAX_DIST"
-msgstr "替代鱼雷射程"
+msgstr "备选鱼雷射程"
 
 msgid "IDS_SHIP_PARAM_AMMO_AP"
 msgstr "穿甲弹"
@@ -121006,7 +121006,7 @@ msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_TORPEDO"
 msgstr "鱼雷"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_TORPEDO_ALTERNATIVE"
-msgstr "替代鱼雷"
+msgstr "备选鱼雷"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_TORPEDO_DEEPWATER"
 msgstr "深水鱼雷"
@@ -121177,7 +121177,7 @@ msgid "IDS_SHIP_PARAM_TORPEDOVISIBILITYBYPLANE"
 msgstr "鱼雷对空被侦察范围"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_ALTERNATIVE_AMMO"
-msgstr "替代鱼雷"
+msgstr "备选鱼雷"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_AMMO"
 msgstr "鱼雷"
@@ -127651,13 +127651,13 @@ msgstr ""
 "拾取增益以强化己方团队战舰和飞机中队的属性。"
 
 msgid "IDS_TIPS_ARM_TORPEDO_ALTERNATIVE"
-msgstr "替代鱼雷"
+msgstr "备选鱼雷"
 
 msgid "IDS_TIPS_ARM_TORPEDO_ALTERNATIVE_DESCRIPTION"
 msgstr ""
 "您可直接在战斗中切换不同的鱼雷类型。\n"
 "\n"
-"按[CMD_AMMO_SLOT_4]可使用替代鱼雷。\n"
+"按[CMD_AMMO_SLOT_4]可使用备选鱼雷。\n"
 "\n"
 "切换到不同的鱼雷类型需要额外的时间。"
 
@@ -129301,7 +129301,7 @@ msgid "IDS_TORPEDOES_AIRSUP"
 msgstr "鱼雷"
 
 msgid "IDS_TORPEDOES_ALTER"
-msgstr "[替代鱼雷]"
+msgstr "[备选鱼雷]"
 
 msgid "IDS_TORPEDOES_ANGLE"
 msgstr "切换鱼雷的散射方式"
