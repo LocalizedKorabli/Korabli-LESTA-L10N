@@ -3405,7 +3405,7 @@ msgid "IDS_ACHIEVEMENT_SILENT_KILLER"
 msgstr "隐藏的威胁"
 
 msgid "IDS_ACHIEVEMENT_SINGLE_PER_BATTLE"
-msgstr "每场战斗可获得一次。"
+msgstr "每场战斗仅可获得一次。"
 
 msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR"
 msgstr "新年嘉年华"
@@ -11848,7 +11848,7 @@ msgid "IDS_CONSUMABLE_CHANGE_ORDER_MOUSE_INSTRUCTION"
 msgstr "按住消耗品并移动到另一个栏位"
 
 msgid "IDS_CONSUMABLE_CRASH_CREW_USELESS"
-msgstr "不需要使用"
+msgstr "无需使用"
 
 msgid "IDS_CONSUMABLE_DISABLED"
 msgstr "不可用"
@@ -11866,7 +11866,7 @@ msgid "IDS_CONSUMABLE_PREPARATION"
 msgstr "准备中"
 
 msgid "IDS_CONSUMABLE_REGEN_CREW_USELESS"
-msgstr "不需要使用"
+msgstr "无需使用"
 
 msgid "IDS_CONSUMABLE_RELOADING"
 msgstr "装填中"
@@ -17944,37 +17944,37 @@ msgid "IDS_CREW_RANK_COMMONWEALTH_9"
 msgstr "Admiral"
 
 msgid "IDS_CREW_RANK_EVENTS_0"
-msgstr "军阶 I"
+msgstr "军阶I"
 
 msgid "IDS_CREW_RANK_EVENTS_1"
-msgstr "军阶 II"
+msgstr "军阶II"
 
 msgid "IDS_CREW_RANK_EVENTS_10"
-msgstr "军阶 XI"
+msgstr "军阶XI"
 
 msgid "IDS_CREW_RANK_EVENTS_2"
-msgstr "军阶 III"
+msgstr "军阶III"
 
 msgid "IDS_CREW_RANK_EVENTS_3"
-msgstr "军阶 IV"
+msgstr "军阶IV"
 
 msgid "IDS_CREW_RANK_EVENTS_4"
-msgstr "军阶 V"
+msgstr "军阶V"
 
 msgid "IDS_CREW_RANK_EVENTS_5"
-msgstr "军阶 VI"
+msgstr "军阶VI"
 
 msgid "IDS_CREW_RANK_EVENTS_6"
-msgstr "军阶 VII"
+msgstr "军阶VII"
 
 msgid "IDS_CREW_RANK_EVENTS_7"
-msgstr "军阶 VIII"
+msgstr "军阶VIII"
 
 msgid "IDS_CREW_RANK_EVENTS_8"
-msgstr "军阶 IX"
+msgstr "军阶IX"
 
 msgid "IDS_CREW_RANK_EVENTS_9"
-msgstr "军阶 X"
+msgstr "军阶X"
 
 msgid "IDS_CREW_RANK_FRANCE_0"
 msgstr "Aspirant"
@@ -18679,10 +18679,10 @@ msgid "IDS_CREW_RETRAINING_NEED_RETRAINING_ON_SHIP"
 msgstr "重新训练该指挥官，让其适应新的战舰。"
 
 msgid "IDS_CREW_RETRAINING_PENALTIES_DURING_CURRENT_RETRAINING"
-msgstr "在重新训练期间，指挥官技能效果会降低或消失。"
+msgstr "在重新训练期间，指挥官技能效果会减弱或消失。"
 
 msgid "IDS_CREW_RETRAINING_PENALTIES_DURING_RETRAINING"
-msgstr "若一名指挥官之前被指派到了其他战舰，在重新训练期间，指挥官技能效果将会降低或消失，直至重新训练完成。"
+msgstr "若一名指挥官之前被指派到了其他战舰，在重新训练期间，指挥官技能效果将会减弱或消失，直至重新训练完成。"
 
 msgid "IDS_CREW_SEND_TO_BARRACKS"
 msgstr "将指挥官送回预备队"
@@ -18763,19 +18763,19 @@ msgid "IDS_CREW_TALENT_LEARN_ADDITIONAL_INFO"
 msgstr "指挥官将在激活天赋的同时获得个性化选项"
 
 msgid "IDS_CREW_TOOLTIP_TITLE_NO_SKILLS_FOR_AIRCARRIER"
-msgstr "还没有学习航空母舰技能"
+msgstr "还未学习航空母舰技能"
 
 msgid "IDS_CREW_TOOLTIP_TITLE_NO_SKILLS_FOR_BATTLESHIP"
-msgstr "还没有学习战列舰技能"
+msgstr "还未学习战列舰技能"
 
 msgid "IDS_CREW_TOOLTIP_TITLE_NO_SKILLS_FOR_CRUISER"
-msgstr "还没有学习巡洋舰技能"
+msgstr "还未学习巡洋舰技能"
 
 msgid "IDS_CREW_TOOLTIP_TITLE_NO_SKILLS_FOR_DESTROYER"
-msgstr "还没有学习驱逐舰技能"
+msgstr "还未学习驱逐舰技能"
 
 msgid "IDS_CREW_TOOLTIP_TITLE_NO_SKILLS_FOR_SUBMARINE"
-msgstr "还没有学习潜艇技能"
+msgstr "还未学习潜艇技能"
 
 msgid "IDS_CREW_TOOLTIP_TITLE_SKILLS_FOR_AIRCARRIER"
 msgstr "航空母舰技能："
@@ -26880,10 +26880,10 @@ msgid "IDS_EFFICIENCY_REDUCE_FOR_COMBAT"
 msgstr "战舰的作战效率已降低。"
 
 msgid "IDS_EFFICIENCY_REDUCE_FOR_COMBAT_ECONOMIC"
-msgstr "战舰的作战和经济效率已降低。"
+msgstr "战舰的作战效率和收益已降低。"
 
 msgid "IDS_EFFICIENCY_REDUCE_FOR_ECONOMIC"
-msgstr "战舰的经济效率已降低。"
+msgstr "战舰的战斗收益已降低。"
 
 msgid "IDS_EIGHTH_AMERICAN_ARCSUBCOLLECTION_NAME"
 msgstr "其他等级"
@@ -30472,7 +30472,7 @@ msgid "IDS_GET_LOOTBOX"
 msgstr "收集补给箱"
 
 msgid "IDS_GIFT_FOR_READING_NEWS_IS_AVALAIBLE"
-msgstr "阅读有关版本的新闻并领取礼物！"
+msgstr "阅读版本更新相关新闻并领取礼物！"
 
 msgid "IDS_GLOBALBOOST_AUTOREPLENISHMENT_INFO"
 msgstr "可安装于所有战舰，不会在战斗中消耗。"
@@ -30514,7 +30514,7 @@ msgid "IDS_GOOD_PLAYER"
 msgstr "技术高超"
 
 msgid "IDS_GOOD_RIVAL"
-msgstr "敬佩的对手"
+msgstr "可敬的对手"
 
 msgid "IDS_GOTO_BASE"
 msgstr "前往海军基地"
@@ -31762,7 +31762,7 @@ msgid "IDS_GUIDING_TIP_93_HEADER"
 msgstr "战舰研发"
 
 msgid "IDS_GUIDING_TIP_94_DESC"
-msgstr "您可在此处调整战舰的经济效率。"
+msgstr "您可在此处安装或拆卸战舰的经济加成。"
 
 msgid "IDS_GUIDING_TIP_94_HEADER"
 msgstr "经济加成"
@@ -33489,7 +33489,7 @@ msgid "IDS_INFO_MODULE_OIL_LEAK_CEASED"
 msgstr "溢出的油已消除"
 
 msgid "IDS_INFO_MODULE_OIL_LEAK_PENDING_CEASED"
-msgstr "受损燃油系统已修复"
+msgstr "燃油系统已修复"
 
 msgid "IDS_INFO_MODULE_OIL_LEAK_PENDING_STARTED"
 msgstr "燃油系统受损！"
@@ -37763,7 +37763,7 @@ msgid "IDS_MODAL_ENTER_BATTLE_WITHOUT_SKILLS_DESCRIPTION_PARAGRAPH_1"
 msgstr "该指挥官有未分配的技能点。"
 
 msgid "IDS_MODAL_ENTER_BATTLE_WITHOUT_SKILLS_DESCRIPTION_PARAGRAPH_2"
-msgstr "请前往指挥官技能页面以学习技能，提升战斗效率。"
+msgstr "请前往指挥官技能页面以学习技能，提升作战效率。"
 
 msgid "IDS_MODAL_EVENT_BATTLE_CHOOSER_DESC_PORTAL"
 msgstr ""
@@ -71599,184 +71599,184 @@ msgid "IDS_PCZC822_SCARLET_BIRTHDAY_4_6_DESCRIPTION"
 msgstr "命中与击杀（P.I.U.）探测器是猩红雷霆的最新系统。该设备能探测到敌人被击中或被完全摧毁的情况，然后给出特殊的颜色指示。它没有实际用途，单纯很漂亮。"
 
 msgid "IDS_PCZC823_JAP_BB_EA_DRAGONS_PUZZLE_01"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC824_JAP_BB_EA_DRAGONS_PUZZLE_02"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC825_JAP_BB_EA_DRAGONS_PUZZLE_03"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC826_JAP_BB_EA_DRAGONS_PUZZLE_04"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC827_JAP_BB_EA_DRAGONS_PUZZLE_05"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC828_JAP_BB_EA_DRAGONS_PUZZLE_06"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC829_JAP_BB_EA_DRAGONS_PUZZLE_07"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC830_JAP_BB_EA_DRAGONS_PUZZLE_08"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC831_JAP_BB_EA_DRAGONS_PUZZLE_09"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC832_JAP_BB_EA_DRAGONS_PUZZLE_10"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC833_JAP_BB_EA_DRAGONS_PUZZLE_11"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC834_JAP_BB_EA_DRAGONS_PUZZLE_12"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC835_JAP_BB_EA_DRAGONS_PUZZLE_13"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC836_JAP_BB_EA_DRAGONS_PUZZLE_14"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC837_JAP_BB_EA_DRAGONS_PUZZLE_15"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC838_JAP_BB_EA_DRAGONS_PUZZLE_16"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC839_JAP_BB_EA_DRAGONS_PUZZLE_17"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC840_JAP_BB_EA_DRAGONS_PUZZLE_18"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC841_JAP_BB_EA_DRAGONS_PUZZLE_19"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC842_JAP_BB_EA_DRAGONS_PUZZLE_20"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC843_JAP_BB_EA_DRAGONS_PUZZLE_21"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC844_JAP_BB_EA_DRAGONS_PUZZLE_22"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC845_JAP_BB_EA_DRAGONS_PUZZLE_23"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC846_JAP_BB_EA_DRAGONS_PUZZLE_24"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC847_JAP_BB_EA_DRAGONS_PUZZLE_25"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC848_JAP_BB_EA_DRAGONS_PUZZLE_26"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC849_JAP_BB_EA_DRAGONS_PUZZLE_27"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC850_JAP_BB_EA_DRAGONS_PUZZLE_28"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC851_JAP_BB_EA_DRAGONS_PUZZLE_29"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC852_JAP_BB_EA_DRAGONS_PUZZLE_30"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC853_JAP_BB_EA_DRAGONS_PUZZLE_31"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC854_JAP_BB_EA_DRAGONS_PUZZLE_32"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC855_JAP_BB_EA_DRAGONS_PUZZLE_33"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC856_JAP_BB_EA_DRAGONS_PUZZLE_34"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC857_JAP_BB_EA_DRAGONS_PUZZLE_35"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC858_JAP_BB_EA_DRAGONS_PUZZLE_36"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC859_JAP_BB_EA_DRAGONS_PUZZLE_37"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC860_JAP_BB_EA_DRAGONS_PUZZLE_38"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC861_JAP_BB_EA_DRAGONS_PUZZLE_39"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC862_JAP_BB_EA_DRAGONS_PUZZLE_40"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC863_JAP_BB_EA_DRAGONS_PUZZLE_41"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC864_JAP_BB_EA_DRAGONS_PUZZLE_42"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC865_JAP_BB_EA_DRAGONS_PUZZLE_43"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC866_JAP_BB_EA_DRAGONS_PUZZLE_44"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC867_JAP_BB_EA_DRAGONS_PUZZLE_45"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC868_JAP_BB_EA_DRAGONS_PUZZLE_46"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC869_JAP_BB_EA_DRAGONS_PUZZLE_47"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC870_JAP_BB_EA_DRAGONS_PUZZLE_48"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC871_JAP_BB_EA_DRAGONS_PUZZLE_49"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC872_JAP_BB_EA_DRAGONS_PUZZLE_50"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC873_JAP_BB_EA_DRAGONS_PUZZLE_51"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC874_JAP_BB_EA_DRAGONS_PUZZLE_52"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC875_JAP_BB_EA_DRAGONS_PUZZLE_53"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC876_JAP_BB_EA_DRAGONS_PUZZLE_54"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC877_JAP_BB_EA_DRAGONS_PUZZLE_55"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC878_JAP_BB_EA_DRAGONS_PUZZLE_56"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC879_JAP_BB_EA_DRAGONS_PUZZLE_57"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC880_JAP_BB_EA_DRAGONS_PUZZLE_58"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC881_JAP_BB_EA_DRAGONS_PUZZLE_59"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC882_JAP_BB_EA_DRAGONS_PUZZLE_60"
-msgstr "马赛克拼图碎片"
+msgstr "拼图碎片"
 
 msgid "IDS_PCZC883_ARIA_1_1"
 msgstr "《自大狂（Мания Величия）》"
@@ -72125,7 +72125,7 @@ msgid "IDS_PCZC930_TSAR_MOREY_2_4_DESCRIPTION"
 msgstr ""
 "当战斗的喧嚣褪去，队伍稍作休息，屏幕暗下来的时候，就该她登场了。这位拿着麦克风的女孩就像一个冷血的掠食者，悄无声息地四处潜行，寻找她的目标……完美的伪装、对环境有条不紊的分析、精确计算的动作——当采访开始时，受害者甚至来不及意识到发生了什么。\n"
 "\n"
-"从来没有人能够从她的问题中逃脱！"
+"从来没有人能够从她的提问中逃脱！"
 
 msgid "IDS_PCZC931_TSAR_MOREY_3_1"
 msgstr "技术性失败"
@@ -72167,7 +72167,7 @@ msgstr ""
 "没有什么能让一个做了万全准备的参赛者感到紧张！"
 
 msgid "IDS_PCZC934_TSAR_MOREY_3_4"
-msgstr "再给我5分钟！"
+msgstr "再给我们5分钟！"
 
 msgid "IDS_PCZC934_TSAR_MOREY_3_4_DESCRIPTION"
 msgstr "比赛是以分钟计的活动，但其走向往往难以预测——对抗激烈、局势胶着，以至于不总是能按时完成。幸运的是，我们的裁判都理解这一点，并且如果真的有必要，他们愿意多等一会儿。"
@@ -72599,7 +72599,7 @@ msgid "IDS_PFAS005_BREGUET_BR790"
 msgstr "Breguet Br.790"
 
 msgid "IDS_PFEE001_FRANCE_DESC"
-msgstr "条纹比例稍微不同的法国国旗。从1853年起使用。"
+msgstr "条纹比例略微不同的法国国旗。从1853年起使用。"
 
 msgid "IDS_PFEE001_FRANCE_TITLE"
 msgstr "法国海军"
@@ -104454,7 +104454,7 @@ msgstr "拉斯普京"
 msgid "IDS_PXSB002_DESCR"
 msgstr ""
 "远距离战斗战舰。\n"
-"难度：高\n"
+"上手难度：高\n"
 "\n"
 "一艘神秘的战舰，黄昏舰队的神秘旗舰。关于她的结构特点知之甚少，更不知道是谁、为什么设计并建造了这艘战舰。那些在战斗中遭遇过它的人说，拉斯普京在某种程度上能够通过夺取对手指挥官的下达命令能力来影响人的思想。"
 
@@ -104506,7 +104506,7 @@ msgstr "瓦尔加斯"
 msgid "IDS_PXSB005_DESCR"
 msgstr ""
 "近距离战斗战舰。\n"
-"难度：高\n"
+"上手难度：高\n"
 "\n"
 "瓦尔加斯，一个被诅咒的海盗中队的旗舰，从北海的雾中走出，又在迷人的峡湾中消失得无影无踪。像它的船长一样，这艘战舰也是不朽的。几个世纪以来，它的舰体慢慢变得坚硬，比钢铁还要硬，使战舰在短时间内免疫伤害。瓦尔加斯的光环可以从任何鲁莽地接近它的战舰上吸取能量。"
 
@@ -104555,7 +104555,7 @@ msgstr "利维坦"
 msgid "IDS_PXSB008_DESCR"
 msgstr ""
 "远距离战斗战舰。\n"
-"难度：低\n"
+"上手难度：低\n"
 "\n"
 "利维坦是从相邻的现实位面召唤来的冥界的海龙，被一个狡猾的术士欺骗而为其服务。这种海怪的皮肤不再那么强壮。然而它累积了几个世纪的智慧，这种远古的生物可以更精确地打击敌人，其舰长桥上进行的仪式可以用生命“喂养”附近所有的友军。"
 
@@ -104709,7 +104709,7 @@ msgstr "圣甲虫"
 msgid "IDS_PXSC002_DESCR"
 msgstr ""
 "远距离战斗战舰。\n"
-"难度：高\n"
+"上手难度：高\n"
 "\n"
 "在古代先行者的戒律基础上建立的浮空的神庙。每次击中敌方，圣甲虫都会夺取敌方的一部分生命值。其生物装甲可以吞噬造成伤害的能量来恢复自己的生命值。"
 
@@ -104806,7 +104806,7 @@ msgstr "章鱼"
 msgid "IDS_PXSC009_DESCR"
 msgstr ""
 "远距离战斗战舰。\n"
-"难度：低\n"
+"上手难度：低\n"
 "\n"
 "章鱼是大海妖产下的众多的卵之一，尽管拥有污秽之地的力量，缺与一艘很久之前沉没的船只残骸融为一体。它已经腐蚀的火炮的射速一般，但生锈的炮弹可以一次射击就能点燃敌人。他还可以使用从深渊中的获取能量来治疗友军。"
 
@@ -104978,7 +104978,7 @@ msgstr "食尸鬼"
 msgid "IDS_PXSD002_DESCR"
 msgstr ""
 "近距离战斗战舰。\n"
-"难度：低\n"
+"上手难度：低\n"
 "\n"
 "食尸鬼是一艘幽灵船，由各种怪物的不同部位组成，并用Victor F. Einstein的魔法重新焕发魔力。作为亡灵世界的后裔，这艘船无法进行长途跋涉，但在近距离十分残暴。在污秽之地移动更快更灵活。"
 
@@ -105048,7 +105048,7 @@ msgstr "钢鼠"
 msgid "IDS_PXSD008_DESCR"
 msgstr ""
 "远距离战斗战舰。\n"
-"难度：高\n"
+"上手难度：高\n"
 "\n"
 "钢鼠外观并不显眼，但它配备了最先进，划时代的工具和机械原理。虽然面对面的遭遇战中会显得很脆弱，但通过及时恢复友军战舰的生命值并补充消耗品供应，这艘驱逐舰可以真正地改变游戏的战局。"
 
@@ -105067,7 +105067,7 @@ msgstr "剃刀蠕虫"
 msgid "IDS_PXSD009_DESCR"
 msgstr ""
 "远距离战斗战舰。\n"
-"难度：高\n"
+"上手难度：高\n"
 "\n"
 "一种生物力学结构，一艘理想的特殊行动间谍舰，不是在追捕它的猎物就是在逃避追捕。像断头台一样迅速，像锤子一样坚硬，像她的船长一样坚韧，能快速地锚定它的猎物上。你可能会问，“为什么要选择剃刀蠕虫？”。因为实在是太难击中它了。"
 
@@ -128674,7 +128674,7 @@ msgid "IDS_TOOLTIP_BATTLETYPE_INTERFACE"
 msgstr "在界面中显示所选的战斗模式"
 
 msgid "IDS_TOOLTIP_BATTLE_BONUS_DAILY_DESCRIPTION"
-msgstr "在任意战斗模式中获得一次胜利的奖励。每天可获得一次。"
+msgstr "在任意战斗模式中获得一次胜利的奖励。每天仅可获得一次。"
 
 msgid "IDS_TOOLTIP_BATTLE_BONUS_ONCE_DESCRIPTION"
 msgstr "奖励只能获得一次。"
@@ -132952,7 +132952,7 @@ msgstr[0] "完成一个次要目标的奖励"
 
 msgid "IDS_QUESTION_EXPAND_BARRACKS_FOR"
 msgid_plural "IDS_QUESTION_EXPAND_BARRACKS_FOR"
-msgstr[0] "在预备队增加%s个位置并花费"
+msgstr[0] "在预备队增加%s个位置？确认花费"
 
 msgid "IDS_QUEST_CLANGALEONLY_WIN"
 msgid_plural "IDS_QUEST_CLANGALEONLY_WIN"
@@ -132992,19 +132992,19 @@ msgstr[0] "在海洋之王联赛中与您的团队获得%(achievementCount)s场�
 
 msgid "IDS_QUEST_LIMITED_EXECUTION"
 msgid_plural "IDS_QUEST_LIMITED_EXECUTION"
-msgstr[0] "您可以完成此挑战 %(_numberOfQuestsGeneral)s 次"
+msgstr[0] "您可以挑战%(_numberOfQuestsGeneral)s次"
 
 msgid "IDS_QUEST_LIMITED_EXECUTION_PER_DAY"
 msgid_plural "IDS_QUEST_LIMITED_EXECUTION_PER_DAY"
-msgstr[0] "您每天可以完成此挑战 %(_numberOfQuestsGeneral)s 次。"
+msgstr[0] "您每天可以挑战%(_numberOfQuestsGeneral)s次。"
 
 msgid "IDS_QUEST_LIMITED_EXECUTION_START"
 msgid_plural "IDS_QUEST_LIMITED_EXECUTION_START"
-msgstr[0] "您已完成此挑战 %(_numberOfQuestsGeneral)s 次可用次数中的%(_numberOfQuestsDone)s 次。"
+msgstr[0] "总共可以挑战%(_numberOfQuestsGeneral)s次，您已使用了%(_numberOfQuestsDone)s次机会。"
 
 msgid "IDS_QUEST_LIMITED_EXECUTION_START_PER_DAY"
 msgid_plural "IDS_QUEST_LIMITED_EXECUTION_START_PER_DAY"
-msgstr[0] "今天您已完成了此挑战可用次数 %(_numberOfQuestsGeneral)s 次中的 %(_numberOfQuestsDone)s 次。"
+msgstr[0] "今日总共可以挑战%(_numberOfQuestsGeneral)s次，您已使用了%(_numberOfQuestsDone)s次机会。"
 
 msgid "IDS_QUEST_PRORUV_WIN"
 msgid_plural "IDS_QUEST_PRORUV_WIN"
