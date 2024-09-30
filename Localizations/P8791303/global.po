@@ -41610,7 +41610,7 @@ msgid "IDS_OP_02_02_CHAT_004_FORTS_DESTROYED"
 msgstr "部分要塞已被摧毁。"
 
 msgid "IDS_OP_02_02_CHAT_005_RAPTOR_DEAD"
-msgstr "航空母舰Raptor被摧毁。"
+msgstr "航空母舰Raptor已被摧毁。"
 
 msgid "IDS_OP_02_02_CHAT_006_BOMBERS_LOST"
 msgstr "攻击中队遭受严重损失。"
@@ -41649,7 +41649,7 @@ msgid "IDS_OP_02_02_CSM_006_SECOND_TASK_04_OPEN"
 msgstr "将火力集中在我方飞机所攻击的战舰上！"
 
 msgid "IDS_OP_02_02_CSM_007_SECOND_TASK_04_STAY_ON_TARGET"
-msgstr "已指定目标，中队开始发起攻击！"
+msgstr "目标已确定，各中队开始攻击！"
 
 msgid "IDS_OP_02_02_CSM_009_FINISH_FAIL_2"
 msgstr ""
@@ -119629,25 +119629,25 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM055_SUBMARINEBUFF_H2023"
 msgstr "逝者意志"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE"
 msgstr "对空被侦察性"
@@ -119941,25 +119941,25 @@ msgid "IDS_SHIP_MODIFIER_PXOM103_AIRBARRIER_ENGINE_BOOST"
 msgstr "机动性提高"
 
 msgid "IDS_SHIP_MODIFIER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PXOM126_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PXOM135_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF_APPLIED"
-msgstr "贝加尔湖神力"
+msgstr "英雄气概"
 
 msgid "IDS_SHIP_MODIFIER_SOURCE_ALLY"
 msgstr "己方战舰拾得增益"
