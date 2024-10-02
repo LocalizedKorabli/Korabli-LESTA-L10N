@@ -39255,7 +39255,7 @@ msgid "IDS_MUSIC_MOD_DYNAMIC"
 msgstr "现代"
 
 msgid "IDS_MUSIC_MOD_DYNAMIC_DESCRIPTION"
-msgstr "以电子声音为主的音乐。"
+msgstr "以电子合成音为主的音乐。"
 
 msgid "IDS_MUSIC_MOD_LEGACY"
 msgstr "影院"
@@ -39267,7 +39267,7 @@ msgid "IDS_MUSIC_MOD_MIXED"
 msgstr "标准"
 
 msgid "IDS_MUSIC_MOD_MIXED_DESCRIPTION"
-msgstr "结合电影和现代编曲。音乐的性质根据战斗中的情况而变化。"
+msgstr "“影院”和“现代”类型混合的音乐，其风格根据战斗中的情况而变化。"
 
 msgid "IDS_MUSIC_MOD_WARDRUMS"
 msgstr "战鼓"
@@ -130418,27 +130418,27 @@ msgstr ""
 
 msgid "IDS_UNLOCKS_LEVEL_UP_11"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>战舰的经济加成</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_12"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>升级品</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_13"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>指挥官技能</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_14"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>战舰的信号旗</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_15"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>变更战舰外观</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_1600"
@@ -130448,22 +130448,22 @@ msgstr ""
 
 msgid "IDS_UNLOCKS_LEVEL_UP_17"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>战舰研发和强化</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_21"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>补给箱</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_22"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>战役</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_23"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>库存管理</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_24"
@@ -130478,7 +130478,7 @@ msgstr ""
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3029"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>兵工厂</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3103"
@@ -130488,12 +130488,12 @@ msgstr ""
 
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>全局经验</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_9"
 msgstr ""
-"<body>您现在已可以使用\n"
+"<body>您现在可以使用\n"
 "<h3>作战任务</h3></body>"
 
 msgid "IDS_UNLOCKS_LOCATION_1"
