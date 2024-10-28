@@ -8500,10 +8500,10 @@ msgid "IDS_BRAWL_FORMAT_SOLO"
 msgstr "参与形式：%(_maxPlayers)sv%(_maxPlayers)s。禁止小队参与战斗。"
 
 msgid "IDS_BRAWL_PRIME_TIME_ENDS_IN"
-msgstr "距离时段结束还剩：%(_timeLeft)s"
+msgstr "距离当前时段结束还剩：%(_timeLeft)s"
 
 msgid "IDS_BRAWL_PRIME_TIME_STARTS_IN"
-msgstr "距离时段开始还有：%(_timeLeft)s"
+msgstr "距离下个时段开始还有：%(_timeLeft)s"
 
 msgid "IDS_BRAWL_STATUS_PRIMETIME_ACTIVE"
 msgstr "开放"
@@ -19425,7 +19425,7 @@ msgid "IDS_DAILY"
 msgstr "每日"
 
 msgid "IDS_DAILY_EXTRA_REWARD_WINDOW_DESCRIPTION"
-msgstr "本月的所有奖励都已归您所有，您有权获得额外奖励！"
+msgstr "本月所有基础奖励都已归您所有，您还可以获得额外奖励！"
 
 msgid "IDS_DAILY_LOOTBOXES"
 msgstr "每日补给箱"
@@ -27352,7 +27352,7 @@ msgid "IDS_ENTER_LOGIN_ON_LOGIN"
 msgstr "输入用户名"
 
 msgid "IDS_ENTER_NEW_CHANNEL_PWD"
-msgstr "密码 (选填)"
+msgstr "密码（选填）"
 
 msgid "IDS_ENTER_PLAYER_NAME"
 msgstr "输入用户名"
@@ -27508,7 +27508,7 @@ msgid "IDS_ERROR_SERVER_SHUTDOWN"
 msgstr "服务器即将重新启动。请稍后再试。"
 
 msgid "IDS_ERROR_STEAM_NOT_READY"
-msgstr "Steam 交互服务登录错误"
+msgstr "Steam交互服务登录错误"
 
 msgid "IDS_ERROR_UNKNOWN"
 msgstr "未知错误"
@@ -27526,7 +27526,7 @@ msgid "IDS_ERROR_WGNI_COMMON"
 msgstr "网页授权出错。请重试或联系玩家支持中心。"
 
 msgid "IDS_ERROR_WGNI_TICKET_EXPIRED"
-msgstr "授权已到期。请再试一次。"
+msgstr "授权已过期。请再试一次。"
 
 msgid "IDS_ERROR_WRONG_EMAIL_PASSWORD"
 msgstr "不正确的账号或密码。"
@@ -27791,10 +27791,10 @@ msgid "IDS_EVENT_BATTLES_PRIME_TIME_DISABLED"
 msgstr "此活动目前不开放"
 
 msgid "IDS_EVENT_BATTLE_PRIME_TIME_ENDS_IN"
-msgstr "距离时段结束还剩：%(_timeLeft)s"
+msgstr "距离当前时段结束还剩：%(_timeLeft)s"
 
 msgid "IDS_EVENT_BATTLE_PRIME_TIME_STARTS_IN"
-msgstr "距离时段开始还有：%(_timeLeft)s"
+msgstr "距离下个时段开始还有：%(_timeLeft)s"
 
 msgid "IDS_EVENT_BATTLE_STAGE_UNDEFINED"
 msgstr "状态未知"
@@ -27815,13 +27815,13 @@ msgid "IDS_EVENT_EVENTIUM_TOOLTIP"
 msgstr "使用IX和X级战舰加入非对称作战，需使用战斗代币。您可通过使用VII-VIII级战舰参与非对称作战来获取战斗代币。"
 
 msgid "IDS_EVENT_LOOTBOX_0"
-msgstr "1 个补给箱"
+msgstr "1个补给箱"
 
 msgid "IDS_EVENT_LOOTBOX_1"
-msgstr "5 个补给箱"
+msgstr "5个补给箱"
 
 msgid "IDS_EVENT_LOOTBOX_2"
-msgstr "20 个补给箱"
+msgstr "20个补给箱"
 
 msgid "IDS_EVENT_LOOTBOX_DESCRIPTION"
 msgstr "带有万圣节专属奖励的独特补给箱！开启补给箱就能获得独家奖励！"
@@ -27857,13 +27857,13 @@ msgid "IDS_EVENT_SHARE"
 msgstr "活动专属折扣"
 
 msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_BRAWLBATTLE"
-msgstr "对决不允许使用特殊战舰。"
+msgstr "特殊战舰不可参加对决"
 
 msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_CLANBATTLE"
-msgstr "特殊战舰不可参加军团战。"
+msgstr "特殊战舰不可参加军团战"
 
 msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_CLAN_BATTLES"
-msgstr "特殊战舰不可参加军团战。"
+msgstr "特殊战舰不可参加军团战"
 
 msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_COOPERATIVEBATTLE"
 msgstr "特殊战舰不可参加联合作战"
@@ -27872,10 +27872,10 @@ msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_RANDOMBATTLE"
 msgstr "特殊战舰不可参加随机战"
 
 msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_RANKEDBATTLE"
-msgstr "特殊战舰不可参加排位战。"
+msgstr "特殊战舰不可参加排位战"
 
 msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_RANKED_BATTLES"
-msgstr "特殊战舰不可参加排位战。"
+msgstr "特殊战舰不可参加排位战"
 
 msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_TRAINING_BATTLE"
 msgstr "不允许使用特殊战舰"
@@ -28067,7 +28067,7 @@ msgid "IDS_EXPIRY_DATE_COLON"
 msgstr "结束日期：%(_date)s"
 
 msgid "IDS_EXP_LEFT"
-msgstr "需要经验："
+msgstr "还需要经验："
 
 msgid "IDS_EXP_TO_NEXT_LOOTBOX"
 msgstr "距离领取下个补给箱还需要："
@@ -33708,7 +33708,7 @@ msgid "IDS_INFO_TURRET_IS_DESCTRUCTED"
 msgstr "主炮塔已瘫痪"
 
 msgid "IDS_INFO_VP_ALLY_CAPTURED_BASE"
-msgstr "我方团队占领了 %s 地区！"
+msgstr "我方团队占领了区域%s！"
 
 msgid "IDS_INFO_VP_ALLY_CAPTURED_CENTRAL_EPICENTERCP"
 msgstr "我方团队占领了中心区域！"
@@ -33723,10 +33723,10 @@ msgid "IDS_INFO_VP_ALLY_CAPTURED_WHOLE_EPICENTER"
 msgstr "我方团队占领了震中！"
 
 msgid "IDS_INFO_VP_ALLY_CAPTURED_ZONE"
-msgstr "我方团队占领了区域 %s！"
+msgstr "我方团队占领了区域%s！"
 
 msgid "IDS_INFO_VP_ENEMY_CAPTURED_BASE"
-msgstr "敌方团队占领了 %s 地区！"
+msgstr "敌方团队占领了区域%s！"
 
 msgid "IDS_INFO_VP_ENEMY_CAPTURED_CENTRAL_EPICENTERCP"
 msgstr "敌方团队占领了中心区域！"
@@ -33741,10 +33741,10 @@ msgid "IDS_INFO_VP_ENEMY_CAPTURED_WHOLE_EPICENTER"
 msgstr "敌方团队占领了震中！"
 
 msgid "IDS_INFO_VP_ENEMY_CAPTURED_ZONE"
-msgstr "敌方团队占领了区域 %s！"
+msgstr "敌方团队占领了区域%s！"
 
 msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_BASE"
-msgstr "敌方团队开始占领 %s 地区！"
+msgstr "敌方团队开始占领区域%s！"
 
 msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_CENTRAL_EPICENTERCP"
 msgstr "敌方团队开始占领中心区域！"
@@ -33756,7 +33756,7 @@ msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_OUTTER_EPICENTERCP"
 msgstr "敌方团队开始占领外围区域！"
 
 msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_ZONE"
-msgstr "敌方团队开始占领区域 %s！"
+msgstr "敌方团队开始占领区域%s！"
 
 msgid "IDS_INGAME_BONUS_SELECTION_HEADER"
 msgstr "选择一个奖励"
@@ -47404,7 +47404,7 @@ msgid "IDS_PARENTAL_CONTROL_DAILY_LIMIT"
 msgstr "明天"
 
 msgid "IDS_PARENTAL_CONTROL_SESSION_END_IMMINENT_COLON"
-msgstr "距离时段结束还剩：%(_timeLeft)s"
+msgstr "距离当前时段结束还剩：%(_timeLeft)s"
 
 msgid "IDS_PARENTAL_CONTROL_WEEKLY_LIMIT"
 msgstr "下周"
@@ -97071,7 +97071,7 @@ msgid "IDS_PRSC503_YEAR"
 msgstr "1904"
 
 msgid "IDS_PRSC505"
-msgstr "克里米亚"
+msgstr "红色克里米亚"
 
 msgid "IDS_PRSC505_DESCR"
 msgstr "二战期间，红色克里米亚号（即之前于1928年服役的巡洋舰斯维特拉那号）参加了敖德萨和塞瓦斯托波尔保卫战、刻赤和苏达克登陆行动，以及新罗西斯克的撤离。该巡洋舰被授予苏联海军“近卫”称号以表彰其英勇表现。1953年，它被重新划分为训练巡洋舰。"
@@ -110875,10 +110875,10 @@ msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SPRINT_STARTED_3"
 msgstr "您已在青铜联盟中开始新的冲刺回合"
 
 msgid "IDS_RANKED_PRIME_TIME_ENDS_IN"
-msgstr "距离时段结束还剩：%(_timeLeft)s"
+msgstr "距离当前时段结束还剩：%(_timeLeft)s"
 
 msgid "IDS_RANKED_PRIME_TIME_STARTS_IN"
-msgstr "距离时段开始还有：%(_timeLeft)s"
+msgstr "距离下个时段开始还有：%(_timeLeft)s"
 
 msgid "IDS_RANKED_PRIME_TIME_TOOLTIP_DESC"
 msgstr "排位战于本地时间%(startsIn)s至%(endsIn)s举行。"
@@ -126035,13 +126035,13 @@ msgid "IDS_SUBST_BATTLEPASS_PAID_TOOLTIP_TEXT"
 msgstr "等级%(_level)s 高级通行证"
 
 msgid "IDS_SUBST_BATTLEPASS_STATUS_TIME"
-msgstr "距离本赛季结束还剩：%(timeLeft)s"
+msgstr "距离当前赛季结束还剩：%(timeLeft)s"
 
 msgid "IDS_SUBST_BONUSTAG_CONDITIONS_DESCRIPTION"
 msgstr "赢得任意模式战斗或在一场战斗中获得%(_baseExpCount)s点基础经验。"
 
 msgid "IDS_SUBST_BRAWL_SEASON_ENDS_IN"
-msgstr "距离本赛季结束还剩：%(_timeTillEnd)s"
+msgstr "距离当前赛季结束还剩：%(_timeTillEnd)s"
 
 msgid "IDS_SUBST_CAMOUFLAGE"
 msgstr "%(_exteriorNameIds)s涂装"
@@ -126050,13 +126050,13 @@ msgid "IDS_SUBST_DOCK_BANNER_BATTLEPASS_PROGRESS_TEXT"
 msgstr "距离等级%(_level)s还需要："
 
 msgid "IDS_SUBST_DOCK_BANNER_BATTLEPASS_TOOLTIP_TIME"
-msgstr "距离本赛季结束还剩：%(_timeLeft)s"
+msgstr "距离当前赛季结束还剩：%(_timeLeft)s"
 
 msgid "IDS_SUBST_ENSIGN"
 msgstr "%(_exteriorNameIds)s旗帜"
 
 msgid "IDS_SUBST_EVENT_SEASON_ENDS_IN"
-msgstr "距离本赛季结束还剩：%(_timeLeft)s"
+msgstr "距离当前赛季结束还剩：%(_timeLeft)s"
 
 msgid "IDS_SUBST_FLAGS"
 msgstr "%(_exteriorNameIds)s信号旗"
@@ -126080,7 +126080,7 @@ msgid "IDS_SUBST_NTH_RANKED_SEASON_STARTS_IN"
 msgstr "距离第%(_seasonId)s赛季开始还有：%(_timeTillStart)s"
 
 msgid "IDS_SUBST_RANKED_SEASON_ENDS_IN"
-msgstr "距离本赛季结束还剩：%(_timeLeft)s"
+msgstr "距离当前赛季结束还剩：%(_timeLeft)s"
 
 msgid "IDS_SUBST_RANKED_SEASON_STARTS_IN"
 msgstr "距离赛季开始还有：%(_timeTillStart)s"
@@ -128638,7 +128638,7 @@ msgid "IDS_THURSDAY_FULL"
 msgstr "星期四"
 
 msgid "IDS_TILL_CLAN_BATTLE_SEASON_END"
-msgstr "距离本赛季结束还剩："
+msgstr "距离当前赛季结束还剩："
 
 msgid "IDS_TILL_CREW_DEMOBILIZATION_TOOLTIP"
 msgstr "在%(_timeLeft)s后被解雇"
@@ -133988,7 +133988,7 @@ msgstr[0] "战舰"
 
 msgid "IDS_PL_ARC_EVENT_MAIN_SCREEN_POINTS_TILL_NEXT_REWARD"
 msgid_plural "IDS_PL_ARC_EVENT_MAIN_SCREEN_POINTS_TILL_NEXT_REWARD"
-msgstr[0] "距离下个奖励：%(_pointsTillNext)s积分"
+msgstr[0] "距离下个奖励还需要：%(_pointsTillNext)s积分"
 
 msgid "IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_POINTS_FOR_PROGRESS_ITEM"
 msgid_plural "IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_POINTS_FOR_PROGRESS_ITEM"
@@ -134432,7 +134432,7 @@ msgstr[0] "已获得%(_points)s积分"
 
 msgid "IDS_SUBST_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
 msgid_plural "IDS_SUBST_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
-msgstr[0] "距离下个奖励：%(_pointsTillNext)s积分"
+msgstr[0] "距离下个奖励还需要：%(_pointsTillNext)s积分"
 
 msgid "IDS_SUBST_CREDITS"
 msgid_plural "IDS_SUBST_CREDITS"
