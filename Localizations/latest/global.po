@@ -32710,7 +32710,7 @@ msgid "IDS_HIGHEST_MAIN_GUN_AMMO_HE_ALPHA"
 msgstr "高爆弹伤害最高"
 
 msgid "IDS_HIGHEST_MAIN_GUN_ANY_DISTANCE_SHOOTING_ACCURACY"
-msgstr "任何距离下主炮精度最高"
+msgstr "全距离下主炮精度最高"
 
 msgid "IDS_HIGHEST_MAIN_GUN_AP_PENETRATION"
 msgstr "穿甲弹穿甲能力最高"
@@ -32761,7 +32761,7 @@ msgid "IDS_HIGHEST_TORPEDO_SPEED"
 msgstr "鱼雷航速最高"
 
 msgid "IDS_HIGHEST_VISIBILITY_FACTOR"
-msgstr "被侦察性最低"
+msgstr "隐蔽性最好"
 
 msgid "IDS_HINT_ACCOUNT_TYPE"
 msgstr "账号类型"
@@ -36897,10 +36897,10 @@ msgid "IDS_MAIN_GUN_AMMO_HE_PIERCING_LOW"
 msgstr "高爆弹穿甲能力较低"
 
 msgid "IDS_MAIN_GUN_ANY_DISTANCE_SHOOTING_ACCURACY_HIGH"
-msgstr "任何距离下主炮精度都较高"
+msgstr "全距离下主炮精度较高"
 
 msgid "IDS_MAIN_GUN_ANY_DISTANCE_SHOOTING_ACCURACY_LOW"
-msgstr "任何距离下主炮精度都较低"
+msgstr "全距离下主炮精度较低"
 
 msgid "IDS_MAIN_GUN_AP_EFFICIENCY_HIGH"
 msgstr "穿甲弹效率较高"
