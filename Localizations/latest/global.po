@@ -26093,7 +26093,7 @@ msgid "IDS_DOGTAG_PCNU032_DESCRIPTION"
 msgstr "驱逐舰的设计旨在摧毁敌方潜艇和水面战舰，为友军战舰和船只在航行和战斗中提供防空和反潜防御，支援两栖攻击和海运行动，并为沿岸部队提供火力支援，以及布设水雷。"
 
 msgid "IDS_DOGTAG_PCNU032_NAME"
-msgstr "驱逐舰指挥官-精英部队"
+msgstr "驱逐舰指挥官：精英"
 
 msgid "IDS_DOGTAG_PCNU033_DESCRIPTION"
 msgstr "巡洋舰是大型战舰，旨在摧毁敌舰、支援两栖攻击行动、为陆地部队提供火力支援，以及在海上完成其他作战任务。这种类型的战舰根据各种参数可分为多个子类型。这些子类型包括战列巡洋舰、轻型巡洋舰、防空巡洋舰等。"
@@ -26117,7 +26117,7 @@ msgid "IDS_DOGTAG_PCNU036_DESCRIPTION"
 msgstr "巡洋舰是大型战舰，旨在摧毁敌舰、支援两栖攻击行动、为陆地部队提供火力支援，以及在海上完成其他作战任务。这种类型的战舰根据各种参数可分为多个子类型。这些子类型包括战列巡洋舰、轻型巡洋舰、防空巡洋舰等。"
 
 msgid "IDS_DOGTAG_PCNU036_NAME"
-msgstr "巡洋舰指挥官-精英部队"
+msgstr "巡洋舰指挥官：精英"
 
 msgid "IDS_DOGTAG_PCNU037_DESCRIPTION"
 msgstr "战列舰是大型重装甲战舰，在20世纪上半叶占据重要地位。战列舰配备强大的火炮，旨在海上遭遇战中摧毁所有类型的水面战舰，并炮轰陆上目标。航空母舰在20世纪10年代末取代了前无畏舰。"
@@ -26141,7 +26141,7 @@ msgid "IDS_DOGTAG_PCNU040_DESCRIPTION"
 msgstr "战列舰是大型重装甲战舰，在20世纪上半叶占据重要地位。战列舰配备强大的火炮，旨在海上遭遇战中摧毁所有类型的水面战舰，并炮轰陆上目标。航空母舰在20世纪10年代末取代了前无畏舰。"
 
 msgid "IDS_DOGTAG_PCNU040_NAME"
-msgstr "战列舰指挥官-精英部队"
+msgstr "战列舰指挥官：精英"
 
 msgid "IDS_DOGTAG_PCNU041_DESCRIPTION"
 msgstr "航空母舰是水面战舰，主要依靠从甲板上部署的飞机来实施进攻。这些飞机旨在摧毁敌方水面战舰、潜艇、海上和基地的运输船，以及敌方航空兵。航空母舰在破坏或保卫海上通信航道，以及支援突击登陆和地面部队方面也发挥着至关重要的作用。"
@@ -26165,7 +26165,7 @@ msgid "IDS_DOGTAG_PCNU044_DESCRIPTION"
 msgstr "航空母舰是水面战舰，主要依靠从甲板上部署的飞机来实施进攻。这些飞机旨在摧毁敌方水面战舰、潜艇、海上和基地的运输船，以及敌方航空兵。航空母舰在破坏或保卫海上通信航道，以及支援突击登陆和地面部队方面也发挥着至关重要的作用。"
 
 msgid "IDS_DOGTAG_PCNU044_NAME"
-msgstr "航空母舰指挥官-精英部队"
+msgstr "航空母舰指挥官：精英"
 
 msgid "IDS_DOGTAG_PCNU045_DESCRIPTION"
 msgstr "我们对战舰共同的热爱让我们团结一致，但真正让这一切蓬勃向上的是社区里的每个人。"
@@ -26498,7 +26498,7 @@ msgid "IDS_DOGTAG_PCNU097_DESCRIPTION"
 msgstr "潜艇是能够潜水和水下作业的舰艇。潜艇的主要军事优势在于隐蔽能力。作战潜艇旨在摧毁敌舰、部署雷区、执行侦察行动并完成其他作战和专项任务。"
 
 msgid "IDS_DOGTAG_PCNU097_NAME"
-msgstr "潜艇指挥官-精英部队"
+msgstr "潜艇指挥官：精英"
 
 msgid "IDS_DOGTAG_PCNU098_DESCRIPTION"
 msgstr "公牛成为西班牙的象征可以追溯到古代，令人惊叹的体型、毫不动摇的勇气和狡黠的天性充分展现出其打斗能力。"
@@ -45861,7 +45861,7 @@ msgid "IDS_PARAMS_MODIFIER_AAMAXDIST"
 msgstr "防空炮最大射程"
 
 msgid "IDS_PARAMS_MODIFIER_AAMAXHP"
-msgstr "防空炮耐久度"
+msgstr "防空炮生存性"
 
 msgid "IDS_PARAMS_MODIFIER_AAPASSIVEAURA"
 msgstr "飞机自卫武器伤害"
