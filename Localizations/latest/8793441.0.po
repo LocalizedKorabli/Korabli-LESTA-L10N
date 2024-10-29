@@ -84845,10 +84845,10 @@ msgid "IDS_PJAB004_YOKOSUKA_B4Y"
 msgstr "橫須賀B4Y九六式艦攻"
 
 msgid "IDS_PJAB005_MITSUBISHI_1MT"
-msgstr "三菱1MT十年式艦雷"
+msgstr "三菱1MT一〇式艦雷"
 
 msgid "IDS_PJAB006_MT1_FLOAT"
-msgstr "三菱1MT十年式艦雷"
+msgstr "三菱1MT一〇式艦雷"
 
 msgid "IDS_PJAB007_R2Y1_KEIUN"
 msgstr "橫須賀R2Y1-B“景雲”"
@@ -108069,7 +108069,7 @@ msgid "IDS_PZAD908_ASW"
 msgstr "Beriyev MBR-2"
 
 msgid "IDS_PZAD910_ASW_T10"
-msgstr "Kawanishi H6K"
+msgstr "川西H6K九七式大艇"
 
 msgid "IDS_PZAF001_VG_39_BIS_FLOAT"
 msgstr "Arsenal VG 39"
