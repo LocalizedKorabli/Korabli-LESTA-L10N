@@ -19086,7 +19086,7 @@ msgid "IDS_CURRENCY_ELITE_XP"
 msgstr "精英指挥官经验"
 
 msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "琅彩代币"
+msgstr "炫彩代币"
 
 msgid "IDS_CURRENCY_EVENTUM_10"
 msgstr "夏季代币"
@@ -19101,13 +19101,13 @@ msgid "IDS_CURRENCY_EVENTUM_10_STATUS"
 msgstr "“我们的夏天”活动的临时资源。13.8版本更新后，代币将被无偿收回。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "在13.4版本结束前完成活动战斗目标并达到高级通行证20级，以及在13.4和13.5版本活动期间从“琅彩角逐”高级补给箱和兵工厂的礼包中获得。"
+msgstr "在13.4版本结束前完成活动战斗目标并达到高级通行证20级，以及在13.4和13.5版本活动期间从“炫彩角逐”高级补给箱和兵工厂的礼包中获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
 msgstr "用于购买施里芬CLR、安达卢西亚CLR和秋月CLR三艘战舰，以及其他资源。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "“琅彩角逐”活动的临时资源，13.6版本发布后，代币将无偿收回。"
+msgstr "“炫彩角逐”活动的临时资源，13.6版本发布后，代币将无偿收回。"
 
 msgid "IDS_CURRENCY_EVENTUM_2"
 msgstr "进步代币"
@@ -40773,13 +40773,13 @@ msgid "IDS_OPTIONS_OBSERVE_YAW_RESTORE"
 msgstr "记住，第三人称镜头位置会在自由镜头下启用"
 
 msgid "IDS_OPTIONS_QUICKCOMMANDS_SOUND"
-msgstr "快速消息"
+msgstr "快捷指令"
 
 msgid "IDS_OPTIONS_QUICKCOMMANDS_SOUND_DESCRIPTION"
-msgstr "快速消息配音。"
+msgstr "快捷指令配音。"
 
 msgid "IDS_OPTIONS_QUICKCOMMANDS_SOUND_TOOLTIP_HEADER"
-msgstr "快速消息声音"
+msgstr "快捷指令声音"
 
 msgid "IDS_OPTIONS_RESISTANCE_EFFECT"
 msgstr "启用缩放极限时的回弹效果"
@@ -40839,7 +40839,7 @@ msgid "IDS_OPTIONS_VOICE_OVER_EFFECT"
 msgstr "无线电通讯效果"
 
 msgid "IDS_OPTIONS_VOICE_OVER_EFFECT_DESCRIPTION"
-msgstr "使用声音滤波器以重现无线电通信的效果。该效果适用于指挥官的台词、快速消息和语音聊天。"
+msgstr "使用声音滤波器以重现无线电通信的效果。该效果适用于指挥官的台词、快捷指令和语音聊天。"
 
 msgid "IDS_OPTIONS_VOICE_PROMPT"
 msgstr "语音帮助"
@@ -84833,409 +84833,409 @@ msgid "IDS_PIUT905_DD10_TORP_STOCK"
 msgstr "533 mm Si 270 N2"
 
 msgid "IDS_PJAB001_B5N2"
-msgstr "Nakajima B5N2"
+msgstr "中島B5N2九七式艦攻"
 
 msgid "IDS_PJAB002_NAKAJIMA_B6N"
-msgstr "Nakajima B6N"
+msgstr "中島B6N“天山”"
 
 msgid "IDS_PJAB003_AICHI_B7A"
-msgstr "Aichi B7A2"
+msgstr "愛知B7A2“流星”改"
 
 msgid "IDS_PJAB004_YOKOSUKA_B4Y"
-msgstr "Yokosuka B4Y"
+msgstr "橫須賀B4Y九六式艦攻"
 
 msgid "IDS_PJAB005_MITSUBISHI_1MT"
-msgstr "Mitsubishi 1MT"
+msgstr "三菱1MT十年式艦雷"
 
 msgid "IDS_PJAB006_MT1_FLOAT"
-msgstr "Mitsubishi 1MT"
+msgstr "三菱1MT十年式艦雷"
 
 msgid "IDS_PJAB007_R2Y1_KEIUN"
-msgstr "Yokosuka R2Y1-B"
+msgstr "橫須賀R2Y1-B“景雲”"
 
 msgid "IDS_PJAB008_MITSUBISHI_B1M"
-msgstr "Mitsubishi B1M"
+msgstr "三菱B1M一三式艦攻"
 
 msgid "IDS_PJAB009_NAKAJIMA_B3N"
-msgstr "Nakajima B3N"
+msgstr "中島B3N七試艦攻"
 
 msgid "IDS_PJAB010_NAKAJIMA_C6N5_1B"
-msgstr "Nakajima C6N1-B"
+msgstr "中島C6N1-B“彩雲”"
 
 msgid "IDS_PJAB011_B4Y_KAGA"
-msgstr "Yokosuka B4Y"
+msgstr "橫須賀B4Y九六式艦攻"
 
 msgid "IDS_PJAB012_B5N2_KAGA"
-msgstr "Nakajima B5N2"
+msgstr "中島B5N2九七式艦攻"
 
 msgid "IDS_PJAB104_HOSHO_STOCK"
-msgstr "B4Y Jean"
+msgstr "橫須賀B4Y九六式艦攻"
 
 msgid "IDS_PJAB106_RYUJO_STOCK"
-msgstr "B4Y Jean"
+msgstr "橫須賀B4Y九六式艦攻"
 
 msgid "IDS_PJAB108_SHOKAKU_STOCK"
-msgstr "B6N Tenzan"
+msgstr "中島B6N“天山”"
 
 msgid "IDS_PJAB110_HAKURYU_STOCK"
-msgstr "C6N Saiun"
+msgstr "中島C6N“彩雲”"
 
 msgid "IDS_PJAB120_SEKIRYU_STOCK"
-msgstr "J5N Tenrai"
+msgstr "中島J5N“天雷”"
 
 msgid "IDS_PJAB121_SEKIRYU_JET"
-msgstr "Yokosuka R2Y2"
+msgstr "橫須賀R2Y2“景雲”改"
 
 msgid "IDS_PJAB206_RYUJO_TOP"
-msgstr "B5N2 Kate"
+msgstr "中島B5N2九七式艦攻"
 
 msgid "IDS_PJAB208_SHOKAKU_TOP"
-msgstr "B7A Ryūsei"
+msgstr "愛知B7A“流星”"
 
 msgid "IDS_PJAB210_HAKURYU_TOP"
-msgstr "J5N Tenrai"
+msgstr "中島J5N“天雷”"
 
 msgid "IDS_PJAB310_HAKURYU_TOP"
-msgstr "J5N Tenrai"
+msgstr "中島J5N“天雷”"
 
 msgid "IDS_PJAB508_KAGA_STOCK"
-msgstr "B6N Tenzan"
+msgstr "中島B6N“天山”"
 
 msgid "IDS_PJAB510_SHINANO_STOCK"
-msgstr "C6N Saiun"
+msgstr "中島C6N“彩雲”"
 
 msgid "IDS_PJAB606_ISE_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAB608_TONE1_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAB616_ISE2_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAB618_TONE2_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAB626_ISE3_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAB628_TONE3_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAB920_TAIHO_TOP"
-msgstr "C6N Saiun"
+msgstr "中島C6N“彩雲”"
 
 msgid "IDS_PJAB998_KIKAKU"
-msgstr "B6N Tenzan"
+msgstr "中島B6N“天山”"
 
 msgid "IDS_PJAD001_D1A2"
-msgstr "Aichi D1A2"
+msgstr "愛知D1A2九六式艦爆"
 
 msgid "IDS_PJAD002_D3A1"
-msgstr "Aichi D3A1"
+msgstr "愛知D3A1九九式艦爆"
 
 msgid "IDS_PJAD003_D4Y2"
-msgstr "Yokosuka D4Y2"
+msgstr "橫須賀D4Y2“彗星”"
 
 msgid "IDS_PJAD004_J5N"
-msgstr "Nakajima J5N1"
+msgstr "中島J5N1“天雷”"
 
 msgid "IDS_PJAD005_D3A2"
-msgstr "Aichi D3A2"
+msgstr "愛知D3A2九九式艦爆"
 
 msgid "IDS_PJAD006_D1A1"
-msgstr "Aichi D1A1"
+msgstr "愛知D1A1九四式艦爆"
 
 msgid "IDS_PJAD007_D4Y3"
-msgstr "Yokosuka D4Y3"
+msgstr "橫須賀D4Y3“彗星”"
 
 msgid "IDS_PJAD008_WAKUSEI"
-msgstr "Wakusei"
+msgstr "愛知“惑星”"
 
 msgid "IDS_PJAD009_AICHI_B7A"
-msgstr "Aichi B7A2"
+msgstr "愛知B7A2“流星”改"
 
 msgid "IDS_PJAD010_D1A2_KAGA"
-msgstr "Aichi D1A2"
+msgstr "愛知D1A2九六式艦爆"
 
 msgid "IDS_PJAD011_D3A1_KAGA"
-msgstr "Aichi D3A1"
+msgstr "愛知D3A1九九式艦爆"
 
 msgid "IDS_PJAD104_HOSHO_STOCK"
-msgstr "D1A Susie"
+msgstr "愛知D1A九四式艦爆"
 
 msgid "IDS_PJAD106_RYUJO_STOCK"
-msgstr "D3A Val"
+msgstr "愛知D3A九九式艦爆"
 
 msgid "IDS_PJAD108_SHOKAKU_STOCK"
-msgstr "D4Y3 Suisei"
+msgstr "橫須賀D4Y3“彗星”"
 
 msgid "IDS_PJAD110_HAKURYU_STOCK"
-msgstr "A7M Reppū"
+msgstr "三菱A7M“烈風”"
 
 msgid "IDS_PJAD120_SEKIRYU_STOCK"
-msgstr "J5N Tenrai"
+msgstr "中島J5N“天雷”"
 
 msgid "IDS_PJAD121_SEKIRYU_JET"
-msgstr "Yokosuka R2Y2"
+msgstr "橫須賀R2Y2“景雲”改"
 
 msgid "IDS_PJAD206_RYUJO_TOP"
-msgstr "D4Y2 Suisei"
+msgstr "橫須賀D4Y2“彗星”"
 
 msgid "IDS_PJAD208_SHOKAKU_TOP"
-msgstr "B7A Ryūsei"
+msgstr "愛知B7A“流星”"
 
 msgid "IDS_PJAD209_HIRYU_TOP"
-msgstr "Aichi M6A1 B Nanzan"
+msgstr "愛知M6A1B“南山”"
 
 msgid "IDS_PJAD210_HAKURYU_TOP"
-msgstr "J5N Tenrai"
+msgstr "中島J5N“天雷”"
 
 msgid "IDS_PJAD211_TAIHO_TOP"
-msgstr "Yokosuka P1Y1"
+msgstr "橫須賀P1Y1“銀河”"
 
 msgid "IDS_PJAD214_ZUIHO_TOP"
-msgstr "Mitsubishi B5M1"
+msgstr "三菱B5M1九七式艦攻"
 
 msgid "IDS_PJAD506_OYODO_STOCK"
-msgstr "Nakajima A6M2-N"
+msgstr "中島A6M2-N二式水戦"
 
 msgid "IDS_PJAD508_KAGA_STOCK"
-msgstr "D4Y3 Suisei"
+msgstr "橫須賀D4Y3“彗星”"
 
 msgid "IDS_PJAD510_SHINANO_STOCK"
-msgstr "Yokosuka P1Y1"
+msgstr "橫須賀P1Y1“銀河”"
 
 msgid "IDS_PJAD528_I54_STOCK"
-msgstr "Yokosuka E14Y"
+msgstr "橫須賀E14Y零式小型水偵"
 
 msgid "IDS_PJAD606_ISE_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAD608_TONE1_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAD616_ISE2_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAD618_TONE2_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAD626_ISE3_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAD628_TONE3_STOCK"
-msgstr "Aichi M6A2 Seiran"
+msgstr "愛知M6A2“晴嵐”"
 
 msgid "IDS_PJAD901_ASW_T6"
-msgstr "Kawanishi H8K"
+msgstr "川西H8K二式大艇"
 
 msgid "IDS_PJAD902_ASW_T8"
-msgstr "Kawanishi H6K"
+msgstr "川西H6K九七式大艇"
 
 msgid "IDS_PJAD903_ASW_T10"
-msgstr "Kawanishi H6K"
+msgstr "川西H6K九七式大艇"
 
 msgid "IDS_PJAD904_ASW_T5"
-msgstr "Kawanishi H8K"
+msgstr "川西H8K二式大艇"
 
 msgid "IDS_PJAD907_ASW_T10_ALT"
-msgstr "Kawanishi H6K"
+msgstr "川西H6K九七式大艇"
 
 msgid "IDS_PJAD908_ASW_T8_ALT"
-msgstr "Kawanishi H6K"
+msgstr "川西H6K九七式大艇"
 
 msgid "IDS_PJAD909_ASW_T6_ALT"
-msgstr "Kawanishi H8K"
+msgstr "川西H8K二式大艇"
 
 msgid "IDS_PJAD910_ASW_T6_CV"
-msgstr "Kawanishi H8K"
+msgstr "川西H8K二式大艇"
 
 msgid "IDS_PJAD911_ASW_T8_CV"
-msgstr "Kawanishi H6K"
+msgstr "川西H6K九七式大艇"
 
 msgid "IDS_PJAD912_ASW_T10_CV"
-msgstr "Kawanishi H6K"
+msgstr "川西H6K九七式大艇"
 
 msgid "IDS_PJAD920_TAIHO_TOP"
-msgstr "J5N Tenrai"
+msgstr "中島J5N“天雷”"
 
 msgid "IDS_PJAD998_KIKAKU"
-msgstr "B7A Ryūsei"
+msgstr "愛知B7A“流星”"
 
 msgid "IDS_PJAF001_A6M2"
-msgstr "Mitsubishi A6M2"
+msgstr "三菱A6M2零式艦戦"
 
 msgid "IDS_PJAF002_KAWANISHI_N1K1"
-msgstr "Kawanishi N1K1"
+msgstr "川西N1K1“強風”"
 
 msgid "IDS_PJAF003_NIKAJIMA_A4N"
-msgstr "Nakajima A4N"
+msgstr "中島A4N九五式艦戦"
 
 msgid "IDS_PJAF004_J7W1_A"
-msgstr "Kyushu J7W1"
+msgstr "九州J7W1“震電”"
 
 msgid "IDS_PJAF005_MITSUBISHI_A5M2"
-msgstr "Mitsubishi A5M2"
+msgstr "三菱A5M2九六式艦戦"
 
 msgid "IDS_PJAF006_MITSUBISHI_A7M1"
-msgstr "Mitsubishi A7M1"
+msgstr "三菱A7M1十七試艦戦"
 
 msgid "IDS_PJAF007_MITSUBISHI_A7M2"
-msgstr "Mitsubishi A7M2"
+msgstr "三菱A7M2“烈風”"
 
 msgid "IDS_PJAF008_MITSUBISHI_A8M"
-msgstr "Mitsubishi A8M"
+msgstr "三菱A8M“陸風”"
 
 msgid "IDS_PJAF009_KAWANISHI_N1K5_A"
-msgstr "Kawanishi N1K5-A"
+msgstr "川西N1K5-A“紫電”改"
 
 msgid "IDS_PJAF010_NAKAJIMA_J8N1"
-msgstr "Nakajima J8N1"
+msgstr "中島J8N1“連山”"
 
 msgid "IDS_PJAF011_MITSUBISHI_A6M5"
-msgstr "Mitsubishi A6M5"
+msgstr "三菱A6M5零式艦戦"
 
 msgid "IDS_PJAF013_NAKAJIMA_A2N2"
-msgstr "Nakajima A2N2"
+msgstr "中島A2N2九〇式艦戦"
 
 msgid "IDS_PJAF014_MITSUBISHI_1MF"
-msgstr "Mitsubishi 1MF"
+msgstr "三菱1MF一〇式艦戦"
 
 msgid "IDS_PJAF015_A4N2_N"
-msgstr "Nakajima A4N2-N"
+msgstr "中島A4N2-N九五式水戦"
 
 msgid "IDS_PJAF016_A5M2_N"
-msgstr "Mitsubishi A5M2-N"
+msgstr "三菱A5M2-N九六式水戦"
 
 msgid "IDS_PJAF017_MITSUBISHI_A6M2_N"
-msgstr "Mitsubishi A6M2-N"
+msgstr "三菱A6M2-N二式水戦"
 
 msgid "IDS_PJAF018_MITSUBISHI_A5M4"
-msgstr "Mitsubishi A5M4"
+msgstr "三菱A5M4九六式艦戦"
 
 msgid "IDS_PJAF019_MITSUBISHI_A6M5_C"
-msgstr "Mitsubishi A6M5c"
+msgstr "三菱A6M5c零式艦戦"
 
 msgid "IDS_PJAF020_A5M4_KAGA"
-msgstr "Mitsubishi A5M4"
+msgstr "三菱A5M4九六式艦戦"
 
 msgid "IDS_PJAF022_A6M2_KAGA"
-msgstr "Mitsubishi A6M2"
+msgstr "三菱A6M2零式艦戦"
 
 msgid "IDS_PJAF104_HOSHO_STOCK"
-msgstr "A4N"
+msgstr "中島A4N九五式艦戦"
 
 msgid "IDS_PJAF106_RYUJO_STOCK"
-msgstr "A5M Claude"
+msgstr "三菱A5M九六式艦戦"
 
 msgid "IDS_PJAF108_SHOKAKU_STOCK"
-msgstr "A6M5 Zero"
+msgstr "三菱A6M5零式艦戦"
 
 msgid "IDS_PJAF110_HAKURYU_STOCK"
-msgstr "A7M Reppū"
+msgstr "三菱A7M“烈風”"
 
 msgid "IDS_PJAF120_SEKIRYU_STOCK"
-msgstr "A8M Rikufū"
+msgstr "三菱A8M“陸風”"
 
 msgid "IDS_PJAF121_SEKIRYU_JET"
-msgstr "Kyushu J7W3"
+msgstr "九州J7W3“震電”改"
 
 msgid "IDS_PJAF206_RYUJO_TOP"
-msgstr "A6M2 Zero"
+msgstr "三菱A6M2零式艦戦"
 
 msgid "IDS_PJAF208_SHOKAKU_TOP"
-msgstr "N1K2-J Shiden-Kai"
+msgstr "川西N1K2-J“紫電”改"
 
 msgid "IDS_PJAF209_HIRYU_TOP"
-msgstr "Kawanishi J6K1"
+msgstr "川西J6K1“陣風”"
 
 msgid "IDS_PJAF210_HAKURYU_TOP"
-msgstr "A8M Rikufū"
+msgstr "三菱A8M“陸風”"
 
 msgid "IDS_PJAF211_TAIHO_TOP"
-msgstr "Kyūshū J7W1 A"
+msgstr "九州J7W1A“震電”"
 
 msgid "IDS_PJAF214_ZUIHO_TOP"
-msgstr "Mitsubishi J2M3"
+msgstr "三菱J2M3“雷電”"
 
 msgid "IDS_PJAF508_KAGA_STOCK"
-msgstr "A6M5 Zero"
+msgstr "三菱A6M5零式艦戦"
 
 msgid "IDS_PJAF510_SHINANO_STOCK"
-msgstr "A8M Rikufū"
+msgstr "三菱A8M“陸風”"
 
 msgid "IDS_PJAF606_ISE_STOCK"
-msgstr "Mitsubishi A7M1-N1"
+msgstr "三菱A7M1-N1十七試水戦"
 
 msgid "IDS_PJAF608_TONE1_STOCK"
-msgstr "Mitsubishi A7M1-N1"
+msgstr "三菱A7M1-N1十七試水戦"
 
 msgid "IDS_PJAF616_ISE2_STOCK"
-msgstr "Mitsubishi A7M1-N1"
+msgstr "三菱A7M1-N1十七試水戦"
 
 msgid "IDS_PJAF618_TONE2_STOCK"
-msgstr "Mitsubishi A7M1-N1"
+msgstr "三菱A7M1-N1十七試水戦"
 
 msgid "IDS_PJAF626_ISE3_STOCK"
-msgstr "Mitsubishi A7M1-N1"
+msgstr "三菱A7M1-N1十七試水戦"
 
 msgid "IDS_PJAF628_TONE3_STOCK"
-msgstr "Mitsubishi A7M1-N1"
+msgstr "三菱A7M1-N1十七試水戦"
 
 msgid "IDS_PJAF920_TAIHO_TACT"
-msgstr "A8M Rikufū"
+msgstr "三菱A8M“陸風”"
 
 msgid "IDS_PJAF998_KIKAKU_TACT"
-msgstr "N1K2-J Shiden-Kai"
+msgstr "川西N1K2-J“紫電”改"
 
 msgid "IDS_PJAM206_ZUIHO_TOP"
-msgstr "Mitsubishi B5M1"
+msgstr "三菱B5M1九七式艦攻"
 
 msgid "IDS_PJAM208_HIRYU_TOP"
-msgstr "Aichi M6A1 B Nanzan"
+msgstr "愛知M6A1B“南山”"
 
 msgid "IDS_PJAM210_TAIHO_TOP"
-msgstr "Yokosuka P1Y1"
+msgstr "橫須賀P1Y1“銀河”"
 
 msgid "IDS_PJAM510_SHINANO_STOCK"
-msgstr "Yokosuka P1Y1"
+msgstr "橫須賀P1Y1“銀河”"
 
 msgid "IDS_PJAM530_KUZURYU_TOP"
-msgstr "Aichi M6A1 B Nanzan"
+msgstr "愛知M6A1B“南山”"
 
 msgid "IDS_PJAS001_F1M2"
-msgstr "Mitsubishi F1M2"
+msgstr "三菱F1M2零式水觀"
 
 msgid "IDS_PJAS002_YOKOSUKA_E1Y"
-msgstr "Yokosuka E1Y"
+msgstr "橫須賀E1Y十四式水偵"
 
 msgid "IDS_PJAS003_YOKOSUKA_K5Y2"
-msgstr "Yokosuka K5Y2"
+msgstr "橫須賀K5Y2九三式水上中練"
 
 msgid "IDS_PJAS004_AICHI_E13A1"
-msgstr "Aichi E13A1"
+msgstr "愛知E13A1零式水偵"
 
 msgid "IDS_PJAS005_AICHI_E13A1B"
-msgstr "Aichi E13A1B"
+msgstr "愛知E13A1B零式水偵"
 
 msgid "IDS_PJAS006_AICHI_E16A1"
-msgstr "Aichi E16A1"
+msgstr "愛知E16A1“瑞雲”"
 
 msgid "IDS_PJAS007_KAWANISHI_E15K1"
-msgstr "Kawanishi E15K1"
+msgstr "川西E15K1“紫雲”"
 
 msgid "IDS_PJAS008_NAKAJIMA_E4N"
-msgstr "Nakajima E4N"
+msgstr "中島E4N九〇式二号水偵"
 
 msgid "IDS_PJAS009_NAKAJIMA_E8N"
-msgstr "Nakajima E8N"
+msgstr "中島E8N九五式水偵"
 
 msgid "IDS_PJAS010_KAWANISHI_E7K"
-msgstr "Kawanishi E7K"
+msgstr "川西E7K九四式水偵"
 
 msgid "IDS_PJAS901"
-msgstr "Mitsubishi F1M2-K"
+msgstr "三菱F1M2-K零式練習水觀"
 
 msgid "IDS_PJEE001_JAPAN_DESC"
 msgstr "在一面白布上以红色原型图案至于布面中心，象征着旭日，这是古时代R国的象征。"
@@ -93304,7 +93304,7 @@ msgid "IDS_PORT_ITALY_TOOLTIP"
 msgstr "塔兰托港"
 
 msgid "IDS_PORT_KINDZADZA"
-msgstr "普鲁克星港"
+msgstr "普鲁克星"
 
 msgid "IDS_PORT_KINDZADZA_TOOLTIP"
 msgstr "普鲁克星港"
@@ -110592,13 +110592,13 @@ msgid "IDS_QUEST_TSARMOREY_CHAMPION"
 msgstr "与您的团队一起成为海洋之王锦标赛的冠军。"
 
 msgid "IDS_QUICK_COMMANDS"
-msgstr "快速消息"
+msgstr "快捷指令"
 
 msgid "IDS_QUICK_COMMANDS_BANNED"
 msgstr "您发送快捷指令过于频繁"
 
 msgid "IDS_QUICK_COMMANDS_C"
-msgstr "快速消息"
+msgstr "快捷指令"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_ADJUSTMENTSHOTACTIVATOR"
 msgstr ""
@@ -112158,7 +112158,7 @@ msgid "IDS_REWARD_EVENTUM_10_TITLE"
 msgstr "夏季代币"
 
 msgid "IDS_REWARD_EVENTUM_1_TITLE"
-msgstr "琅彩代币"
+msgstr "炫彩代币"
 
 msgid "IDS_REWARD_EVENTUM_2_TITLE"
 msgstr "进步代币"
@@ -115911,10 +115911,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_TITLE"
-msgstr "琅彩角逐高级补给箱"
+msgstr "炫彩角逐高级补给箱"
 
 msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_TITLE_SHORT"
-msgstr "琅彩角逐"
+msgstr "炫彩角逐"
 
 msgid "IDS_REWARD_LOOTBOX_PCL166_COMMANDER_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -124363,10 +124363,10 @@ msgid "IDS_SOUND_MOD_UNIQUE"
 msgstr "独有"
 
 msgid "IDS_SOUND_MOD_UNIQUE_DESCRIPTION"
-msgstr "若您的指挥官名册中有附带独有配音的指挥官，那么无论您选择哪位指挥官进入战斗，都可以将其配音用于战斗中的所有消息，包括来自队友的快速消息。要使用此功能，请从列表中选择指挥官的名字。"
+msgstr "若您的指挥官名册中有附带独有配音的指挥官，那么无论您选择哪位指挥官进入战斗，都可以将其配音用于战斗中的所有消息，包括来自队友的快捷指令。要使用此功能，请从列表中选择指挥官的名字。"
 
 msgid "IDS_SOUND_MOD_UNSINKABLE_SAM_SINGLE"
-msgstr "Unsinkable Sam"
+msgstr "不沉的山姆"
 
 msgid "IDS_SOUND_MOD_USAOVECHKIN_SINGLE"
 msgstr "Alexander Ovechkin EN"
@@ -126559,7 +126559,7 @@ msgid "IDS_SYS_MSG_BOUGHT_ENSIGN"
 msgstr "已购买旗帜"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
-msgstr "已购买琅彩代币"
+msgstr "已购买炫彩代币"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
 msgstr "已购买夏季代币"
@@ -127045,7 +127045,7 @@ msgid "IDS_SYS_MSG_RECEIVED_ENSIGN"
 msgstr "已获得旗帜"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
-msgstr "已获得琅彩代币"
+msgstr "已获得炫彩代币"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
 msgstr "已获得夏季代币"
@@ -127428,7 +127428,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_ENSIGN"
 msgstr "旗帜已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
-msgstr "琅彩代币已移除"
+msgstr "炫彩代币已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
 msgstr "夏季代币已移除"
@@ -131962,10 +131962,10 @@ msgid "IDS_UNMUTE_PLAYER_VOICE_CHAT"
 msgstr "开启玩家的语音消息"
 
 msgid "IDS_UNSINKABLE_SAM_GER"
-msgstr "Unsinkbarer Sam"
+msgstr "不沉的山姆"
 
 msgid "IDS_UNSINKABLE_SAM_UK"
-msgstr "Unsinkable Sam"
+msgstr "不沉的山姆"
 
 msgid "IDS_UPDATED"
 msgstr "已更新"
