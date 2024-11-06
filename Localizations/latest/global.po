@@ -4176,7 +4176,7 @@ msgid "IDS_ADDITIONAL_SHIPS"
 msgstr "额外战舰"
 
 msgid "IDS_ADDITIONAL_SHIPS_FILTER_HINT_0"
-msgstr "选择在卷轴中显示的额外战舰。"
+msgstr "选择在卷轴中显示的其他战舰。"
 
 msgid "IDS_ADDITIONAL_SHIPS_FILTER_HINT_1"
 msgstr "战舰会连同其指挥官一起隐藏。"
@@ -4302,10 +4302,10 @@ msgid "IDS_AIRCARRIER_LOG_FEEDBACK_SPOTTED_BY_PLANE"
 msgstr "航空母舰已被敌机发现！"
 
 msgid "IDS_AIRCARRIER_LOG_FEEDBACK_SPOTTED_BY_SHIP"
-msgstr "航空母舰被一艘敌舰发现！"
+msgstr "航空母舰已被敌舰发现！"
 
 msgid "IDS_AIRCARRIER_LOG_FEEDBACK_SPOTTED_BY_XRAY"
-msgstr "航空母舰被一艘敌舰发现！"
+msgstr "航空母舰已被敌舰发现！"
 
 msgid "IDS_AIRCRAFT"
 msgstr "飞机"
@@ -10965,7 +10965,7 @@ msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_TORPEDOBOMBER_NO_OWNER"
 msgstr "注意敌方鱼雷轰炸机！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_POINT"
-msgstr "占领%s区域"
+msgstr "占领%s区域！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_SHIP_AIRCARRIER"
 msgstr "集火%(player)s！"
@@ -11067,7 +11067,7 @@ msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_TORPEDOBOMBER_NO_OWNER"
 msgstr "掩护我方鱼雷轰炸机！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_POINT"
-msgstr "防守关键区域%s"
+msgstr "防守关键区域%s！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_SHIP_AIRCARRIER"
 msgstr "掩护我方航空母舰！"
@@ -11247,7 +11247,7 @@ msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_TORPEDOBOMBER_NO_OWNER"
 msgstr "掩护我方鱼雷轰炸机！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_POINT"
-msgstr "防守关键区域%s"
+msgstr "防守关键区域%s！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_SHIP_AIRCARRIER"
 msgstr "掩护我方航空母舰！"
@@ -11328,7 +11328,7 @@ msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_TORPEDOBOMBER_NO_OWNER"
 msgstr "注意敌方鱼雷轰炸机！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_POINT"
-msgstr "占领关键区域%s"
+msgstr "占领关键区域%s！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_SHIP_AIRCARRIER"
 msgstr "注意敌方航空母舰！"
@@ -12144,7 +12144,7 @@ msgid "IDS_CONTRA"
 msgstr "对抗"
 
 msgid "IDS_CONTROL_OPTIONS"
-msgstr "控制"
+msgstr "键位"
 
 msgid "IDS_CONVERTED_TO_ELITE_XP"
 msgstr "已转换为精英指挥官经验"
@@ -19074,7 +19074,7 @@ msgid "IDS_CURRENCY_ELITEXP"
 msgstr "精英指挥官经验"
 
 msgid "IDS_CURRENCY_ELITEXP_GET_DESCRIPTION"
-msgstr "获取量为每场战斗所获得指挥官经验的5%。指挥官达到技能点上限后，所获得的指挥官经验将全为精英指挥官经验。"
+msgstr "获取量为每场战斗所获得指挥官经验的5%。指挥官达到等级上限后，所获得的指挥官经验将全为精英指挥官经验。"
 
 msgid "IDS_CURRENCY_ELITEXP_MOUSE_INSTRUCTION"
 msgstr " "
@@ -19362,7 +19362,7 @@ msgid "IDS_CURRENCY_STEEL"
 msgstr "钢铁"
 
 msgid "IDS_CURRENCY_STEEL_GET_DESCRIPTION"
-msgstr "可通过进行排位战和军团战，以及参与各种活动获得。"
+msgstr "可通过参加排位战和军团战，以及参与各种活动获得。"
 
 msgid "IDS_CURRENCY_STEEL_MOUSE_INSTRUCTION"
 msgstr " "
@@ -29609,7 +29609,7 @@ msgid "IDS_FIDELITY_FX_CAS_DESCRIPTION"
 msgstr "图像缩放技术，可在提高性能的同时将图像品质损失降到最低。建议与任意类型的抗锯齿一起使用。"
 
 msgid "IDS_FIFTH_AMERICAN_ARCSUBCOLLECTION_NAME"
-msgstr "最高奖项"
+msgstr "最高荣誉"
 
 msgid "IDS_FIFTH_AZURLANESUBCOLLECTION_NAME"
 msgstr "东煌和北方联合"
@@ -32550,7 +32550,7 @@ msgid "IDS_HELP_STEERING_MACHINE"
 msgstr "操舵装置"
 
 msgid "IDS_HELP_TAB_CONTROLS"
-msgstr "控制"
+msgstr "键位"
 
 msgid "IDS_HELP_TAB_INDICATORS"
 msgstr "图标"
@@ -34051,7 +34051,7 @@ msgid "IDS_IN_BATTLE"
 msgstr "战斗中"
 
 msgid "IDS_IN_BATTLE_QUEUE"
-msgstr "您已加入准备战斗的队列中"
+msgstr "您已加入匹配队列"
 
 msgid "IDS_IN_BRAWLBATTLE"
 msgstr "对决"
@@ -42320,7 +42320,7 @@ msgid "IDS_OP_02_03_CHAT_002_SECOND_TASK_04_FAIL"
 msgstr "敌方运输舰离开作战区域。"
 
 msgid "IDS_OP_02_03_CHAT_005_SECOND_TASK_04_SUCCESS"
-msgstr "所有敌方运输舰被摧毁！"
+msgstr "所有敌方运输舰都被摧毁！"
 
 msgid "IDS_OP_02_03_CSM_001_MAIN_MESSAGE_1"
 msgstr ""
@@ -46274,7 +46274,7 @@ msgid "IDS_PARAMS_MODIFIER_DIFFBETWEENSHIPVISIBILITY"
 msgstr "对海被侦察范围"
 
 msgid "IDS_PARAMS_MODIFIER_DIFFBETWEENSUBMARINEVISIBILITY"
-msgstr "对潜艇被侦察范围"
+msgstr "对水下被侦察范围"
 
 msgid "IDS_PARAMS_MODIFIER_DISTSEAMINE"
 msgstr "对水雷的侦察范围"
@@ -72669,7 +72669,7 @@ msgid "IDS_PECULARITY_FILTER_ARPEGGIO_SET_SKIN_TOOLTIP"
 msgstr "在战斗和港口中显示“ARPEGGIO OF BLUE STEEL -ARS NOVA-”涂装和指挥官"
 
 msgid "IDS_PECULARITY_FILTER_ARPEGGIO_SHOW_SHIP_TOOLTIP"
-msgstr "在卷轴中显示“ARPEGGIO OF BLUE STEEL -ARS NOVA-”的战舰"
+msgstr "在卷轴中显示“ARPEGGIO OF BLUE STEEL -ARS NOVA-”战舰"
 
 msgid "IDS_PECULARITY_FILTER_ARPEGGIO_TAKE_OFF_SKIN_TOOLTIP"
 msgstr "在战斗和港口中替换“ARPEGGIO OF BLUE STEEL -ARS NOVA-”涂装和指挥官的视觉外观"
@@ -72762,7 +72762,7 @@ msgid "IDS_PECULARITY_FILTER_HALLOWEEN_16_SET_SKIN_TOOLTIP"
 msgstr "在战斗和港口中显示万圣节活动独特涂装的外观"
 
 msgid "IDS_PECULARITY_FILTER_HALLOWEEN_16_SHOW_SHIP_TOOLTIP"
-msgstr "在卷轴中显示万圣节的战舰"
+msgstr "在卷轴中显示万圣节战舰"
 
 msgid "IDS_PECULARITY_FILTER_HALLOWEEN_16_TAKE_OFF_SKIN_TOOLTIP"
 msgstr "在战斗和港口中隐藏万圣节活动独特涂装的外观"
@@ -93759,7 +93759,7 @@ msgid "IDS_PREFERENCES_KEYBINDINGS_SECTION_HEADER_SHIPS_WEAPON"
 msgstr "武器"
 
 msgid "IDS_PREFERENCES_KEYBINDINGS_SECTION_HEADER_SPECTATOR_MODE_CONTROL"
-msgstr "控制"
+msgstr "键位"
 
 msgid "IDS_PREFERENCES_KEYBINDINGS_SUBTAB_ORPHANED_TOOLTIP"
 msgstr "有未指定的按键"
@@ -93789,7 +93789,7 @@ msgid "IDS_PREFERENCES_PAGENAME_CAMERA"
 msgstr "镜头"
 
 msgid "IDS_PREFERENCES_PAGENAME_CONTROLS"
-msgstr "控制"
+msgstr "键位"
 
 msgid "IDS_PREFERENCES_PAGENAME_GRAPHICS"
 msgstr "画面"
@@ -93940,7 +93940,7 @@ msgid "IDS_PREFS_RESET_SOUND_QUESTION"
 msgstr "应用默认声音设置？"
 
 msgid "IDS_PREFS_TAB_TOOLTIP_IS_ANY_COMMAND_UNASSIGNED"
-msgstr "命令配置中存在未指定的键。"
+msgstr "键位设置中存在未指定的键。"
 
 msgid "IDS_PREF_CHANGE_RESTART_NEEDED"
 msgstr "重启游戏后生效"
@@ -118597,7 +118597,7 @@ msgid "IDS_SECOND_SPACE"
 msgstr "秒"
 
 msgid "IDS_SECOND_TSAR_MOREY_NAME"
-msgstr "配角"
+msgstr "主办团队"
 
 msgid "IDS_SECOND_USABB_0910_NAME"
 msgstr "世界大战服役勋章"
@@ -122512,7 +122512,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_PERISCOPE"
 msgstr "在潜望深度"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
-msgstr "从作业深度[UNUSED]"
+msgstr "在作业深度[UNUSED]"
 
 msgid "IDS_SHIP_PARAM_VISION_RANGE"
 msgstr "侦察范围"
@@ -122958,7 +122958,7 @@ msgid "IDS_SHOW_ARMOUR_UPCAS"
 msgstr "显示辅助舱间装甲"
 
 msgid "IDS_SHOW_FOUR_ROWS_IN_CAROUSEL"
-msgstr "在卷轴中显示四行的战舰"
+msgstr "在卷轴中显示四行战舰"
 
 msgid "IDS_SHOW_HELP_INSTRUCTION"
 msgstr "按下[CMD_HELP]键以打开战斗帮助界面。"
@@ -123003,10 +123003,10 @@ msgid "IDS_SHOW_SMOKE_TIMER"
 msgstr "显示烟幕计时器"
 
 msgid "IDS_SHOW_TASK_DETAILS"
-msgstr "探索目标"
+msgstr "查看详情"
 
 msgid "IDS_SHOW_THREE_ROWS_IN_CAROUSEL"
-msgstr "在卷轴中显示三行的战舰"
+msgstr "在卷轴中显示三行战舰"
 
 msgid "IDS_SHOW_TTX_MOUSE_INSTRUCTION"
 msgstr "查看装备"
@@ -123087,7 +123087,7 @@ msgid "IDS_SIGNAL_TYPE_2_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "辅助武器"
 
 msgid "IDS_SIGNAL_TYPE_3_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "速度"
+msgstr "航速"
 
 msgid "IDS_SIGNAL_TYPE_4_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "消耗品效率"
@@ -123096,7 +123096,7 @@ msgid "IDS_SIGNAL_TYPE_5_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "抗伤害能力"
 
 msgid "IDS_SIGN_OUT_MICROSOFT_ERROR_DESCRIPTION"
-msgstr "无法变更用户。微软服务目前不可用。"
+msgstr "无法切换用户——微软服务目前不可用。"
 
 msgid "IDS_SIMULTANEOUS_RELOAD"
 msgstr "显示所有武器装填指示器"
@@ -123114,7 +123114,7 @@ msgid "IDS_SITE"
 msgstr "网站"
 
 msgid "IDS_SIXTH_AMERICAN_ARCSUBCOLLECTION_NAME"
-msgstr "命令和勋章"
+msgstr "勋章和奖章"
 
 msgid "IDS_SIXTH_AZURLANESUBCOLLECTION_NAME"
 msgstr "鸢尾和维希"
@@ -131411,7 +131411,7 @@ msgid "IDS_UNAVAILABLE_RARE_ECOBOOST_FOR_PURCHASE"
 msgstr "稀有加成不可购买"
 
 msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_2"
-msgstr "特殊信号旗稍后可供购买"
+msgstr "特殊信号旗可在兵工厂中购买"
 
 msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_3"
 msgstr "稀有信号旗不可购买"
