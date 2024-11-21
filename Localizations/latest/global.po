@@ -34054,43 +34054,43 @@ msgid "IDS_IN_BATTLE_QUEUE"
 msgstr "您已加入匹配队列"
 
 msgid "IDS_IN_BRAWLBATTLE"
-msgstr "对决"
+msgstr "对决的匹配时间为:"
 
 msgid "IDS_IN_CLANBATTLE"
-msgstr "军团战"
+msgstr "军团战的匹配时间为:"
 
 msgid "IDS_IN_COOPERATIVEBATTLE"
-msgstr "联合作战"
+msgstr "联合作战的匹配时间为:"
 
 msgid "IDS_IN_DIVISION"
 msgstr "小队中"
 
 msgid "IDS_IN_EVENTBATTLE"
-msgstr "巨战"
+msgstr "巨战的匹配时间为:"
 
 msgid "IDS_IN_PCVE020"
-msgstr "非对称作战"
+msgstr "非对称作战的匹配时间为:"
 
 msgid "IDS_IN_PCVE022"
-msgstr "“追求卓越”比赛"
+msgstr "“追求卓越”比赛的匹配时间为:"
 
 msgid "IDS_IN_PCVE023"
-msgstr "非对称作战"
+msgstr "非对称作战的匹配时间为:"
 
 msgid "IDS_IN_PCVE026"
-msgstr "隐蔽机动战"
+msgstr "隐蔽机动战的匹配时间为:"
 
 msgid "IDS_IN_PCVE027"
-msgstr "铁甲舰时代"
+msgstr "铁甲舰时代模式的匹配时间为:"
 
 msgid "IDS_IN_PVEBATTLE"
-msgstr "行动"
+msgstr "行动的匹配时间为:"
 
 msgid "IDS_IN_RANDOMBATTLE"
-msgstr "随机战"
+msgstr "随机战的匹配时间为:"
 
 msgid "IDS_IN_RANKEDBATTLE"
-msgstr "排位战"
+msgstr "排位战的匹配时间为:"
 
 msgid "IDS_IN_RLS_ZONE"
 msgstr "处于侦察范围"
@@ -37281,7 +37281,7 @@ msgid "IDS_MARINE_HOSHOU"
 msgstr "Houshou Marine"
 
 msgid "IDS_MARKER_NEW"
-msgstr "新"
+msgstr "新内容"
 
 msgid "IDS_MARK_ATTACK"
 msgstr "进攻"
@@ -37457,7 +37457,7 @@ msgid "IDS_MAX_TRAINING_ROOM_DESCRIPTION_LENGTH"
 msgstr "缩短描述"
 
 msgid "IDS_MAX_WAITING_IN_BATTLE_TYPE"
-msgstr "战斗模式/等待时间："
+msgstr " "
 
 msgid "IDS_MAX_WAVE_PING_REACHED"
 msgstr "已用脉冲标记最大数量的目标"
@@ -42305,7 +42305,7 @@ msgid "IDS_OP_02_03_AT_TRANSPORT_E_4"
 msgstr "支援舰"
 
 msgid "IDS_OP_02_03_AT_TRANSPORT_E_5"
-msgstr "Defender"
+msgstr "护卫舰"
 
 msgid "IDS_OP_02_03_AT_TRANSPORT_E_6"
 msgstr "维修舰"
@@ -44064,7 +44064,7 @@ msgid "IDS_PAES491_CHESAPEAKE_CEREMONIAL"
 msgstr "下水仪式"
 
 msgid "IDS_PAES505_MAD_HILL"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PAES507_MAHAN_BDAY"
 msgstr "七大洋"
@@ -44073,7 +44073,7 @@ msgid "IDS_PAES508_BENSON_1945_H2017"
 msgstr "食尸鬼"
 
 msgid "IDS_PAES509_MAD_BENHAM"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PAES510_GEARING_FLYFIRE"
 msgstr "FlyFire"
@@ -44097,7 +44097,7 @@ msgid "IDS_PAES527_BLACKBLACK"
 msgstr "特别"
 
 msgid "IDS_PAES530_MAD_GEARING"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PAES540_SOMERS_RANKED"
 msgstr "猎食者"
@@ -46241,7 +46241,7 @@ msgid "IDS_PARAMS_MODIFIER_DCALPHADAMAGEMULTIPLIER_SUBMARINE"
 msgstr "深水炸弹伤害"
 
 msgid "IDS_PARAMS_MODIFIER_DCNUMPACKSBONUS"
-msgstr "深水炸弹数量"
+msgstr "舰载深水炸弹数"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER"
 msgstr "攻击潜艇时，弹药的爆炸半径"
@@ -49816,10 +49816,10 @@ msgid "IDS_PASX003"
 msgstr "自由轮"
 
 msgid "IDS_PASX005"
-msgstr "St. Clair"
+msgstr "圣克莱尔"
 
 msgid "IDS_PASX005_DESCR"
-msgstr "Great Eastern是一艘由Isambard Kingdom Brunel所设计的英国蒸汽战舰，于1858年出航。它试图在不补充燃料的情况下绕着非洲航行至印度。Great Eastern是十九世纪里最大的战舰。"
+msgstr "大东方号是一艘由伊桑巴德•金德姆•布鲁内尔所设计的英国蒸汽战舰，于1858年出航。它试图在不补充燃料的情况下绕着非洲航行至印度。大东方号是十九世纪里最大的战舰。"
 
 msgid "IDS_PASX005_FULL"
 msgstr "大东方"
@@ -49837,7 +49837,7 @@ msgid "IDS_PASX815"
 msgstr "博格"
 
 msgid "IDS_PASX904"
-msgstr "西马隆测试"
+msgstr "西马隆Test"
 
 msgid "IDS_PAUA001_C1_ART_TOP"
 msgstr "152 mm/47 Mk17"
@@ -53462,7 +53462,7 @@ msgid "IDS_PBES438_CHESHIRE_AZUR"
 msgstr "碧蓝航线"
 
 msgid "IDS_PBES510_MAD_DARING"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PBES518_COSSACK_SAMHISTORICAL"
 msgstr "历史"
@@ -73155,7 +73155,7 @@ msgid "IDS_PFES508_FANTASQUE_PIRATE"
 msgstr "冒险家"
 
 msgid "IDS_PFES510_MAD_KLEBER"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PFES511_JAGUARNY2022"
 msgstr "白雪繁星"
@@ -76364,7 +76364,7 @@ msgid "IDS_PGES529_SCHULTZ_GEFECHT"
 msgstr "铁十字"
 
 msgid "IDS_PGES530_MAD_Z_52"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PGES539_ZF_6_DOCK"
 msgstr "下水仪式"
@@ -85507,7 +85507,7 @@ msgid "IDS_PJES518_KAGERO_H2017"
 msgstr "浦岛"
 
 msgid "IDS_PJES520_MAD_SHIMAKAZE"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PJES524_VANHELLSINK"
 msgstr "布莱德"
@@ -85516,7 +85516,7 @@ msgid "IDS_PJES528_HSF_HAREKAZE_CAT"
 msgstr "HSF ISOROKU"
 
 msgid "IDS_PJES530_MAD_HARUGUMO"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PJES538_ASASHIO_BLACK"
 msgstr "特别"
@@ -94274,7 +94274,7 @@ msgid "IDS_PRES508_KIEV_WORM"
 msgstr "剃刀蠕虫"
 
 msgid "IDS_PRES510_MAD_KHABAROVSK"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PRES517_MINSK_SIEGEBREAKER"
 msgstr "保卫列宁格勒"
@@ -94283,7 +94283,7 @@ msgid "IDS_PRES518_SOVIET_ARC_KIEV"
 msgstr "胜利旗帜"
 
 msgid "IDS_PRES520_MAD_GROZOVOI"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PRES527_TASHKENT_BLUE"
 msgstr "蓝色巡洋舰"
@@ -108133,7 +108133,7 @@ msgid "IDS_PZES509_KOBUXON"
 msgstr "龟甲船"
 
 msgid "IDS_PZES510_MAD_HSIANG_YANG"
-msgstr "水世界大师"
+msgstr "水世界之主"
 
 msgid "IDS_PZES511_WUKONG_NY"
 msgstr "孙悟空"
@@ -122139,19 +122139,19 @@ msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_BOMB_HE_SHORT"
 msgstr "高爆炸弹"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_COUNT_DIVE"
-msgstr "机载炸弹"
+msgstr "机载炸弹数"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_COUNT_FIGHTER"
-msgstr "机载火箭弹"
+msgstr "机载火箭弹数"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_COUNT_SKIP"
-msgstr "机载炸弹"
+msgstr "机载炸弹数"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_COUNT_TORPEDO"
-msgstr "机载鱼雷"
+msgstr "机载鱼雷数"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_MINE"
-msgstr "机载水雷"
+msgstr "机载水雷数"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_NAME_DIVE"
 msgstr "炸弹类型"
@@ -125532,7 +125532,7 @@ msgid "IDS_START_BATTLE"
 msgstr "加入战斗"
 
 msgid "IDS_START_BATTLE_BUTTON"
-msgstr "开始战斗"
+msgstr "进入战场"
 
 msgid "IDS_START_BATTLE_DENY_COOP_ONLY"
 msgstr "所选战舰只可用于联合作战。"
