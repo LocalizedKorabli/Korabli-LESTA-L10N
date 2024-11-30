@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_PCEF005_SM_SIGNALFLAG"
+msgstr "Sierra Mike"
+
+msgid "IDS_PCEF005_SM_SIGNALFLAG_DESCRIPTION"
+msgstr "Я произвожу скоростные испытания."
+
+msgid "IDS_PCEF006_HY_SIGNALFLAG"
+msgstr "Hotel Yankee"
+
+msgid "IDS_PCEF006_HY_SIGNALFLAG_DESCRIPTION"
+msgstr "Судно, с которым я столкнулся, затонуло."
+
+msgid "IDS_PCEF007_ID_SIGNALFLAG"
+msgstr "India Delta"
+
+msgid "IDS_PCEF007_ID_SIGNALFLAG_DESCRIPTION"
+msgstr "Повреждения можно исправить в море."
+
+msgid "IDS_PCEF008_IY_SIGNALFLAG"
+msgstr "India Yankee"
+
+msgid "IDS_PCEF008_IY_SIGNALFLAG_DESCRIPTION"
+msgstr "Я могу справиться с пожаром самостоятельно."
+
+msgid "IDS_PCEF009_JY2_SIGNALFLAG"
+msgstr "Juliet Yankee Bissotwo"
+
+msgid "IDS_PCEF009_JY2_SIGNALFLAG_DESCRIPTION"
+msgstr "С течью справляюсь."
+
+msgid "IDS_PCEF010_JC_SIGNALFLAG"
+msgstr "Juliet Charlie"
+
+msgid "IDS_PCEF010_JC_SIGNALFLAG_DESCRIPTION"
+msgstr "Опасности взрыва нет."
+
+msgid "IDS_PCEF012_MY6_SIGNALFLAG"
+msgstr "Mike Yankee Soxisix"
+
+msgid "IDS_PCEF012_MY6_SIGNALFLAG_DESCRIPTION"
+msgstr "Близко подходить к моему судну опасно."
+
+msgid "IDS_PCEF013_PP_SIGNALFLAG_DESCRIPTION"
+msgstr "Держитесь в стороне от меня."
+
+msgid "IDS_PCEF014_NF_SIGNALFLAG"
+msgstr "November Foxtrot"
+
+msgid "IDS_PCEF014_NF_SIGNALFLAG_DESCRIPTION"
+msgstr "Вы идёте к опасности."
+
+msgid "IDS_PCEF016_NE7_SIGNALFLAG"
+msgstr "November Echo Setteseven"
+
+msgid "IDS_PCEF016_NE7_SIGNALFLAG_DESCRIPTION"
+msgstr "Вы должны следовать с особой осторожностью: замечен неприятельский летательный аппарат."
+
+msgid "IDS_PCEF017_VL_SIGNALFLAG"
+msgstr "Victor Lima"
+
+msgid "IDS_PCEF017_VL_SIGNALFLAG_DESCRIPTION"
+msgstr "Приближается тропический циклон. Вы должны принять соответствующие меры предосторожности."
+
+msgid "IDS_PCEF018_IX_SIGNALFLAG"
+msgstr "India X-Ray"
+
+msgid "IDS_PCEF018_IX_SIGNALFLAG_DESCRIPTION"
+msgstr "Пожар усиливается."
+
+msgid "IDS_PCEF019_JW1_SIGNALFLAG"
+msgstr "Juliet Whiskey Unaone"
+
+msgid "IDS_PCEF019_JW1_SIGNALFLAG_DESCRIPTION"
+msgstr "Течь опасна."
+
+msgid "IDS_PCEF028_SMOKE_SIGNALFLAG"
+msgstr "X-Ray Papa Unaone"
+
+msgid "IDS_PCEF028_SMOKE_SIGNALFLAG_DESCRIPTION"
+msgstr "Я вхожу в зону ограниченной видимости."
+
+msgid "IDS_PCEF029_SONAR_AIRDEF_SIGNALFLAG"
+msgstr "Sierra Bravo"
+
+msgid "IDS_PCEF029_SONAR_AIRDEF_SIGNALFLAG_DESCRIPTION"
+msgstr "Я следую к месту происшествия."
+
+msgid "IDS_SIGNAL_GROUP_BATTLE"
+msgstr "Боевые"

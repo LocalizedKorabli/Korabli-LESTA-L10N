@@ -21575,7 +21575,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY033_ARTILLERYBOOSTERSUPER"
 msgstr "缩短主炮装填时间。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY034_FORSAGEBOOSTER"
-msgstr "允许您在使用引擎增压时避免引擎过热的风险。"
+msgstr "快速冷却引擎，在短时间内允许您更持久地使用引擎增压。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY035_CALLFIGHTERS"
 msgstr "在指定区域内巡逻并自动攻击敌机。"
@@ -102158,7 +102158,7 @@ msgid "IDS_PVSC107_DESCR"
 msgstr "HMS锡兰号是皇家殖民地级巡洋舰，于二战末在太平洋和印度洋服役。在20世纪50年代，它参加了朝鲜战争和苏伊士运河危机。1959年，HMS锡兰号被卖给秘鲁，它以“博洛涅西上校号”的名字一直服役到20世纪80年代初。"
 
 msgid "IDS_PVSC107_FULL"
-msgstr "博洛涅西上校"
+msgstr "博洛涅西海军上校"
 
 msgid "IDS_PVSC107_NUMBER"
 msgstr "11"
