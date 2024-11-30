@@ -12,14 +12,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_DOGTAG_PCNA010_NAME"
-msgstr "Lesta Games"
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_SMF"
+msgstr "可在“朝蛋夕拾”比赛中完成。"
 
-msgid "IDS_DOGTAG_PCNB415_NAME"
-msgstr "Lesta Games"
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_EV24SMF"
+msgstr "“朝蛋夕拾”涂装显示已关闭"
 
-msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_TITLE"
-msgstr "Lesta Games高级补给箱"
+msgid "IDS_CAROUSEL_PCVE028_FILTER"
+msgstr "筛选适合“朝蛋夕拾”比赛的战舰"
 
-msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_TITLE_SHORT"
-msgstr "Lesta Games"
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE028"
+msgstr "选择“朝蛋夕拾”比赛"
+
+msgid "IDS_DISCIPLINE_CATCHING_EGGS"
+msgstr "拾蛋！"
+
+msgid "IDS_EVENTS"
+msgstr "朝蛋夕拾"
+
+msgid "IDS_IN_PCVE028"
+msgstr "“朝蛋夕拾”比赛的匹配时间为:"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "注意：在一些任务中，行动模式中取得的成果被计入时减半。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_TEXT_2"
+msgstr "若战斗结束时成果未被计入，其将会被计入下两小时的作战任务中。"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_HEADER"
+msgstr "朝蛋夕拾"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_HEADER"
+msgstr "朝蛋夕拾"
+
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "位列积分榜前3名的玩家将获得相应的纪念成就。"
+
+msgid "IDS_MULT_FILM"
+msgstr "丰收村 — 朝蛋夕拾"
+
+msgid "IDS_PCVE028"
+msgstr "朝蛋夕拾"
+
+msgid "IDS_PECULARITY_FILTER_EV24SMF"
+msgstr "朝蛋夕拾"
+
+msgid "IDS_PECULARITY_FILTER_EV24SMF_SET_SKIN_TOOLTIP"
+msgstr "在战斗和港口中显示“朝蛋夕拾”活动涂装和指挥官"
+
+msgid "IDS_PECULARITY_FILTER_EV24SMF_TAKE_OFF_SKIN_TOOLTIP"
+msgstr "在战斗和港口中隐藏“朝蛋夕拾”活动涂装和指挥官"
+
+msgid "IDS_PISS508_DESCR"
+msgstr ""
+"马尔切洛级潜艇是绿灰色级潜艇的改进型，这些潜艇原本是由葡萄牙订购的，但因合同终止而归入意大利海军。该级潜艇非常成功，她们在机动性、航速和武器数量上表现出色，因此一共订购了11艘。她们为单壳体潜艇，具有侧面浮筒。按照意大利的分类，她们属于“大型巡洋”（亦称“远洋”）潜艇。\n"
+"贾科莫•纳尼在蒙法尔克的亚得里亚海联合造船厂建造，1938年9月加入意大利海军，隶属于第二潜艇编队。第二次世界大战开始后，纳尼进行了三次地中海巡逻，但都没能获得战果，随后于1940年秋季被调往大西洋。在第四次巡逻中，她击沉了一艘瑞典煤炭运输船。贾科莫•纳尼在1941年1月初的第五次巡逻中失踪。"
+
+msgid "IDS_PRES334_NUPOGODI_ISTOMIN"
+msgstr "朝蛋夕拾"
+
+msgid "IDS_PRSD502_DESCR"
+msgstr ""
+"1897年，英国亚罗公司接受订单建造了一系列350吨的布伊内级驱逐舰。该级战舰是以曾为日本建造的雷级驱逐舰为基础改进设计得来的。这些战舰于1901-1902年在圣彼得堡开工。\n"
+"敏捷是该系列十艘驱逐舰的首舰，于1901年6月开工、同年8月下水。日俄战争期间，该舰参加了黄海海战。1904年12月，在于旅顺港投降之前，该舰停泊在烟台，并在那里被扣押。敏捷是西伯利亚舰队的一员，在两次战争中进行了维修和现代化改造工作。\n"
+"1914-1922年她一直驻扎在海参崴港。在盟军占领海参崴期间，该舰被法军俘虏，并被改名为昆汀•罗斯福。在侵略者离开后，该舰便不再服役。"
+
+msgid "IDS_SCENARIO_MULT_FILM"
+msgstr "朝蛋夕拾"
+
+msgid "IDS_SUBST_BONUSTAG_CONDITIONS_DESCRIPTION"
+msgstr "赢得任意模式战斗或在一场战斗中获得%(_baseExpCount)s点基础经验。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_3"
+msgstr "“别碰，那是留给新年的！”这句话已成过去，热闹的晚宴即将开始。再等一会儿，我们就要送别旧年了！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_1"
+msgstr "这就对了！再等一会儿，就会有歌声从音响中飘来。只有电视的电视柜似乎显得有些不够节日气氛……应该能用橘子装点一下。"
