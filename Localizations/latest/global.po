@@ -34802,6 +34802,9 @@ msgstr "Kouko Nosa"
 msgid "IDS_KSANKA_SHCHUS"
 msgstr "桑卡•什丘斯"
 
+msgid "IDS_KTS"
+msgstr "节"
+
 msgid "IDS_KUZNETSOV"
 msgstr "Nikolay Kuznetsov"
 
