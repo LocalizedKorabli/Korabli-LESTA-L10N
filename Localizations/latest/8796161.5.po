@@ -33255,7 +33255,7 @@ msgid "IDS_HINT_CHECKBOX_FILTER_WITH_COMMANDER"
 msgstr "显示有指挥官的战舰"
 
 msgid "IDS_HINT_CHOOSE_ACTION_CREW"
-msgstr "选择您对船员的操作"
+msgstr "选择您对指挥官的操作"
 
 msgid "IDS_HINT_CHOOSE_ACTION_MODERNIZATION"
 msgstr "选择您对升级品的操作"
@@ -33854,7 +33854,7 @@ msgid "IDS_INFO_MODULE_HEATED_STARTED"
 msgstr "过热！"
 
 msgid "IDS_INFO_MODULE_OIL_LEAK_CEASED"
-msgstr "溢出的油已消除"
+msgstr "溢油已停止"
 
 msgid "IDS_INFO_MODULE_OIL_LEAK_PENDING_CEASED"
 msgstr "燃油系统已修复"
@@ -33863,7 +33863,7 @@ msgid "IDS_INFO_MODULE_OIL_LEAK_PENDING_STARTED"
 msgstr "燃油系统受损！"
 
 msgid "IDS_INFO_MODULE_OIL_LEAK_STARTED"
-msgstr "溢油！"
+msgstr "正在溢油！"
 
 msgid "IDS_INFO_MODULE_WAVED_CEASED"
 msgstr "鱼雷导向已解除"
@@ -132143,7 +132143,7 @@ msgid "IDS_UNINSTALL_ALL_ECONOMIC_BOOSTS_HINT"
 msgstr "拆卸此战舰上安装的所有加成"
 
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
-msgstr "拆卸所有信号旗"
+msgstr "全部拆卸"
 
 msgid "IDS_UNINSTALL_ALL_SIGNALS_HINT"
 msgstr "拆卸此战舰上的所有信号旗"
