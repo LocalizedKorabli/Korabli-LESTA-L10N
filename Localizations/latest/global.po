@@ -33066,22 +33066,22 @@ msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_DESTROYER"
 msgstr "显示驱逐舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_AIRCARRIER"
-msgstr "航空母舰不可用"
+msgstr "您没有航空母舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_AUXILIARY"
-msgstr "您没有运输舰"
+msgstr "您没有辅助战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_BATTLESHIP"
-msgstr "战列舰不可用"
+msgstr "您没有战列舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_CRUISER"
-msgstr "巡洋舰不可用"
+msgstr "您没有巡洋舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_DESTROYER"
-msgstr "驱逐舰不可用"
+msgstr "您没有驱逐舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_SUBMARINE"
-msgstr "潜艇不可用"
+msgstr "您没有潜艇"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_SUBMARINE"
 msgstr "显示潜艇"
@@ -33096,13 +33096,13 @@ msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL"
 msgstr "显示%(level)s级战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL_NOT_AVAILABLE"
-msgstr "%(level)s级战舰不可用"
+msgstr "您没有%(level)s级战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL_SUPERSHIP"
 msgstr "显示超级战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL_SUPERSHIP_NOT_AVAILABLE"
-msgstr "超级战舰不可用"
+msgstr "您没有超级战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_COMMONWEALTH"
 msgstr "显示联邦战舰"
@@ -33126,46 +33126,46 @@ msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NETHERLANDS"
 msgstr "显示荷兰战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_COMMONWEALTH"
-msgstr "联邦战舰不可用"
+msgstr "您没有联邦战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_EUROPE"
-msgstr "欧洲战舰不可用"
+msgstr "您没有欧洲战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_FRANCE"
-msgstr "法国战舰不可用"
+msgstr "您没有法国战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_GERMANY"
-msgstr "德国战舰不可用"
+msgstr "您没有德国战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_ITALY"
-msgstr "意大利战舰不可用"
+msgstr "您没有意大利战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_JAPAN"
-msgstr "日本战舰不可用"
+msgstr "您没有日本战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_NETHERLANDS"
-msgstr "荷兰战舰不可用"
+msgstr "您没有荷兰战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_PAN_AMERICA"
-msgstr "泛美战舰不可用"
+msgstr "您没有泛美战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_PAN_ASIA"
-msgstr "泛亚战舰不可用"
+msgstr "您没有泛亚战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_POLAND"
-msgstr "波兰战舰不可用"
+msgstr "您没有波兰战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_RUSSIA"
-msgstr "苏联战舰不可用"
+msgstr "您没有苏联战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_SPAIN"
-msgstr "西班牙战舰不可用"
+msgstr "您没有西班牙战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_UNITED_KINGDOM"
-msgstr "英国战舰不可用"
+msgstr "您没有英国战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_USA"
-msgstr "美国战舰不可用"
+msgstr "您没有美国战舰"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_PAN_AMERICA"
 msgstr "显示泛美战舰"
@@ -33887,7 +33887,7 @@ msgid "IDS_INFO_SHIP_IS_KILLED_BY_FORT"
 msgstr "此战舰已被陆上火炮摧毁。"
 
 msgid "IDS_INFO_SQUADRONS_NOT_READY"
-msgstr "中队已就绪。"
+msgstr "中队已就绪"
 
 msgid "IDS_INFO_SQUADRON_DEATH_CANT_REPLENISH"
 msgstr "第%d中队被歼灭。无法维护。"
@@ -96982,13 +96982,13 @@ msgid "IDS_PRSB528_YEAR"
 msgstr "1952"
 
 msgid "IDS_PRSB529"
-msgstr "苏维埃罗西亚"
+msgstr "苏维埃俄罗斯"
 
 msgid "IDS_PRSB529_DESCR"
-msgstr "“苏维埃罗西亚”号是一艘23号工程战列舰（“苏联”型），于1940年7月在莫洛托夫斯克起建，并为建造该舰建造了苏联最大的有顶船库。该船的建造被推迟，1941年7月根据GKO法令停工。1945年10月，有人提议完成战列舰的建造，但一个特别委员会得出结论，战前建造的战列舰在作战质量方面不如外国战舰。"
+msgstr "“苏维埃俄罗斯”号是一艘23号工程战列舰（“苏联”型），于1940年7月在莫洛托夫斯克起建，并为建造该舰建造了苏联最大的有顶船库。该船的建造被推迟，1941年7月根据GKO法令停工。1945年10月，有人提议完成战列舰的建造，但一个特别委员会得出结论，战前建造的战列舰在作战质量方面不如外国战舰。"
 
 msgid "IDS_PRSB529_FULL"
-msgstr "苏维埃罗西亚"
+msgstr "苏维埃俄罗斯"
 
 msgid "IDS_PRSB529_NUMBER"
 msgstr "4"
@@ -99627,7 +99627,7 @@ msgid "IDS_PRUH819_HULL_NAVARIN"
 msgstr "纳瓦林"
 
 msgid "IDS_PRUH820_RTC_SOV_RUSSIA"
-msgstr "苏维埃罗西亚"
+msgstr "苏维埃俄罗斯"
 
 msgid "IDS_PRUH821_B9_HULL_A"
 msgstr "科尔尼洛夫海军上将"
@@ -109489,7 +109489,7 @@ msgid "IDS_PZSA518_YEAR"
 msgstr "1946"
 
 msgid "IDS_PZSB106"
-msgstr "扎克里"
+msgstr "差克里"
 
 msgid "IDS_PZSB106_DESCR"
 msgstr ""
@@ -109497,7 +109497,7 @@ msgstr ""
 "在该方案进一步的设计中，主炮数量可能会增加到七门，但最大航速会有所降低。如果该设计得以实施，考虑到与西方国家的盟友关系，泰国可能会在战后购买这艘战舰。"
 
 msgid "IDS_PZSB106_FULL"
-msgstr "扎克里"
+msgstr "差克里"
 
 msgid "IDS_PZSB106_NUMBER"
 msgstr "1"
@@ -110524,7 +110524,7 @@ msgid "IDS_PZUH506_C6_HULL_TOP"
 msgstr "拉赫马特(B)"
 
 msgid "IDS_PZUH507_B6_HULL_STOCK"
-msgstr "扎克里"
+msgstr "差克里"
 
 msgid "IDS_PZUH601_D7_HULL_A"
 msgstr "加札马达(A)"
@@ -122455,7 +122455,7 @@ msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_MINEFIELD"
 msgstr "雷区"
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_MINEFIELD_INACTIVE"
-msgstr "雷区（已布下）"
+msgstr "雷区（启动中）"
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_REPAIR_ZONE"
 msgstr "修理区域"
