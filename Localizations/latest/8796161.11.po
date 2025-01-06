@@ -133110,7 +133110,7 @@ msgid "IDS_WANT_IN_DIVISION"
 msgstr "寻找小队"
 
 msgid "IDS_WAREHOUSE"
-msgstr "库存"
+msgstr "仓库"
 
 msgid "IDS_WAREHOUSE_LOOTBOXES"
 msgstr "可开启："
