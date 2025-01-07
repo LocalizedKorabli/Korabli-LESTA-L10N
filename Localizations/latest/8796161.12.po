@@ -47512,7 +47512,7 @@ msgid "IDS_PARAMS_MODIFIER_TORPEDOVISIBILITYFACTOR"
 msgstr "鱼雷对海被侦察范围"
 
 msgid "IDS_PARAMS_MODIFIER_UWCOEFFBONUS"
-msgstr "防雷鼓包提供的伤害减免"
+msgstr "防雷鼓包提供的鱼雷/水雷伤害减免"
 
 msgid "IDS_PARAMS_MODIFIER_UWSOURCEDMGREDUCTION"
 msgstr "受到鱼雷、水雷和深水炸弹的伤害"
@@ -94626,10 +94626,10 @@ msgid "IDS_PREV_ALLIED_VEHICLE_PREF_TOOLTIP_DESCRIPTION"
 msgstr "镜头切回到上一艘友军战舰。"
 
 msgid "IDS_PREV_SHIPS_WILL_BE_ALSO_RESEARCHED"
-msgstr "前置战舰和所需配件也将被研发："
+msgstr "前置战舰和配件的研发费用："
 
 msgid "IDS_PREV_SHIP_MODULES_WILL_BE_ALSO_RESEARCHED"
-msgstr "前一艘战舰的配件也会被研发："
+msgstr "前置配件的研发费用："
 
 msgid "IDS_PRGA003_MACHINEGUNMAXIM_7_62"
 msgstr "7.62 mm Maxim机枪"
@@ -112337,7 +112337,7 @@ msgid "IDS_RESEARCH_AND_PURCHASE_SHIP_TO_SEE_MODERNIZATIONS"
 msgstr "研发并购买此战舰以查看升级品"
 
 msgid "IDS_RESEARCH_COST"
-msgstr "研发价格："
+msgstr "研发费用："
 
 msgid "IDS_RESEARCH_COST_TTX"
 msgstr "研发："
@@ -112445,7 +112445,7 @@ msgid "IDS_RETRAINED_FOR"
 msgstr "已被重新训练至"
 
 msgid "IDS_RETRAINING_COST"
-msgstr "重新训练价格："
+msgstr "重新训练费用："
 
 msgid "IDS_RETRAINING_DISABLE_REASON_SHIP_IS_IN_BATTLE"
 msgstr "加速重新训练将在指挥官从战斗中返回后可用。"
