@@ -21712,7 +21712,6 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY035_CALLFIGHTERS_UPGRADE"
 msgstr ""
 "在指定区域内巡逻并自动攻击敌机。\n"
 "不受敌方战斗机攻击。\n"
-"不会攻击敌方战斗机。\n"
 "不会发现敌舰。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY036_REGENERATEHEALTH"
