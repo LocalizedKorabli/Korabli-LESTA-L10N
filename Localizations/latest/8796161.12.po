@@ -3684,7 +3684,7 @@ msgid "IDS_ACHIEVEMENT_TOP_LEAGUE_CLAN_SEASON_9"
 msgstr "飓风：勇士之路"
 
 msgid "IDS_ACHIEVEMENT_TOTAL_COUNT"
-msgstr "总积分："
+msgstr "获得次数："
 
 msgid "IDS_ACHIEVEMENT_TWITCH_PRIME"
 msgstr "Prime Gaming"
@@ -4775,7 +4775,7 @@ msgid "IDS_ALL_ACHIEVEMENTS"
 msgstr "全部成就"
 
 msgid "IDS_ALL_ACHIEVEMENTS_EARNED"
-msgstr "您已经达成目前可获得的全部成就"
+msgstr "您已经拥有目前可获得的全部成就"
 
 msgid "IDS_ALL_ENEMIES_FROZEN"
 msgstr "敌舰已瘫痪。"
@@ -8169,7 +8169,7 @@ msgid "IDS_BATTLE_TASK_TEXT_OP_NE_WP_MK3_MAIN_TASK"
 msgstr "摧毁敌方运输舰"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_NS_SECONDARY_TASK_HIT_THE_EMENY"
-msgstr "达成50次鱼雷命中"
+msgstr "用鱼雷命中敌舰50次"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_NS_SECONDARY_TASK_SAVE_PLAYER_SHIPS"
 msgstr "保护至少4艘中队潜艇"
@@ -29790,7 +29790,7 @@ msgid "IDS_FEEDBACK_RAGE_MODE_CANT_USE_AT_WORK"
 msgstr "已在使用中"
 
 msgid "IDS_FEEDBACK_RAGE_MODE_CANT_USE_NOT_ENOUGH_SHOTS"
-msgstr "无法使用。未达成启用条件"
+msgstr "无法使用：未达成启用条件"
 
 msgid "IDS_FEEDBACK_RAGE_MODE_USELESS"
 msgstr "无需使用"
@@ -34096,10 +34096,10 @@ msgid "IDS_INSTRUCTION_FIRE_CREW_IN_BATTLE"
 msgstr "指挥官正在战斗。若被解雇，该指挥官将不会在当前战斗中获得任何经验。"
 
 msgid "IDS_INSTRUCTION_GET_CAMO"
-msgstr "通过达成战斗成就获得涂装"
+msgstr "通过获得战斗成就得到涂装"
 
 msgid "IDS_INSTRUCTION_GET_SIGNAL"
-msgstr "通过达成战斗成就获得信号旗"
+msgstr "通过获得战斗成就得到信号旗"
 
 msgid "IDS_INSTRUCTION_HIDE_INTERFACE"
 msgstr "按住以隐藏界面"
@@ -43409,10 +43409,10 @@ msgid "IDS_OP_NS_CUSTOM_NAME_COMMANDER"
 msgstr "军队指挥官"
 
 msgid "IDS_OP_NS_SECONDARY_SUCCESS_TASK_HIT_THE_EMENY"
-msgstr "中队成功达成要求的命中数！"
+msgstr "中队的命中数已达到要求！"
 
 msgid "IDS_OP_NS_SECONDARY_TASK_SILENT_HUNTER"
-msgstr "要在此行动中取得成功，绝不能让敌人知晓中队战舰的确切数量。"
+msgstr "要在此行动中取得成功，绝不能让敌人知晓中队潜艇的确切数量。"
 
 msgid "IDS_OP_NS_SECONDARY_TASK_SILENT_HUNTER_CHAT_FAILURE"
 msgstr "所有潜艇都已被敌人发现！"
@@ -118971,7 +118971,7 @@ msgid "IDS_SCENARIO_TARGET"
 msgstr "小把戏"
 
 msgid "IDS_SCENARIO_TARGET_DESCRIPTION"
-msgstr "通过占领关键区域和击毁敌舰抢在敌方队伍之前达成点数。"
+msgstr "通过占领关键区域和击毁敌舰抢在敌方队伍之前得到足够点数。"
 
 msgid "IDS_SCENARIO_TASKS_TAB"
 msgstr "任务"
@@ -131540,7 +131540,7 @@ msgid "IDS_TOTAL_TASK_FOR_OTHER_BATTLE_ACHIEVEMENT_PER_ONE"
 msgstr "荣誉成就"
 
 msgid "IDS_TOTAL_TASK_SCORE"
-msgstr "总积分；"
+msgstr "总积分："
 
 msgid "IDS_TOWER1_HW2023"
 msgstr "注意！"
@@ -135073,7 +135073,7 @@ msgstr[0] "%(achievementCount)s年贡献者团队纪念徽章。"
 
 msgid "IDS_QUEST_DAMAGECOUNT"
 msgid_plural "IDS_QUEST_DAMAGECOUNT"
-msgstr[0] "达成%(damage)s点场均伤害。"
+msgstr[0] "场均伤害达到%(damage)s点。"
 
 msgid "IDS_QUEST_EXTRA_BATTLELIMIT"
 msgid_plural "IDS_QUEST_EXTRA_BATTLELIMIT"
