@@ -1,0 +1,138 @@
+(def element AircraftForsage () layout=true
+	(scope
+		(event evForsageFinishedAnimate)
+
+		(var activeSquadron:number = "DEFAULT_SQUADRON_OWNER_ID")
+		(var currentSquadronEntity:gfx = "$datahub.getPrimaryEntity(CC.ownSquadron, activeSquadron)")
+		(var forsageElement:gfx = "currentSquadronEntity ? currentSquadronEntity.forsageElement : null")
+		(var isForsageDepleted:bool =  "forsageElement ? forsageElement.isDepleted : false" (event "forsageElement.evIsDepletedChanged"))
+		(var isForsageFinite:bool =  "forsageElement ? forsageElement.isFinite : false")
+		(var isForsageUsing:bool = "forsageElement ? forsageElement.isUsing : false" (event "forsageElement.evForsageStateChanged"))
+		(var forsageCurrentValue:number = "forsageElement ? forsageElement.current : 0" (event "forsageElement.evCurrentChanged"))
+		(var healState:number = "forsageElement ? forsageElement.healState : 0" (event "forsageElement.evHealStateChanged"))
+		(var flightSpeed:number = "currentSquadronEntity ? currentSquadronEntity.flightSpeed.value : 0" (event "currentSquadronEntity.flightSpeed.evValueChanged"))
+		(var forsageMaxValue:number = "currentSquadronEntity ? currentSquadronEntity.forsageElement.max : 0")
+		(var currentPercent:number = "forsageMaxValue ? forsageCurrentValue / forsageMaxValue : 0")
+		(var showForsageIndicator:bool = "isForsageUsing || healState == SC.Battle.CONSUMABLE_STATES.AT_WORK || currentPercent == 0")
+
+		(var wasButtonUp:bool = false)
+
+		(var takeoffBoosterEntity:gfx = "$datahub.getPrimaryEntity(CC.takeoffBooster, activeSquadron)")
+		(var countdown:gfx = "takeoffBoosterEntity && takeoffBoosterEntity.hasComponent(CC.countDown) ? takeoffBoosterEntity.countDown : null" (event "takeoffBoosterEntity.evAdded") (event "takeoffBoosterEntity.evRemoved"))
+
+		(var takeoffBoosterInUse:bool = "takeoffBoosterEntity ? takeoffBoosterEntity.takeoffBooster.isUsing : false" (event "takeoffBoosterEntity.takeoffBooster.evUsingChanged"))
+		(var takeoffBoosterPercent:number = "countdown ? countdown.reloadPercent : 0" (event "countdown.evRemainChanged"))
+
+		
+		(var transitionForsageProgress:bool = "isForsageFinite || currentPercent != 1 || showForsageIndicator")
+	)
+
+	(dispatch evForsageFinishedAnimate on="currentSquadronEntity.forsageElement.evForsageFinished")
+
+	(style
+		(left = 3)
+	)
+
+	
+	(block
+		(style
+			(position = "absolute") (right = 122px) (top = -80px) (width = 28px) (height = 160px)
+			(backgroundImage = 'url:../aircraft/forsage_aim_bgr.png')
+		)
+	)
+
+	(block
+		(mc forsage_progress_bar
+			(style (position  = "absolute"))
+			(alpha = "transitionForsageProgress ? 1 : 0")
+			(controller $Animation
+				(bindcall play duration=0.2 delay=0.2 to={alpha:1} action="killAll" (bind enabled "transitionForsageProgress"))
+				(bindcall play duration=0.2 delay=0.2 to={alpha:0} action="killAll" (bind enabled "!transitionForsageProgress"))
+			)
+		)
+		(mc 'flash.display.Sprite'
+			(style (position = "absolute"))
+			(isMask = true)
+			(controller $Sector
+				(bind offset "145")
+				(bind color "0xFFFFFF")
+				(bind arc "1 + 67 * currentPercent")
+				(bind radius "HUD_FORSAGE_RADIUS")
+				(bind innerRadius "HUD_FORSAGE_RADIUS - 8")
+			)
+		)
+	)
+
+	(block
+		(mc takeoff_booster_progress_bar
+			(style (position  = "absolute"))
+			(alpha = 0)
+			(controller $Animation
+				(bindcall play duration=0.2 delay=0.2 to={alpha:1} action="killAll" (bind enabled "takeoffBoosterInUse"))
+				(bindcall play duration=0.4 delay=0.4 to={alpha:0} action="killAll" (bind enabled "!takeoffBoosterInUse"))
+			)
+		)
+		(mc 'flash.display.Sprite'
+			(style (position = "absolute"))
+			(isMask = true)
+			(controller $Sector
+				(bind offset "147")
+				(bind color "0xFFFFFF")
+				(bind arc "0 + 66 * takeoffBoosterPercent")
+				(bind radius "HUD_BOOSTER_RADIUS")
+				(bind innerRadius "HUD_BOOSTER_RADIUS - 7")
+			)
+		)
+	)
+
+	
+	(hblock
+		(style (right = 164px) (position = "absolute") (align = "bottom") (hitTest = false))
+
+		(tf
+			(style (textAlign = "right") (width = 80))
+			(alpha = "TA")
+			(class $TextDefaultBold19NM)
+			(macro TFMouseEnabled value=false)
+			(bind text "round(flightSpeed)")
+		)
+		(tf
+			(style (textAlign = "right"))
+			(class $TextDefault17NM)
+			(alpha = "TC")
+			(macro TFMouseEnabled value=false)
+			(bind text "' ' + tr('IDS_KTS')")
+		)
+	)
+
+	
+	(block
+		(alpha = 0)
+		(style (position = "absolute") (top = 24px) (width = 100%) (align = "right") (right = "158px"))
+		(controller $Animation
+			(bindcall play duration=0.2 delay="showForsageIndicator ? 0 : 0.2" to="{alpha:1, visible:true}" action="killAll" (bind enabled "showForsageIndicator"))
+			(bindcall play duration=0.2 delay="showForsageIndicator ? 0 : 0.2" to="{alpha:0, visible:false}" action="killAll" (bind enabled "!showForsageIndicator"))
+			(bindcall play duration=0.2 delay=0.00 from={alpha:1} to={alpha:0.5} action="killAll" (event "evForsageFinishedAnimate"))
+			(bindcall play duration=0.2 delay=0.25 from={alpha:0.5} to={alpha:1} action="killAll" (event "evForsageFinishedAnimate"))
+		)
+		(element ForsageIndicatorConsumableIcon
+			(scope
+				(bind _healState "healState")
+				(bind _showLowForsageConsumableIcon "(currentPercent == 0 || isForsageDepleted)")
+			)
+		)
+	)
+	(block
+		(alpha = 0)
+		(style (position = "absolute") (top = 57px) (width = 100%) (align = "right") (right = "145px")) 
+		(controller $Animation
+			(bindcall play duration=0.2 delay=0.2 to={alpha:1, visible:true} action="killAll" (bind enabled "takeoffBoosterInUse"))
+			(bindcall play duration=0.2 delay=0.2 to={alpha:0, visible:false} action="killAll" (bind enabled "!takeoffBoosterInUse"))
+		)
+		(style
+			(width = 32px)
+			(height = 32px)
+			(backgroundImage = 'url:../aircraft/takeoff_booster_icon.png')
+		)
+	)
+)

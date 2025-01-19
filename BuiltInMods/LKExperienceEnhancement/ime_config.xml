@@ -1,0 +1,506 @@
+<data>
+	<language> 
+		<ChineseSimplified>
+			<imeName>微软拼音</imeName>
+			<displayName>MSPinyin</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>
+			
+			<imeName>Chinese (Simplified) - Microsoft Pinyin IME 3.0</imeName>
+			<displayName>MSPinyin IME 3.0</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin_3_0</Tag>
+
+			<imeName>Chinese (Simplified) - Microsoft Pinyin IME</imeName>
+			<displayName>MSPinyin IME</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>
+
+			<imeName>Chinese (Simplified) - Microsoft Pinyin New Experience Input Style</imeName>
+			<displayName>MSPinyin IME</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>
+
+			<imeName>Microsoft Pinyin SimpleFast</imeName>
+			<displayName>MSPinyin IME</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>
+
+			<imeName>中文(简体) - 微软拼音新体验输入风格</imeName>
+			<displayName>MSPinyin IME</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>
+
+			<imeName>Chinese (Simplified) - NeiMa</imeName>
+			<displayName>NeiMa</displayName>
+			<Tag>GFxIME_NotSupported</Tag>
+
+			<imeName>Chinese (Simplified) - QuanPin</imeName>
+			<displayName>Quan Pin</displayName>
+			<Tag>GFxIME_Ch_Simp_QuanPin</Tag>
+
+			<imeName>Chinese (Simplified) - ShuangPin</imeName>
+			<displayName>Shuang Pin</displayName>
+			<Tag>GFxIME_Ch_Simp_ShuangPin</Tag>
+
+			<imeName>Chinese (Simplified) - US Keyboard</imeName>
+			<displayName>Chinese (Simplified)</displayName>
+			<Tag>GFxIME_Ch_Simp</Tag>
+
+			<imeName>Chinese (Simplified) - ZhengMa</imeName>
+			<displayName>ZhengMa</displayName>
+			<Tag>GFxIME_Ch_Simp_ZhengMa</Tag>
+
+			<imeName>Chinese Simplified QuanPin (version 6.0)</imeName>
+			<displayName>Quan Pin</displayName>
+			<Tag>GFxIME_Ch_Simp_QuanPin</Tag>
+
+			<imeName>简体中文全拼(版本 6.0)</imeName>
+			<displayName>Quan Pin</displayName>
+			<Tag>GFxIME_Ch_Simp_QuanPin</Tag>
+
+			<imeName>Chinese Simplified ShuangPin (version 6.0)</imeName>
+			<displayName>Shuang Pin</displayName>
+			<Tag>GFxIME_Ch_Simp_ShuangPin</Tag>
+
+			<imeName>简体中文双拼(版本 6.0)</imeName>
+			<displayName>Shuang Pin</displayName>
+			<Tag>GFxIME_Ch_Simp_ShuangPin</Tag>
+
+			<imeName>Chinese Simplified ZhengMa (version 6.0)</imeName>
+			<displayName>Zheng Ma</displayName>
+			<Tag>GFxIME_Ch_Simp_ZhengMa</Tag>
+
+			<imeName>简体中文郑码(版本 6.0)</imeName>
+			<displayName>Zheng Ma</displayName>
+			<Tag>GFxIME_Ch_Simp_ZhengMa</Tag>
+
+			<imeName>Chinese (Simplified) - Microsoft Pinyin ABC Input Style</imeName>
+			<displayName>ABC</displayName>
+			<Tag>GFxIME_Ch_Simp_ABC</Tag>
+
+			<imeName>中文(简体) - 微软拼音 ABC 输入风格</imeName>
+			<displayName>ABC</displayName>
+			<Tag>GFxIME_Ch_Simp_ABC</Tag>
+
+			<imeName>IMSC14.IME</imeName>
+			<displayName>Microsoft Pinyin IME 2010</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin1_2010</Tag>
+
+			<imeName>IMSC12li.IME</imeName>
+			<displayName>Microsoft Pinyin IME 2007</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin1_2010</Tag>
+
+			<imeName>IMSC40A.IME</imeName>
+			<displayName>Microsoft Pinyin IME 3.0</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin_3_0</Tag>
+
+			<imeName>pintlgnt.ime</imeName>
+			<displayName>Microsoft Pinyin IME 3.0</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin_3_0</Tag>
+
+			<imeName>winpy.ime</imeName>
+			<displayName>Quan Pin</displayName>
+			<Tag>GFxIME_Ch_Simp_QuanPin</Tag>
+
+			<imeName>winsp.ime</imeName>
+			<displayName>Shuang Pin</displayName>
+			<Tag>GFxIME_Ch_Simp_ShuangPin</Tag>
+
+			<imeName>winzm.ime</imeName>
+			<displayName>ZhengMa</displayName>
+			<Tag>GFxIME_Ch_Simp_ZhengMa</Tag>
+
+			<imeName>Google Pinyin</imeName>
+			<displayName>谷歌拼音输入法</displayName>
+			<Tag>GFxIME_GooglePinyin</Tag>
+
+			<imeName>Google Pinyin</imeName>
+			<displayName>谷歌拼音输入法 2</displayName>
+			<Tag>GFxIME_GooglePinyin</Tag>
+
+			<imeName>Google Pinyin</imeName>
+			<displayName>谷歌拼音输入法 2.0</displayName>
+			<Tag>GFxIME_GooglePinyin</Tag>
+
+			<imeName>Google Pinyin</imeName>
+			<displayName>中文 (简体) - 谷歌拼音输入法</displayName>
+			<Tag>GFxIME_GooglePinyin</Tag>
+
+			<imeName>QQPINYIN.IME</imeName>
+			<displayName>中文 - QQ拼音输入法</displayName>
+			<Tag>GFxIME_Ch_Simp_QQPinyin</Tag>
+
+			<imeName>GOOGLEPINYIN2.IME</imeName>
+			<displayName>中文 (简体) - 谷歌拼音输入法</displayName>
+			<Tag>GFxIME_GooglePinyin</Tag>
+
+			<imeName>GOOGLEPINYIN3.IME</imeName>
+			<displayName>中文 (简体) - 谷歌拼音输入法</displayName>
+			<Tag>GFxIME_GooglePinyin</Tag>	
+
+			<imeName>ARRAY.IME</imeName>
+			<displayName>ArrayCL</displayName>
+			<Tag>GFxIME_Ch_Trad_ArrayCL</Tag>
+
+			<imeName>IMSC14WR.IME</imeName>
+			<displayName>Microsoft Pinyin New Experience 2010</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin1_2010</Tag>
+
+			<imeName>IMSCE14WR.IME</imeName>
+			<displayName>Microsoft Pinyin Simple Fast 2010</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin1_2010</Tag>
+
+			<imeName>Sogou Pinyin</imeName>
+			<displayName>搜狗拼音输入法</displayName>
+			<Tag>GFxIME_SogouPinyin</Tag>
+
+			<imeName>搜狗拼音输入法</imeName>
+			<displayName>搜狗拼音输入法</displayName>
+			<Tag>GFxIME_SogouPinyin</Tag>
+
+			<imeName>搜狗输入法</imeName>
+			<displayName>搜狗输入法</displayName>
+			<Tag>GFxIME_SogouPinyin</Tag>
+
+			<imeName>Sogou Pinyin IME</imeName>
+			<displayName>中文(简体) - 搜狗拼音输入法</displayName>
+			<Tag>GFxIME_SogouPinyin</Tag>
+
+			<imeName>Sogou Pinyin</imeName>
+			<displayName>中文 (简体) - 搜狗拼音输入法</displayName>
+			<Tag>GFxIME_SogouPinyin</Tag>
+
+			<imeName>SOGOUPY.IME</imeName>
+			<displayName>中文 (简体) - 搜狗拼音输入法</displayName>
+			<Tag>GFxIME_SogouPinyin</Tag>
+
+			<imeName>搜狗五笔输入法</imeName>
+			<displayName>Sougou Wubi</displayName>
+			<Tag>GFxIME_SogouPinyin</Tag>
+
+			<imeName>중국어 (번체) - New ChangJie</imeName>
+			<displayName>New ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_NewChangJie</Tag>
+
+			<imeName>中文 (简体) - 加加输入法5.0</imeName>
+			<displayName>JJ Pinyin</displayName>
+			<Tag>GFxIME_Ch_Simp_JJ</Tag>
+
+			<imeName>BAIDUCN.IME</imeName>
+			<displayName>中文 (简体) - 百度拼音输入法</displayName>
+			<Tag>GFxIME_BaiduPinyin</Tag>
+
+			<imeName>中文(简体) - 百度输入法</imeName>
+			<displayName>中文(简体) - 百度输入法</displayName>
+			<Tag>GFxIME_BaiduPinyin</Tag>
+
+			<imeName>QQWUBI.IME</imeName>
+			<displayName>中文 - QQ五笔输入法</displayName>
+			<Tag>GFxIME_Ch_Trad_ArrayCL</Tag>
+
+			<imeName>WINABCX.IME</imeName>
+			<displayName>itABC v5.30</displayName>
+			<Tag>GFxIME_Ch_Trad_ArrayCL</Tag>
+
+			<imeName>KUNLUN.IME</imeName>
+			<displayName>中文 (简体) - 必应 Bing 输入法</displayName>
+			<Tag>GFxIME_BingPinyin</Tag>
+
+			<imeName>WN_INPUT.IME</imeName>
+			<displayName>中文(简体) - 万能五笔外挂版</displayName>
+			<Tag>GFxIME_Ch_Trad_ArrayCL</Tag>
+
+			<imeName>WN.IME</imeName>
+			<displayName>中文(简体) - 万能五笔输入法</displayName>
+			<Tag>GFxIME_Ch_Trad_ArrayCL</Tag>
+
+			<imeName>freeime.ime</imeName>
+			<displayName>中文(简体) - 极点五笔</displayName>
+			<Tag>GFxIME_Ch_Trad_ArrayCL</Tag>
+
+			<imeName>中文 - QQ五笔输入法</imeName>
+			<displayName>QQPinyin</displayName>
+			<Tag>GFxIME_Ch_Simp_QQPinyin</Tag>
+
+			<imeName>中文 - QQ拼音输入法</imeName>
+			<displayName>QQPinyin</displayName>
+			<Tag>GFxIME_Ch_Simp_QQPinyin</Tag>
+
+			<imeName>Microsoft Pinyin</imeName>
+			<displayName>MSPinyin IME</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>	
+
+			<imeName>Microsoft Wubi</imeName>
+			<displayName>Microsoft Wubi</displayName>
+			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>
+			
+			<imeName>中文(简体) - 手心输入法</imeName>
+			<displayName>中文(简体) - 手心输入法</displayName>
+			<Tag>GFxIME_Ch_Simp</Tag>
+
+		</ChineseSimplified>
+
+		<ChineseTraditional>
+
+			<imeName>Chinese (Traditional) - Alphanumeric</imeName>
+			<displayName>Alphanumeric</displayName>
+			<Tag>GFxIME_NotSupported</Tag>
+
+			<imeName>Chinese (Traditional) - Array</imeName>
+			<displayName>Array</displayName>
+			<Tag>GFxIME_Ch_Trad_Array</Tag>
+
+			<imeName>Chinese (Traditional) - Big5 Code</imeName>
+			<displayName>Big5</displayName>
+			<Tag>GFxIME_NotSupported</Tag>
+
+			<imeName>Chinese (Traditional) - ChangJie</imeName>
+			<displayName>ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_ChangJie</Tag>
+
+			<imeName>中文 (繁體) - 倉頡</imeName>
+			<displayName>ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_ChangJie</Tag>
+
+			<imeName>Chinese (Traditional) - DaYi</imeName>
+			<displayName>DaYi</displayName>
+			<Tag>GFxIME_Ch_Trad_DaYi</Tag>
+
+			<imeName>Chinese (Traditional) - New ChangJie</imeName>
+			<imeGuid>{F3BA907A-6C7E-11D4-97FA-0080C882687E}</imeGuid>		
+			<displayName>New ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_NewChangJie</Tag>
+
+			<imeName>中文 (繁體) - 新倉頡</imeName>
+			<displayName>New ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_NewChangJie</Tag>
+
+			<imeName>Microsoft ChangJie</imeName>
+			<imeGuid>{4BDF9F03-C7D3-11D4-B2AB-0080C882687E}</imeGuid>
+			<displayName>ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_NewChangJie</Tag>		
+
+			<imeName>Chinese (Traditional) - New Phonetic</imeName>
+			<imeGuid>{B2F9C502-1742-11D4-9790-0080C882687E}</imeGuid>
+			<displayName>New Phonetic</displayName>
+			<Tag>GFxIME_Ch_Trad_NewPhonetic</Tag>
+
+			<imeName>中文 (繁體) - 新注音</imeName>
+			<displayName>New Phonetic</displayName>
+			<Tag>GFxIME_Ch_Trad_NewPhonetic</Tag>
+
+			<imeName>Chinese (Traditional) - Phonetic</imeName>
+			<displayName>Phonetic</displayName>
+			<Tag>GFxIME_Ch_Trad_Phonetic</Tag>
+
+			<imeName>中文 (繁體) - 注音</imeName>
+			<displayName>Phonetic</displayName>
+			<Tag>GFxIME_Ch_Trad_Phonetic</Tag>
+
+			<imeName>Chinese (Traditional) - Quick</imeName>
+			<displayName>Quick</displayName>
+			<Tag>GFxIME_Ch_Trad_Quick</Tag>
+
+			<imeName>中文 (繁體) - 速成</imeName>
+			<displayName>Quick</displayName>
+			<Tag>GFxIME_Ch_Trad_Quick</Tag>
+
+			<imeName>Chinese (Traditional) - US Keyboard</imeName>
+			<displayName>Unknown</displayName>
+			<Tag>GFxIME_Ch_Trad</Tag>
+
+			<imeName>Chinese (Traditional) - Unicode</imeName>
+			<displayName>Unicode</displayName>
+			<Tag>GFxIME_NotSupported</Tag>
+
+			<imeName>Chinese Traditional Array (version 6.0)</imeName>
+			<displayName>Array</displayName>
+			<Tag>GFxIME_Ch_Trad_Array</Tag>
+
+			<imeName>中文繁體行列 (version 6.0)</imeName>
+			<displayName>Array</displayName>
+			<Tag>GFxIME_Ch_Trad_Array</Tag>
+
+			<imeName>Chinese Traditional DaYi (version 6.0)</imeName>
+			<displayName>DaYi</displayName>
+			<Tag>GFxIME_Ch_Trad_DaYi</Tag>
+
+			<imeName>中文繁體大易 (version 6.0)</imeName>
+			<displayName>DaYi</displayName>
+			<Tag>GFxIME_Ch_Trad_DaYi</Tag>
+
+			<imeName>winar30.ime</imeName>
+			<displayName>Array</displayName>
+			<Tag>GFxIME_Ch_Trad_Array</Tag>
+
+			<imeName>chajei.ime</imeName>
+			<displayName>ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_ChangJie</Tag>   			
+
+			<imeName>dayi.ime</imeName>
+			<displayName>DaYi</displayName>
+			<Tag>GFxIME_Ch_Trad_DaYi</Tag>
+
+			<imeName>CINTLGNT.IME</imeName>
+			<displayName>New ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_NewChangJie</Tag>
+
+			<imeName>MSTCICJA.IME</imeName>
+			<displayName>New ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_NewChangJie</Tag>
+
+			<imeName>IMTCC14.IME</imeName>
+			<displayName>New ChangJie 2010</displayName>
+			<Tag>GFxIME_Ch_Trad_NewChangJie2010</Tag>
+
+			<imeName>MSTCIPHA.IME</imeName>
+			<displayName>New Phonetic</displayName>
+			<Tag>GFxIME_Ch_Trad_NewPhonetic</Tag>			
+
+			<imeName>TINTLGNT.IME</imeName>
+			<displayName>New Phonetic</displayName>
+			<Tag>GFxIME_Ch_Trad_NewPhonetic</Tag>
+
+			<imeName>IMTCP14.IME</imeName>
+			<displayName>New Phonetic 2010</displayName>
+			<Tag>GFxIME_Ch_Trad_NewPhonetic2010</Tag>
+
+			<imeName>IMTCQ14.IME</imeName>
+			<displayName>New Quick 2010</displayName>
+			<Tag>GFxIME_Ch_Trad_NewQuick2010</Tag>
+
+			<imeName>phon.ime</imeName>
+			<displayName>Phonetic</displayName>
+			<Tag>GFxIME_Ch_Trad_Phonetic</Tag>
+
+			<imeName>quick.ime</imeName>
+			<displayName>Quick</displayName>
+			<Tag>GFxIME_Ch_Trad_Quick</Tag>
+
+			<imeName>Microsoft Quick</imeName>
+			<displayName>Microsoft Quick</displayName>
+			<Tag>GFxIME_Ch_Trad_Quick</Tag>
+
+			<imeName>Microsoft ChangJie</imeName>
+			<displayName>Microsoft ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_ChangJie</Tag>
+
+			<imeName>CHEWING.IME</imeName>
+			<displayName>New Chewing IME</displayName>
+			<Tag>GFxIME_Ch_Trad_NewChewing</Tag>
+
+			<imeName>ChangJie (Майкрософт)</imeName>
+			<displayName>Microsoft ChangJie</displayName>
+			<Tag>GFxIME_Ch_Trad_ChangJie</Tag>
+
+		</ChineseTraditional>
+
+		<Japanese>
+
+			<imeName>微软输入法</imeName>
+			<displayName>微软输入法</displayName>
+			<Tag>GFxIME_Jp</Tag>
+			
+			<imeName>Google Japanese Input</imeName>
+			<displayName>Google Japanese Input</displayName>
+			<Tag>GFxIME_Jp_GOOG2010</Tag>
+
+			<imeName>Microsoft IME</imeName>
+			<displayName>Japanese Microsoft IME</displayName>
+			<Tag>GFxIME_Jp</Tag>
+
+			<imeName>imjp81.ime</imeName>
+			<displayName>Japanese Microsoft IME</displayName>
+			<Tag>GFxIME_Jp</Tag>
+
+			<imeName>Japanese Input System (MS-IME2002)</imeName>
+			<displayName>MS-IME 2002</displayName>
+			<Tag>GFxIME_Jp_2002</Tag>
+
+			<imeName>imjp8.ime</imeName>
+			<displayName>Microsoft IME Standard 2002</displayName>
+			<Tag>GFxIME_Jp_2002</Tag>
+
+			<imeName>imjp9.ime</imeName>
+			<displayName>Microsoft IME Standard 2003</displayName>
+			<Tag>GFxIME_Jp_2003</Tag>
+
+			<imeName>imjp12.ime</imeName>
+			<displayName>MS-IME 2007</displayName>
+			<Tag>GFxIME_Jp_2007</Tag>
+
+			<imeName>imjp14.ime</imeName>
+			<displayName>Japanese IME 2010</displayName>
+			<Tag>GFxIME_Jp_2010</Tag>
+
+			<imeName>ATOK 2008</imeName>
+			<displayName>ATOK 2008</displayName>
+			<Tag>GFxIME_Jp_ATOK2008</Tag>
+
+			<imeName>ATOK 2009</imeName>
+			<displayName>ATOK 2009</displayName>
+			<Tag>GFxIME_Jp_ATOK2009</Tag>
+
+			<imeName>ATOK22W.IME</imeName>
+			<displayName>ATOK 2009</displayName>
+			<Tag>GFxIME_Jp_ATOK2009</Tag>
+
+			<imeName>Google Japanese Input</imeName>
+			<displayName>Google Japanese Input</displayName>
+			<Tag>GFxIME_Jp_GOOG2010</Tag>
+
+			<imeName>ATOK26W.IME</imeName>
+			<displayName>ATOK 2013</displayName>
+			<Tag>GFxIME_Jp_ATOK2008</Tag>
+
+		</Japanese>
+
+		<Korean>
+
+			<imeName>微软输入法</imeName>
+			<displayName>微软输入法</displayName>
+			<Tag>GFxIME_Kr</Tag>
+
+			<imeName>Microsoft IME</imeName>
+			<displayName>Korean Microsoft IME</displayName>
+			<Tag>GFxIME_Kr</Tag>
+
+			<imeName>Korean Input System (IME 2000)</imeName>
+			<displayName>Korean 2000</displayName>
+			<Tag>GFxIME_Kr</Tag>
+
+			<imeName>Korean</imeName>
+			<displayName>Korean</displayName>
+			<Tag>GFxIME_Kr</Tag>
+
+			<imeName>imekr61.ime</imeName>
+			<displayName>Korean IME 2000</displayName>
+			<Tag>GFxIME_Kr_2000</Tag>
+
+			<imeName>imekr.ime</imeName>
+			<displayName>Korean IME 2002</displayName>
+			<Tag>GFxIME_Kr_2002</Tag>
+
+			<imeName>imekr70.ime</imeName>
+			<displayName>Korean IME 2003</displayName>
+			<Tag>GFxIME_Kr_2003</Tag>
+
+			<imeName>imkr12.ime</imeName>
+			<displayName>Korean IME 2007</displayName>
+			<Tag>GFxIME_Kr_2007</Tag>
+
+			<imeName>imkr14.ime</imeName>
+			<displayName>Korean IME 2010</displayName>
+			<Tag>GFxIME_Kr_2010</Tag>
+
+			<imeName>Korean IME 2007</imeName>
+			<displayName>Microsoft 입력기</displayName>
+			<Tag>GFxIME_Kr_2007</Tag>
+
+			<imeName>Korean Microsoft IME</imeName>
+			<displayName>Microsoft 한글 입력기</displayName>
+			<Tag>GFxIME_Kr_8_6001</Tag>
+
+			<imeName>Microsoft 입력기</imeName>
+			<displayName>Korean Microsoft IME</displayName>
+			<Tag>GFxIME_Kr</Tag>
+
+		</Korean>
+
+	</language> 	
+</data>

@@ -1,0 +1,56 @@
+(def layout SpeedPointer ()
+	(scope
+		(var cruiseEntity:gfx = "$datahub.getPrimaryEntity(CC.cruise, SC.Battle.CRUISE_CONTROL_TYPE.SPEED)")
+
+		(var speed:number = "cruiseEntity.cruise ? cruiseEntity.cruise.value : 0" (event "cruiseEntity.cruise.evValueChanged"))
+
+		(var limitWarning:bool = "cruiseEntity.cruiseLimit ? cruiseEntity.cruiseLimit.limitWarning : false" (event "cruiseEntity.cruiseLimit.evLimitWarningChanged"))
+		(var limitWarningEnabled:bool = "cruiseEntity.cruiseLimit ? cruiseEntity.cruiseLimit.limitWarningEnabled : false" (event "cruiseEntity.cruiseLimit.evLimitWarningEnabledChanged"))
+
+		(var softCriticalEnabled:bool = "cruiseEntity.cruise ? cruiseEntity.cruise.softCriticalEnabled : false" (event "cruiseEntity.cruise.evJammedChanged"))
+		(var isJammed:bool = "cruiseEntity.cruise ? cruiseEntity.cruise.jammed : false" (event "cruiseEntity.cruise.evJammedChanged"))
+
+		(var isLimitSpeeding:bool = "limitWarning && limitWarningEnabled")
+
+		(var textClass:str = "isJammed      ? softCriticalEnabled   ? '$TextColorWarning'
+																	: '$TextColorHUDCritical'
+											: isLimitSpeeding   ? '$TextColorWarning'
+																: '$TextColorNeutral'")
+
+		(var pointerColor:str = "isJammed   ? softCriticalEnabled   ? 'yellow'
+																	: 'red'
+											: isLimitSpeeding   ? 'yellow'
+																: 'white'")
+	)
+	(style
+		(position = "absolute")
+		(width = "CRUISE_ITEM_WIDTH")
+		(height = "CRUISE_ITEM_HEIGHT")
+		(align = "middle")
+	)
+
+	
+	(block
+		(style
+			(position = "absolute")
+			(top = "18px")
+			(bind backgroundImage "'url:../battle_hud/cruise_control/pointers/pointer_' + pointerColor + '.png'")
+			(rotation = "-90")
+		)
+	)
+	
+	(hblock
+		(style (marginLeft = "15px"))
+		(tf
+			(class $TelegraphValueText)
+			(bind class "textClass")
+			(bind text "(speed < -0.09 ? '-' : '') + formatFloatingPoint(abs(speed), 1)") 
+		)
+		(tf
+			(class $TelegraphMeasureText)
+			(bind class "textClass")
+			(alpha = 0.7)
+			(bind text "' ' + tr('IDS_KTS')")
+		)
+	)
+)

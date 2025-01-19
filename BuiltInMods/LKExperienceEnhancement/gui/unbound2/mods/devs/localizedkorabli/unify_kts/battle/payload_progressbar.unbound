@@ -1,0 +1,227 @@
+(def element PayloadProgressBar()
+	(scope
+		(var payloadItemscollection:gfx = "$datahub.getCollection(CC.payload).child('byRelation')")
+		(var payloadItemscollectionCount:number = "payloadItemscollection ? payloadItemscollection.items.length : 0" (event "payloadItemscollection.evAdded") (event "payloadItemscollection.evRemoved") (event "payloadItemscollection.evUpdated"))
+		(var payloadItemsEntity:gfx = "payloadItemscollection.items[$index]" (event "payloadItemscollection.evAdded") (event "payloadItemscollection.evRemoved") (event "payloadItemscollection.evUpdated"))
+		(var value:number = "payloadItemsEntity.progress ? payloadItemsEntity.progress.value : 0" (event "payloadItemsEntity.progress.evChanged"))
+		(var relation:number = "payloadItemsEntity.relation ? payloadItemsEntity.relation.value : 0" (event "payloadItemsEntity.payload.evStateChanged"))
+		(var maxValue:number = "payloadItemsEntity.progress ? payloadItemsEntity.progress.max : 0" (event "payloadItemsEntity.progress.evChanged"))
+		(var state:number = "payloadItemsEntity ? payloadItemsEntity.payload.state : 0" (event "payloadItemsEntity.payload.evStateChanged"))
+		(var payloadObjectSpeed:number = "payloadItemsEntity ? payloadItemsEntity.payload.speed : 0" (event "payloadItemsEntity.payload.evSpeedChanged"))
+		(var currentSpeedMultiplier:number = "payloadItemsEntity ? payloadItemsEntity.payload.uiIndex : 0" (event "payloadItemsEntity.payload.evUiIndexChanged"))
+		(var numberOfSpeedMultipliers:number = "payloadItemsEntity && payloadItemsEntity.payload.maxUIIndex > 0 ? payloadItemsEntity.payload.maxUIIndex : 1")
+		(var payloadTargetId:number = "payloadItemsEntity && payloadItemsEntity.payload ? payloadItemsEntity.payload.targetId : 0")
+		(var endTime:number = "payloadItemsEntity ? payloadItemsEntity.countDown.endTime : 0"(event "payloadItemsEntity.countDown.evEndTimeChanged"))
+
+
+		(var timerEntity:gfx = "$datahub.getSingleEntity(CC.timer)")
+		(var currentTime:number = "timerEntity.timer.currentTime" (event "timerEntity.timer.evFrequent"))
+		(var timeLeft:number = "payloadItemsEntity.countDown ? ceil(max(endTime - currentTime, 0)) : 0" watch=true (event "timerEntity.timer.evFrequent"))
+
+		(var calculatedValue:number = "maxValue != 0 && value != 0 ? (((value * 100) / maxValue) / 100) : 0" watch=true)
+		(var relationName:str = "toLower(SC.Battle.PLAYER_RELATION.VALUE_TO_NAME[relation])")
+
+		(var cartStopped:number = "SC.Battle.PULL_TARGET_STATES.CART_STOPPED")
+		(var cartBlocked:number = "SC.Battle.PULL_TARGET_STATES.CART_BLOCKED")
+		(var cartSlowed:number = "SC.Battle.PULL_TARGET_STATES.CART_SLOW_FORWARD")
+		(var cartNormal:number = "SC.Battle.PULL_TARGET_STATES.CART_NORMAL")
+		(var cartFastForward:number = "SC.Battle.PULL_TARGET_STATES.CART_FAST_FORWARD")
+
+		(macro ALT_VISION_SCOPE)
+
+		(macro SIMPLE_MOUSE_OVER_DOWN_SELECTED_COLORTRANSFORM_SCOPE)
+
+		(event evPayloadForceStartAllAnimations) 
+
+		(event evSpeedTipMouseOver)
+		(event evSpeedTipMouseOut)
+	)
+
+	(dispatch evPayloadForceStartAllAnimations on=addedToStage)
+
+	(style
+		(width = "PAYLOAD_OBJECT_PROGRESSBAR_WIDTH")
+		(height = "PAYLOAD_OBJECT_PROGRESSBAR_HEIGHT")
+		(flow = "horizontal")
+		(marginTop = "$index > 0 ? 18 : 0")
+	)
+
+	(block 
+		(class $MiddleAlignedAbsolutely)
+		(class $MiddleVAligned)
+		(style
+			(bind width "PAYLOAD_OBJECT_PROGRESSBAR_WIDTH + 10")
+			(bind height "PAYLOAD_OBJECT_PROGRESSBAR_HEIGHT + 14")
+			(backgroundColor = "0x01000000")
+		)
+		(bindcall externalCall 'direct.action' "['convoyMission.blinkPathByMission', [payloadItemsEntity.scenarioMissionParticipant.index]]" init=false watch=false on='mouseOver')
+		(bindcall externalCall 'direct.action' "['convoyMission.blinkPathByMission', [payloadItemsEntity.scenarioMissionParticipant.index]]" delay =0.1 init=false watch=false on='mouseOut')
+	)
+
+	
+	(block
+		(style
+			(position = "absolute")
+			(left = "100%")
+			(marginTop = "-3")
+			(marginLeft = "11")
+		)
+		(tf
+			(class $TextDefaultBoldNM)
+			(style (position = "absolute"))
+			(bind text "countdownFormat(timeLeft, 0, true, true)")
+  			(controller $Animation
+				(bindcall play to={alpha:0, left:15} from={alpha:1, left:0} duration=0.2 easing="Easing.cubic_out" (bind enabled "timeLeft < 1 && endTime > 0"))
+			)
+		)
+		(tf
+			(class $TextDefaultBoldNM)
+			(style (alpha = 0) (position = "absolute"))
+			(text = "'IDS_FINISH'")
+			(controller $Animation
+				(bindcall play to={alpha:1, left:0} from={alpha:0, left:-15} duration=0.35 delay=0.15 easing="Easing.cubic_out" (bind enabled "timeLeft < 1 && endTime > 0"))
+			)
+		)
+	)
+
+	
+	(hblock
+		(style
+			(position = "absolute")
+			(right = "100%")
+			(marginTop = "-5px")
+			(marginRight = "10")
+		)
+
+		(hblock
+			(bind visible "isAdaptiveAltVisionMode")
+			(style
+				(marginTop = "2")
+				(marginRight = "XS")
+				(marginRight = "S")
+			)
+			(tf
+				(style
+					(marginRight = "XS")
+				)
+				(class $TextDefaultBoldNM)
+				(bind text "formatFloatingPoint(payloadObjectSpeed, 1)")
+			)
+			(tf
+				(style
+					(alpha = "TC")
+				)
+				(class $TextDefaultNM)
+				(text = 'IDS_KTS')
+			)
+		)
+
+		(hblock
+			(controller $Repeat renderer='PayloadSpeedIndicator'
+				(bind count "numberOfSpeedMultipliers - 1")
+				(args
+					_currentSpeedMultiplier="currentSpeedMultiplier - 1"
+					_relation="relation"
+				)
+			)
+
+		)
+	)
+
+	(block 
+		(class $MiddleAlignedAbsolutely)
+		(class $MiddleVAligned)
+		(style
+			(hitTest = "false")
+			(position = "absolute")
+			(height = "PAYLOAD_OBJECT_PROGRESSBAR_HEIGHT + 2")
+			(width = "PAYLOAD_OBJECT_PROGRESSBAR_WIDTH + 2")
+			(backgroundImage = "'url:../battle_hud/markers/convoy_airships/progressbar_frame.png'")
+			(scale9grid = 3)
+		)
+	)
+
+	(block 
+		(bind colorTransform "TWO_TEAMS_COLOR_TRANSFORMS[relationName]")
+		(style
+			(hitTest = "false")
+			(marginTop = "1px")
+			(marginLeft = "1px")
+			(bind width "(PAYLOAD_OBJECT_PROGRESSBAR_WIDTH * calculatedValue)-2")
+			(height = "PAYLOAD_OBJECT_PROGRESSBAR_HEIGHT - 2")
+			(backgroundImage = "'url:../battle_hud/markers/convoy_airships/progressbar_filling.png'")
+			(scale9grid = [3, 1, 3, 1])
+		)
+	)
+
+	(hblock 
+		(style
+			(hitTest = "false")
+			(position = "absolute")
+		)
+		(controller $Repeat count="COUNT_OF_STICK" layout=true
+			(exprs
+				(block
+					(style
+						(marginTop = "1px") (marginLeft = "PAYLOAD_OBJECT_PROGRESSBAR_WIDTH / (COUNT_OF_STICK + 1)")
+						(width = "1px") (height = "PAYLOAD_OBJECT_PROGRESSBAR_HEIGHT - 2")
+						(backgroundColor = "0xFF000000")
+						(alpha = "0.2")
+					)
+				)
+			)
+		)
+	)
+
+	(hblock 
+		(bind visible "(PAYLOAD_OBJECT_PROGRESSBAR_WIDTH * calculatedValue) > 11")
+		(style
+			(hitTest = "false")
+			(marginTop = "1px")
+			(position = "absolute")
+			(alpha = "0")
+		)
+		(controller $Animation
+			(bindcall play to={alpha:1} from={alpha:0} duration=0.15 easing="Easing.line" repeatCount=1 (bind enabled "state == cartSlowed") (event "evPayloadForceStartAllAnimations") )
+			(bindcall play to={alpha:0} from={alpha:1} duration=0.15 easing="Easing.line" repeatCount=1 (bind enabled "state != cartSlowed") (event "evPayloadForceStartAllAnimations") )
+		)
+		(block
+			(style
+				(width = "11px")
+				(bind backgroundImage "'url:../battle_hud/markers/convoy_airships/cart_slow_forward_animation_' + relationName + '.png'")
+			)
+			(controller $Animation
+				(bindcall play to={alpha:0} from={alpha:1} duration=0.66 easing="Easing.line" repeatCount=-1 (bind enabled "state == cartSlowed") (event "evPayloadForceStartAllAnimations"))
+			)
+		)
+		(block
+			(style
+				(bind width "(PAYLOAD_OBJECT_PROGRESSBAR_WIDTH * calculatedValue) - 7")
+				(backgroundRepeatX = true)
+				(bind backgroundImage "'url:../battle_hud/markers/convoy_airships/cart_slow_forward_animation_' + relationName + '.png'")
+			)
+			(controller $Animation
+				(bindcall play to={marginLeft:-11} from={marginLeft:0} duration=0.66 easing="Easing.line" repeatCount=-1 (bind enabled "state == cartSlowed") (event "evPayloadForceStartAllAnimations"))
+			)
+		)
+	)
+
+	(block 
+		(style
+			(marginTop = "-4px")
+			(marginLeft = "-8px")
+			(width = "14")
+			(height = "14")
+			(backgroundSize = "fill")
+			(pivotX = "50%")
+			(pivotY = "50%")
+		)
+		(block
+			(class $FullsizeAbsolute)
+			(style
+				(backgroundSize = "fill")
+				(bind backgroundImage "'swf:../battle_hud/markers/convoy_airships_svg/convoy_airships_svg.swf:marker_' + relationName")
+			)
+		)
+	)
+)
