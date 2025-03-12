@@ -169,6 +169,10 @@
 			<displayName>中文 (简体) - 搜狗拼音输入法</displayName>
 			<Tag>GFxIME_SogouPinyin</Tag>
 
+			<imeName>中文(简体) - 搜狗五笔输入法</imeName>
+			<displayName>Sougou Wubi</displayName>
+			<Tag>GFxIME_SogouPinyin</Tag>
+
 			<imeName>搜狗五笔输入法</imeName>
 			<displayName>Sougou Wubi</displayName>
 			<Tag>GFxIME_SogouPinyin</Tag>
@@ -398,6 +402,10 @@
 			
 			<imeName>Google Japanese Input</imeName>
 			<displayName>Google Japanese Input</displayName>
+			<Tag>GFxIME_Jp_GOOG2010</Tag>
+
+			<imeName>Google 日本語入力</imeName>
+			<displayName>Google 日本語入力</displayName>
 			<Tag>GFxIME_Jp_GOOG2010</Tag>
 
 			<imeName>Microsoft IME</imeName>
