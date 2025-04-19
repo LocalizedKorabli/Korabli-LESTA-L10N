@@ -101,6 +101,7 @@ You can easily access the corresponding project repositories by clicking on the 
 | Language\Server Type | Live Server | Public Test Server |
 |:--------------------:|:-----------:|:------------------:|
 | L10N-简体中文 | **This Repository** | [Repository Link](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
+| L10N-繁體中文 | [Repository Link](https://github.com/LocalizedKorabli/Korabli-L10n-CHT) | [Repository Link](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest) |
 | I18N-English | [Repository Link](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [Repository Link](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
 
 
