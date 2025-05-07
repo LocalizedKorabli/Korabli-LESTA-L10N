@@ -1,0 +1,8 @@
+<locale_config>
+    <locale_id>ru</locale_id>
+    <text_path>../res/texts</text_path>
+    <text_domain>global</text_domain>
+    <lang_mapping>
+        <lang acceptLang="ru" egs="ru" fonts="CN" full="russian" languageBar="true" localeRfcName="ru" short="ru" />
+    </lang_mapping>
+</locale_config>
