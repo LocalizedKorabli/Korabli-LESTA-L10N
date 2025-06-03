@@ -14,63 +14,58 @@
 
 </div>
 
-**简体中文** | [English](/README-EN.md)
+Looking for localizations for other languages? Check [this](#项目传送门).
 
 ## 如何使用
 
-<details><summary style="font-size: 20px;">演示视频</summary>
+<details><summary style="font-size: 16px;">演示视频</summary>
 
 [![](https://github.com/user-attachments/assets/d5918619-f147-4f0f-8871-c2e7f0be6976)](https://player.bilibili.com/player.html?aid=112944050341775&bvid=BV1rDYReAEws&cid=25777407882&page=1)
 
 </details>
 
-<details><summary style="font-size: 20px;">介绍视频</summary>
+<details><summary style="font-size: 16px;">介绍视频</summary>
 
 [![](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/d8d44d1f-f448-4feb-ab07-7ab2ccbca54e)](https://player.bilibili.com/player.html?aid=1755946809&bvid=BV1c4421D7Gh&cid=1596825150&page=1)
 
 </details>
 
-### 下载
-
-#### 通过蓝奏云
-
-1. 汉化安装器：[GUI新版](https://tapio.lanzn.com/b0nybehgb) | [命令行旧版](https://tapio.lanzn.com/b0nybx87c)；
-2. （汉化安装器已内置汉化包下载功能，按需下载）[汉化包](https://tapio.lanzn.com/b01lit85i)：根据游戏版本选择正确的文件夹，下载最新压缩包并解压出`global.mo`文件。
-
-#### 通过 GitHub
-
-1. 汉化安装器：[GUI新版](https://github.com/LocalizedKorabli/L10nInstallerGUI/releases/latest) | [命令行旧版](https://github.com/LocalizedKorabli/L10nInstaller/releases/latest)；
-2. （汉化安装器已内置汉化包下载功能，按需下载）汉化包：在本仓库[Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)中，下载该发布版本下的`global.mo`文件；
-
 ### 安装
 
-1. 下载汉化安装器，放入战舰世界安装目录后运行，按程序指示操作；
-2. 若汉化安装器内置下载失败，请手动下载汉化包并选择`使用本地文件`。
+#### 方式1：在线安装器
 
-<details><summary style="font-size: 20px;">安装器运行图示</summary>
+1. 通过[蓝奏云](https://tapio.lanzn.com/b0nybehgb)或[GitHub Releases](https://github.com/LocalizedKorabli/L10nInstallerGUI/releases/latest)下载最新版汉化安装器的安装包；
+2. 安装后运行，按照程序指示操作。
+
+
+<details><summary style="font-size: 12px;">在线安装器运行图示</summary>
 
 ![installerdemo](https://github.com/user-attachments/assets/c7ecac70-82ee-4d29-9111-63e88d38cdc1)
 
 </details>
 
-<details><summary style="font-size: 20px;">可选步骤</summary>
+<details><summary style="font-size: 12px;">可选步骤</summary>
 
-#### 模组
+##### 模组
 
-自`v2024.03.30.1528`版本开始，汉化安装器可以自动将放置于`l10n_installer/mods/`目录的`mo`文件形式模组应用到即将被安装的汉化包。
+在线安装器可以自动将放置于`l10n_installer/mods/`目录的`mo`文件形式模组应用到即将被安装的汉化包。
 
-#### 下载模组
+###### 下载模组
 
 [蓝奏云](https://tapio.lanzn.com/b0nxzso2b) | [GitHub](https://github.com/LocalizedKorabli/L10nModifications)
 
-#### 安装模组
+###### 安装模组
 
-- 将相应模组的`mo`文件（从蓝奏云下载的模组需先解压）放入游戏目录下`l10n_installer`文件夹下的`mods`文件夹（这些文件夹会在第一次运行汉化安装器时被创建）；
+- 将相应模组的`mo`文件（从蓝奏云下载的模组需先解压）放入游戏目录下`l10n_installer`文件夹下的`mods`文件夹（这些文件夹会在第一次运行在线安装器时被创建）；
 - 运行汉化安装器；
-- （GUI新版安装器）勾选“安装模组（汉化修改包）”；
-- （命令行旧版安装器）在提示`是否将l10n_installer/mods/下的模组应用到汉化文件？`时输入Y后按回车键，等待安装器将模组应用到即将被安装的汉化包。
+- 勾选“安装模组（汉化修改包）”；
 
 </details>
+
+#### 方式2：离线安装包
+
+1. 通过[蓝奏云](https://tapio.lanzouu.com/b0nz5p18d)或[GitHub Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)（.exe文件）下载最新版离线安装包；
+2. 运行离线安装包，其会将汉化包自动安装到游戏路径下。
 
 ## Q&A
 
