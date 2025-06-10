@@ -1,6 +1,6 @@
-(def layout SpeedPointer ()
+(def element SpeedPointer ()
 	(scope
-		(var cruiseEntity:gfx = "$datahub.getPrimaryEntity(CC.cruise, SC.Battle.CRUISE_CONTROL_TYPE.SPEED)")
+		(var cruiseEntity:dhEntity = "getPrimaryEntity(CC.cruise, SC.Battle.CRUISE_CONTROL_TYPE.SPEED)")
 
 		(var speed:number = "cruiseEntity.cruise ? cruiseEntity.cruise.value : 0" (event "cruiseEntity.cruise.evValueChanged"))
 
