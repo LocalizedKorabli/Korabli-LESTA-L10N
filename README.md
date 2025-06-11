@@ -56,9 +56,11 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 
 ###### 安装模组
 
-- 将相应模组的`mo`文件（从蓝奏云下载的模组需先解压）放入游戏目录下`l10n_installer`文件夹下的`mods`文件夹（这些文件夹会在第一次运行在线安装器时被创建）；
 - 运行汉化安装器；
 - 勾选“安装模组（汉化修改包）”；
+- 点击“模组目录”；
+- 将已下载的模组（.po、.mo、.json、.l10nmod文件，或包含这类文件的.zip压缩包）放入弹出的目录；
+- 点击“安装汉化”。
 
 </details>
 
