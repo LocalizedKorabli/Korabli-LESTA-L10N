@@ -1,3 +1,5 @@
+# L32~169
+
 (def element AircraftForsage () layout=true
 	(scope
 		(event evForsageFinishedAnimate)
@@ -92,13 +94,13 @@
 		(tf
 			(style (textAlign = "right") (width = 80))
 			(alpha = "TA")
-			(class $TextDefaultBold19NM)
+			(class $TextDefaultBold20NM)
 			(macro TFMouseEnabled value=false)
 			(bind text "round(flightSpeed)")
 		)
 		(tf
 			(style (textAlign = "right"))
-			(class $TextDefault17NM)
+			(class $TextDefault18NM)
 			(alpha = "TC")
 			(macro TFMouseEnabled value=false)
 			(bind text "' ' + tr('IDS_KTS')")

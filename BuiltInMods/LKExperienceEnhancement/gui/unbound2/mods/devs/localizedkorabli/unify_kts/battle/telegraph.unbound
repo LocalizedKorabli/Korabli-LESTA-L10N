@@ -12,15 +12,17 @@
 
 		(var isLimitSpeeding:bool = "limitWarning && limitWarningEnabled")
 
-		(var textClass:str = "isJammed      ? softCriticalEnabled   ? '$TextColorWarning'
-																	: '$TextColorHUDCritical'
-											: isLimitSpeeding   ? '$TextColorWarning'
-																: '$TextColorNeutral'")
+		(var textClass:str = "isJammed 	? softCriticalEnabled 	? '$TextColorWarning'
+																: '$TextColorHUDCritical'
+										: isLimitSpeeding 	? '$TextColorWarning'
+															: '$TextColorNeutral'"
+		)
 
-		(var pointerColor:str = "isJammed   ? softCriticalEnabled   ? 'yellow'
+		(var pointerColor:str = "isJammed 	? softCriticalEnabled 	? 'yellow'
 																	: 'red'
-											: isLimitSpeeding   ? 'yellow'
-																: 'white'")
+											: isLimitSpeeding 	? 'yellow'
+																: 'white'"
+		)
 	)
 	(style
 		(position = "absolute")
@@ -33,14 +35,14 @@
 	(block
 		(style
 			(position = "absolute")
-			(top = "18px")
+			(top = 18px)
 			(bind backgroundImage "'url:../battle_hud/cruise_control/pointers/pointer_' + pointerColor + '.png'")
-			(rotation = "-90")
+			(rotation = -90)
 		)
 	)
 	
 	(hblock
-		(style (marginLeft = "15px"))
+		(style (marginLeft = 15px))
 		(tf
 			(class $TelegraphValueText)
 			(bind class "textClass")
