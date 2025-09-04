@@ -2,7 +2,7 @@
 
   <img  width="160" src="https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/26415d14-c46e-4bdd-aa26-f7f0234911ce" alt="logo">
 
-<h3>澪刻•战舰世界莱服本地化</h3>
+<h3>澪刻·Mir Korabley本地化</h3>
 
 [![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/stargazers)
 [![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-L10N.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)
@@ -98,6 +98,63 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 
 于是，本项目应运而生。
 
+## 项目特色
+
+### 双线安装，准时送达
+
+基于本团队率先开发的开源**自动在线安装器**与**离线安装包**，本项目的安装无缝兼顾所有用户的网络与环境需求：
+
+- 基于链式启动<sup>**1**</sup>的**自动更新模式**允许用户以最少的操作和最小的等待时间完成每次汉化包更新
+
+- 基于Inno Setup<sup>**2**</sup>的**离线安装包**自动检测Mir Korabley的安装目录，并在顷刻间完成所有安装流程
+
+- 本团队严格遵循正式服/PT服版本上新时间推送在线汉化包，让用户免于等待，且尽最大可能杜绝版本错位
+
+### 小步快跑，持续优化
+
+在每个游戏版本周期内，本团队都会以**小步快跑**的方式，持续推出新版本汉化。这意味着：
+
+- 漏洞无处遁形：开发人员在测试、游玩过程中一旦发现文本瑕疵，将即刻着手修改并推送更新
+
+- 反馈必有回响：用户的每一条有效反馈都深刻影响着下一次迭代，本项目从不受制于游戏版本的更新节奏，修复与优化就在当下。
+
+### 基于考据，尊重共识
+
+本项目参考**历史资料、官方文献、玩家共识**，基于**一名一译、审慎合规**的原则进行翻译，致力于为玩家创造**清晰、直观、零误解**的游戏世界：
+
+- 第一时间查阅历史资料与国内文献，初步确定接受度最高、最合理的译名
+
+- 与NGABBS等社区接轨，最大限度地保证译名从进入社区到出现在游戏中这一过程的一致性
+
+- 一些直营服时代的译名，或许不完全符合严格的翻译原则，但早已深入人心，成为了玩家共同记忆的一部分——本项目尽可能**保留**这类译名，尊重Mir Korabley原始玩家群体的阅读习惯与社区共识
+
+### 力承众议，提供选择
+
+本团队的**自动在线安装器**首创**汉化修改包**功能，允许用户通过多种格式的文件对汉化内容进行局部修改。对于社区内存在合理争议的战舰译名，本项目**从不一言堂**。相反，这些主流争议译名或被**采纳**，或被**制作成官方修改包**并存放于公共网盘。
+
+### 无处不在，无微不至
+
+不止步于Mir Korabley游戏本体汉化，本团队为提升玩家体验制作了以下衍生项目：
+
+- [**Lesta Game Center多语言本地化**](https://github.com/LocalizedKorabli/LestaGameCenterL10n)
+- [**Most汉化**](https://github.com/OpenKorabli/Korabli-Most-L10n-CHS)
+- 包含多项界面/文本优化的**体验增强包**<sup>**3**</sup>
+- [**Mir Korabley中文语音补全**](https://tapio.lanzn.com/b0nyuflla)
+- 融合WarHelios与Source Han Sans字形的[**SrcHelios字体**](https://tapio.lanzn.com/b0nyjuylc)及其面向有直播需求玩家的混淆版
+- 面向兵工厂、军团、仓库等页面大部分静态文本的[战舰世界网页内容汉化](https://microsoftedge.microsoft.com/addons/detail/%E6%88%98%E8%88%B0%E4%B8%96%E7%95%8C%E8%8E%B1%E6%9C%8D%E7%BD%91%E9%A1%B5%E6%B1%89%E5%8C%96/fleemlkpeifpkiphpjabhpiomefikpho)
+- [**战舰名拉丁化工具**](https://bbs.nga.cn/read.php?tid=44347524)
+
+### 开源共进，拥抱社区
+
+本项目采用CC BY-NC-SA 4.0许可证，允许且鼓励其他开发者合规修改/再分发。本团队与Mir Korabley开发人员、部分其他Mir Korabley非官方汉化组（如：[隐羽汉化](https://bbs.nga.cn/read.php?tid=44049188)）、兄弟游戏Mir Tankov非官方本地化人员或小组（负责汉化的[艾伦汉化](https://tanki.onlyax.com/)及负责英、德、波三语本地化的[LocalizedTanki](https://github.com/LocalizedTanki)）均建立了紧密良好的合作关系。本团队始终致力于推动游戏社区形成良好的协作氛围，我们愿与所有志同道合者一道，打破语言壁垒，共享游戏乐趣。
+
+### 备注
+#### 【1】链式启动
+- 用户通过**自动在线安装器**生成的快捷方式，以小窗口的**自动更新模式**启动**自动在线安装器**，后者在检查汉化包版本（并在必要情况下更新之）后直接启动Lesta Game Center。
+#### 【2】Inno Setup安装包构建框架
+- **Inno Setup**是Jordan Russell与Martijn Laan以Delphi编程语言写就的开源安装包构建框架。其能够可靠地将软件部署到全球数百万台PC，自1997年推出以来，一直受到开发人员和各种规模组织的信赖。
+#### 【3】体验增强包
+- 体验增强包结合了NGA论坛用户制作的[输入法修复模组](https://bbs.nga.cn/read.php?tid=29102783)、基于Unbound2的界面优化模组，以及对Most模组站上其他Mir Korabley模组文本内容的汉化。体验增强包被内置在离线安装包中，并（可）于在线安装器中随汉化包一同安装
 ## 项目传送门
 
 澪刻正面向多个语言、服务器类型制作本地化，
@@ -105,9 +162,9 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 
 | 语言\服务器类型 | 正式服 | PT服 |
 |:------------:|:----------:|:--------:|
-| L10N-简体中文 | **本仓库** | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
-| L10N-繁體中文 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest) |
-| I18N-English | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
+| 简体中文 | **本仓库** | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
+| 繁體中文 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest) |
+| English | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
 
 ## 相关链接
 
@@ -116,21 +173,3 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 [Korabli Forum发布页](https://forum.korabli.su/topic/161848-/)
 
 [Bilibili教学视频](https://www.bilibili.com/video/BV1c4421D7Gh)
-
-[Bilibili专栏](https://www.bilibili.com/opus/918285182086152224)
-
-[Patreon](https://www.patreon.com/LocalizedKorabli)
-
-## 同类项目
-
-### [Lavandel的修改版](https://github.com/EGIST-Lavandel/RU2CNKorabliModificate)
-
-基于本项目8275422-20240410.2319版本的修改版，分叉后保持更新。
-
-主打创造性的、具有节目效果的文本翻译。
-
-### [REPAD本土化](https://github.com/DDFantasyV/Korabli_localization_chs)
-
-与本项目几乎同时起步的汉化项目，主打流畅的、谨慎的新增文本翻译。
-
-
