@@ -69,6 +69,14 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 1. 通过[蓝奏云](https://tapio.lanzouu.com/b0nz5p18d)或[GitHub Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)（.exe文件）下载最新版离线安装包；
 2. 运行离线安装包，其会将汉化包自动安装到游戏路径下。
 
+## 截图展示
+
+<img src="Showcases/port.png" width="906"/>
+
+<img src="Showcases/tech_tree_ussr.png" width="300"/> <img src="Showcases/commanders.png" width="300"/> <img src="Showcases/tech_tree_ita.png" width="300"/> 
+
+<img src="Showcases/georgia_descr.png" width="300"/> <img src="Showcases/how_to_correctly_translate_avik.png" width="300"/> <img src="Showcases/tiangong_descr.png" width="300"/> 
+
 ## Q&A
 
 - Q：为什么兵工厂、造船厂没有被翻译？
