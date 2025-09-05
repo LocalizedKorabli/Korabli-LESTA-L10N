@@ -73,9 +73,9 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 
 <img src="Showcases/port.png" width="830"/>
 
-<img src="Showcases/tech_tree_ussr.png" width="276"/> <img src="Showcases/commanders.png" width="276"/> <img src="Showcases/tech_tree_ita.png" width="276"/> 
+<img src="Showcases/tech_tree_ussr.png" width="272"/> <img src="Showcases/commanders.png" width="272"/> <img src="Showcases/tech_tree_ita.png" width="272"/> 
 
-<img src="Showcases/georgia_descr.png" width="276"/> <img src="Showcases/how_to_correctly_translate_avik.png" width="276"/> <img src="Showcases/tiangong_descr.png" width="276"/> 
+<img src="Showcases/georgia_descr.png" width="272"/> <img src="Showcases/how_to_correctly_translate_avik.png" width="272"/> <img src="Showcases/tiangong_descr.png" width="272"/> 
 
 ## Q&A
 
