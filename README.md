@@ -71,7 +71,7 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 
 ## 截图展示
 
-<img src="Showcases/port.png" width="830"/>
+<img src="Showcases/port.png" width="828"/>
 
 <img src="Showcases/tech_tree_ussr.png" width="272"/> <img src="Showcases/commanders.png" width="272"/> <img src="Showcases/tech_tree_ita.png" width="272"/> 
 
@@ -142,7 +142,7 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 
 ### 无处不在，无微不至
 
-不止步于Mir Korabley游戏本体汉化，本团队为提升玩家体验制作了以下衍生项目：
+不止步于Mir Korabley游戏本体汉化，本团队为提升玩家体验开发了以下衍生项目：
 
 - [**Lesta Game Center多语言本地化**](https://github.com/LocalizedKorabli/LestaGameCenterL10n)
 - [**Most汉化**](https://github.com/OpenKorabli/Korabli-Most-L10n-CHS)
@@ -162,10 +162,10 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 #### 【2】Inno Setup安装包构建框架
 - **Inno Setup**是Jordan Russell与Martijn Laan以Delphi编程语言写就的开源安装包构建框架。其能够可靠地将软件部署到全球数百万台PC，自1997年推出以来，一直受到开发人员和各种规模组织的信赖。
 #### 【3】体验增强包
-- 体验增强包结合了NGA论坛用户制作的[输入法修复模组](https://bbs.nga.cn/read.php?tid=29102783)、基于Unbound2的界面优化模组，以及对Most模组站上其他Mir Korabley模组文本内容的汉化。体验增强包被内置在离线安装包中，并（可）于在线安装器中随汉化包一同安装
+- 体验增强包结合了NGA论坛用户发布的[输入法修复模组](https://bbs.nga.cn/read.php?tid=29102783)、基于Unbound2的界面优化模组，以及对Most模组站上其他Mir Korabley模组文本内容的汉化。体验增强包被内置在离线安装包中，并（可）于在线安装器中随汉化包一同安装
 ## 项目传送门
 
-澪刻正面向多个语言、服务器类型制作本地化，
+澪刻正面向多个语言、服务器类型开发本地化，
 您可以通过点击以下表格中的链接快速访问相应的项目仓库。
 
 | 语言\服务器类型 | 正式服 | PT服 |
