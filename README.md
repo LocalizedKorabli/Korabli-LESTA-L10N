@@ -173,7 +173,7 @@ Looking for localizations for other languages? Check [this](#项目传送门).
 | 简体中文 | **本仓库** | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
 | 繁體中文 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest) |
 | English | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
-| 日文 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-I18n-JA) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-I18n-JA-PT) |
+| 日本語 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-I18n-JA) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-I18n-JA-PT) |
 
 ## 相关链接
 
