@@ -1,11 +1,10 @@
 # L32~169
 
-(def element AircraftForsage () layout=true
+(def element AircraftForsage (_activeSquadronIndex:number="DEFAULT_SQUADRON_OWNER_ID")
 	(scope
 		(event evForsageFinishedAnimate)
 
-		(var activeSquadron:number = "DEFAULT_SQUADRON_OWNER_ID")
-		(var currentSquadronEntity:gfx = "$datahub.getPrimaryEntity(CC.ownSquadron, activeSquadron)")
+		(var currentSquadronEntity:gfx = "$datahub.getPrimaryEntity(CC.ownSquadron, _activeSquadronIndex)")
 		(var forsageElement:gfx = "currentSquadronEntity ? currentSquadronEntity.forsageElement : null")
 		(var isForsageDepleted:bool =  "forsageElement ? forsageElement.isDepleted : false" (event "forsageElement.evIsDepletedChanged"))
 		(var isForsageFinite:bool =  "forsageElement ? forsageElement.isFinite : false")
@@ -19,7 +18,7 @@
 
 		(var wasButtonUp:bool = false)
 
-		(var takeoffBoosterEntity:gfx = "$datahub.getPrimaryEntity(CC.takeoffBooster, activeSquadron)")
+		(var takeoffBoosterEntity:gfx = "$datahub.getPrimaryEntity(CC.takeoffBooster, _activeSquadronIndex)")
 		(var countdown:gfx = "takeoffBoosterEntity && takeoffBoosterEntity.hasComponent(CC.countDown) ? takeoffBoosterEntity.countDown : null" (event "takeoffBoosterEntity.evAdded") (event "takeoffBoosterEntity.evRemoved"))
 
 		(var takeoffBoosterInUse:bool = "takeoffBoosterEntity ? takeoffBoosterEntity.takeoffBooster.isUsing : false" (event "takeoffBoosterEntity.takeoffBooster.evUsingChanged"))
