@@ -52,7 +52,7 @@
 			(class $TelegraphMeasureText)
 			(bind class "textClass")
 			(alpha = 0.7)
-			(bind text "' ' + tr('IDS_KTS')")
+			(bind text "' ' + tr('IDS_KNOT')")
 		)
 	)
 )
