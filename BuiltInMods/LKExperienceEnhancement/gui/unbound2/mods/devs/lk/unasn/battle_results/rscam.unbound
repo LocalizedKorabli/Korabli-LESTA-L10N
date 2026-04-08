@@ -1,0 +1,2 @@
+# battle_results\results_screen_constants_and_macros.unbound
+(def constant PBS_COLUMN_SHIP_WIDTH 280px)

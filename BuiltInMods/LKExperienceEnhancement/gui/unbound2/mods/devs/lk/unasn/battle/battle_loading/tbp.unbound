@@ -1,3 +1,4 @@
+# battle\battle_loading\team_battle_page.unbound
 (def constant COLUMN_SHIP_WIDTH 251px)
 (def constant COLUMN_SHIP_WIDTH_ONE_TEAM 530px)
 (def constant COLUMN_EMOJI_WIDTH 30px)
