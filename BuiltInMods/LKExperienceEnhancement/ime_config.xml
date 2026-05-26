@@ -237,6 +237,14 @@
 			<displayName>中文(简体) - 手心输入法</displayName>
 			<Tag>GFxIME_Ch_Simp</Tag>
 
+			<imeName>中文(简体) - 讯飞输入法</imeName>
+			<displayName>中文(简体) - 讯飞输入法</displayName>
+			<Tag>GFxIME_Ch_Simp</Tag>
+
+			<imeName>微信输入法</imeName>
+			<displayName>微信输入法</displayName>
+			<Tag>GFxIME_Ch_Simp</Tag>
+
 		</ChineseSimplified>
 
 		<ChineseTraditional>
