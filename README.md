@@ -37,7 +37,7 @@
 
 #### 方式1：在线安装器
 
-1. 通过[蓝奏云](https://leon.lanzoue.com/b0nzmcv9i)或[GitHub Releases](https://github.com/LocalizedKorabli/LKInstaller-Next/releases/latest)下载最新版汉化安装器的安装包；
+1. 通过[官网](https://localizedkorabli.org/chs/lk-next)下载最新版汉化安装器的安装包；
 2. 安装后运行，按照程序指示操作。
 
 <details><summary style="font-size: 12px;">可选步骤</summary>
@@ -52,37 +52,39 @@
 
 ###### 安装模组
 
-- 运行汉化安装器；
-- 勾选“安装模组（汉化修改包）”；
-- 点击“模组目录”；
-- 将已下载的模组（.po、.mo、.json、.l10nmod文件，或包含这类文件的.zip压缩包）放入弹出的目录；
-- 点击“安装汉化”。
+1. 运行汉化安装器；
+2. 点击“高级”选项卡
+3. 点击“预设配置”-“安装预设”右侧的‘齿轮’图标；
+4. 勾选“加载本地化修改包”并点击右侧‘文件夹’图标
+5. 将已下载的模组（.po、.mo、.json、.l10nmod文件，或包含这类文件的.zip压缩包）放入弹出的目录；
+6. 点击“保存并选定”。
+7. 随后回到“游戏”选项卡，开始安装
 
 </details>
 
 #### 方式2：离线安装包
 
-1. 通过[蓝奏云](https://tapio.lanzouu.com/b0nz5p18d)或[GitHub Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)（.exe文件）下载最新版离线安装包；
+1. 通过[官网](https://localizedkorabli.org/chs/offline-installer)（.exe文件）下载最新版离线安装包；
 2. 运行离线安装包，其会将汉化包自动安装到游戏路径下。
 
 ## 截图展示
 
 <img src="Showcases/port.png" width="828"/>
 
-<img src="Showcases/tech_tree_ussr.png" width="272"/> <img src="Showcases/commanders.png" width="272"/> <img src="Showcases/tech_tree_ita.png" width="272"/> 
+<img src="Showcases/tech_tree_ussr.png" width="272"/> <img src="Showcases/commanders.png" width="272"/> <img src="Showcases/tech_tree_ita.png" width="272"/>
 
-<img src="Showcases/georgia_descr.png" width="272"/> <img src="Showcases/how_to_correctly_translate_avik.png" width="272"/> <img src="Showcases/tiangong_descr.png" width="272"/> 
+<img src="Showcases/georgia_descr.png" width="272"/> <img src="Showcases/how_to_correctly_translate_avik.png" width="272"/> <img src="Showcases/tiangong_descr.png" width="272"/>
 
-## Q&A
+## FAQ
 
 - Q：为什么兵工厂、造船厂没有被翻译？
 
   A：这些页面实际上是由内置网页浏览器显示的，无法通过本地化文件翻译。
-  
+
 - Q：为什么游戏内文本又变回俄语了？
 
   A：每次版本更新时都会更换`bin`目录下的数字文件夹，重新安装汉化包即可。
-  
+
 - Q：为什么一些本该意译的船名被音译了？
 
   A：部分意译船名可能存在敏感内容，会给想要直播莱服游玩的汉化用户带来不便。若您需要意译版本的船名，请考虑使用`模组`（使用方法见本文-如何使用-安装-可选步骤-模组）。

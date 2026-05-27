@@ -1,10 +1,10 @@
 <data>
-	<language> 
+	<language>
 		<ChineseSimplified>
 			<imeName>微软拼音</imeName>
 			<displayName>MSPinyin</displayName>
 			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>
-			
+
 			<imeName>Chinese (Simplified) - Microsoft Pinyin IME 3.0</imeName>
 			<displayName>MSPinyin IME 3.0</displayName>
 			<Tag>GFxIME_Ch_Simp_MSPinyin_3_0</Tag>
@@ -131,7 +131,7 @@
 
 			<imeName>GOOGLEPINYIN3.IME</imeName>
 			<displayName>中文 (简体) - 谷歌拼音输入法</displayName>
-			<Tag>GFxIME_GooglePinyin</Tag>	
+			<Tag>GFxIME_GooglePinyin</Tag>
 
 			<imeName>ARRAY.IME</imeName>
 			<displayName>ArrayCL</displayName>
@@ -227,12 +227,12 @@
 
 			<imeName>Microsoft Pinyin</imeName>
 			<displayName>MSPinyin IME</displayName>
-			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>	
+			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>
 
 			<imeName>Microsoft Wubi</imeName>
 			<displayName>Microsoft Wubi</displayName>
 			<Tag>GFxIME_Ch_Simp_MSPinyin</Tag>
-			
+
 			<imeName>中文(简体) - 手心输入法</imeName>
 			<displayName>中文(简体) - 手心输入法</displayName>
 			<Tag>GFxIME_Ch_Simp</Tag>
@@ -274,7 +274,7 @@
 			<Tag>GFxIME_Ch_Trad_DaYi</Tag>
 
 			<imeName>Chinese (Traditional) - New ChangJie</imeName>
-			<imeGuid>{F3BA907A-6C7E-11D4-97FA-0080C882687E}</imeGuid>		
+			<imeGuid>{F3BA907A-6C7E-11D4-97FA-0080C882687E}</imeGuid>
 			<displayName>New ChangJie</displayName>
 			<Tag>GFxIME_Ch_Trad_NewChangJie</Tag>
 
@@ -285,7 +285,7 @@
 			<imeName>Microsoft ChangJie</imeName>
 			<imeGuid>{4BDF9F03-C7D3-11D4-B2AB-0080C882687E}</imeGuid>
 			<displayName>ChangJie</displayName>
-			<Tag>GFxIME_Ch_Trad_NewChangJie</Tag>		
+			<Tag>GFxIME_Ch_Trad_NewChangJie</Tag>
 
 			<imeName>Chinese (Traditional) - New Phonetic</imeName>
 			<imeGuid>{B2F9C502-1742-11D4-9790-0080C882687E}</imeGuid>
@@ -342,7 +342,7 @@
 
 			<imeName>chajei.ime</imeName>
 			<displayName>ChangJie</displayName>
-			<Tag>GFxIME_Ch_Trad_ChangJie</Tag>   			
+			<Tag>GFxIME_Ch_Trad_ChangJie</Tag>
 
 			<imeName>dayi.ime</imeName>
 			<displayName>DaYi</displayName>
@@ -362,7 +362,7 @@
 
 			<imeName>MSTCIPHA.IME</imeName>
 			<displayName>New Phonetic</displayName>
-			<Tag>GFxIME_Ch_Trad_NewPhonetic</Tag>			
+			<Tag>GFxIME_Ch_Trad_NewPhonetic</Tag>
 
 			<imeName>TINTLGNT.IME</imeName>
 			<displayName>New Phonetic</displayName>
@@ -407,7 +407,7 @@
 			<imeName>微软输入法</imeName>
 			<displayName>微软输入法</displayName>
 			<Tag>GFxIME_Jp</Tag>
-			
+
 			<imeName>Google Japanese Input</imeName>
 			<displayName>Google Japanese Input</displayName>
 			<Tag>GFxIME_Jp_GOOG2010</Tag>
@@ -518,5 +518,5 @@
 
 		</Korean>
 
-	</language> 	
+	</language>
 </data>
