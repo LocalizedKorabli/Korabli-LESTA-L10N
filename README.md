@@ -15,6 +15,8 @@
 **简体中文** |
 [繁体中文](https://github.com/LocalizedKorabli/Korabli-L10n-CHT) |
 [English](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) |
+[Deutsch](https://github.com/LocalizedKorabli/Korabli-I18n-DE) |
+[Español](https://github.com/LocalizedKorabli/Korabli-I18n-ES) |
 [日本語](https://github.com/LocalizedKorabli/Korabli-I18n-JA)
 
 </div>
