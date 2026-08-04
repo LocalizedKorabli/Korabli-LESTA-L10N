@@ -6335,7 +6335,7 @@ msgid "IDS_ASSIST_DAMAGE_AVERAGE_TOOLTIP"
 msgstr "您协助造成的平均伤害量"
 
 msgid "IDS_ASSIST_DAMAGE_KILLS"
-msgstr "击伤数"
+msgstr "击伤协助摧毁数"
 
 msgid "IDS_ASSIST_DAMAGE_KILLS_TOOLTIP"
 msgstr "您通过造成伤害协助摧毁战舰的总数"
@@ -6368,10 +6368,10 @@ msgid "IDS_ASSIST_KILLS_TOOLTIP"
 msgstr "您协助摧毁敌舰的总数"
 
 msgid "IDS_ASSIST_SPOT_KILLS"
-msgstr "侦察协助摧毁敌舰数"
+msgstr "侦察协助摧毁数"
 
 msgid "IDS_ASSIST_SPOT_KILLS_TOOLTIP"
-msgstr "您通过提供侦察信息协助摧毁战舰的总数"
+msgstr "您通过提供侦察情报协助摧毁战舰的总数"
 
 msgid "IDS_ASTRA_DOG"
 msgstr "阿斯特拉"
@@ -8292,7 +8292,7 @@ msgid "IDS_BATTLE_STATS_ASSIST_KILL_BY_SPOT"
 msgstr "侦察协助摧毁敌舰数"
 
 msgid "IDS_BATTLE_STATS_ASSIST_KILL_BY_SPOT_HINT"
-msgstr "您通过提供侦察信息协助摧毁的战舰数量"
+msgstr "您通过提供侦察情报协助摧毁的战舰数量"
 
 msgid "IDS_BATTLE_STATS_ATBA_AMMO0"
 msgstr "第一种炮弹类型"
@@ -41880,7 +41880,7 @@ msgid "IDS_MAKAROV"
 msgstr "斯捷潘·马卡洛夫"
 
 msgid "IDS_MAKAROV_DESC"
-msgstr "<p>斯捷潘·奥西波维奇·马卡洛夫（1849–1904），杰出的海军统帅、海军理论家、科学家和发明家。</p><p class=\"p_spacing\"> </p><p>在1877-1878年的俄土战争期间，他指挥汽船康士坦丁大公号，并利用鱼雷艇成功袭击了土耳其舰艇。19世纪90年代，他主持设计了俄罗斯第一艘海洋破冰船叶尔马克号，并亲自率舰完成了两次北极远征，航行至斯匹次卑尔根、新地岛和法兰士约瑟夫地等地区。1904年日俄战争期间，马卡洛夫担任俄国太平洋第一分舰队司令，在指挥作战时随旗舰彼得罗巴甫洛夫斯克号装甲舰一同阵亡。</p><p class=\"p_spacing\"> </p><p>马卡洛夫曾获授多项荣誉，其中包括四级圣乔治勋章以及俄罗斯帝国侍从武官徽章。</p>"
+msgstr "<p>斯捷潘·奥西波维奇·马卡洛夫（1849–1904），杰出的海军统帅、海军理论家、科学家和发明家。</p><p class=\"p_spacing\"> </p><p>在1877–1878年的俄土战争期间，他指挥汽船康士坦丁大公号，并利用鱼雷艇成功袭击了土耳其舰艇。19世纪90年代，他主持设计了俄罗斯第一艘海洋破冰船叶尔马克号，并亲自率舰完成了两次北极远征，航行至斯匹次卑尔根、新地岛和法兰士约瑟夫地等地区。1904年日俄战争期间，马卡洛夫担任俄国太平洋第一分舰队司令，在指挥作战时随旗舰彼得罗巴甫洛夫斯克号装甲舰一同阵亡。</p><p class=\"p_spacing\"> </p><p>马卡洛夫曾获授多项荣誉，其中包括四级圣乔治勋章以及俄罗斯帝国侍从武官徽章。</p>"
 
 msgid "IDS_MAKE_TRAINING_ROOM_CLOSED"
 msgstr "私密房间"
@@ -92057,7 +92057,7 @@ msgid "IDS_PISC509"
 msgstr "伊松佐"
 
 msgid "IDS_PISC509_DESCR"
-msgstr "<p>20世纪30年代初，在《伦敦海军条约》签署后，意大利开始着手设计新一代战列舰。时任海军参谋长吉诺·杜奇海军上将设计任务委托给了舰船工程兵团将军路易吉·巴尔贝里斯。</p><p class=\"p_spacing\"> </p><p>巴尔贝里斯及其团队准备了多份草案，并按照排水量分为三个组别。其中，第三组（排水量超过26000吨）包含了编号N1至S4的多个方案，装备有305毫米、356毫米、甚至406毫米主炮。</p><p class=\"p_spacing\"> </p><p>其中，S3方案的标准排水量为30,000吨，在四座双联装炮塔内安装了八门356毫米主炮，并拥有同类舰艇中较高的航速。</p>"
+msgstr "<p>20世纪30年代初，在《伦敦海军条约》签署后，意大利开始着手设计新一代战列舰。时任海军参谋长吉诺·杜奇海军上将设计任务委托给了舰船工程兵团将军路易吉·巴尔贝里斯。</p><p class=\"p_spacing\"> </p><p>巴尔贝里斯及其团队准备了多份草案，并按照排水量分为三个组别。其中，第三组（排水量超过26000吨）包含了编号N1至S4的多个方案，装备有305毫米、356毫米、甚至406毫米主炮。</p><p class=\"p_spacing\"> </p><p>其中，S3方案的标准排水量为30000吨，在四座双联装炮塔内安装了八门356毫米主炮，并拥有同类舰艇中较高的航速。</p>"
 
 msgid "IDS_PISC509_FULL"
 msgstr "伊松佐"
@@ -107076,7 +107076,7 @@ msgid "IDS_PRSC511"
 msgstr "伊凡雷帝"
 
 msgid "IDS_PRSC511_DESCR"
-msgstr "<p>1940年2月，苏联从德国购入了尚未完工的重巡洋舰吕佐夫号。在专家研究了相关技术资料后，便提出了在德国设计基础上建造性能更优的舰艇的构想。根据海军人民委员尼古拉·库兹涅佐夫总司令的指示，海军总参谋部很快便为该型新巡洋舰制定了初步的指标，项目编号82。</p><p class=\"p_spacing\"> </p><p>1943年9月，项目的指标进行了修订。而到了1944年年中，第十七中央设计局已经设计出了八种方案，在此过程中，该型舰艇的指标也在不停地进行完善。</p><p class=\"p_spacing\"> </p><p>1947年8月，该项目的方案又一次被提交给了苏联造船工业部和海军审议，并最终确定采用装备305毫米主炮的设计。之后，第十七中央设计局一直在修改相关设计。到了1949年10月，该方案又被转交给了第十六中央设计局负责。最终，1951年2月，该舰的详细设计通过了审议。随后，该级的前两艘舰艇分别在尼古拉耶夫和列宁格勒铺设龙骨。1952年，10月，该级三号舰在莫洛托夫斯克开工，但尚未来得及命名，该级舰的建造工作便被取消。</p>"
+msgstr "<p>1940年2月，苏联从德国购入了尚未完工的重巡洋舰吕佐夫号。在专家研究了相关技术资料后，便提出了在德国设计基础上建造性能更优的舰艇的构想。根据海军人民委员尼古拉·库兹涅佐夫总司令的指示，海军总参谋部很快便为该型新巡洋舰制定了初步的指标，项目编号82。</p><p class=\"p_spacing\"> </p><p>1943年9月，项目的指标进行了修订。而到了1944年年中，第十七中央设计局已经设计出了八种方案，在此过程中，该型舰艇的指标也在不停地进行完善。</p><p class=\"p_spacing\"> </p><p>1947年8月，该项目的方案又一次被提交给了苏联造船工业部和海军审议，并最终确定采用装备305毫米主炮的设计。之后，第十七中央设计局一直在修改相关设计。到了1949年10月，该方案又被转交给了第十六中央设计局负责。最终，1951年2月，该舰的详细设计通过了审议。随后，该级的前两艘舰艇分别在尼古拉耶夫和列宁格勒铺设龙骨。1952年10月，该级三号舰在莫洛托夫斯克开工，但尚未来得及命名，该级舰的建造工作便被取消。</p>"
 
 msgid "IDS_PRSC511_FULL"
 msgstr "伊凡雷帝"
@@ -123181,7 +123181,7 @@ msgid "IDS_QUESTION_RESET_SKILLPOINTS_FOR_SUBMARINE"
 msgstr "重置潜艇技能？确认花费"
 
 msgid "IDS_QUESTION_RESTORE_FOR"
-msgstr "修复？确认花费"
+msgstr "恢复？确认花费"
 
 msgid "IDS_QUESTION_RETURN_TO_DOCK"
 msgstr "回到港口？"
@@ -124942,7 +124942,7 @@ msgid "IDS_RESTORE_SHIP_NOT_SELECTED"
 msgstr "选择要恢复的战舰"
 
 msgid "IDS_RESTORE_UPPER_CASE"
-msgstr "修复"
+msgstr "恢复"
 
 msgid "IDS_RESTRICTIONS_AVA"
 msgstr "GO NAVY! 参与条件"
@@ -131167,7 +131167,7 @@ msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ASSIST_DAMAGE_FRAG"
 msgstr "通过造成伤害，为摧毁敌舰做出重大贡献。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ASSIST_SPOT_FRAG"
-msgstr "通过提供侦察信息，为摧毁敌舰做出重大贡献。"
+msgstr "通过提供侦察情报，为摧毁敌舰做出重大贡献。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BASE_CAPTURE"
 msgstr "占领关键区域或敌方基地。"
@@ -131992,7 +131992,7 @@ msgid "IDS_SAGA_DIALOGUE_VOICEOVERS_LABEL"
 msgstr "对话配音"
 
 msgid "IDS_SAGA_FINAL_DESCRIPTION"
-msgstr "您可以在历史档案中观看已完成的章节。"
+msgstr "您可以在档案中观看已完成的章节。"
 
 msgid "IDS_SAGA_FINAL_ETERIA_FINAL_STATS_TIME_DESCRIPTION"
 msgstr "“伊忒利亚守护者·升华”活动已结束。"
@@ -132064,7 +132064,7 @@ msgid "IDS_SAGA_PROGRESS_CURRENCY_TITLE"
 msgstr "进度积分"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_DESCRIPTION"
-msgstr "《伊忒利亚守护者·升华》全部章节"
+msgstr "“伊忒利亚守护者·升华”全部章节"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_HEADER"
 msgstr "档案"
