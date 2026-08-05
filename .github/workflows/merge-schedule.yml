@@ -1,0 +1,40 @@
+# 定时合并 PR（pr-scheduler 免费替代方案）
+# 用法：在 PR 描述末尾加一行 /schedule <时间>，例如：
+#   /schedule 2026-08-06T02:50:00+03:00   # GMT+3 时间 02:50 合并（推荐，时区写在时间里最直观）
+#   /schedule 2026-08-05T23:50:00.000Z    # UTC 写法（02:50 GMT+3 = 23:50 UTC 前一天）
+#   /schedule 2026-08-06                  # 当天第一次 cron 检查时合并
+#
+# 注意：
+# - 时间必须自带时区（+03:00 / Z），否则会被当作 UTC（= GMT+3 再加 3 小时）。
+# - 日期用 ISO 格式 YYYY-MM-DD（不要写成 pr-scheduler 的 MM/DD/YYYY！5/8 会被当成 5 月 8 日）。
+# - time_zone 输入只用于“现在几点”的比较与提示，不用于解释评论里的日期。
+# 改时间：直接编辑 PR 描述重新提交即可；取消：删掉 /schedule 那行。
+
+name: Merge Schedule
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened, ready_for_review]
+  schedule:
+    # 每 10 分钟检查一次：GitHub 的 cron 在高峰期可能延迟，但本 action 是
+    # “到点才合”，某次运行被延迟的话下一次运行会立刻补上，最坏晚几分钟。
+    # 私有仓库若用免费额度，可改成 */15 * * * * 以控制分钟数（约 1400 分钟/月）。
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # 手动跑一次检查
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge-schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gr2m/merge-schedule-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          merge_method: merge               # merge | squash | rebase
+          time_zone: Etc/GMT-3              # GMT+3（如你在莫斯科可改 Europe/Moscow，不影响评论里的时间）
+          require_statuses_success: 'true'  # 所有 CI 检查完成且通过才合；未就绪会自动跳过、下轮重试
+          automerge_fail_label: automerge-fail # 合并失败时打的标签，去掉标签后下轮会重试
