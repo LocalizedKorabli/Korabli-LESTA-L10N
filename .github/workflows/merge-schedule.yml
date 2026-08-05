@@ -16,10 +16,10 @@ on:
   pull_request:
     types: [opened, edited, synchronize, reopened, ready_for_review]
   schedule:
-    # Check every 10 minutes. GitHub may delay schedule events under load, but this
-    # action merges only when due, so a delayed run is caught by the next one
-    # (worst case: a few minutes late).
-    - cron: '*/10 * * * *'
+    # Hourly at minute 55, as a fallback. Primary trigger is a VPS cron dispatching
+    # workflow_dispatch at the same time (GitHub's schedule queue can be delayed by
+    # hours); the action merges only when due, so extra runs are no-ops.
+    - cron: '55 * * * *'
   workflow_dispatch: # manual check
 
 permissions:
