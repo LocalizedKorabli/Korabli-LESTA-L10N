@@ -1,0 +1,40 @@
+# Scheduled merge of pull requests (free alternative to pr-scheduler)
+# Usage: append a line to the PR description, e.g.
+#   /schedule 2026-08-06T02:50:00+03:00   # merge at 02:50 GMT+3
+#   /schedule 2026-08-05T23:50:00.000Z    # UTC equivalent (02:50 GMT+3 = 23:50 UTC previous day)
+#   /schedule 2026-08-06                  # merge at the first cron run of that day
+#
+# Notes:
+# - The date must carry a timezone offset (+03:00 / Z); a bare time is parsed as UTC.
+# - Use ISO format YYYY-MM-DD. pr-scheduler's MM/DD/YYYY is misread (5/8 = May 8).
+# - time_zone only affects the "is it due yet" check and messages, not date parsing.
+# Reschedule: edit the PR description. Cancel: remove the /schedule line.
+
+name: Merge Schedule
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened, ready_for_review]
+  schedule:
+    # Check every 10 minutes. GitHub may delay schedule events under load, but this
+    # action merges only when due, so a delayed run is caught by the next one
+    # (worst case: a few minutes late).
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # manual check
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge-schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gr2m/merge-schedule-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          merge_method: merge               # merge | squash | rebase
+          time_zone: Etc/GMT-3              # GMT+3 (e.g. Europe/Moscow; does not affect date parsing)
+          require_statuses_success: 'true'  # merge only when all checks pass; otherwise skip and retry next run
+          automerge_fail_label: automerge-fail # label applied on merge failure; remove it to retry
