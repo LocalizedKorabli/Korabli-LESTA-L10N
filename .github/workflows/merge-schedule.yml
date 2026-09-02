@@ -25,11 +25,19 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write
 
 jobs:
   merge-schedule:
     runs-on: ubuntu-latest
     steps:
+      - name: Record main head SHA before merge
+        id: main-before
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "sha=$(gh api repos/${{ github.repository }}/git/ref/heads/main --jq -r .object.sha)" >> "$GITHUB_OUTPUT"
+
       - uses: gr2m/merge-schedule-action@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,3 +46,16 @@ jobs:
           time_zone: Etc/GMT-3              # GMT+3 (e.g. Europe/Moscow; does not affect date parsing)
           require_statuses_success: 'true'  # merge only when all checks pass; otherwise skip and retry next run
           automerge_fail_label: automerge-fail # label applied on merge failure; remove it to retry
+
+      - name: Dispatch mirror sync if a merge happened
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          sha_now=$(gh api repos/${{ github.repository }}/git/ref/heads/main --jq -r .object.sha)
+          if [ "$sha_now" != "${{ steps.main-before.outputs.sha }}" ]; then
+            echo "main moved to $sha_now, dispatching mirror sync"
+            gh workflow run sync2gitee.yml --ref main
+            gh workflow run sync2gitlab.yml --ref main
+          else
+            echo "No merge performed, nothing to dispatch"
+          fi
