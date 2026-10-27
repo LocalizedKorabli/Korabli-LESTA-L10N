@@ -2559,6 +2559,9 @@ msgstr "完成“造船”收藏。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_PA_SAZHENBING_COMPLETED"
 msgstr "完成“萨镇冰时代”收藏。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_RARE_BEAST_2026"
+msgstr "将犯罪集团全员一网打尽。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "完成“未来回响”收藏。"
 
@@ -2988,6 +2991,15 @@ msgstr "在“九头蛇之巢”行动中获得胜利。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RAM_PA"
 msgstr "在一场战斗中撞沉2艘敌舰。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_EPIC_BOT"
+msgstr "抓获犯罪集团头目。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_LEGENDARY_BOT"
+msgstr "抓获犯罪集团首脑。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_RARE_BOT"
+msgstr "抓获一名犯罪集团成员。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RASPUTIN"
 msgstr "授予在暮光之战中使用拉斯普京战列舰获得胜利的玩家。"
@@ -3682,6 +3694,9 @@ msgstr "造船"
 msgid "IDS_ACHIEVEMENT_FILLALBUM_PA_SAZHENBING_COMPLETED"
 msgstr "萨镇冰时代"
 
+msgid "IDS_ACHIEVEMENT_FILLALBUM_RARE_BEAST_2026"
+msgstr "案件已结"
+
 msgid "IDS_ACHIEVEMENT_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "未来回响"
 
@@ -4129,6 +4144,15 @@ msgstr "九头蛇之巢"
 msgid "IDS_ACHIEVEMENT_RAM_PA"
 msgstr "麻烦制造者"
 
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_EPIC_BOT"
+msgstr "私家侦探"
+
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_LEGENDARY_BOT"
+msgstr "卧底特工"
+
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_RARE_BOT"
+msgstr "追踪者"
+
 msgid "IDS_ACHIEVEMENT_RARITY_ELITE"
 msgstr "纪念成就"
 
@@ -4263,6 +4287,9 @@ msgstr "可在随机战中完成，但您必须处于在港口组成的小队中
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_RANKED_ONEPERSEASON"
 msgstr "可在排位战中完成。每个赛季发放一次。"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_RARE_BEAST"
+msgstr "可在“严肃调查”活动中完成。"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE"
 msgstr "可在太空战役中完成。"
@@ -5152,6 +5179,12 @@ msgstr "添加玩家"
 msgid "IDS_ADD_PLAYER_TO_CONTACT_LIST"
 msgstr "加为好友"
 
+msgid "IDS_ADD_SHIP_TO_COMPARISON"
+msgstr "添加战舰"
+
+msgid "IDS_ADD_TO_COMPARISON"
+msgstr "添加以进行对比"
+
 msgid "IDS_ADD_TO_CONTACTS"
 msgstr "加为好友"
 
@@ -5639,6 +5672,66 @@ msgstr "电脑玩家的AI水平"
 
 msgid "IDS_AKENO_MASHIRO"
 msgstr "岬明乃"
+
+msgid "IDS_ALBUM_EVENT_ABOUT_LINK_TEXT"
+msgstr "关于活动"
+
+msgid "IDS_ALBUM_EVENT_CLUES"
+msgstr "已收集证据"
+
+msgid "IDS_ALBUM_EVENT_COUNTER"
+msgstr "已抓获犯人数："
+
+msgid "IDS_ALBUM_EVENT_CTA_MARKER"
+msgstr "抓获犯人"
+
+msgid "IDS_ALBUM_EVENT_DESCRIPTION"
+msgstr "<p>别被眼前的假象骗了。这座城市里最极恶的罪犯，正顶着你挚友的面皮潜行。在那抹熟悉得令人不设防的音容笑貌背后，藏着的唯有冰冷的算计。</p><p class=\"p_spacing\"> </p><p>拔枪吧。去泥潭里会会四大帮派的鬣狗，用血与火洗净黑桃城港口暗藏的污秽。在丧钟彻底敲响之前，把他们一个不留地揪出来……</p>"
+
+msgid "IDS_ALBUM_EVENT_DESCRIPTION_COMPLETED"
+msgstr "<p>街灯惨白的冷光刺破黑夜，仅仅勾勒出他们惊恐的脸庞。罪犯悉数落网，案子就此封存。有那么一瞬间，胸中紧绷的那根弦终于松懈了些许，但这丝释然转瞬便消散在了潮湿阴冷的空气里。</p><p class=\"p_spacing\"> </p><p>留下的，只有唇齿间廉价咖啡的苦涩，以及一个再清醒不过的认知：黑桃城从来不知安宁为何物。倘若这里的街道归于死寂，那只意味着在某个暗处，一场新的风暴已然蓄势待发……</p>"
+
+msgid "IDS_ALBUM_EVENT_EARNED_ITEMS"
+msgstr "档案已建立"
+
+msgid "IDS_ALBUM_EVENT_ENOUGH_CLUES_STATUS_LINE"
+msgstr "您有足够的线索再抓获一名犯人"
+
+msgid "IDS_ALBUM_EVENT_EVENT_PROGRESS"
+msgstr "距犯罪集团被消灭"
+
+msgid "IDS_ALBUM_EVENT_MAIN_TASK_COMPLETION_TOOLTIP_HEADER"
+msgstr "消灭犯罪集团的奖励"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_CAUGHT_STATUS_LINE"
+msgstr "消灭或协助消灭了一名罪犯"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_CAUGHT_TITLE"
+msgstr "当场抓获"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_DUPLICATE_STAMP"
+msgstr "证据"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_MAIN_QUEST_DESCRIPTION"
+msgstr "赚取2500点基础经验，以追踪一名特别危险的罪犯"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_MAIN_QUEST_TITLE"
+msgstr "顺藤摸瓜"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_RANDOM_CARD_DESCRIPTION"
+msgstr "身份不明"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_RANDOM_CARD_TITLE"
+msgstr "面具后的真容"
+
+msgid "IDS_ALBUM_EVENT_STATUS_COMPLETED"
+msgstr "案件已结"
+
+msgid "IDS_ALBUM_EVENT_SUBALBUM_COMPLETION_TOOLTIP_HEADER"
+msgstr "消灭犯罪集团的奖励"
+
+msgid "IDS_ALBUM_EVENT_TITLE"
+msgstr "严肃调查"
 
 msgid "IDS_ALCHEMY_DENY_NOT_ENOUGH"
 msgstr "不足以兑换：%(_deficit)d"
@@ -8540,6 +8633,15 @@ msgstr "注意！敌人部署了深水炸弹作为反潜措施。"
 msgid "IDS_BATTLE_LOADING_SUBMARINE_INFO_HEADER"
 msgstr "潜艇"
 
+msgid "IDS_BATTLE_MAX_REGEN_CREW_DESCRIPTION"
+msgstr "并非所有已损失的生命值都能通过消耗品恢复。默认情况下，生命值条的浅灰色部分显示您当前可以恢复的量。按下[KEY_LALT]则可以查看最大可恢复生命值。"
+
+msgid "IDS_BATTLE_MAX_REGEN_CREW_SUBTITLE"
+msgstr "当前效果"
+
+msgid "IDS_BATTLE_MAX_REGEN_CREW_VALUE"
+msgstr "生命值恢复"
+
 msgid "IDS_BATTLE_MISSION"
 msgstr "作战任务"
 
@@ -10330,6 +10432,9 @@ msgstr "战舰购买开放"
 msgid "IDS_BUY_AND_SAVE_DOGTAG"
 msgstr "购买并保存"
 
+msgid "IDS_BUY_COLLECTION_ALBUM_EVENT_FOR_DUPLICATE"
+msgstr "抓获犯人"
+
 msgid "IDS_BUY_COLLECTION_FOR_DUPLICATE"
 msgstr "用重复元素兑换"
 
@@ -10743,6 +10848,9 @@ msgstr "筛选适合“卢科莫里保卫战”的战舰"
 
 msgid "IDS_CAROUSEL_PCVE035_FILTER"
 msgstr "筛选适合“死亡竞赛”的战舰"
+
+msgid "IDS_CAROUSEL_PCVE036_FILTER"
+msgstr "筛选适合“严肃调查”的战舰"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "筛选适合所选行动的战舰"
@@ -11530,6 +11638,9 @@ msgstr "选择“锐进”"
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE034"
 msgstr "选择“卢科莫里保卫战”"
 
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE036"
+msgstr "选择“严肃调查”"
+
 msgid "IDS_CHOOSE_MK_NAME"
 msgstr ""
 "选择用户名。\n"
@@ -11613,6 +11724,12 @@ msgstr "选择战斗训练"
 
 msgid "IDS_CHOOSE_TRIALBATTLE"
 msgstr "选择试炼"
+
+msgid "IDS_CHOOSING_RESPAWN_POINT"
+msgstr "选择重生点"
+
+msgid "IDS_CHOOSING_SHIP"
+msgstr "请选择战舰"
 
 msgid "IDS_CHOOSING_SHIP_AND_RESPAWN_POINT"
 msgstr ""
@@ -13681,6 +13798,18 @@ msgstr "收集中"
 msgid "IDS_COLLECTIONS"
 msgstr "收藏"
 
+msgid "IDS_COLLECTION_ALBUM_EVENT_COMPLEXITY_LEVEL"
+msgstr "危险等级"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_DUPLICATE_PRICE_COLON"
+msgstr "所需证据：%(amount)s"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_ITEM_TOOLTIP_ACHIEVED"
+msgstr "已抓获"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_ITEM_TOOLTIP_NOT_ACHIEVED"
+msgstr "未抓获"
+
 msgid "IDS_COLLECTION_ALBUM_RECIEVED"
 msgstr "收藏"
 
@@ -13736,6 +13865,9 @@ msgstr "%(_collectionName)s收藏"
 
 msgid "IDS_COLLECTION_NOT_COLLECTING_TOOLTIP_DESCRIPTION"
 msgstr "每日补给箱目前不包含此收藏的元素。"
+
+msgid "IDS_COLLECTION_OBJECT_ALBUM_EVENT_DUPLICATES_EXCHANGE_TITLE"
+msgstr "抓捕犯人"
 
 msgid "IDS_COLLECTION_PLAYER_POINTS_COUNTER"
 msgstr "得到的物品"
@@ -13966,6 +14098,23 @@ msgstr "转换所有战舰经验的费用："
 
 msgid "IDS_COMMON_TEAM_VICTORY_DAYS_TOOLTIP"
 msgstr "整个争霸赛中你所在队伍的胜利数"
+
+msgid "IDS_COMPARE"
+msgstr "比较"
+
+msgid "IDS_COMPARISON_NO_SHIPS"
+msgstr ""
+"您还没有添加任何用于对比的战舰。\n"
+"点击空白单元格以添加第一艘战舰。"
+
+msgid "IDS_COMPARISON_RESET"
+msgstr "重置设定"
+
+msgid "IDS_COMPARISON_TAB_CREW_SKILLS"
+msgstr "指挥官技能"
+
+msgid "IDS_COMPARISON_TAB_SHIP_CONFIGURATION"
+msgstr "战舰装备"
 
 msgid "IDS_COMPENDIUM_COPY_VALUES"
 msgstr "复制到剪贴板"
@@ -14409,6 +14558,9 @@ msgstr "按住[KEY_LEFTMOUSE]使用激光。"
 
 msgid "IDS_CONTEXT_TUTORIAL_MANUAL_AIR_DEFENSE_ACTIVATION"
 msgstr "启用防空弹幕"
+
+msgid "IDS_CONTEXT_TUTORIAL_MASS_HEAL"
+msgstr "[KEY_LALT]按住以在小地图上查看友军生命值"
 
 msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
 msgstr "瞄准正在移动的敌舰时应考虑提前量"
@@ -21577,6 +21729,9 @@ msgstr ""
 "您更改了准星设置。\n"
 "应用更改？"
 
+msgid "IDS_CROWS"
+msgstr "一群乌鸦"
+
 msgid "IDS_CRUISECONTROLS"
 msgstr "巡航控制"
 
@@ -21630,6 +21785,12 @@ msgstr "交易后"
 
 msgid "IDS_CURRENCIES_OPERATION_BEFORE"
 msgstr "交易前"
+
+msgid "IDS_CURRENCY_ALBUM_EVENT_DUPLICATES"
+msgstr "证据"
+
+msgid "IDS_CURRENCY_ALBUM_EVENT_DUPLICATES_DESCRIPTION"
+msgstr "要在战斗外抓住犯人，您需要收集4条证据。在战斗中每重复消灭一次戴着相同面具的敌人，即可获得证据。"
 
 msgid "IDS_CURRENCY_BPPOINTS"
 msgstr "战斗通行证点数"
@@ -21727,8 +21888,8 @@ msgstr "可通过推进活动的作战任务获得，或直接购买。"
 msgid "IDS_CURRENCY_DOCKYARDUM_2_SPEND_DESCRIPTION"
 msgstr "用于推进造船厂中的战舰建造。"
 
-msgid "IDS_CURRENCY_DUBLICATES"
-msgstr "重复"
+msgid "IDS_CURRENCY_DUPLICATES"
+msgstr "重复项"
 
 msgid "IDS_CURRENCY_ELITEXP"
 msgstr "精英指挥官经验"
@@ -21782,16 +21943,16 @@ msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
 msgstr "“11周年·荒野奇遇”活动临时资源。26.11版本发布后，代币将被清空且不予补偿。"
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "美国代币"
+msgstr "赛博代币"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "通过在26.7版本结束前完成作战任务，以及在26.8版本结束前从兵工厂的补给箱中获得。"
+msgstr "在26.11版本的有限时间内从兵工厂的组合包中获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "用于在26.8版本结束前获取包含以下内容的连续礼包链：X级战列舰新泽西，“抢先体验”加值补给箱，新泽西和超级战列舰弗吉尼亚的永久涂装“波光粼粼”和“月华”，VIII-X级抢先体验战舰，超级战舰的永久加成包，以及其它物品。"
+msgstr "用于在26.11版本期间的有限时间内购买连续礼包链（其中包含“赛博宝匣”加值补给箱和附带永久涂装“基捷日城”的X级战列舰赛博光荣）、指挥官赛博斯拉夫和米洛斯拉娃，以及其他物品。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "“美国战列舰”活动临时资源。26.9版本发布后，代币将被清空且不予补偿。"
+msgstr "“赛博斯拉夫”活动的临时资源。随版本26.12更新，代币将被清空且不予补偿。"
 
 msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr "古罗斯代币"
@@ -21830,16 +21991,16 @@ msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
 msgstr "“卢科莫里保卫战”活动的临时资源。随版本26.12更新，代币将被清空且不予补偿。"
 
 msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr "德国代币"
+msgstr "黑色星期五代币"
 
 msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
-msgstr "通过在26.7版本结束前完成限时作战任务，以及打开兵工厂所售的补给箱来获得。"
+msgstr "通过完成作战任务，以及在26.11版本的有限时间内从兵工厂的组合包中获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
-msgstr "在26.7版本结束前：①用于兑换包含以下内容的连续礼包链：德国X级巡洋舰沃坦、“德国中队”加值补给箱；②用于兑换适用于VIII-X级和超级战舰的永久涂装“研发”，以及其他资源。"
+msgstr "可用于在26.11版本期间的有限时间内兑换包含IX级驱逐舰贝纳姆B的礼包、“白色马达”和“舰队宝库”加值补给箱、“黑色马达”补给箱以及其他物品。"
 
 msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
-msgstr "临时资源。26.8版本发布后，代币将被清空且不予补偿。"
+msgstr "“黑色星期五：我来找你玩啦”活动临时资源。26.12版本发布后，代币将被清空且不予补偿。"
 
 msgid "IDS_CURRENCY_EVENTUM_8"
 msgstr "绯红宝石"
@@ -22672,14 +22833,23 @@ msgstr "盛夏"
 msgid "IDS_DECAL_PCED053_NAME"
 msgstr "小熊猫"
 
+msgid "IDS_DECAL_PCED054_NAME"
+msgstr "米宁和波扎尔斯基"
+
+msgid "IDS_DECAL_PCED058_NAME"
+msgstr "犯罪现场"
+
+msgid "IDS_DECAL_PCED059_NAME"
+msgstr "正义的大手"
+
 msgid "IDS_DECAL_PCED501_DESCRIPTION"
-msgstr "计入该战舰在联合作战、随机战、排位战、评级战，以及对决和行动中的战果。最大值：9999。"
+msgstr "<p>计入该战舰在联合作战、随机战、排位战、评级战，以及对决和行动中的战果。</p><p class=\"p_spacing\"> </p><p>最大值：9999。</p>"
 
 msgid "IDS_DECAL_PCED501_NAME"
 msgstr "摧毁数"
 
 msgid "IDS_DECAL_PCED502_DESCRIPTION"
-msgstr "计入该战舰在联合作战、随机战、排位战、评级战，以及对决和行动中的战果。最大值：9999。"
+msgstr "<p>计入该战舰在联合作战、随机战、排位战、评级战，以及对决和行动中的战果。</p><p class=\"p_spacing\"> </p><p>最大值：9999。</p>"
 
 msgid "IDS_DECAL_PCED502_NAME"
 msgstr "胜场数"
@@ -22694,19 +22864,19 @@ msgid "IDS_DECAL_PCED503_SUBST_DESCRIPTION"
 msgstr "要获得此贴花，请在所选战舰上达到精通等级%(_value)s。"
 
 msgid "IDS_DECAL_PCED504_DESCRIPTION"
-msgstr "要获得此贴花，请达到青铜联赛第1名或更高排名，并在排位战中通过胜利获得20颗星。"
+msgstr "<p>显示您在当前赛季的段位。当排位战未进行时，将显示您在上赛季结束时的段位。</p><p class=\"p_spacing\"> </p><p>要获得此贴花，请达到青铜联赛第1名或更高排名，并在排位战中通过胜利获得20颗星。</p>"
 
 msgid "IDS_DECAL_PCED504_NAME"
 msgstr "排位"
 
 msgid "IDS_DECAL_PCED505_DESCRIPTION"
-msgstr "要获得此贴花，请在评级战中跻身白银或更高级联赛。"
+msgstr "<p>显示您在当前赛季的评级。当未进行排位战时，将显示您在上赛季结束时的评级。</p><p class=\"p_spacing\"> </p><p>要获得此贴花，请在评级战中跻身白银或更高级联赛。</p>"
 
 msgid "IDS_DECAL_PCED505_NAME"
 msgstr "评级"
 
 msgid "IDS_DECAL_PCED506_DESCRIPTION"
-msgstr "计入您在该战舰上获得“最佳胜者”称号的战斗数。最大值：9999。"
+msgstr "<p>计入您在该战舰上获得“最佳胜者”称号的战斗数。</p><p class=\"p_spacing\"> </p><p>最大值：9999。</p>"
 
 msgid "IDS_DECAL_PCED506_NAME"
 msgstr "最佳胜者"
@@ -22921,6 +23091,9 @@ msgstr "<p>自古以来，天空始终吸引着人类——对于科学家而言
 
 msgid "IDS_DESCRIPTION_PCZA041_BD25_PUZZLE"
 msgstr "<p>闭上眼睛数到十。您看到了什么？或许是过去战斗的画面：炮火、钢铁巨兽的轮廓、风暴中的浪花、忠诚战友的面容……或者您只是坚定地望向未知的前方？</p><p class=\"p_spacing\"> </p><p>许个愿吧。无论前方等待您的是什么，过去十年的战斗将永远铭刻在心——正是这宝贵的经历让您坚定地驶往唯一正确的航向。</p>"
+
+msgid "IDS_DESCRIPTION_PCZA042_RARE_BEAST_BF26"
+msgstr "<p>这座城市有个令人作呕的恶习——它总是死死捂着别人的秘密。当夜幕沉甸甸地压上屋顶，那些见不得光的蝇营狗苟之徒便从暗处倾巢而出。他们藏在面具背后，抹去真名，用借来的嗓音窃窃私语。他们自以为能永远在阴影中销声匿迹，但别忘了，这世上哪怕是衣橱里的死人骨头，有时也会开口说话……</p><p class=\"p_spacing\"> </p><p>一个不起眼的破绽，半句不合时宜的失言，抑或是一个乱了方寸的仓皇眼神，都足以将血淋淋的真相从泥沼中生拽出来。在侦探那双死咬不放的眼睛底下，没有哪处蛛丝马迹能轻易溜走。至于那些曾让整座城市在恐惧中战栗的恶棍？到头来，他们也不过是警局档案柜里，几行冷冰冰的名字罢了。</p>"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
 msgstr "您无法使用副炮。"
@@ -23737,6 +23910,9 @@ msgstr "驱逐舰侦察性"
 
 msgid "IDS_DIVEBOMBER"
 msgstr "轰炸机"
+
+msgid "IDS_DIVEBOMBER_ALT"
+msgstr "战术轰炸机"
 
 msgid "IDS_DIVEBOMBER_AP"
 msgstr "轰炸机（AP）"
@@ -24635,7 +24811,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY_US"
 msgstr "<p>在<u>消耗品启用时潜艇所处的位置</u>生成一个区域，暂时提升进入该区域友军战舰的生存性与机动性。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY054_MASSHEAL"
-msgstr "<p>在战舰附近设定一个区域，恢复位于该区域内己方战舰的生命值。</p><p class=\"p_spacing\"> </p><p>维修类消耗品。</p>"
+msgstr "<p>在战舰附近设定一个区域，恢复位于该区域内友军战舰的生命值。</p><p class=\"p_spacing\"> </p><p>要在小地图上查看友军战舰的生命值，请按下[KEY_LALT]。</p><p class=\"p_spacing\"> </p><p>维修类消耗品。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY055_ABILITYCLONES"
 msgstr " "
@@ -29093,6 +29269,12 @@ msgstr "火鸟——身披火焰羽毛的奇妙生灵，它的光芒甚至能驱
 msgid "IDS_DOGTAG_PCNB482_NAME"
 msgstr "火鸟之羽"
 
+msgid "IDS_DOGTAG_PCNB483_DESCRIPTION"
+msgstr "1704年冬天，大北方战争期间，在喀琅施塔得以南修建了一座以木笼为基础的堡垒。这座封锁了瑞典舰队航道的防御工事得名喀琅施洛特（源自德语Kronschlot，意为“王冠城堡”）。"
+
+msgid "IDS_DOGTAG_PCNB483_NAME"
+msgstr "喀琅施洛特之魂"
+
 msgid "IDS_DOGTAG_PCNB999_DESCRIPTION"
 msgstr "补丁仍在制作中。"
 
@@ -30593,7 +30775,7 @@ msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_FREE_EXP"
 msgstr "全局经验"
 
 msgid "IDS_EDINBURGH_SPACE"
-msgstr "Triangulum"
+msgstr "三角座"
 
 msgid "IDS_EFFECTIVENESS"
 msgstr "表现："
@@ -32079,6 +32261,9 @@ msgstr "传送门已开启。您已拥有一把钥匙！"
 
 msgid "IDS_EV2020_RULES_PORTAL_WITHOUT_KEY"
 msgstr "要通过传送门离开，您需要一把钥匙。"
+
+msgid "IDS_EV2611_E"
+msgstr "帮凶"
 
 msgid "IDS_EVAVALENTINE"
 msgstr "伊娃·瓦伦缇娜"
@@ -34120,6 +34305,9 @@ msgstr "攻击机"
 msgid "IDS_FIGHTER_AIRSUP"
 msgstr "空袭：战斗机"
 
+msgid "IDS_FIGHTER_ALT"
+msgstr "战术攻击机"
+
 msgid "IDS_FIGHTER_AP"
 msgstr "攻击机（AP）"
 
@@ -34283,7 +34471,7 @@ msgid "IDS_FIRST_BATTLE_CARD_SHOOTING_1"
 msgstr "副炮和防空炮会自动开火。"
 
 msgid "IDS_FIRST_BATTLE_DESCRIPTION"
-msgstr "第一场战斗"
+msgstr "全歼敌舰"
 
 msgid "IDS_FIRST_BATTLE_GOAL"
 msgstr "全歼敌舰"
@@ -34380,6 +34568,9 @@ msgstr "海军上将之道"
 
 msgid "IDS_FIRST_PCZA027_TFTM_108_NAME"
 msgstr "汽车人指挥官"
+
+msgid "IDS_FIRST_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "黑帆"
 
 msgid "IDS_FIRST_SCARLET_BIRTHDAY_2_NAME"
 msgstr "创新之巅"
@@ -34621,6 +34812,9 @@ msgstr "6×1"
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE035"
 msgstr "1×8"
 
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE036"
+msgstr "5х7"
+
 msgid "IDS_FORM_DIVISION"
 msgstr "集结多名玩家"
 
@@ -34707,6 +34901,9 @@ msgstr "未来舰队"
 
 msgid "IDS_FOURTH_PCZA027_TFTM_108_NAME"
 msgstr "霸天虎：游戏中的历史"
+
+msgid "IDS_FOURTH_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "港湾之影"
 
 msgid "IDS_FOURTH_SCARLET_BIRTHDAY_2_NAME"
 msgstr "科技胜利"
@@ -34992,6 +35189,9 @@ msgstr "Shirakami Fubuki"
 
 msgid "IDS_FULLSCREEN"
 msgstr "全屏模式"
+
+msgid "IDS_FUNNEL"
+msgstr "烟囱装甲"
 
 msgid "IDS_GAMELOGIC_PRESET"
 msgstr "动态小型对象"
@@ -35463,6 +35663,9 @@ msgstr "规则"
 msgid "IDS_GO_TO_ACCESS_LEVEL_MOUSE_INSTRUCTION"
 msgstr "前往“权限等级”界面"
 
+msgid "IDS_GO_TO_ALBUM_EVENT"
+msgstr "前往“严肃调查”界面"
+
 msgid "IDS_GO_TO_ALMANAC_MOUSE_INSTRUCTION"
 msgstr "前往“每日奖励”界面"
 
@@ -35507,6 +35710,9 @@ msgstr "前往“新闻”界面"
 
 msgid "IDS_GO_TO_OBJECT_SCREEN"
 msgstr "前往物品查看界面"
+
+msgid "IDS_GO_TO_OBJECT_SCREEN_ALBUM_EVENT"
+msgstr "打开档案"
 
 msgid "IDS_GO_TO_PLAYBACK_UPPERCASE"
 msgstr "播放"
@@ -36656,6 +36862,26 @@ msgstr "您可以从您战舰上获得的总奖励数。若购买或出售带有
 
 msgid "IDS_GUIDING_TIP_380_HEADER"
 msgstr "奖励"
+
+msgid "IDS_GUIDING_TIP_381_DESC"
+msgstr "配置战舰并对比其性能。您可以直接在战舰卷轴中右键点击战舰来添加，也可以在对比界面中添加。"
+
+msgid "IDS_GUIDING_TIP_381_HEADER"
+msgstr "战舰对比"
+
+msgid "IDS_GUIDING_TIP_382_DESC"
+msgstr "性能差异是相对于表格中的第一艘战舰显示的。您可以随时更改作为对比基准的战舰。"
+
+msgid "IDS_GUIDING_TIP_382_HEADER"
+msgstr ""
+"将一艘战舰与\n"
+"其他战舰对比"
+
+msgid "IDS_GUIDING_TIP_383_DESC"
+msgstr "您有足够的线索再抓获一名犯人，请选择您想要揭露之人的档案。"
+
+msgid "IDS_GUIDING_TIP_383_HEADER"
+msgstr "证据收集完毕"
 
 msgid "IDS_GUIDING_TIP_38_DESC"
 msgstr "想要提升指挥官等级并学习新技能，就必须在战斗中获得指挥官经验。"
@@ -38478,6 +38704,9 @@ msgstr "重置查找筛选"
 msgid "IDS_HINT_RESET_FILTER"
 msgstr "重置筛选条件"
 
+msgid "IDS_HINT_RESPAWN_BUFF"
+msgstr "可用重生点数获得的战舰拥有强化属性，且仅在此战斗模式中生效。驾驶此类战舰重返战斗时，您将获得额外强化。每次获得该强化时，效果都会提升。"
+
 msgid "IDS_HINT_RESTRICTION_AUTO_DAMAGE"
 msgstr "此消耗品在战斗中必要时自动启用。"
 
@@ -38918,6 +39147,15 @@ msgstr "剩余：%(_timeLeft)s"
 
 msgid "IDS_INFOTIP_ALMANAC"
 msgstr "每日奖励"
+
+msgid "IDS_INFOTIP_COMPARISON_HEADER"
+msgstr "用于对比的战舰"
+
+msgid "IDS_INFOTIP_GO_TO_COMPARISON"
+msgstr "转到表格"
+
+msgid "IDS_INFOTIP_REMOVE_ALL_COMPARISON_LIST"
+msgstr "清空列表"
 
 msgid "IDS_INFO_AIRPLANE"
 msgstr "鼠标左键：选择中队。"
@@ -39998,7 +40236,7 @@ msgid "IDS_KIRISHIMA_BEAR"
 msgstr "雾熊"
 
 msgid "IDS_KITAKAZE_SPACE"
-msgstr "Andromeda"
+msgstr "仙女座"
 
 msgid "IDS_KLAUS_TESLAU"
 msgstr "Klaus V. Teslau"
@@ -40028,7 +40266,7 @@ msgid "IDS_KOREAN_ACCOUNT_COMPLETION_TOOLTIP_SUBTEXT"
 msgstr "您将跳转到账号注册页面。"
 
 msgid "IDS_KOSHEJ"
-msgstr "不朽的科谢伊"
+msgstr "不朽者科谢伊"
 
 msgid "IDS_KOUKO_NOSA"
 msgstr "纳沙幸子"
@@ -42952,7 +43190,7 @@ msgid "IDS_MATCHMAKER_LEAVE_REASON_TECH"
 msgstr "由于服务器技术问题，已将您移出战斗队列。"
 
 msgid "IDS_MATILDA_KELLY"
-msgstr "Matilda Kelly"
+msgstr "玛蒂尔达·凯莉"
 
 msgid "IDS_MAX"
 msgstr "最高"
@@ -43213,10 +43451,10 @@ msgid "IDS_META_EVENT_REWARD_SELECTION"
 msgstr "选择一个奖励"
 
 msgid "IDS_META_EVENT_TASKS_SIDE_0"
-msgstr "支持勇士"
+msgstr "勇士阵营"
 
 msgid "IDS_META_EVENT_TASKS_SIDE_1"
-msgstr "支持邪灵"
+msgstr "邪灵阵营"
 
 msgid "IDS_META_EVENT_TASKS_SIDE_TITLE_0"
 msgstr "勇士：%(_count)s"
@@ -43316,6 +43554,9 @@ msgstr "Mina Hurray"
 
 msgid "IDS_MINEBOMBER"
 msgstr "水雷轰炸机"
+
+msgid "IDS_MINEBOMBER_ALT"
+msgstr "战术水雷轰炸机"
 
 msgid "IDS_MINES"
 msgstr "水雷"
@@ -43661,6 +43902,21 @@ msgstr "Maxim Metky"
 
 msgid "IDS_MK_PREMIUM_ACCOUNT_ENDS_TIME"
 msgstr "战舰加值账号有效期：%(timeLeft)s"
+
+msgid "IDS_MODAL_COMPARISON_CLEAR_HEADER_TEXT"
+msgstr "清空用于对比的战舰列表？"
+
+msgid "IDS_MODAL_COMPARISON_CLEAR_SUBHEADER_TEXT"
+msgstr "已设定的战舰配置也将被重置。"
+
+msgid "IDS_MODAL_COMPARISON_INCOMPARABLE_CONFIRMATION_TEXT"
+msgstr "您确定要将这艘战舰（Incomparable，英文意为“无与伦比”）与其他战舰进行对比吗？"
+
+msgid "IDS_MODAL_COMPARISON_RESET_CONFIG_HEADER_TEXT"
+msgstr "重置所有配置？"
+
+msgid "IDS_MODAL_COMPARISON_RESET_CONFIG_SUBHEADER_TEXT"
+msgstr "确认后，所有设定（包括配置和技能）都将被重置"
 
 msgid "IDS_MODAL_ENTER_BATTLE_WITHOUT_CREW_DESCRIPTION_PARAGRAPH_1"
 msgstr "没有指挥官的战舰作战效率较低。"
@@ -44826,6 +45082,60 @@ msgstr "参与条件"
 msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_5_TEXT_1"
 msgstr "符合条件的战舰："
 
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_HEADER"
+msgstr "调查"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "第二次机会"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "即便是那些已沉入海底的人，也值得拥有第二次机会。被摧毁后，您可以选择重生点位，让战舰重返战斗。部分战舰仅能通过战斗中赚取的重生点数获取。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "战舰强化"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "出战前，战舰的属性将得到提升。通过消灭危险罪犯，以及使用重生点数驾驶战舰重返战斗，可获得额外强化。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "四次攻击"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "城市的犯罪集团由四个派系组成。他们会一个接一个地从黑暗中现身，攻击您的战舰。全歼敌舰，以肃清黑桃城港口。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_HEADER"
+msgstr "严肃调查"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "四大帮派的贪婪之手，已经扼住了黑桃城港口的咽喉。在那些蜂拥而至的暴徒里，藏着几个极度危险的狠角色——他们正顶着知名指挥官的皮囊兴风作浪。拔出你的枪去解决掉他们，将幕后那个盘根错节的犯罪集团连根拔起。趁一切还来得及，在这座城市彻底滑向深渊之前，死死守住它。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "摧毁带有[scenario_tag_buff]标记的敌舰后，友军战舰将获得强化，帮助你们撑过这一夜。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_HEADER"
+msgstr "重返战场"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "您的战舰被摧毁后，可以选择重生点与战舰重返战场。部分战舰需消耗战斗中获得的重生点数才能出战。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "在重返战场的最初几秒内，您受到的伤害将会降低。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_3_HEADER"
+msgstr "坚持到黎明"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "在突袭时间结束前消灭犯罪团队。倘若您的小队没能及时粉碎这群亡命徒，或是友军战舰在交火中全军覆没——那么地下世界就将接管一切。到那时，黑桃城将万劫不复。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_4_HEADER"
+msgstr "参与条件"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "符合条件的战舰："
+
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_HEADER"
 msgstr "九头蛇之巢"
 
@@ -45306,6 +45616,9 @@ msgstr "伽玛值"
 msgid "IDS_MODAL_WINDOW_TITLE_PREMIUM_ACCOUNT_PURCHASE"
 msgstr "购买加值账号"
 
+msgid "IDS_MODAL_WINDOW_TITLE_SHIP_COMPARISON"
+msgstr "战舰对比"
+
 msgid "IDS_MODAL_WINDOW_TITLE_SIGNAL_PURCHASE"
 msgstr "购买信号旗"
 
@@ -45320,6 +45633,9 @@ msgstr "放弃天赋"
 
 msgid "IDS_MODAL_WINDOW_TITLE_TALENT_UNLOCK"
 msgstr "激活天赋"
+
+msgid "IDS_MODAL_WINDOW_TITLE_UPGRADE_SHIP_COMPARISON"
+msgstr "战舰配置"
 
 msgid "IDS_MODAL_WINDOW_TRIALBATTLE_RULES_HEADER"
 msgstr "试炼"
@@ -45977,6 +46293,9 @@ msgstr "基础伴奏"
 
 msgid "IDS_MUSIC_MOD_BASE_DESCRIPTION"
 msgstr "拥有独特音乐伴奏的指挥官进入战斗时，仍将播放“标准”类别中的音乐。"
+
+msgid "IDS_MUSIC_MOD_BLACK_FRIDAY"
+msgstr "严肃调查"
 
 msgid "IDS_MUSIC_MOD_DESCRIPTION"
 msgstr "战斗中的音乐伴奏类型。"
@@ -52554,6 +52873,9 @@ msgstr "翔空烈焰"
 msgid "IDS_PAES527_BLACKBLACK"
 msgstr "特别"
 
+msgid "IDS_PAES529_BLACK_BENHAM"
+msgstr "特别"
+
 msgid "IDS_PAES530_MAD_GEARING"
 msgstr "水世界之主"
 
@@ -56128,11 +56450,6 @@ msgstr "方向舵卡住"
 msgid "IDS_PARAMS_MODIFIER_SUBMARINELOWDAMAGE"
 msgstr "潜艇受到的伤害降低"
 
-msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
-msgstr ""
-"显示工作/潜望深度下\n"
-"潜艇的粗略位置"
-
 msgid "IDS_PARAMS_MODIFIER_TORPEDOBOMBERACCURACYINCRATECOEFF"
 msgstr "鱼雷轰炸机瞄准速度"
 
@@ -58812,6 +59129,21 @@ msgstr "175"
 msgid "IDS_PASD529_YEAR"
 msgstr "1943"
 
+msgid "IDS_PASD539"
+msgstr "贝纳姆B"
+
+msgid "IDS_PASD539_DESCR"
+msgstr "<p>作为格里德利级和巴格利级两型驱逐舰的改进型，贝纳姆级驱逐舰同样装备了四具布置于舰体两舷的鱼雷发射器。不过，与前代舰相比，该级舰采用了更加强大的动力系统。</p><p class=\"p_spacing\"> </p><p>该级首舰USS<b>贝纳姆</b>号建造于新泽西州卡尼。日本偷袭珍珠港时，她正在护送航空母舰企业号前往中途岛，因此并未受袭。第二次世界大战期间，<b>贝纳姆</b>号参加了杜立特空袭、中途岛海战以及第二次所罗门海战。1942年11月15日，在瓜达尔卡纳尔海战中，她遭鱼雷命中，舰员弃舰后，由驱逐舰格温号将其击沉。</p>"
+
+msgid "IDS_PASD539_FULL"
+msgstr "贝纳姆B"
+
+msgid "IDS_PASD539_NUMBER"
+msgstr "10"
+
+msgid "IDS_PASD539_YEAR"
+msgstr "1939"
+
 msgid "IDS_PASD597"
 msgstr "西姆斯B"
 
@@ -58922,6 +59254,21 @@ msgstr "105"
 
 msgid "IDS_PASD913_YEAR"
 msgstr "1945"
+
+msgid "IDS_PASD999"
+msgstr "贝纳姆B"
+
+msgid "IDS_PASD999_DESCR"
+msgstr "战舰贝纳姆的复制品，用于“严肃调查”活动"
+
+msgid "IDS_PASD999_FULL"
+msgstr "贝纳姆B"
+
+msgid "IDS_PASD999_NUMBER"
+msgstr "10"
+
+msgid "IDS_PASD999_YEAR"
+msgstr "1939"
 
 msgid "IDS_PASS106"
 msgstr "抹香鲸（旧）"
@@ -59444,6 +59791,12 @@ msgstr "406 mm/45 Mk.6（炮塔）"
 
 msgid "IDS_PAUA818_ART_NORTH_DAKOTA"
 msgstr "406 mm/56 Mk.4（炮塔）"
+
+msgid "IDS_PAUA819_ART_BLACK_BENHAM"
+msgstr "127 mm/38 Mk.12（Mk.30/Mk.30 mod.0炮座）"
+
+msgid "IDS_PAUA820_ART_RARE_BEAST_DESTROYER"
+msgstr "127 mm/38 Mk.12（Mk.30/Mk.30 mod.0炮座）"
 
 msgid "IDS_PAUA821_B9_ART_STOCK"
 msgstr "406 mm/50 Mk.7（炮塔）"
@@ -60332,6 +60685,12 @@ msgstr "推进系统：130000马力"
 
 msgid "IDS_PAUE817_ENG_NORTH_DAKOTA"
 msgstr "推进系统：212000马力"
+
+msgid "IDS_PAUE818_ENG_BLACK_BENHAM"
+msgstr "推进系统：50000马力"
+
+msgid "IDS_PAUE819_ENG_RARE_BEAST_DESTROYER"
+msgstr "推进系统：50000马力"
 
 msgid "IDS_PAUE821_ENGINE_120000"
 msgstr "推进系统：120000马力"
@@ -61256,6 +61615,12 @@ msgstr "印第安纳"
 msgid "IDS_PAUH825_HULL_NORTH_DAKOTA"
 msgstr "北达科他"
 
+msgid "IDS_PAUH826_HULL_BLACK_BENHAM"
+msgstr "贝纳姆B"
+
+msgid "IDS_PAUH827_HULL_RARE_BEAST_DESTROYER"
+msgstr "贝纳姆B"
+
 msgid "IDS_PAUH831_IOWA_1943"
 msgstr "依阿华(A)"
 
@@ -62115,6 +62480,12 @@ msgstr "Mk9 mod. 1"
 msgid "IDS_PAUS824_SUO_NORTH_DAKOTA"
 msgstr "Mk38"
 
+msgid "IDS_PAUS825_SUO_BLACK_BENHAM"
+msgstr "Mk9 mod. 1"
+
+msgid "IDS_PAUS826_SUO_RARE_BEAST_DESTROYER"
+msgstr "Mk9"
+
 msgid "IDS_PAUS831_SUO_BLACK"
 msgstr "Mk9 mod.1"
 
@@ -62444,6 +62815,12 @@ msgstr "533 mm (5x Mk29 mod.1)"
 
 msgid "IDS_PAUT808_D9_TORP_STOCK"
 msgstr "Mk15 mod.3"
+
+msgid "IDS_PAUT809_TORP_BLACK_BENHAM"
+msgstr "533 mm Mk15"
+
+msgid "IDS_PAUT810_TORP_RARE_BEAST_DESTROYER"
+msgstr "533 mm Mk15"
 
 msgid "IDS_PAUT900_S10_TORP_STOCK"
 msgstr "Mk29 mod.0 & Mk28 MIE"
@@ -63014,6 +63391,9 @@ msgstr "云边私掠船"
 
 msgid "IDS_PBES428_EDINBURGH_RANGER"
 msgstr "翠绿陨石"
+
+msgid "IDS_PBES501_WATERLOO_WHITE"
+msgstr "迷雾之阿尔比恩"
 
 msgid "IDS_PBES509_JUTLAND_COLORFUL"
 msgstr "粉红镭光"
@@ -65671,7 +66051,7 @@ msgid "IDS_PBSC888"
 msgstr "星之爱丁堡"
 
 msgid "IDS_PBSC888_DESCR"
-msgstr "此战舰由太空水晶掌控。该天体通过其人形化身——Triangulum与人类交流。久而久之，水晶的行为变得更加不可预测，其化身逐渐意识到自身的个性并试图挣脱束缚。"
+msgstr "<p>此战舰由太空水晶掌控。该天体通过其人形化身——<b>三角座</b>与人类交流。久而久之，水晶的行为变得更加不可预测，其化身逐渐意识到自身的个性并试图挣脱束缚。</p>"
 
 msgid "IDS_PBSC888_FULL"
 msgstr "星之爱丁堡"
@@ -68547,6 +68927,9 @@ msgstr "雷神之怒"
 
 msgid "IDS_PCEC162_MAT_GONCHIE_LUK"
 msgstr "邪灵"
+
+msgid "IDS_PCEC163_LEGACY_CAMO"
+msgstr "犯人面具"
 
 msgid "IDS_PCEC990_TRIALS_BUDENY"
 msgstr "目标"
@@ -73693,13 +74076,49 @@ msgid "IDS_PCEE834_HAKUSAN_FLAG_DESCRIPTION"
 msgstr "白山是位于本州岛上的一座火山，与富士山和立山并列为日本三大圣山之一。其高度为2700米，山顶终年积雪。名称来源：从日语翻译过来，白山意为“白色的山”。"
 
 msgid "IDS_PCEE835_KOSCHEY_FLAG"
-msgstr "不朽的科谢伊"
+msgstr "不朽者科谢伊"
 
 msgid "IDS_PCEE835_KOSCHEY_FLAG_DESCRIPTION"
-msgstr "不朽的科谢伊的形象可追溯至古人对彼岸世界的观念。在一些神话中，他扮演冥界之主的角色，而在较晚的童话里则变成了一个巫师恶棍，其死亡藏在一根针的针尖上，而那根针被妥善地藏在布扬岛上。"
+msgstr "不朽者科谢伊的形象可追溯至古人对彼岸世界的观念。在一些神话中，他扮演冥界之主的角色，而在较晚的童话里则变成了一个巫师恶棍，其死亡藏在一根针的针尖上，而那根针被妥善地藏在布扬岛上。"
 
 msgid "IDS_PCEE835_KOSCHEY_FLAG_EXTRA_DESCRIPTION"
 msgstr "纪念“卢科莫里保卫战”活动。"
+
+msgid "IDS_PCEE836_HIZENBLACK_FLAG"
+msgstr "肥前B"
+
+msgid "IDS_PCEE836_HIZENBLACK_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE837_BENHAMBLACK_FLAG"
+msgstr "贝纳姆B"
+
+msgid "IDS_PCEE837_BENHAMBLACK_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE838_BORODINOBLACK_FLAG"
+msgstr "博罗季诺B"
+
+msgid "IDS_PCEE838_BORODINOBLACK_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE839_SCHILLBLACK_FLAG"
+msgstr "席尔B"
+
+msgid "IDS_PCEE839_SCHILLBLACK_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE840_RUGGIEROBLACK_FLAG"
+msgstr "鲁杰罗·迪·劳里亚B"
+
+msgid "IDS_PCEE840_RUGGIEROBLACK_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE841_DUKH_KRONSHLOTA_FLAG"
+msgstr "喀琅施洛特之魂"
+
+msgid "IDS_PCEE841_DUKH_KRONSHLOTA_FLAG_DESCRIPTION"
+msgstr "1704年冬天，大北方战争期间，在喀琅施塔得以南修建了一座以木笼为基础的堡垒。这座封锁了瑞典舰队航道的防御工事得名喀琅施洛特（源自德语Kronschlot，意为“王冠城堡”）。"
 
 msgid "IDS_PCEE842_ISONZO_FLAG"
 msgstr "RN伊松佐"
@@ -73772,6 +74191,36 @@ msgstr "先军"
 
 msgid "IDS_PCEE856_SONGUN_FLAG_DESCRIPTION"
 msgstr "先军——朝鲜的国家政策，形成于20世纪90年代。其主要原则为“军队第一”，宣告了武装力量在国家和社会生活中的主导作用。"
+
+msgid "IDS_PCEE859_HARALD_HARDRADE_FLAG"
+msgstr "HNoMS哈拉尔·哈德拉达"
+
+msgid "IDS_PCEE859_HARALD_HARDRADE_FLAG_DESCRIPTION"
+msgstr "红色旗面上的金狮是挪威国王的王旗。这是该国最古老的旗帜：最早的图像可追溯至14世纪初。中世纪挪威最著名的国王之一，就是“无情者”哈拉尔三世。"
+
+msgid "IDS_PCEE860_UDARNY_FLAG"
+msgstr "突击"
+
+msgid "IDS_PCEE860_UDARNY_FLAG_DESCRIPTION"
+msgstr "突击部队，或称“死亡部队”，是俄军的志愿突击分队，成立于1917年，旨在执行最危险的作战任务。一些部队的军旗上绘有骷髅头和交叉骨图案。"
+
+msgid "IDS_PCEE861_LA_ROCHELLE_FLAG"
+msgstr "拉罗谢尔"
+
+msgid "IDS_PCEE861_LA_ROCHELLE_FLAG_DESCRIPTION"
+msgstr "17世纪，港口城市拉罗谢尔是法国新教徒——胡格诺派的主要据点。1627–1628年，王室军队在红衣主教黎塞留的指挥下围攻拉罗谢尔，成为亚历山大·大仲马小说《三个火枪手》的关键情节之一。"
+
+msgid "IDS_PCEE862_BORODINO_04_FLAG"
+msgstr "博罗季诺'04"
+
+msgid "IDS_PCEE862_BORODINO_04_FLAG_DESCRIPTION"
+msgstr "20世纪初，在圣彼得堡海军部造船厂建造的舰船在试航时悬挂该企业的旗帜。其旗面上绘有四个彼此分离的锚和字母“А. З.”——即“Адмиралтейский завод”（海军部工厂）的缩写。"
+
+msgid "IDS_PCEE863_MIKASA_04_FLAG"
+msgstr "三笠'04"
+
+msgid "IDS_PCEE863_MIKASA_04_FLAG_DESCRIPTION"
+msgstr "旧日本帝国海军的海军上将旗自1897年至1945年间使用。东乡平八郎海军大将曾将该旗悬挂在三笠号战列舰上，后者是日俄战争时期联合舰队的旗舰。"
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "2016年圣诞老人召集令"
@@ -74723,6 +75172,18 @@ msgstr "对战真人玩家，不划分队伍——每个玩家都为自己而战
 msgid "IDS_PCVE035_SUBHEADER"
 msgstr "单人对战真人玩家"
 
+msgid "IDS_PCVE036"
+msgstr "严肃调查"
+
+msgid "IDS_PCVE036_DESCRIPTION"
+msgstr "玩家与犯罪集团在黑桃城阴暗氛围中展开的非对称战斗。"
+
+msgid "IDS_PCVE036_SHIP_ROLE"
+msgstr "角色：%(roleValue)s"
+
+msgid "IDS_PCVE036_SUBHEADER"
+msgstr "在黑桃城打击犯罪"
+
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_DESCRIPTION"
 msgstr "我方海军分舰队受到了攻击。一些战舰被摧毁，而被虏获的运输舰现在正被护送到敌方基地中。快拦截敌方舰团并夺回我方运输舰。"
 
@@ -75538,6 +75999,12 @@ msgstr "战舰周年庆"
 msgid "IDS_PCZA041_BD25_PUZZLE_QUOTES"
 msgstr "“战舰周年庆”"
 
+msgid "IDS_PCZA042_RARE_BEAST_BF26"
+msgstr "严肃调查"
+
+msgid "IDS_PCZA042_RARE_BEAST_BF26_QUOTES"
+msgstr "“严肃调查”"
+
 msgid "IDS_PCZC011_BISMARCK_BISMARCK"
 msgstr "俾斯麦"
 
@@ -76203,11 +76670,167 @@ msgstr "拼图碎片"
 msgid "IDS_PCZC1036_BD25_PUZZLE_60"
 msgstr "拼图碎片"
 
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1"
+msgstr "1号档案：埃尔梅琳达·荣格"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_CUSTOM_HEADER"
+msgstr "1号档案"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_CUSTOM_SUBHEADER"
+msgstr "“黑帆”组织成员"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>埃尔梅琳达·荣格是天才工程师马克斯·冯·克里格的女儿，掌握着一个足以摧毁强大秘密军事联盟的秘密。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>罪犯身份尚未确定。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>阴沉的目光和狡黠的冷笑。她的一举一动都表明，她知道得比说出来的更多。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>无。这一点很可疑。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在团伙中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2"
+msgstr "2号档案：科学家猫"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_CUSTOM_HEADER"
+msgstr "2号档案"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_CUSTOM_SUBHEADER"
+msgstr "“黑帆”组织成员"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>科学家猫——整个卢科莫里最睿智的野兽。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>隐藏在文质彬彬的外表之下。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>一副聪明相，表情严肃，说不定能当上什么部长。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>向右走时不唱歌，向左走时同样一言不发。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3"
+msgstr "3号档案：玛蒂尔达·凯莉"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_CUSTOM_HEADER"
+msgstr "3号档案"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_CUSTOM_SUBHEADER"
+msgstr "“黑帆”组织成员"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>玛蒂尔达·凯莉——勇敢的海盗女王。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。显然存在身份盗用的情况。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>插着羽毛的帽子、左轮手枪，以及对他人财产毫无敬畏之心。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>不喜欢朗姆酒。对各种宝箱完全无动于衷。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR"
 msgstr "需要更多驱逐舰"
 
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR_DESCRIPTION"
 msgstr "<p>在0.6.2版本中，我们加入了苏联驱逐舰分支，而结果是成功的。以哈巴罗夫斯克（现在为德尔尼）为首的主要分支，非常适合以巡洋舰般火炮交战的游戏风格。保持移动、维持不间断的火力并进行闪电般快速的突袭──担保会有一场惊险刺激的战斗体验。</p><p class=\"p_spacing\"> </p><p>由雷暴领衔的分支会更接近典型的驱逐舰游戏风格，有效运用鱼雷并以舰炮来支持作战。</p>"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4"
+msgstr "4号档案：多布罗日尔·德罗波丹诺维奇"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_CUSTOM_HEADER"
+msgstr "4号档案"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_CUSTOM_SUBHEADER"
+msgstr "“黑帆”组织头目"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>多布罗日尔·德罗波丹诺维奇——勇猛的壮士，曾击败蜥蜴。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>隐藏在光荣勇士的伪装之下。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>一身好胆量，还有一身壮士的神力。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>不喜欢斯拉夫Phonk。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>头目。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5"
+msgstr "5号档案：CM-10A"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_CUSTOM_HEADER"
+msgstr "5号档案"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_CUSTOM_SUBHEADER"
+msgstr "“黑帆”组织头目"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>CM-10A——机器人指挥官，曾率领探险队前往一颗未知的系外行星。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>调查方怀疑，这副机器人面具之下藏着某种生物。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>指挥欲太强，让团队气氛变得紧张。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>声称自己靠电池供电，却可疑地频繁离岗休息。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>头目。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6"
+msgstr "6号档案：一群乌鸦"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_CUSTOM_HEADER"
+msgstr "6号档案"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_CUSTOM_SUBHEADER"
+msgstr "“黑帆”组织首脑"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>一群乌鸦——来自黑桃城的侦探团体。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。据可靠消息，这三位正是整个帮派的最高层。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>犯罪界的天才。极其危险的罪犯。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>不留下任何踪迹，连羽毛都没有。对闪亮物件视而不见，这份执着实在可疑。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>首脑。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7"
+msgstr "7号档案：安东·格兰特"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_CUSTOM_HEADER"
+msgstr "7号档案"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_CUSTOM_SUBHEADER"
+msgstr "“夜鸦”组织成员"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>安东·格兰特——海事遗产基金会的海军少将。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。调查正在进行中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>严厉的目光和强硬的手腕。据传，他对现代技术抱有怀疑。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>因使用神经网络而被当场抓获。当时他正在搜索苹果夏洛特蛋糕的配方。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8"
+msgstr "8号档案：孙尚香"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_CUSTOM_HEADER"
+msgstr "8号档案"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_CUSTOM_SUBHEADER"
+msgstr "“夜鸦”组织成员"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>孙尚香——三国时期能征善战的中国公主。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>罪犯身份正在确认中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>走到哪里都随身带剑。不知为何，玩桌游总是赢。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>讲述时经常自相矛盾：分不清吴国与蜀国。被问到魏国时则宁愿不作答。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9"
+msgstr "9号档案：不沉的山姆"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_CUSTOM_HEADER"
+msgstr "9号档案"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_CUSTOM_SUBHEADER"
+msgstr "“夜鸦”组织成员"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>不沉的山姆——著名的舰猫，曾经历三艘军舰的沉没。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>目前罪犯身份尚未确定。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>黑白相间的毛色，还有胡须、爪子和尾巴。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>看《泰坦尼克号》时不会落泪。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10"
+msgstr "10号档案：Lesta"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_CUSTOM_HEADER"
+msgstr "10号档案"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_CUSTOM_SUBHEADER"
+msgstr "“夜鸦”组织头目"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>人鱼Lesta——《Mir Korabley》魅力十足的吉祥物。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。其海洋出身引来越来越多的疑问。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>在水中如鱼得水……嗯，在水里。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>对所有问题都用歌声回答，而且总是跑调。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>头目。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11"
+msgstr "11号档案：策展人"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_CUSTOM_HEADER"
+msgstr "11号档案"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_CUSTOM_SUBHEADER"
+msgstr "“夜鸦”组织头目"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>策展人——保护地球免受外星入侵的人工智能。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>看起来像一台出故障的机载电脑，或是扫地机器人。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>时不时接入无线电广播，一刻不停地听香颂。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>头目。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12"
+msgstr "12号档案：谢廖沙"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_CUSTOM_HEADER"
+msgstr "12号档案"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_CUSTOM_SUBHEADER"
+msgstr "“夜鸦”组织首脑"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>谢廖沙——心地善良的列车乘务员。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>正在确认中。目前调查已陷入铁路上的死胡同。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>用催眠影响乘客的意识，让他们购买开放式卧铺车厢最末尾的侧铺。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>曾被撞见购买机票。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>首脑。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13"
+msgstr "13号档案：米哈伊尔·奥尔洛夫"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_CUSTOM_HEADER"
+msgstr "13号档案"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_CUSTOM_SUBHEADER"
+msgstr "“白鲨”组织成员"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>米哈伊尔·奥尔洛夫——进步部的督察。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>审讯正在进行。目前罪犯身份尚未确定。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>外表像一位星际旅行家和冒险家。竭尽全力支持现代计算机技术的发展。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>关电器时总是直接拔掉插头。被当场抓获。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
 
 msgid "IDS_PCZC104_MK_FRENCHCRUISER"
 msgstr "接下来呢？战列舰引擎增压？"
@@ -76215,11 +76838,143 @@ msgstr "接下来呢？战列舰引擎增压？"
 msgid "IDS_PCZC104_MK_FRENCHCRUISER_DESCRIPTION"
 msgstr "<p>随着0.6.4版本发布而出现在游戏中的法国巡洋舰科技树，被证明有着充分的平衡性；与此同时，也激励了玩家从法式菜肴词汇中学习了几个字词。</p><p class=\"p_spacing\"> </p><p>引擎增压消耗品和战舰的特性配合得很好，而亨利四世这艘搭载了恐怖的240毫米舰炮的X级战舰，很快取得了最佳输出型巡洋舰的称号。</p>"
 
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14"
+msgstr "14号档案：亚历山大·普希金"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_CUSTOM_HEADER"
+msgstr "14号档案"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_CUSTOM_SUBHEADER"
+msgstr "“白鲨”组织成员"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>亚历山大·谢尔盖耶维奇·普希金——我们的一切，俄罗斯诗歌的太阳。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>目标身份正在确认中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>卷发、络腮胡、高筒礼帽。常常向陌生人下决斗挑战，却从不按时赴约。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>连《叶甫盖尼·奥涅金》的一行诗都想不起来。一提笔写四行诗就明显紧张。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15"
+msgstr "15号档案：自由女神像"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_CUSTOM_HEADER"
+msgstr "15号档案"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_CUSTOM_SUBHEADER"
+msgstr "“白鲨”组织成员"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>自由女神像——自由与独立的象征。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。嫌疑人拒绝挪动一步。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>手持火炬，始终戴着冠冕。对自己的工作极为执着，即使天气恶劣也不离开岗位。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>照片上总是完美无瑕。对他人的关注有着可疑的依赖。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16"
+msgstr "16号档案：阿斯特拉"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_CUSTOM_HEADER"
+msgstr "16号档案"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_CUSTOM_SUBHEADER"
+msgstr "“白鲨”组织头目"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>阿斯特拉——太空犬，曾陪伴首批太空征服者踏上星辰征途。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。所有搜集黑料的尝试都以失败告终。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>乖狗狗。乖得令人难以置信。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>不叫，不咬人。对路人无动于衷，对猫更是毫无兴趣。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>头目。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17"
+msgstr "17号档案：仙女座"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_CUSTOM_HEADER"
+msgstr "17号档案"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_CUSTOM_SUBHEADER"
+msgstr "“白鲨”组织头目"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>仙女座——天体的人形化身，由星舰创造，用于与人类沟通。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未识别。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>证人们对外貌的描述各不相同。没人能记起她眼睛的颜色。粉色？红色？紫色？</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>所有证人都确信自己与Andromeda见过面，但没人记得谈话的细节。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>头目。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18"
+msgstr "18号档案：不朽者科谢伊"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_CUSTOM_HEADER"
+msgstr "18号档案"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_CUSTOM_SUBHEADER"
+msgstr "“白鲨”组织首脑"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>不朽者科谢伊——俄罗斯童话中的头号反派。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。关于嫌疑人长生不死的说法令人存疑。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>面色病态。从不摘下王冠和斗篷。日渐憔悴。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>爱好十字绣。对兔子和鸭子毫无畏惧。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>首脑。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19"
+msgstr "19号档案：詹姆斯·康拉德"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_CUSTOM_HEADER"
+msgstr "19号档案"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_CUSTOM_SUBHEADER"
+msgstr "“港湾之影”组织成员"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>詹姆斯·康拉德——美国海军中校，呼号为“钢铁猎犬”的资深特工。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。面对调查的所有问题，嫌疑人都回答：“绝密”。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>钢铁般的目光、钢铁般的神经，以及对自己绝对正确的钢铁般自信。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>在舱室里珍藏着一张猫的照片。拒绝解释照片的来历。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20"
+msgstr "20号档案：亚历山大·乌瓦罗夫"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_CUSTOM_HEADER"
+msgstr "20号档案"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_CUSTOM_SUBHEADER"
+msgstr "“港湾之影”组织成员"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>亚历山大·乌瓦罗夫——苏联情报人员，正在追捕二战后逃往南极的德国舰艇。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未确定。调查方正考虑双重间谍的可能。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>能在严寒中一待就是几个小时。面对任何不明状况都保持镇定自若。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>在镜头前表现得过于自信。有时说完一句会奇怪地停顿，仿佛在等待什么。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21"
+msgstr "21号档案：约翰内斯·梅克-莱恩"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_CUSTOM_HEADER"
+msgstr "21号档案"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_CUSTOM_SUBHEADER"
+msgstr "“港湾之影”组织成员"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>约翰内斯·梅克-莱恩——德国机械工程师。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>罪犯身份正在确认中。据部分证人称，这名歹徒很像纽约的某位警察。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>随身带着肩挂式枪套，即使没带武器时也一样。对摩天大楼有着病态的热爱。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>自称是德国人，却不会说德语。还总是不明所以地重复：Yippee-ki-yay。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>成员。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22"
+msgstr "22号档案：伊娃·瓦伦缇娜"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_CUSTOM_HEADER"
+msgstr "22号档案"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_CUSTOM_SUBHEADER"
+msgstr "“港湾之影”组织头目"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>伊娃·瓦伦缇娜——活力十足的动漫指挥官。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>正在确认中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>海绿色的头发和温柔的眼神。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>总是长时间停顿。每次开口前都会慵懒地叹口气，望向远方。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>头目。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23"
+msgstr "23号档案：三角座"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_CUSTOM_HEADER"
+msgstr "23号档案"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_CUSTOM_SUBHEADER"
+msgstr "“港湾之影”组织头目"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>三角座——天体的人形化身，由星舰创造，用于与人类沟通。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>尚未识别。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>说话带着浓重却无法辨认的口音。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>对于一个从未在人类中间生活过的存在来说，对人类社会文化了解得过于透彻。喜欢吃巧克力豆饼干。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>头目。</p><p class=\"p_spacing\"></p>"
+
 msgid "IDS_PCZC105_MK_BISMARCK"
 msgstr "强大的俾斯麦"
 
 msgid "IDS_PCZC105_MK_BISMARCK_DESCRIPTION"
 msgstr "<p>“狩猎俾斯麦”战役的退出上演了一场华丽的表演。有超过30万位参与者、完成了超过14.1万个收藏、以及得到了超过700万个补给箱。有超过6万艘VIII级俾斯麦战舰被有着不同技巧水平的玩家收入麾下。</p><p class=\"p_spacing\"> </p><p>以各种战役任务的历史参考形式增加故事元素到游戏客户端为事件的一大重点。</p>"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24"
+msgstr "24号档案：画虎"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_CUSTOM_HEADER"
+msgstr "24号档案"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_CUSTOM_SUBHEADER"
+msgstr "“港湾之影”组织首脑"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_DESCRIPTION"
+msgstr "<p class=\"p_bold\">面具</p><p>画虎——来自遥远东方国度的勇敢猫武士。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">真实身份</p><p>罪犯身份正在确认中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特殊特征</p><p>体格极佳。总能四脚着地。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">证据</p><p>对纸箱无动于衷。曾被看到与老鼠为伍。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">在组织中的角色</p><p>首脑。</p><p class=\"p_spacing\"></p>"
 
 msgid "IDS_PCZC106_MK_BOTREVENGE"
 msgstr "电脑玩家的复仇"
@@ -82167,6 +82922,12 @@ msgstr "340 mm HE OEA Mle 1932"
 msgid "IDS_PFPA123_340MM_AP_ARTOIS"
 msgstr "340 mm AP OPf Mle 1924"
 
+msgid "IDS_PFPA124_330MM_AP_LA_ROCHELLE"
+msgstr "330 mm AP OPfK Mle 1935"
+
+msgid "IDS_PFPA125_330MM_HE_LA_ROCHELLE"
+msgstr "330mm HE OEA Mle 1935"
+
 msgid "IDS_PFPA301_305MM_45_1910_AP_SAND"
 msgstr "305 mm AP OPf Mle 1910 mod.1"
 
@@ -82900,6 +83661,21 @@ msgstr "0"
 
 msgid "IDS_PFSC210_YEAR"
 msgstr "1944"
+
+msgid "IDS_PFSC211"
+msgstr "拉罗谢尔"
+
+msgid "IDS_PFSC211_DESCR"
+msgstr "<p>在1920年代末到1930年代初时，法国工程师曾研究过一种大型巡洋舰的设计方案。而其中的六号方案“Croiseur CC1 de 23690 T”计划在舰艏的三座炮塔中装备330毫米火炮，其中的二号炮塔采用了背负式布局。在舰艉及舰体的两舷，则布置有多门高平两用火炮。</p><p class=\"p_spacing\"> </p><p>该方案的进一步假想发展将会装备更为强大的防空武器。其装甲布局与敦刻尔克级战列巡洋舰和黎塞留级战列舰较为相似。</p>"
+
+msgid "IDS_PFSC211_FULL"
+msgstr "拉罗谢尔"
+
+msgid "IDS_PFSC211_NUMBER"
+msgstr "0"
+
+msgid "IDS_PFSC211_YEAR"
+msgstr "1940"
 
 msgid "IDS_PFSC506"
 msgstr "德·格拉斯"
@@ -83711,6 +84487,9 @@ msgstr "120 mm/50 Model 1950（炮塔）"
 msgid "IDS_PFUA917_ART_CRUISER_TEST"
 msgstr "330 mm/50 Mle 1931（炮塔）"
 
+msgid "IDS_PFUA918_ART_LA_ROCHELLE"
+msgstr "330 mm/50 Mle 1931 (St.Chamond Mle 1932 砲座)"
+
 msgid "IDS_PFUA930_C11_ART_STOCK"
 msgstr "240 mm/50 Mle 1930（炮塔）"
 
@@ -83970,6 +84749,9 @@ msgid "IDS_PFUE915_ENG_VOLTIGEUR"
 msgstr "推进系统：58000马力"
 
 msgid "IDS_PFUE916_ENG_CRUISER_TEST"
+msgstr "推进系统：240000马力"
+
+msgid "IDS_PFUE918_ENG_LA_ROCHELLE"
 msgstr "推进系统：240000马力"
 
 msgid "IDS_PFUE930_C11_ENG_STOCK"
@@ -84287,6 +85069,9 @@ msgstr "腾跃兵"
 msgid "IDS_PFUH916_HULL_CRUISER_TEST"
 msgstr "马赛EM"
 
+msgid "IDS_PFUH918_LA_ROCHELLE"
+msgstr "拉罗谢尔"
+
 msgid "IDS_PFUH930_C11_HULL_STOCK"
 msgstr "孔代"
 
@@ -84589,6 +85374,9 @@ msgstr "SUO Mk 10"
 
 msgid "IDS_PFUS915_SUO_CRUISER_TEST"
 msgstr "PCA n° 10"
+
+msgid "IDS_PFUS918_SUO_LA_ROCHELLE"
+msgstr "PCA n°11"
 
 msgid "IDS_PFUS930_C11_SUO_STOCK"
 msgstr "PCA n°11"
@@ -85175,6 +85963,9 @@ msgstr "下水仪式"
 msgid "IDS_PGES340_ODIN_CEREMONIAL"
 msgstr "特典"
 
+msgid "IDS_PGES341_SCHWABEN_WHITE"
+msgstr "白伯爵"
+
 msgid "IDS_PGES348_BLACK_TIRPITZ"
 msgstr "特别"
 
@@ -85254,6 +86045,9 @@ msgid "IDS_PGES448_SABIE_TM5"
 msgstr "诺克玛尔的骄傲"
 
 msgid "IDS_PGES458_BLACK_PRINZ_EUGEN"
+msgstr "特别"
+
+msgid "IDS_PGES468_BLACK_SCHILL"
 msgstr "特别"
 
 msgid "IDS_PGES508_Z_23_BIRTHDAY"
@@ -88160,6 +88954,21 @@ msgstr "1"
 msgid "IDS_PGSC539_YEAR"
 msgstr "1943"
 
+msgid "IDS_PGSC548"
+msgstr "席尔B"
+
+msgid "IDS_PGSC548_DESCR"
+msgstr "<p>在20世纪30年代晚期，德国海军总司令部下令开发一个项目，旨在用破袭舰编队应对英国的海上封锁。基于德意志级装甲舰而项目设计的12艘P级装甲舰本应充当该计划的主力。</p><p class=\"p_spacing\"> </p><p>1939年，德军与造船厂签署了这些战舰的建造合同，但之后又取消了订单，转而支持O级战列巡洋舰。原始档案将此战舰类型指定为“破袭舰”。</p>"
+
+msgid "IDS_PGSC548_FULL"
+msgstr "席尔B"
+
+msgid "IDS_PGSC548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC548_YEAR"
+msgstr "1939"
+
 msgid "IDS_PGSC549"
 msgstr "尼伯龙根"
 
@@ -88264,6 +89073,21 @@ msgstr "0"
 
 msgid "IDS_PGSC910_YEAR"
 msgstr "1940"
+
+msgid "IDS_PGSC998"
+msgstr "席尔B"
+
+msgid "IDS_PGSC998_DESCR"
+msgstr "战舰席尔的复制品，用于“严肃调查”活动"
+
+msgid "IDS_PGSC998_FULL"
+msgstr "席尔B"
+
+msgid "IDS_PGSC998_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC998_YEAR"
+msgstr "1939"
 
 msgid "IDS_PGSD102"
 msgstr "V-25"
@@ -89002,6 +89826,12 @@ msgstr "150 mm/60 SK C/25（Drh Tr C/25炮座）"
 msgid "IDS_PGUA726_ART_BLACK_EUGEN"
 msgstr "203 mm/60 SK C/34（LC/34炮座）"
 
+msgid "IDS_PGUA727_ART_BLACK_SCHILL"
+msgstr "283 mm/54.5 SK C/34（Drh LC/34炮座）"
+
+msgid "IDS_PGUA728_ART_RARE_BEAST_CRUISER"
+msgstr "283 mm/54.5 SK C/34（Drh LC/34炮座）"
+
 msgid "IDS_PGUA800_ART_COLORFUL_ROON"
 msgstr "203 mm/60 SK C/34（炮塔）"
 
@@ -89502,6 +90332,12 @@ msgstr "推进系统：132000马力"
 
 msgid "IDS_PGUE731_ENG_BLACK_EUGEN"
 msgstr "推进系统：110000马力"
+
+msgid "IDS_PGUE732_ENG_BLACK_SCHILL"
+msgstr "推进系统：140000马力"
+
+msgid "IDS_PGUE733_ENG_RARE_BEAST_CRUISER"
+msgstr "推进系统：140000马力"
 
 msgid "IDS_PGUE800_ENG_COLORFUL_ROON"
 msgstr "推进系统：155000马力"
@@ -90031,6 +90867,12 @@ msgstr "佩剑"
 msgid "IDS_PGUH739_HULL_BLACK_EUGEN"
 msgstr "欧根亲王B"
 
+msgid "IDS_PGUH740_HULL_BLACK_SCHILL"
+msgstr "席尔B"
+
+msgid "IDS_PGUH741_HULL_RARE_BEAST_CRUISER"
+msgstr "席尔B"
+
 msgid "IDS_PGUH800_HULL_COLORFUL_ROON"
 msgstr "罗恩CLR"
 
@@ -90515,7 +91357,7 @@ msgid "IDS_PGUS709_SUO_ANHALT"
 msgstr "FKS Typ 8 Mod.1"
 
 msgid "IDS_PGUS710_SUO_SCHILL"
-msgstr "FKS Typ 8 Mod.1"
+msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS711_SUO_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
@@ -90570,6 +91412,12 @@ msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS728_SUO_BLACK_EUGEN"
 msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS729_SUO_BLACK_SCHILL"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS730_SUO_RARE_BEAST_CRUISER"
+msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS731_SUO_SCHARNHORST"
 msgstr "FKS Typ 7 Mod. 1"
@@ -90911,6 +91759,12 @@ msgid "IDS_PGUT727_TORP_SABIE"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT728_TORP_BLACK_EUGEN"
+msgstr "G7a T1"
+
+msgid "IDS_PGUT729_TORP_BLACK_SCHILL"
+msgstr "G7a T1"
+
+msgid "IDS_PGUT730_TORP_RARE_BEAST_CRUISER"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT800_TORP_COLORFUL_ROON"
@@ -92046,6 +92900,9 @@ msgstr "军团"
 msgid "IDS_PIES319_POLO_ROMAN"
 msgstr "军团"
 
+msgid "IDS_PIES320_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "特别"
+
 msgid "IDS_PIES329_TRANCLUCATOR_PEPELATS"
 msgstr "普鲁克成色"
 
@@ -92454,9 +93311,6 @@ msgstr "声呐装填较快"
 msgid "IDS_PINGER_RELOAD_SLOW"
 msgstr "声呐装填较慢"
 
-msgid "IDS_PINGER_SHADOW"
-msgstr "位置已暴露"
-
 msgid "IDS_PINGER_WAVE_SPEED_HIGH"
 msgstr "声呐脉冲速度较高"
 
@@ -92801,6 +93655,12 @@ msgstr "305 mm proiettili AP 1909 mod.1"
 
 msgid "IDS_PIPA302_305MM_46_1909_CS_SAND"
 msgstr "305 mm proiettili CS 1909 mod.1"
+
+msgid "IDS_PIPA991_460MM_CS_RARE_BEAST_BATTLESHIP"
+msgstr "460 mm CS Mk III"
+
+msgid "IDS_PIPA992_460MM_AP_RARE_BEAST_BATTLESHIP"
+msgstr "460 mm AP Mk III"
 
 msgid "IDS_PIPB001_AQUILA_STOCK"
 msgstr "SC-500"
@@ -93171,6 +94031,21 @@ msgstr "1"
 msgid "IDS_PISB519_YEAR"
 msgstr "1942"
 
+msgid "IDS_PISB520"
+msgstr "鲁杰罗·迪·劳里亚B"
+
+msgid "IDS_PISB520_DESCR"
+msgstr "这艘快速的战列巡洋舰装备8门457毫米火炮。该项目基于1921年意大利海军工程师费迪南多·卡松提出的概念。除了卓越的武器和排水量之外，该项目还因其创新的反鱼雷防护系统和双层动力装置而脱颖而出，这两者在当时相当先进。"
+
+msgid "IDS_PISB520_FULL"
+msgstr "鲁杰罗·迪·劳里亚B"
+
+msgid "IDS_PISB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISB520_YEAR"
+msgstr "1921"
+
 msgid "IDS_PISB529"
 msgstr "多态"
 
@@ -93249,13 +94124,13 @@ msgid "IDS_PISB805_YEAR"
 msgstr "2019"
 
 msgid "IDS_PISB990"
-msgstr "哥伦布EM"
+msgstr "鲁杰罗·迪·劳里亚B"
 
 msgid "IDS_PISB990_DESCR"
-msgstr "用于测试精英升级品的战舰复制品。"
+msgstr "战舰鲁杰罗·迪·劳里亚的复制品，用于“严肃调查”活动"
 
 msgid "IDS_PISB990_FULL"
-msgstr "哥伦布EM"
+msgstr "鲁杰罗·迪·劳里亚B"
 
 msgid "IDS_PISB990_NUMBER"
 msgstr "1"
@@ -94049,8 +94924,8 @@ msgstr "254 mm/60（炮塔）"
 msgid "IDS_PIUA905_DD10_ART_STOCK"
 msgstr "135 mm/45 Model 1938（1938式炮座）"
 
-msgid "IDS_PIUA906_BB10_ART_STOCK"
-msgstr "381 mm/50 Model 1934（炮塔）"
+msgid "IDS_PIUA906_ART_RARE_BEAST_BATTLESHIP"
+msgstr "457 mm/45 Mk.II（炮塔）"
 
 msgid "IDS_PIUA907_ART_LAURIA"
 msgstr "457 mm/45 Mk.II（炮塔）"
@@ -94078,6 +94953,9 @@ msgstr "127 mm/38 Mk.12（Mk.38炮座）"
 
 msgid "IDS_PIUA915_ART_ISONZO"
 msgstr "356 mm/45 Vickers Mk.A（双联装炮塔）"
+
+msgid "IDS_PIUA916_ART_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "457 mm/45 Mk.II（炮塔）"
 
 msgid "IDS_PIUB700_TB_AQUILA"
 msgstr "Reggiane Re.2001"
@@ -94250,8 +95128,8 @@ msgstr "推进系统：240000马力"
 msgid "IDS_PIUE905_DD10_ENG_STOCK"
 msgstr "推进系统：110000马力"
 
-msgid "IDS_PIUE906_BB10_ENG_STOCK"
-msgstr "推进系统：160000马力"
+msgid "IDS_PIUE906_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "推进系统：235000马力"
 
 msgid "IDS_PIUE907_ENG_LAURIA"
 msgstr "推进系统：235000马力"
@@ -94279,6 +95157,9 @@ msgstr "推进系统：70000马力"
 
 msgid "IDS_PIUE915_ENG_ISONZO"
 msgstr "推进系统：212800马力"
+
+msgid "IDS_PIUE916_ENG_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "推进系统：235000马力"
 
 msgid "IDS_PIUF700_FC_AQUILA"
 msgstr "Mk8 mod.1"
@@ -94514,8 +95395,8 @@ msgstr "那不勒斯"
 msgid "IDS_PIUH905_DD10_HULL_STOCK"
 msgstr "阿蒂利奥·雷戈洛"
 
-msgid "IDS_PIUH906_BB10_HULL_STOCK"
-msgstr "哥伦布EM"
+msgid "IDS_PIUH906_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "鲁杰罗·迪·劳里亚B"
 
 msgid "IDS_PIUH907_HULL_LAURIA"
 msgstr "鲁杰罗·迪·劳里亚"
@@ -94543,6 +95424,9 @@ msgstr "亚美利哥·韦斯普奇"
 
 msgid "IDS_PIUH915_ISONZO"
 msgstr "伊松佐"
+
+msgid "IDS_PIUH916_HULL_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "鲁杰罗·迪·劳里亚B"
 
 msgid "IDS_PIUI700_F_AQUILA"
 msgstr "Reggiane Re.2001"
@@ -94775,7 +95659,7 @@ msgstr "SDT 10"
 msgid "IDS_PIUS905_DD10_SUO_STOCK"
 msgstr "SDT 10"
 
-msgid "IDS_PIUS906_BB10_SUO_STOCK"
+msgid "IDS_PIUS906_SUO_RARE_BEAST_BATTLESHIP"
 msgstr "SDT 10 mod.1"
 
 msgid "IDS_PIUS907_SUO_LAURIA"
@@ -94798,6 +95682,9 @@ msgstr "SDT 10"
 
 msgid "IDS_PIUS913_SUO_A_VESPUCCI"
 msgstr "SDT 11"
+
+msgid "IDS_PIUS914_SUO_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "SDT 10"
 
 msgid "IDS_PIUS915_SUO_ISONZO"
 msgstr "SDT 9"
@@ -95491,6 +96378,9 @@ msgstr "谢肉节"
 
 msgid "IDS_PJES347_HARUNA"
 msgstr "苍蓝钢铁的琶音"
+
+msgid "IDS_PJES349_BLACK_HIZEN_CEREMONIAL"
+msgstr "特典"
 
 msgid "IDS_PJES350_SHIKISHIMA_RANKED"
 msgstr "武士"
@@ -98339,6 +99229,21 @@ msgstr "1"
 msgid "IDS_PJSB569_YEAR"
 msgstr "1921"
 
+msgid "IDS_PJSB579"
+msgstr "肥前B"
+
+msgid "IDS_PJSB579_DESCR"
+msgstr "<p>1934年，日本开始了A-140项目战列舰的研发工作。到1936年，海军省共完成了24个初步方案，这些方案在排水量、最高航速及主炮口径方面各不相同。</p><p class=\"p_spacing\"> </p><p>而其中一个方案采用了经典的背负式布局，装备有四座三联装410毫米炮塔。副炮由三联装155毫米火炮组成。动力则由柴油机与蒸汽轮机混合提供。该项目虽并未实施，但后续的发展则最终促成了大和级战列舰。</p>"
+
+msgid "IDS_PJSB579_FULL"
+msgstr "肥前B"
+
+msgid "IDS_PJSB579_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB579_YEAR"
+msgstr "1935"
+
 msgid "IDS_PJSB599"
 msgstr "尾张之鬼"
 
@@ -98576,6 +99481,21 @@ msgstr "4"
 
 msgid "IDS_PJSB918_YEAR"
 msgstr "1941"
+
+msgid "IDS_PJSB989"
+msgstr "肥前B"
+
+msgid "IDS_PJSB989_DESCR"
+msgstr "战舰肥前的复制品，用于“严肃调查”活动 "
+
+msgid "IDS_PJSB989_FULL"
+msgstr "肥前B"
+
+msgid "IDS_PJSB989_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB989_YEAR"
+msgstr "1935"
 
 msgid "IDS_PJSB999"
 msgstr "萨摩（旧）"
@@ -100027,7 +100947,7 @@ msgid "IDS_PJSD889"
 msgstr "星之北风"
 
 msgid "IDS_PJSD889_DESCR"
-msgstr "此战舰由太空水晶掌控。Andromeda的化身由天体创造，旨在与人类交流。在意识到她的行为愈加变得具有攻击性后，她试图帮助人类找出水晶来到地球的原因。"
+msgstr "<p>此战舰由太空水晶掌控。<b>仙女座</b>的化身由天体创造，旨在与人类交流。在意识到她的行为愈加变得具有攻击性后，她试图帮助人类找出水晶来到地球的原因。</p>"
 
 msgid "IDS_PJSD889_FULL"
 msgstr "星之北风"
@@ -100528,6 +101448,12 @@ msgstr "203 mm/50 3rd Year Type No.2（E式炮塔）"
 
 msgid "IDS_PJUA814_ART_HAKUSAN"
 msgstr "457 mm/50 5th Year Type（双联装炮塔）"
+
+msgid "IDS_PJUA815_ART_BLACK_HIZEN"
+msgstr "410 mm/50 10th Year Type Mod.A（三联装炮塔）"
+
+msgid "IDS_PJUA816_ART_RARE_BEAST_BATTLESHIP"
+msgstr "410 mm/50 10th Year Type Mod.A（三联装炮塔）"
 
 msgid "IDS_PJUA821_C9_ART_STOCK"
 msgstr "203 mm/50 3rd Year Type No.2（E式炮塔）"
@@ -101353,6 +102279,12 @@ msgstr "推进系统：134240马力"
 
 msgid "IDS_PJUE814_ENG_HAKUSAN"
 msgstr "推进系统：150000马力"
+
+msgid "IDS_PJUE815_ENG_BLACK_HIZEN"
+msgstr "推进系统：145000马力"
+
+msgid "IDS_PJUE816_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "推进系统：145000马力"
 
 msgid "IDS_PJUE821_B9_ENG_TOP"
 msgstr "推进系统：135000马力"
@@ -102229,6 +103161,12 @@ msgstr "鸟海"
 msgid "IDS_PJUH818_HULL_HAKUSAN"
 msgstr "白山"
 
+msgid "IDS_PJUH819_HULL_BLACK_HIZEN"
+msgstr "肥前B"
+
+msgid "IDS_PJUH820_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "肥前B"
+
 msgid "IDS_PJUH821_TAIHO_1944"
 msgstr "大凤(A)"
 
@@ -102974,7 +103912,7 @@ msgid "IDS_PJUS808_D8_SUO_TOP"
 msgstr "Type8 mod.2"
 
 msgid "IDS_PJUS809_SUO_HIZEN"
-msgstr "Type8 mod.1"
+msgstr "Type8"
 
 msgid "IDS_PJUS810_SUO_AZUR_AZUMA"
 msgstr "Type10 mod.1"
@@ -103023,6 +103961,12 @@ msgstr "Type9"
 
 msgid "IDS_PJUS826_SUO_HAKUSAN"
 msgstr "Type9"
+
+msgid "IDS_PJUS827_SUO_BLACK_HIZEN"
+msgstr "Type9"
+
+msgid "IDS_PJUS828_SUO_RARE_BEAST_BATTLESHIP"
+msgstr "Type8"
 
 msgid "IDS_PJUS831_SUO"
 msgstr "Type9 mod.1"
@@ -105033,6 +105977,9 @@ msgstr "基捷日城"
 msgid "IDS_PRES348_FRUNZE_VICTORYDAY"
 msgstr "英勇胜利"
 
+msgid "IDS_PRES358_BLACK_BORODINO"
+msgstr "特别"
+
 msgid "IDS_PRES401_GREM_MEMORIAL"
 msgstr "纪念"
 
@@ -105089,6 +106036,9 @@ msgstr "静水深流"
 
 msgid "IDS_PRES428_STALCRAFT_LATANU"
 msgstr "契约"
+
+msgid "IDS_PRES429_DUKH_KRONSHLOTA"
+msgstr "波罗的海之雾"
 
 msgid "IDS_PRES430_STALINGRAD_RANKED"
 msgstr "胜利"
@@ -107101,6 +108051,12 @@ msgstr "254 mm OF Model 1938"
 msgid "IDS_PRPA284_130MM_HE_OF_46_B2U_SG_MOONSUND"
 msgstr "OF-46"
 
+msgid "IDS_PRPA285_130MM_AP_UDARNY"
+msgstr "PB-46"
+
+msgid "IDS_PRPA286_130MM_HE_UDARNY"
+msgstr "OF-46"
+
 msgid "IDS_PRPA301_305_AP_1911_SAND"
 msgstr "305 mm BB Model 1911 mod.1"
 
@@ -107553,6 +108509,9 @@ msgstr "550 mm 23DT"
 
 msgid "IDS_PRPT097_MOONSUND"
 msgstr "53-51"
+
+msgid "IDS_PRPT098_UDARNY"
+msgstr "53-50 mod. 1"
 
 msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VII"
@@ -108219,6 +109178,21 @@ msgstr "1"
 msgid "IDS_PRSB550_YEAR"
 msgstr "1938"
 
+msgid "IDS_PRSB558"
+msgstr "博罗季诺B"
+
+msgid "IDS_PRSB558_DESCR"
+msgstr "<p>在为82型重型巡洋舰进行设计工作的同时，受苏联造船工业部委托，第45中央科学研究所开始起草“小型战列舰”的方案。该舰的装甲设计颇具特色——舰首装甲得到了特别加强，以便在T劣迎敌时能够有效抵御敌方炮火。</p><p class=\"p_spacing\"> </p><p>1951至1952年间，该项目一共完成了九种方案的初步设计。第45中央科学研究所向高层推荐了一个配备有两座三联装406毫米炮塔的方案。1952年底至1953年初，小型战列舰的全套设计资料被提交给了海军造船总局审议。然而不久之后，建造重型炮舰的需求已不再迫切，该项目最终也未能完成。</p>"
+
+msgid "IDS_PRSB558_FULL"
+msgstr "博罗季诺B"
+
+msgid "IDS_PRSB558_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB558_YEAR"
+msgstr "1952"
+
 msgid "IDS_PRSB607"
 msgstr "斯卡蒂之矛"
 
@@ -108295,6 +109269,21 @@ msgstr "1"
 
 msgid "IDS_PRSB990_YEAR"
 msgstr "1936"
+
+msgid "IDS_PRSB998"
+msgstr "博罗季诺B"
+
+msgid "IDS_PRSB998_DESCR"
+msgstr "战舰博罗季诺的复制品，用于“严肃调查”活动 "
+
+msgid "IDS_PRSB998_FULL"
+msgstr "博罗季诺B"
+
+msgid "IDS_PRSB998_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB998_YEAR"
+msgstr "1952"
 
 msgid "IDS_PRSB999"
 msgstr "红旗R"
@@ -109078,6 +110067,21 @@ msgstr "1"
 msgid "IDS_PRSC578_YEAR"
 msgstr "1939"
 
+msgid "IDS_PRSC579"
+msgstr "喀琅施洛特之魂"
+
+msgid "IDS_PRSC579_DESCR"
+msgstr "<p>极北寒门出白衣，古垒荒礁锁烟霏。<br/>沧波隐约连天影，海若亲呼镇海归。</p><p class=\"p_spacing\"> </p><p>灵舰临渊星火黯，迷津错乱指南违。<br/>贼军肝胆皆觳觫，似有阴兵暗网围。<br/>破浪去后唯风咸，战栗中怀死寂微。<br/>万籁不闻生响绝，静听希冀化飞灰。</p>"
+
+msgid "IDS_PRSC579_FULL"
+msgstr "喀琅施洛特之魂"
+
+msgid "IDS_PRSC579_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSC579_YEAR"
+msgstr "1939"
+
 msgid "IDS_PRSC606"
 msgstr "马卡洛夫"
 
@@ -109813,6 +110817,21 @@ msgstr "1"
 msgid "IDS_PRSD509_YEAR"
 msgstr "1962"
 
+msgid "IDS_PRSD510"
+msgstr "突击"
+
+msgid "IDS_PRSD510_DESCR"
+msgstr "<p>1930年代，苏联通过了一项海军发展计划。计划包括了建造能够在远洋执行任务的大型驱逐舰。然而，当时在研的驱逐舰并不适合这一用途，因此苏联决定借鉴国外的相关经验。</p><p class=\"p_spacing\"> </p><p>1939年，一支苏联工程师代表团抵达美国，美国吉布斯和考克斯公司向其提出了一项以马汉级为基础的驱逐舰设计方案。然而，美国政府并不允许向苏联提供包括高平两用炮塔在内的一些先进技术，因此代表团最终只得从美国空手而归。</p><p class=\"p_spacing\"> </p><p>但美国的考察工作仍然促成了项目35驱逐舰的战术与技术任务书的制定。该项目由第32中央设计局和日丹诺夫第190造船厂的设计局分别负责设计。在对两种方案进行评审过后，第32中央设计局的方案脱颖而出。原计划于1941年在第190造船厂开工建造两艘该级舰艇，但随着卫国战争爆发，这些驱逐舰项目的相关工作都被迫停止了。</p>"
+
+msgid "IDS_PRSD510_FULL"
+msgstr "突击"
+
+msgid "IDS_PRSD510_NUMBER"
+msgstr "0"
+
+msgid "IDS_PRSD510_YEAR"
+msgstr "1940"
+
 msgid "IDS_PRSD516"
 msgstr "邵武勉"
 
@@ -110356,6 +111375,12 @@ msgstr "130 mm/50 Model 1936（B-2LM炮座）"
 msgid "IDS_PRUA726_ART_BATTLESHIP_DEATHMATCH"
 msgstr "406 mm/45 Model 1915（炮塔）"
 
+msgid "IDS_PRUA727_ART_BLACK_BORODINO"
+msgstr "406 mm/50 B-37 （MK-1炮座）"
+
+msgid "IDS_PRUA728_ART_RARE_BEAST_BATTLESHIP"
+msgstr "406 mm/50 B-37 （MK-1炮座）"
+
 msgid "IDS_PRUA801_D9_ART_STOCK"
 msgstr "130 mm/55（B-2-U炮座）"
 
@@ -110445,6 +111470,9 @@ msgstr "406 mm/50 B-37 （MK-1炮座）"
 
 msgid "IDS_PRUA831_ART_DESTROYER_LUKODRAGER"
 msgstr "130 mm/58 Model 1957（SM-2-1炮座）"
+
+msgid "IDS_PRUA832_ART_DUKH_KRONSHLOTA"
+msgstr "305 mm/54 B-50（MK-15炮座）"
 
 msgid "IDS_PRUA900_CRUISER_DEATHMATCH"
 msgstr "180 mm/57 Model 1932（MK-3-180炮座）"
@@ -110562,6 +111590,9 @@ msgstr "254 mm/55 B-48（MK-13炮座）"
 
 msgid "IDS_PRUA980_ART_KREMLIN"
 msgstr "457 mm/48 B-45（SM-8炮座）"
+
+msgid "IDS_PRUA981_ART_UDARNY"
+msgstr "130 mm/55（B-2U炮座）"
 
 msgid "IDS_PRUA990_TEST"
 msgstr "Pewpew"
@@ -110896,6 +111927,12 @@ msgstr "推进系统：81000马力"
 msgid "IDS_PRUE730_ENG_BATTLESHIP_DEATHMATCH"
 msgstr "推进系统：201000马力"
 
+msgid "IDS_PRUE731_ENG_BLACK_BORODINO"
+msgstr "推进系统：210000马力"
+
+msgid "IDS_PRUE732_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "推进系统：210000马力"
+
 msgid "IDS_PRUE801_D9_ENG_STOCK"
 msgstr "推进系统：84500马力"
 
@@ -110976,6 +112013,9 @@ msgstr "推进系统：165000马力"
 
 msgid "IDS_PRUE827_ENG_DESTROYER_LUKODRAGER"
 msgstr "推进系统：72000马力"
+
+msgid "IDS_PRUE828_ENG_DUKH_KRONSHLOTA"
+msgstr "推进系统：231000马力"
 
 msgid "IDS_PRUE830_BB8_ENG_BORODINO"
 msgstr "推进系统：210000马力"
@@ -111105,6 +112145,9 @@ msgstr "推进系统：210000马力"
 
 msgid "IDS_PRUE980_ENG_KREMLIN"
 msgstr "推进系统：280000马力"
+
+msgid "IDS_PRUE981_ENG_UDARNY"
+msgstr "推进系统：84500马力"
 
 msgid "IDS_PRUE990_ENG_TEST"
 msgstr "Nocknockneo"
@@ -111535,6 +112578,12 @@ msgstr "基辅PV"
 msgid "IDS_PRUH738_HULL_BATTLESHIP_DEATHMATCH"
 msgstr "海参崴PV"
 
+msgid "IDS_PRUH739_HULL_BLACK_BORODINO"
+msgstr "博罗季诺B"
+
+msgid "IDS_PRUH740_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "博罗季诺B"
+
 msgid "IDS_PRUH801_KIEV_A"
 msgstr "基辅(A)"
 
@@ -111642,6 +112691,9 @@ msgstr "里加CLR"
 
 msgid "IDS_PRUH836_HULL_DESTROYER_LUKODRAGER"
 msgstr "维列斯"
+
+msgid "IDS_PRUH837_HULL_DUKH_KRONSHLOTA"
+msgstr "喀琅施洛特之魂"
 
 msgid "IDS_PRUH900_CRUISER_DEATHMATCH"
 msgstr "塔林PV"
@@ -111768,6 +112820,9 @@ msgstr "莫昂宗德"
 
 msgid "IDS_PRUH980_HULL_KREMLIN"
 msgstr "不破"
+
+msgid "IDS_PRUH981_HULL_UDARNY"
+msgstr "突击"
 
 msgid "IDS_PRUH990_TEST"
 msgstr "测试战舰"
@@ -112192,6 +113247,12 @@ msgstr "SUO VIII"
 msgid "IDS_PRUS729_SUO_BATTLESHIP_DEATHMATCH"
 msgstr "SUO VIII"
 
+msgid "IDS_PRUS730_SUO_BLACK_BORODINO"
+msgstr "SUO VIII"
+
+msgid "IDS_PRUS731_SUO_RARE_BEAST_BATTLESHIP"
+msgstr "SUO VIII"
+
 msgid "IDS_PRUS801_SUO"
 msgstr "SUO IX mod.1"
 
@@ -112247,7 +113308,7 @@ msgid "IDS_PRUS818_D9_SUO_TOP_4"
 msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS819_SUO_KRON"
-msgstr "SUO IX mod.1"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS820_SUO_NEUSTR"
 msgstr "SUO IX mod.1"
@@ -112295,6 +113356,9 @@ msgid "IDS_PRUS834_SUO_COLORFUL_RIGA"
 msgstr "SUO IX"
 
 msgid "IDS_PRUS835_SUO_DESTROYER_LUKODRAGER"
+msgstr "SUO IX"
+
+msgid "IDS_PRUS836_SUO_DUKH_KRONSHLOTA"
 msgstr "SUO IX"
 
 msgid "IDS_PRUS900_CRUISER_DEATHMATCH"
@@ -112404,6 +113468,9 @@ msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS980_SUO_KREMLIN"
 msgstr "SUO XI"
+
+msgid "IDS_PRUS981_SUO_UDARNY"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS990_SUO_TEST"
 msgstr "Iamassist"
@@ -112764,6 +113831,9 @@ msgstr "53-50"
 
 msgid "IDS_PRUT978_TORP_MOONSUND"
 msgstr "53-51"
+
+msgid "IDS_PRUT981_TORP_UDARNY"
+msgstr "53-39 mod.4"
 
 msgid "IDS_PRUT990_TEST"
 msgstr "Plopplop"
@@ -115896,6 +116966,9 @@ msgstr "黄金时代"
 msgid "IDS_PWES529_BLACK_JAGER"
 msgstr "特别"
 
+msgid "IDS_PWES530_VARMLAND_GOLD"
+msgstr "黄金三王冠"
+
 msgid "IDS_PWGA001_40MM_BOFORS_MK1"
 msgstr "40 mm/56 Bofors wz.1936"
 
@@ -116135,6 +117208,9 @@ msgstr "152 mm/53 Model 1942（炮塔）"
 
 msgid "IDS_PWGM133_152MM53_BOFORS_M1948"
 msgstr "152 mm/53 Model 1942（炮塔）"
+
+msgid "IDS_PWGM134_254MM_50_BOFORS_TRIPLE"
+msgstr "254 mm/50 Bofors（炮塔）"
 
 msgid "IDS_PWGS007_150_50_K10_SKODA"
 msgstr "150 mm/50 Škoda K10（炮廓式）"
@@ -116430,6 +117506,9 @@ msgstr "254 mm HE 1929"
 msgid "IDS_PWPA068_254MM_45_AP_T8_9"
 msgstr "254 mm AP 1929"
 
+msgid "IDS_PWPA069_254MM_50_AP_HARDRADE"
+msgstr "254 mm AP 1939"
+
 msgid "IDS_PWPA8001_120_HE_1916"
 msgstr "Model 1916"
 
@@ -116533,6 +117612,9 @@ msgid "IDS_PWPT033_533MM_T7_T9"
 msgstr "533 mm Mk IX"
 
 msgid "IDS_PWPT034_533MM_T10"
+msgstr "533 mm Mk X"
+
+msgid "IDS_PWPT035_533MM_HARDRADE"
 msgstr "533 mm Mk X"
 
 msgid "IDS_PWPT8001_550_MARK_100_1915"
@@ -116650,7 +117732,7 @@ msgid "IDS_PWSC108"
 msgstr "伯爵"
 
 msgid "IDS_PWSC108_DESCR"
-msgstr "<p>20世纪30年代初中期，瑞典开展了一系列研究，以确定未来海军的发展方向。研究工作由时任海军代理总司令的海军中将夏尔·莱昂·德·尚领导。他认为，舰队的核心应由排水量不低于14000吨的装甲舰担任，但建造这类舰艇的成本对于瑞典的财政预算而言过于高昂。</p><p class=\"p_spacing\"> </p><p>基于此的进一步研究则于1941年催生了数种装备有210毫米或280毫米主炮的炮舰设计方案。然而，这些口径的火炮当时都只存在于图纸上——更为现实的方案是装备254毫米火炮，因为博福斯公司当时已经在为芬兰的岸防战列舰生产了这种火炮。</p>"
+msgstr "<p>20世纪30年代初中期，瑞典开展了一系列研究，以确定未来海军的发展方向。研究工作由时任海军代理总司令的海军中将夏尔·莱昂·德·尚领导。他认为，舰队的核心应由排水量不低于14000吨的装甲舰担任，但建造这类舰艇的成本对于瑞典的财政预算而言过于高昂。</p><p class=\"p_spacing\"> </p><p>基于此的进一步研究则于1941年催生了数种装备有210毫米或280毫米主炮的炮舰设计方案。然而，这些口径的火炮当时都只存在于图纸上——更为现实的方案是装备254毫米火炮，因为博福斯公司当时已经在为芬兰的岸防战列舰生产这种火炮。</p>"
 
 msgid "IDS_PWSC108_FULL"
 msgstr "伯爵"
@@ -116735,6 +117817,21 @@ msgstr "2"
 
 msgid "IDS_PWSC510_YEAR"
 msgstr "1953"
+
+msgid "IDS_PWSC520"
+msgstr "哈拉尔·哈德拉达"
+
+msgid "IDS_PWSC520_DESCR"
+msgstr "<p>20世纪30年代初中期，瑞典开展了一系列研究，以确定未来海军的发展方向。一个特别委员会得出结论，认为舰队的核心应由排水量不低于14000吨的装甲舰担任。然而，这类舰艇的建造成本对于瑞典的财政预算而言过于高昂。</p><p class=\"p_spacing\"> </p><p>基于此的进一步发展则催生了数种装备有210毫米或280毫米火炮的舰艇设计，但当时瑞典海军并没有这类武器。因此，这些设计的舰艇可以装备博福斯公司为芬兰岸防战列舰设计并制造的254毫米45倍径火炮。而该型火炮在进一步发展之后可能会将炮管长度提升到50倍径。</p>"
+
+msgid "IDS_PWSC520_FULL"
+msgstr "哈拉尔·哈德拉达"
+
+msgid "IDS_PWSC520_NUMBER"
+msgstr "0"
+
+msgid "IDS_PWSC520_YEAR"
+msgstr "1941"
 
 msgid "IDS_PWSC910"
 msgstr "HND托登肖尔"
@@ -117141,6 +118238,21 @@ msgstr "2"
 msgid "IDS_PWSD610_YEAR"
 msgstr "1956"
 
+msgid "IDS_PWSD620"
+msgstr "韦姆兰"
+
+msgid "IDS_PWSD620_DESCR"
+msgstr "<p>北方从不喜欢浮华，但凡事总有例外。诞生于阳光与水面交汇之地的<b>韦姆兰</b>，在波罗的海冰冷的浪涛之间闪耀着金色的光芒，将瑞典一贯内敛的力量化作真正的瑰宝。</p>"
+
+msgid "IDS_PWSD620_FULL"
+msgstr "韦姆兰"
+
+msgid "IDS_PWSD620_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSD620_YEAR"
+msgstr "1956"
+
 msgid "IDS_PWSD710"
 msgstr "朗纳尔"
 
@@ -117333,6 +118445,12 @@ msgstr "254 mm/45 Bofors（炮塔）"
 msgid "IDS_PWUA910_C10_ART_STOCK"
 msgstr "254 mm/45 Bofors（炮塔）"
 
+msgid "IDS_PWUA911_ART_VARMLAND"
+msgstr "120 mm/50 Model 1950（炮塔）"
+
+msgid "IDS_PWUA912_ART_HARDRADE"
+msgstr "254 mm/45 Bofors（炮塔）"
+
 msgid "IDS_PWUA941_DD11_ART_STOCK"
 msgstr "120 mm/50 Model 1950（炮塔）"
 
@@ -117464,6 +118582,12 @@ msgstr "推进系统：101500马力"
 
 msgid "IDS_PWUE910_C10_ENG_STOCK"
 msgstr "推进系统：101500马力"
+
+msgid "IDS_PWUE911_ENG_VARMLAND"
+msgstr "推进系统：58000马力"
+
+msgid "IDS_PWUE912_ENG_HARDRADE"
+msgstr "推进系统：100000马力"
 
 msgid "IDS_PWUE941_DD11_ENG_STOCK"
 msgstr "推进系统：63400马力"
@@ -117636,6 +118760,12 @@ msgstr "巨魔"
 msgid "IDS_PWUH910_C10_HULL_STOCK"
 msgstr "君王"
 
+msgid "IDS_PWUH911_HULL_VARMLAND"
+msgstr "韦姆兰"
+
+msgid "IDS_PWUH912_HULL_HARDRADE"
+msgstr "哈拉尔·哈德拉达"
+
 msgid "IDS_PWUH941_DD11_HULL_STOCK"
 msgstr "达拉纳"
 
@@ -117781,7 +118911,7 @@ msgid "IDS_PWUS903_DD10_SUO_TOP"
 msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PWUS904_DD10_SMALAND"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10"
 
 msgid "IDS_PWUS905_DD10_SUO_TST_LAPPLAND"
 msgstr "SUO Mk 10 Mod. 1"
@@ -117802,6 +118932,12 @@ msgid "IDS_PWUS910_C11_SUO_STOCK"
 msgstr "SUO Mk 11"
 
 msgid "IDS_PWUS911_C10_SUO_STOCK"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PWUS912_SUO_VARMLAND"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PWUS913_SUO_HARDRADE"
 msgstr "SUO Mk 10"
 
 msgid "IDS_PWUS941_DD11_SUO_STOCK"
@@ -117935,6 +119071,12 @@ msgstr "533 mm"
 
 msgid "IDS_PWUT908_C10_TORP_STOCK"
 msgstr "Torped M1947"
+
+msgid "IDS_PWUT909_TORP_VARMLAND"
+msgstr "Torped M1943 mod 1"
+
+msgid "IDS_PWUT910_TORP_HARDRADE"
+msgstr "Torped M1943"
 
 msgid "IDS_PWUT941_DD11_TORP_STOCK"
 msgstr "Torped M1947 mod.1"
@@ -126174,6 +127316,147 @@ msgstr "已保留星星"
 msgid "IDS_RANK_X"
 msgstr "军阶%(rank)s"
 
+msgid "IDS_RARE_01"
+msgstr "詹姆斯·康拉德"
+
+msgid "IDS_RARE_02"
+msgstr "埃尔梅琳达·荣格"
+
+msgid "IDS_RARE_03"
+msgstr "孙尚香"
+
+msgid "IDS_RARE_04"
+msgstr "安东·格兰特"
+
+msgid "IDS_RARE_05"
+msgstr "约翰内斯·梅克-莱恩"
+
+msgid "IDS_RARE_06"
+msgstr "米哈伊尔·奥尔洛夫"
+
+msgid "IDS_RARE_07"
+msgstr "不沉的山姆"
+
+msgid "IDS_RARE_08"
+msgstr "亚历山大·乌瓦罗夫"
+
+msgid "IDS_RARE_09"
+msgstr "亚历山大·普希金"
+
+msgid "IDS_RARE_10"
+msgstr "自由女神像"
+
+msgid "IDS_RARE_11"
+msgstr "玛蒂尔达·凯莉"
+
+msgid "IDS_RARE_12"
+msgstr "科学家猫"
+
+msgid "IDS_RARE_13"
+msgstr "仙女座"
+
+msgid "IDS_RARE_14"
+msgstr "CM-10A"
+
+msgid "IDS_RARE_15"
+msgstr "三角座"
+
+msgid "IDS_RARE_16"
+msgstr "Lesta"
+
+msgid "IDS_RARE_17"
+msgstr "伊娃·瓦伦缇娜"
+
+msgid "IDS_RARE_18"
+msgstr "多布罗日尔·德罗波丹诺维奇"
+
+msgid "IDS_RARE_19"
+msgstr "策展人"
+
+msgid "IDS_RARE_20"
+msgstr "阿斯特拉"
+
+msgid "IDS_RARE_21"
+msgstr "谢廖沙"
+
+msgid "IDS_RARE_22"
+msgstr "画虎"
+
+msgid "IDS_RARE_23"
+msgstr "不朽者科谢伊"
+
+msgid "IDS_RARE_24"
+msgstr "一群乌鸦"
+
+msgid "IDS_RARE_BEAST_BATTLE_STATS_DEFEAT_MAIN_TASK_COMPLETE"
+msgstr "犯罪集团仍在作威作福"
+
+msgid "IDS_RARE_BEAST_BATTLE_STATS_VICTORY_MAIN_TASK_COMPLETE"
+msgstr "犯罪集团已被一网打尽"
+
+msgid "IDS_RARE_BEAST_DESCRIPTION"
+msgstr "消灭4个犯罪团伙，肃清黑桃城港口。"
+
+msgid "IDS_RARE_BEAST_MAIN_BATTLE_TASK"
+msgstr "全歼犯人"
+
+msgid "IDS_RARE_BEAST_NE1"
+msgstr "严肃调查"
+
+msgid "IDS_RARE_BEAST_NE2"
+msgstr "严肃调查"
+
+msgid "IDS_RARE_BEAST_NE3"
+msgstr "严肃调查"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_DESCRIPTION"
+msgstr "若被摧毁，您可以使用重生点数选择另一艘战舰重返战场。未使用的点数将在战斗结束时清零。"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_0"
+msgstr "造成200点伤害"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_1"
+msgstr "烟雾掩护，吸引火力，发现敌人"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_2"
+msgstr "命中核心区，鱼雷命中"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_3"
+msgstr "协助摧毁"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_4"
+msgstr "摧毁敌舰"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_SCORE"
+msgstr "已获得点数"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_TITLE"
+msgstr "重生点数"
+
+msgid "IDS_RARE_BEAST_RULES_BULLET_1"
+msgstr "江山易改，本性难移。夜幕掩护之下，犯罪集团的舰队正悄无声息地涌入黑桃城港口，如同一张逐渐收紧的黑网。去迎头痛击这群入侵的杂碎。赶在那些极度危险的帮派头目再次遁入黑暗之前，干脆利落地解决掉他们，一个不留。最后，死死记住一点：在这座鬼城里，你不能相信任何人。哪怕是你身后的影子……"
+
+msgid "IDS_RARE_BEAST_RULES_HEADER"
+msgstr "简介"
+
+msgid "IDS_RARE_BEAST_TITLE"
+msgstr "严肃调查"
+
+msgid "IDS_RARE_BEAST_WAVE_1"
+msgstr "第一波"
+
+msgid "IDS_RARE_BEAST_WAVE_2"
+msgstr "第二波"
+
+msgid "IDS_RARE_BEAST_WAVE_3"
+msgstr "第三波"
+
+msgid "IDS_RARE_BEAST_WAVE_4"
+msgstr "最后一波"
+
+msgid "IDS_RARE_BEAST_WAVE_TASK"
+msgstr "全歼所有犯罪团伙成员"
+
 msgid "IDS_RARE_CREW_BOOK_CREW_SKILL_SELECT_INSTRUCTION"
 msgstr "选择技能"
 
@@ -126544,7 +127827,7 @@ msgid "IDS_REALM_NO_TRANSLATE_PT"
 msgstr "PT"
 
 msgid "IDS_REALM_NO_TRANSLATE_RU"
-msgstr "Lesta"
+msgstr "CIS"
 
 msgid "IDS_REALM_NO_TRANSLATE_SANDST"
 msgstr "SANDST"
@@ -126556,7 +127839,7 @@ msgid "IDS_REALM_NO_TRANSLATE_TST"
 msgstr "TST"
 
 msgid "IDS_REALM_RU"
-msgstr "Lesta"
+msgstr "独联体"
 
 msgid "IDS_REALM_TGS"
 msgstr "测试服 亚洲"
@@ -126686,6 +127969,9 @@ msgstr "信息已删除"
 
 msgid "IDS_REMOVE_ALL_BOTS"
 msgstr "删除所有电脑玩家"
+
+msgid "IDS_REMOVE_ALL_COMPARISON_LIST"
+msgstr "清除"
 
 msgid "IDS_REMOVE_FROM_CONTACTS"
 msgstr "删除好友"
@@ -127228,7 +128514,7 @@ msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "您在战斗中存在下列违规行为："
 
 msgid "IDS_RESURRECTION_POINTS_HINT"
-msgstr "战斗中获得的重生点数。"
+msgstr "可用于驾驶另一艘战舰重返战斗。通过保护友军和攻击敌舰来赚取点数。"
 
 msgid "IDS_RESURRECTION_POINTS_HINT_HEADER"
 msgstr "重生点数"
@@ -127483,7 +128769,7 @@ msgid "IDS_REWARD_EVENTUM_2_TITLE"
 msgstr "旅行者代币"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "美国代币"
+msgstr "赛博代币"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "古罗斯代币"
@@ -127495,7 +128781,7 @@ msgid "IDS_REWARD_EVENTUM_6_TITLE"
 msgstr "科谢伊金币"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
-msgstr "德国代币"
+msgstr "黑色星期五代币"
 
 msgid "IDS_REWARD_EVENTUM_8_TITLE"
 msgstr "绯红宝石"
@@ -129229,7 +130515,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL076_EPICSTD9_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "IX级加值战舰"
 
 msgid "IDS_REWARD_LOOTBOX_PCL076_EPICSTD9_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX级战舰"
+msgstr "IX级"
 
 msgid "IDS_REWARD_LOOTBOX_PCL076_EPICSTD9_TITLE"
 msgstr "IX级加值战舰"
@@ -129244,7 +130530,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "IX级加值战舰"
 
 msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX级战舰"
+msgstr "IX级"
 
 msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE"
 msgstr "IX级加值战舰·珍藏品"
@@ -131938,7 +133224,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL
 msgstr "IX级加值战舰"
 
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX级战舰"
+msgstr "IX级"
 
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_TITLE"
 msgstr "帝国套娃"
@@ -132637,7 +133923,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "尾张之鬼"
+msgstr "耀眼的IX级战舰"
 
 msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX级"
@@ -132743,6 +134029,12 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_TITLE_FULL"
 msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "特殊指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "指挥官"
 
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -133091,6 +134383,66 @@ msgstr "美国舰队"
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_TITLE_QUOTES"
 msgstr "“美国舰队”"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_TITLE_FULL"
+msgstr "黑色战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "VIII–X级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VIII–X级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "VI–VIII级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VI-VIII级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_TITLE"
+msgstr "黑色马达"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_TITLE_QUOTES"
+msgstr "“黑色马达”"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "耀眼的IX级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_TITLE_FULL"
+msgstr "黑色战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "VIII–X级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VIII–X级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "VI–VIII级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VI-VIII级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_TITLE"
+msgstr "白色马达"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_TITLE_QUOTES"
+msgstr "“白色马达”"
 
 msgid "IDS_REWARD_MAP_UNLOCK_DESCRIPTION"
 msgstr "解锁战斗地图“战末湾岸”。"
@@ -134338,7 +135690,7 @@ msgid "IDS_RTS_CAMERA_SET_TO_SHIP_PREF_TOOLTIP_DESCRIPTION"
 msgstr "重置镜头位置并返回航空母舰视角。"
 
 msgid "IDS_RU"
-msgstr "Lesta"
+msgstr "独联体"
 
 msgid "IDS_RUALD"
 msgstr "强者鲁阿尔德"
@@ -135120,6 +136472,15 @@ msgstr "遭遇战 — 锦标赛"
 msgid "IDS_SCENARIO_RANK_STANDART"
 msgstr "标准战 — 锦标赛"
 
+msgid "IDS_SCENARIO_RARE_BEAST_NE1"
+msgstr "严肃调查"
+
+msgid "IDS_SCENARIO_RARE_BEAST_NE2"
+msgstr "严肃调查"
+
+msgid "IDS_SCENARIO_RARE_BEAST_NE3"
+msgstr "严肃调查"
+
 msgid "IDS_SCENARIO_SINGLE_BASE"
 msgstr "遭遇战"
 
@@ -135544,6 +136905,9 @@ msgstr "繁星闪耀"
 
 msgid "IDS_SECOND_PCZA027_TFTM_108_NAME"
 msgstr "霸天虎指挥官"
+
+msgid "IDS_SECOND_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "夜鸦"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_2_NAME"
 msgstr "进步先驱"
@@ -137870,6 +139234,12 @@ msgstr "机动性"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM302_SUBEVENT26_GTBUFFS"
 msgstr "鱼雷发射管回转速度"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM316_RAREBEAST_RESP_BUFF"
+msgstr "额外强化"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM326_RAREBEAST_8LVL_BUFF"
+msgstr "属性强化"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM403_2026WT_VODYANOI_SPEEDDEBUFF"
 msgstr "严寒刺骨"
 
@@ -138298,6 +139668,12 @@ msgstr "鱼雷效率提升"
 
 msgid "IDS_SHIP_MODIFIER_PXOM302_SUBEVENT26_GTBUFFS_APPLIED"
 msgstr "鱼雷发射管回转速度"
+
+msgid "IDS_SHIP_MODIFIER_PXOM316_RAREBEAST_RESP_BUFF_APPLIED"
+msgstr "额外强化"
+
+msgid "IDS_SHIP_MODIFIER_PXOM326_RAREBEAST_8LVL_BUFF_APPLIED"
+msgstr "属性强化"
 
 msgid "IDS_SHIP_MODIFIER_PXY534_PXOM233_SLOWDOWN_WT_APPLIED"
 msgstr "已装载致缓炮弹"
@@ -138844,6 +140220,9 @@ msgstr "主炮回转速度"
 msgid "IDS_SHIP_PARAM_ARTILLERY_SHOOT_DIST"
 msgstr "穿甲/高爆射程"
 
+msgid "IDS_SHIP_PARAM_ARTILLERY_SIGMA"
+msgstr "弹着群系数（Sigma）"
+
 msgid "IDS_SHIP_PARAM_ARTILLERY_TIME_RELOAD"
 msgstr "主炮装填时间"
 
@@ -139351,6 +140730,9 @@ msgstr "所有战舰系统运行正常"
 msgid "IDS_SHIP_PARAM_NUM_PLANES_IN_SQUADRON"
 msgstr "每支中队飞机数"
 
+msgid "IDS_SHIP_PARAM_OVERMATCH_ARMOR"
+msgstr "击穿装甲且不会跳弹"
+
 msgid "IDS_SHIP_PARAM_PINGER"
 msgstr "声呐"
 
@@ -139398,6 +140780,15 @@ msgstr "防雷鼓包提供的伤害减免率"
 
 msgid "IDS_SHIP_PARAM_PTZFLOODPROB"
 msgstr "防雷鼓包对进水风险的降低"
+
+msgid "IDS_SHIP_PARAM_REGENERATED_HP_PART_CITADEL"
+msgstr "核心区受到伤害时可恢复的生命值"
+
+msgid "IDS_SHIP_PARAM_REGENERATED_HP_PART_GENERAL"
+msgstr "战舰部位受到伤害时可恢复的生命值"
+
+msgid "IDS_SHIP_PARAM_RICOCHET_ANGLES"
+msgstr "跳弹概率 / 必然跳弹"
 
 msgid "IDS_SHIP_PARAM_ROTATION_SPEED"
 msgstr "回转速度"
@@ -139771,8 +141162,11 @@ msgstr "鱼雷发射管"
 msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_BOW"
 msgstr "鱼雷发射管：艏部组"
 
-msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE"
-msgstr "鱼雷发射管：舯部组"
+msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE_LEFT"
+msgstr "左舷鱼雷发射管组"
+
+msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE_RIGHT"
+msgstr "右舷鱼雷发射管组"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_STERN"
 msgstr "鱼雷发射管：艉部组"
@@ -139803,6 +141197,9 @@ msgstr "鱼雷"
 
 msgid "IDS_SHIP_PARAM_TORPEDY_DEAD"
 msgstr "鱼雷发射管已被摧毁"
+
+msgid "IDS_SHIP_PARAM_TORPEDY_GROUP"
+msgstr "鱼雷组"
 
 msgid "IDS_SHIP_PARAM_TURNINGRADIUS"
 msgstr "转弯半径"
@@ -139889,7 +141286,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_INVULNERABLE"
 msgstr "在最大深度"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_PERISCOPE"
-msgstr "在潜望深度"
+msgstr "对潜望深度下潜艇的被侦察范围"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
 msgstr "在工作深度"
@@ -141353,6 +142750,9 @@ msgstr "弹跳轰炸机"
 msgid "IDS_SKIPBOMBER_AIRSUP"
 msgstr "空袭：弹跳轰炸机"
 
+msgid "IDS_SKIPBOMBER_ALT"
+msgstr "战术弹跳轰炸机"
+
 msgid "IDS_SKIPBOMBS"
 msgstr "弹跳炸弹"
 
@@ -141571,6 +142971,9 @@ msgstr "已获得的奖励"
 
 msgid "IDS_SNOWFLAKES_UNINSTALL_ALL"
 msgstr "取消选中全部"
+
+msgid "IDS_SNOWMAIDEN"
+msgstr "雪女"
 
 msgid "IDS_SOLD_FOR"
 msgstr "出售："
@@ -141862,6 +143265,9 @@ msgstr "亚宗·图马诺夫"
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_CURATOR"
 msgstr "策展人"
 
+msgid "IDS_SOUND_MOD_CROWS"
+msgstr "一群乌鸦"
+
 msgid "IDS_SOUND_MOD_DASHA_SINGLE"
 msgstr "达莎·佩洛娃"
 
@@ -142013,7 +143419,7 @@ msgid "IDS_SOUND_MOD_KINDZADZA_VOVA_SKRIPACH"
 msgstr "沃瓦叔叔&小提琴手"
 
 msgid "IDS_SOUND_MOD_KOSHEJ"
-msgstr "不朽的科谢伊"
+msgstr "不朽者科谢伊"
 
 msgid "IDS_SOUND_MOD_LENFILM_2026_MORIARTY"
 msgstr "莫里亚蒂教授"
@@ -142055,7 +143461,7 @@ msgid "IDS_SOUND_MOD_LUNAR_THANKSGIVING_DAY_KAGUYA"
 msgstr "輝夜姬"
 
 msgid "IDS_SOUND_MOD_MATILDA_KELLY"
-msgstr "Matilda Kelly"
+msgstr "玛蒂尔达·凯莉"
 
 msgid "IDS_SOUND_MOD_MERMAID_LESTA"
 msgstr "Lesta"
@@ -142181,10 +143587,10 @@ msgid "IDS_SOUND_MOD_STALCRAFT_MULLER"
 msgstr "穆勒"
 
 msgid "IDS_SOUND_MOD_STAR_EMISSARIES_EDINBURGH_SPACE"
-msgstr "Triangulum"
+msgstr "三角座"
 
 msgid "IDS_SOUND_MOD_STAR_EMISSARIES_KITAKAZE_SPACE"
-msgstr "Andromeda"
+msgstr "仙女座"
 
 msgid "IDS_SOUND_MOD_SUN_SHANGXIANG"
 msgstr "孙尚香"
@@ -142730,6 +144136,12 @@ msgstr "布扬岛"
 msgid "IDS_SPACES/E17_2026_LUKOMORYE_DESCR"
 msgstr "布扬岛"
 
+msgid "IDS_SPACES/E18_RAREBEAST_2026"
+msgstr "非法海域"
+
+msgid "IDS_SPACES/E18_RAREBEAST_2026_DESCR"
+msgstr "非法海域"
+
 msgid "IDS_SPACES/I01_TUTORIAL"
 msgstr "初次遭遇"
 
@@ -142826,45 +144238,6 @@ msgstr "战场上已无超级战列舰。集中火力，全力摧毁敌舰！"
 msgid "IDS_SPACE_APRIL_BATTLE_TASK"
 msgstr "召唤超级战列舰贝奥武夫，摧毁敌方基地！"
 
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_DESCRIPTION"
-msgstr "若被摧毁，您可以选择重生点与战舰重返战场。请注意，部分战舰需消耗战斗中获得的重生点数才能解锁。未使用的点数将在战斗结束时清零。"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_0"
-msgstr "主炮炮弹过度击穿"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_1"
-msgstr "副炮炮弹命中"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_2"
-msgstr "击伤护盾"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_3"
-msgstr "自导导弹命中"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_4"
-msgstr "主炮炮弹击穿"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_5"
-msgstr "造成5000点伤害"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_6"
-msgstr "烟幕掩护，吸引火力，侦察敌舰，拦截导弹"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_7"
-msgstr "制导导弹命中"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_8"
-msgstr "命中核心区"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_9"
-msgstr "摧毁敌舰"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_SCORE"
-msgstr "已获得点数"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_TITLE"
-msgstr "重生点数"
-
 msgid "IDS_SPACE_BOSS_TEAM0"
 msgstr "攻坚舰"
 
@@ -142885,6 +144258,45 @@ msgstr "摧毁敌舰，召唤我方超级战列舰。只有她才能摧毁敌方
 
 msgid "IDS_SPACE_EVENT_DESCRIPTION"
 msgstr "召唤超级战列舰贝奥武夫，摧毁敌方基地。"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_DESCRIPTION"
+msgstr "若被摧毁，您可以选择重生点与战舰重返战场。请注意，部分战舰需消耗战斗中获得的重生点数才能解锁。未使用的点数将在战斗结束时清零。"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_0"
+msgstr "主炮炮弹过度击穿"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_1"
+msgstr "副炮炮弹命中"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_2"
+msgstr "击伤护盾"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_3"
+msgstr "自导导弹命中"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_4"
+msgstr "主炮炮弹击穿"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_5"
+msgstr "造成5000点伤害"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_6"
+msgstr "烟幕掩护，吸引火力，侦察敌舰，拦截导弹"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_7"
+msgstr "制导导弹命中"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_8"
+msgstr "命中核心区"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_9"
+msgstr "摧毁敌舰"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_SCORE"
+msgstr "已获得点数"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_TITLE"
+msgstr "重生点数"
 
 msgid "IDS_SPACE_EVENT_RULES_BULLET_1"
 msgstr "在遥远的未来，地球表面发现了一道连接不同世界的裂隙，这事关整个文明的存亡。为了调查并消除这一异常现象，由地球上最优秀指挥官组成的特殊部队应运而生。"
@@ -143320,6 +144732,15 @@ msgstr "进行1场战斗"
 
 msgid "IDS_SSE_CONDITIONS_DEFAULT_HEADER"
 msgstr "加入战斗"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS"
+msgstr "摧毁或协助摧毁%(count)s艘%(level)s%(nation)s%(shipClass)s"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SPECIFIC_SHIPS"
+msgstr "摧毁或协助摧毁%(count)s艘%(shipIds)s%(shipClass)s"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SPECIFIC_SHIPS_SHORT"
+msgstr "摧毁或协助摧毁%(shipIds)s"
 
 msgid "IDS_SSE_CONDITIONS_DESTROY_SHIPS"
 msgstr "摧毁%(count)s艘%(level)s%(nation)s%(shipClass)s"
@@ -144951,6 +146372,27 @@ msgstr "权限等级已解锁"
 msgid "IDS_SYS_MSG_ADMIN_TEXT_MESSAGE"
 msgstr "管理员信息"
 
+msgid "IDS_SYS_MSG_ALBUM_EVENT_ALBUM_REWARDED"
+msgstr "案件已结"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_BATTLE_REWARDS"
+msgstr "已获得奖励"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_BOUGHT_CARD"
+msgstr "犯人已被抓获"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_DUPLICATES_TITLE"
+msgstr "证据"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_RECEIVED_ALBUM"
+msgstr "案件已开启"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_RECEIVED_CARD"
+msgstr "犯人已被抓获"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_SUBALBUM_REWARDED"
+msgstr "犯罪组织已被一网打尽"
+
 msgid "IDS_SYS_MSG_ALBUM_REWARDED"
 msgstr "收藏已完成"
 
@@ -145129,7 +146571,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
 msgstr "已购买旅行者代币"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "已购买美国代币"
+msgstr "已购买赛博代币"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr "已购买古罗斯代币"
@@ -145141,7 +146583,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
 msgstr "已购买科谢伊金币"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
-msgstr "已购买德国代币"
+msgstr "已购买黑色星期五代币"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_8"
 msgstr "已购买绯红宝石"
@@ -145693,7 +147135,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
 msgstr "已获得旅行者代币"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "已获得美国代币"
+msgstr "已获得赛博代币"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "已获得古罗斯代币"
@@ -145705,7 +147147,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
 msgstr "已获得科谢伊金币"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
-msgstr "已获得德国代币"
+msgstr "已获得黑色星期五代币"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_8"
 msgstr "已获得绯红宝石"
@@ -146184,7 +147626,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
 msgstr "旅行者代币已扣除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "美国代币已扣除"
+msgstr "赛博代币已扣除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "古罗斯代币已扣除"
@@ -146196,7 +147638,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
 msgstr "科谢伊金币已扣除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
-msgstr "德国代币已扣除"
+msgstr "黑色星期五代币已扣除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_8"
 msgstr "绯红宝石已扣除"
@@ -146302,6 +147744,9 @@ msgstr "钢铁已扣除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_UC"
 msgstr "配件已扣除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_UNLOCK"
+msgstr "该机会已被扣除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_ACTIVATION_KEY"
 msgstr "激活密钥已扣除"
@@ -147435,6 +148880,9 @@ msgstr "新时代的转折"
 
 msgid "IDS_THIRD_PCZA027_TFTM_108_NAME"
 msgstr "汽车人：游戏中的历史"
+
+msgid "IDS_THIRD_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "白鲨"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
 msgstr "科学无国界"
@@ -148592,9 +150040,6 @@ msgstr "所有防空炮组作用区域内的每秒平均伤害"
 msgid "IDS_TOOLTIP_AA_BUBBLE_DAMAGE_IN_A_SECOND"
 msgstr "防空炮弹爆炸每秒伤害"
 
-msgid "IDS_TOOLTIP_AA_GUN"
-msgstr "防空武器"
-
 msgid "IDS_TOOLTIP_AA_MAX_DIST"
 msgstr "防空炮组最大射程"
 
@@ -148609,6 +150054,9 @@ msgstr "权限等级不足"
 
 msgid "IDS_TOOLTIP_ACCOUNT_TYPE"
 msgstr "您的账号"
+
+msgid "IDS_TOOLTIP_ADD_FOR_COMPARISON"
+msgstr "添加战舰以进行对比"
 
 msgid "IDS_TOOLTIP_AIR_DEFENSE"
 msgstr "反映战舰防空能力的参数"
@@ -148895,6 +150343,9 @@ msgstr "被侦察范围"
 msgid "IDS_TOOLTIP_DRAFT"
 msgstr "吃水深的战舰容易发生搁浅。"
 
+msgid "IDS_TOOLTIP_DUPLICATE_COMPARISON_SHIP"
+msgstr "复制战舰"
+
 msgid "IDS_TOOLTIP_DURABILITY"
 msgstr "反映此战舰对人造不利环境的承受能力的参数"
 
@@ -148973,6 +150424,9 @@ msgstr "飞机类型与数量"
 msgid "IDS_TOOLTIP_MAIN_GUN"
 msgstr "此战舰的主炮组"
 
+msgid "IDS_TOOLTIP_MAKE_SHIP_PRIMARY"
+msgstr "将其他战舰与此战舰进行对比"
+
 msgid "IDS_TOOLTIP_MAXSPEED"
 msgstr "战舰前进时的最高航速"
 
@@ -149008,6 +150462,9 @@ msgstr "想要研发战舰或配件，您可以使用全局经验与前置战舰
 
 msgid "IDS_TOOLTIP_NUM_PLANES_IN_SQUADRON"
 msgstr "每支中队飞机数"
+
+msgid "IDS_TOOLTIP_OPEN_COMPARISON_PANEL"
+msgstr "打开战舰列表以进行对比"
 
 msgid "IDS_TOOLTIP_OUR_PARTNERS_LOGIN"
 msgstr "显示法律信息"
@@ -149078,6 +150535,9 @@ msgstr "排位：白银联赛，第%(_rank)s名"
 msgid "IDS_TOOLTIP_RANKED_RANK_X_LEAGUE_3"
 msgstr "排位：青铜联赛，第%(_rank)s名"
 
+msgid "IDS_TOOLTIP_REMOVE_FROM_COMPARISON"
+msgstr "从对比列表中移除"
+
 msgid "IDS_TOOLTIP_RENT_SHIP"
 msgstr "这艘战舰是租用战舰，将在租用期结束后被收回："
 
@@ -149119,6 +150579,9 @@ msgstr "已添加到分组"
 
 msgid "IDS_TOOLTIP_SHIP_IN_GROUP_DESCRIPTION"
 msgstr "主力战舰将于卷轴中优先显示"
+
+msgid "IDS_TOOLTIP_SHIP_LIMIT"
+msgstr "用于对比的战舰数量已达上限"
 
 msgid "IDS_TOOLTIP_SHIP_MODULES_DESC"
 msgstr "强化战舰的性能，推进科技树中下一艘战舰的研发进度。用获得的战舰经验或全局经验研发配件。用银币购买研发完毕的配件并安装在战舰上。"
@@ -149259,10 +150722,10 @@ msgid "IDS_TOOLTIP_VISIBILITY_DIST_BY_SHIP_SUBMARINE"
 msgstr "此潜艇在水面上时可能被敌舰或潜艇发现的范围。"
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_FROM_DEPTH"
-msgstr "战舰可能被在水下行动的敌方潜艇发现的范围。"
+msgstr "战舰可被敌方潜艇从潜望镜深度发现的距离。"
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_FROM_DEPTH_SUBMARINE"
-msgstr "此潜艇可能被水下行动的敌方潜艇发现的范围。"
+msgstr "此潜艇可能被敌方潜艇从潜望深度发现的范围。"
 
 msgid "IDS_TOOLTIP_WAIT_FOR_STARTTIME"
 msgstr "此目标将于%(timeDate)s可用"
@@ -149395,6 +150858,9 @@ msgstr "鱼雷轰炸机"
 
 msgid "IDS_TORPEDOBOMBER_AIRSUP"
 msgstr "空袭：鱼雷轰炸机"
+
+msgid "IDS_TORPEDOBOMBER_ALT"
+msgstr "战术鱼雷轰炸机"
 
 msgid "IDS_TORPEDOES"
 msgstr "鱼雷"
@@ -150675,8 +152141,14 @@ msgstr "战舰消耗品已更换"
 msgid "IDS_UNIFIED_BATTLE_OPTION_HAS_BATTLE_MODIFIERS"
 msgstr "战舰性能已发生改变"
 
+msgid "IDS_UNINSTALL_ALL_CREW_SKILLS"
+msgstr "全部移除"
+
 msgid "IDS_UNINSTALL_ALL_ECONOMIC_BOOSTS_HINT"
 msgstr "拆卸此战舰上安装的所有加成"
+
+msgid "IDS_UNINSTALL_ALL_MODERNIZATIONS"
+msgstr "全部拆卸"
 
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
 msgstr "全部拆卸"
@@ -150774,14 +152246,17 @@ msgstr "与其他玩家一起对抗电脑玩家，并完成剧情任务。"
 msgid "IDS_UNLOCKS_2827"
 msgstr "加入军团——在团队中继续作战！"
 
+msgid "IDS_UNLOCKS_292101"
+msgstr "与其他玩家一起对抗电脑玩家。"
+
 msgid "IDS_UNLOCKS_3"
 msgstr "与真人玩家对战。"
 
 msgid "IDS_UNLOCKS_301600"
 msgstr "与其他玩家一决高下，在联赛中晋级并获得宝贵奖励！"
 
-msgid "IDS_UNLOCKS_31292101"
-msgstr "与其他玩家合作对战电脑玩家。"
+msgid "IDS_UNLOCKS_3109"
+msgstr "完成作战任务，领取丰厚奖励。"
 
 msgid "IDS_UNLOCKS_5"
 msgstr "现在研发战舰变得更加简单了。使用全局经验点数可以研发任意战舰或配件。"
@@ -150791,9 +152266,6 @@ msgstr "每天最多可赚取3个每日补给箱。"
 
 msgid "IDS_UNLOCKS_7"
 msgstr "在兵工厂购买新物品。"
-
-msgid "IDS_UNLOCKS_9"
-msgstr "完成作战任务获得珍贵的奖励。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_11"
 msgstr "<p>通过经济加成，您可以在每次战斗中获得更多的银币、战舰经验、指挥官经验和全局经验。</p><p class=\"p_spacing\"> </p><p>安装在战舰上的消耗型加成会在每次战斗中扣除。永久加成包只需安装一次，无需补充。</p><p class=\"p_spacing\"> </p><p>要管理战舰上的经济加成，请依次点击<b>战舰</b>、<b>经济加成</b>标签。</p>"
@@ -150828,14 +152300,17 @@ msgstr "<p>在“行动”中，您的团队必须在与电脑玩家战斗的同
 msgid "IDS_UNLOCKS_DESCRIPTION_2827"
 msgstr "<p>加入军团，以参加军团战。</p><p class=\"p_spacing\"> </p><p>军团战仅在军团战赛季期间开放。</p><p class=\"p_spacing\"> </p><p>在军团战中取得胜利，获取评级点数以晋升更高级的联赛。</p><p class=\"p_spacing\"> </p><p>获取石油并扩建海军基地中的建筑，可提供永久经济加成。</p><p class=\"p_spacing\"> </p><p>创建训练房间参与战斗训练，可磨练团队配合能力。</p><p class=\"p_spacing\"> </p><p>军团战和战斗训练可通过战斗模式选择界面进入。</p>"
 
+msgid "IDS_UNLOCKS_DESCRIPTION_292101"
+msgstr "<p>与其他玩家一起对抗电脑玩家。</p><p class=\"p_spacing\"> </p><p>战斗模式的选择按钮位于“进入战斗”按钮旁边。</p>"
+
 msgid "IDS_UNLOCKS_DESCRIPTION_3"
 msgstr "<p>与真人玩家对战。匹配系统将随机创建团队。</p><p class=\"p_spacing\"> </p><p>战斗模式选项位于“加入战斗”按钮的旁边。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_301600"
 msgstr "<p>以下战斗模式仅在对应赛季期间开放。每个赛季都是一场竞技，每场战斗的结果都会影响您的排名进度。达到的排名越高，奖励越丰厚！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">排位战</p><p class=\"p_spacing\"> </p><p>在排位战中，您需要与其他玩家争夺排名。想要提升排名，您需要在一定数量的战斗中取得胜利，而失败则可能导致降级！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">评级战</p><p class=\"p_spacing\"> </p><p>评级战中，敌我双方会根据战斗效率评级匹配。战斗结束后，您的评级将根据战斗结果与获得的基础经验值进行调整。</p>"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_31292101"
-msgstr "<p>与其他玩家合作对战电脑玩家。</p><p class=\"p_spacing\"> </p><p>战斗模式选项位于“加入战斗”按钮的旁边。</p>"
+msgid "IDS_UNLOCKS_DESCRIPTION_3109"
+msgstr "<p>完成作战任务，获取珍贵奖励。</p><p class=\"p_spacing\"> </p><p>要查看可用任务列表，请点击“活动”选项卡，然后点击“作战任务”标签。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5"
 msgstr "<p>若您没有足够的战舰经验去研发战舰或配件，可以使用全局经验。</p><p class=\"p_spacing\"> </p><p>每场战斗您会额外获得相当于每场经验10%的全局经验（应用加成前）。</p><p class=\"p_spacing\"> </p><p>您可以将精英战舰和加值战舰获得的经验转换为全局经验。</p><p class=\"p_spacing\"> </p><p>全局经验显示在屏幕右上角。</p>"
@@ -150845,9 +152320,6 @@ msgstr "<p>通过赚取经验，您每天可以获得3个补给箱。当您赚�
 
 msgid "IDS_UNLOCKS_DESCRIPTION_7"
 msgstr "<p>在兵工厂中，您可以用获得的资源兑换各种珍贵物品并参加主题活动。</p><p class=\"p_spacing\"> </p><p>您可以获取战舰、港口船位、补给箱、经济加成、升级品、信号旗、涂装和补丁，还可以征募稀有和传奇指挥官。</p><p class=\"p_spacing\"> </p><p>在兵工厂中，您也可以购买金币、加值账号天数，以及更多物品。</p><p class=\"p_spacing\"> </p><p>点击<b>兵工厂</b>标签即可进入兵工厂。</p>"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_9"
-msgstr "<p>完成作战任务，赢取丰厚奖励。</p><p class=\"p_spacing\"> </p><p>要查看作战任务，请依次点击<b>活动</b>、<b>作战任务</b>标签。</p>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_11"
 msgstr "<body>您现在可以安装<br/><h3>经济加成</h3></body>"
@@ -150882,14 +152354,17 @@ msgstr "<body>您现在可以加入<br/><h3>行动</h3></body>"
 msgid "IDS_UNLOCKS_LEVEL_UP_2827"
 msgstr "<body>您现在可以加入<br/><h3>军团战</h3></body>"
 
+msgid "IDS_UNLOCKS_LEVEL_UP_292101"
+msgstr "您现在可以加入<br/><h3>联合作战</h3>"
+
 msgid "IDS_UNLOCKS_LEVEL_UP_3"
 msgstr "<body>您现在可以加入<br/><h3>随机战</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_301600"
 msgstr "<body>您现在可以加入<br/><h3>排位战和评级战</h3></body>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
-msgstr "您现在可以加入<br/><h3>联合作战</h3>"
+msgid "IDS_UNLOCKS_LEVEL_UP_3109"
+msgstr "<body>您现在可以完成<br/><h3>作战任务</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr "<body>您现在可以使用<br/><h3>全局经验</h3></body>"
@@ -150899,9 +152374,6 @@ msgstr "<body>您现在可以开启<br/><h3>补给箱</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_7"
 msgstr "<body>您现在可以进入<br/><h3>兵工厂</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_9"
-msgstr "<body>您现在可以完成<br/><h3>作战任务</h3></body>"
 
 msgid "IDS_UNLOCKS_TITLE_11"
 msgstr "经济加成"
@@ -150936,14 +152408,17 @@ msgstr "行动"
 msgid "IDS_UNLOCKS_TITLE_2827"
 msgstr "军团战"
 
+msgid "IDS_UNLOCKS_TITLE_292101"
+msgstr "联合作战"
+
 msgid "IDS_UNLOCKS_TITLE_3"
 msgstr "随机战"
 
 msgid "IDS_UNLOCKS_TITLE_301600"
 msgstr "排位战和评级战"
 
-msgid "IDS_UNLOCKS_TITLE_31292101"
-msgstr "联合作战"
+msgid "IDS_UNLOCKS_TITLE_3109"
+msgstr "作战任务"
 
 msgid "IDS_UNLOCKS_TITLE_5"
 msgstr "全局经验"
@@ -150953,9 +152428,6 @@ msgstr "补给箱"
 
 msgid "IDS_UNLOCKS_TITLE_7"
 msgstr "兵工厂"
-
-msgid "IDS_UNLOCKS_TITLE_9"
-msgstr "作战任务"
 
 msgid "IDS_UNLOCK_ADDITIONAL_SKILL_SET_BUTTON_LABEL"
 msgstr "解锁组合"
@@ -150986,6 +152458,9 @@ msgstr "拆卸升级品"
 
 msgid "IDS_UNMOUNT_MODERNIZATION_FROM_SELECTED"
 msgstr "拆卸所选战舰的升级品"
+
+msgid "IDS_UNMOUNT_MODERNIZATION_MOUSE_INSTRUCTION"
+msgstr "拆卸升级品"
 
 msgid "IDS_UNMUTE"
 msgstr "开启信息"
@@ -151025,6 +152500,12 @@ msgstr "驱逐舰强化版技能："
 
 msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_SUBMARINE"
 msgstr "潜艇强化版技能："
+
+msgid "IDS_UPGRADE_FROM_COMPARISON"
+msgstr "使用配置"
+
+msgid "IDS_UPGRADE_FROM_COMPARISON_BUTTON_TEXT"
+msgstr "配置战舰"
 
 msgid "IDS_US"
 msgstr "北美"
@@ -151850,6 +153331,9 @@ msgstr "窗口化"
 msgid "IDS_WINDOW_HEADER_ATTENTION"
 msgstr "警告"
 
+msgid "IDS_WINDOW_HEADER_COMPARISON_INCOMPARABLE_CONFIRMATION"
+msgstr "无与伦比的战舰"
+
 msgid "IDS_WINDOW_HEADER_CONFIRMATION"
 msgstr "确认"
 
@@ -152543,7 +154027,7 @@ msgid "IDS_WT_PROGRESS_CHANGE_TASK"
 msgstr "更换此任务"
 
 msgid "IDS_WT_PROGRESS_CHANGE_TASK_COST"
-msgstr "更换战斗任务？确认花费"
+msgstr "更换作战任务？确认花费"
 
 msgid "IDS_WT_PROGRESS_CHANGE_TASK_WARNING"
 msgstr "完成任务获得的奖励也将被替换"
@@ -152940,6 +154424,10 @@ msgid "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
 msgid_plural "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
 msgstr[0] "击落敌机数"
 
+msgid "IDS_COLLECTION_ALBUM_EVENT_EXCHANGE_FOR_DUPLICATES_QUESTION"
+msgid_plural "IDS_COLLECTION_ALBUM_EVENT_EXCHANGE_FOR_DUPLICATES_QUESTION"
+msgstr[0] "根据%(amount)s条证据抓捕？"
+
 msgid "IDS_COLLECTION_EXCHANGE_FOR_DUPLICATES_QUESTION"
 msgid_plural "IDS_COLLECTION_EXCHANGE_FOR_DUPLICATES_QUESTION"
 msgstr[0] "用%(amount)s个重复元素兑换？"
@@ -153047,6 +154535,10 @@ msgstr[0] "鱼雷轰炸机"
 msgid "IDS_PL_AIR_FLIGHT"
 msgid_plural "IDS_PL_AIR_FLIGHT"
 msgstr[0] "序列"
+
+msgid "IDS_PL_ALBUM_EVENT_PROGRESS_ITEM"
+msgid_plural "IDS_PL_ALBUM_EVENT_PROGRESS_ITEM"
+msgstr[0] "罪犯"
 
 msgid "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
 msgid_plural "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
@@ -153439,6 +154931,10 @@ msgstr[0] "完成试炼中的%(count)s个阶段"
 msgid "IDS_PL_SSE_CONDITIONS_COMPLETE_TASK"
 msgid_plural "IDS_PL_SSE_CONDITIONS_COMPLETE_TASK"
 msgstr[0] "完成%(typeName)s类型中的%(count)s个任务"
+
+msgid "IDS_PL_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS_SHORT"
+msgid_plural "IDS_PL_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS_SHORT"
+msgstr[0] "摧毁或协助摧毁战舰"
 
 msgid "IDS_PL_SSE_CONDITIONS_DESTROY_SHIPS_SHORT"
 msgid_plural "IDS_PL_SSE_CONDITIONS_DESTROY_SHIPS_SHORT"
