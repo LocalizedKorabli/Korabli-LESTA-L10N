@@ -9,8 +9,10 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
-    - uses: keninkujovic/gitlab-sync@2.0.0
+    - uses: kujov/gitlab-sync@ec05efff6dfa33ffb5398d31caf3a256e5a9ea34 # 2.0.0
       with:
         gitlab_url: ${{secrets.GITLAB_URL}}
         username: ${{secrets.GITLAB_USERNAME}}
